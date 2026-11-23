@@ -1,4 +1,4 @@
-from typing import List, TypedDict, Any
+from typing import TypedDict, List, Dict, Any
 
 from app.schemas.research import (
     ResearchQuestion,
