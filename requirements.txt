@@ -46,3 +46,4 @@ uuid_utils==0.19.0
 websockets==17.4
 xxhash==4.1.0
 zstandard==0.25.0
+grandalf==0.8
