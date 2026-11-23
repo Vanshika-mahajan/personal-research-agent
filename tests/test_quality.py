@@ -1,49 +1,78 @@
-from app.graph.quality import quality_check, should_continue
+from app.graph.quality import check_evidence_quality
+from app.schemas.evidence import Evidence
 
 
-def test_quality_check_requests_more_research():
-    state = {
-        "sources": [],
-        "evidence": [],
-        "iteration": 1,
-        "max_iterations": 3,
-    }
-
-    result = quality_check(state)
-
-    assert result["quality_decision"] == "research"
-    assert should_continue(
-        {**state, **result}
-    ) == "research"
+def make_evidence(
+    claim: str,
+    confidence: float = 0.8,
+) -> Evidence:
+    return Evidence.model_construct(
+        claim=claim,
+        source_title="Test Source",
+        source_url="https://example.com",
+        source_type="web",
+        confidence=confidence,
+    )
 
 
-def test_quality_check_accepts_sufficient_evidence():
-    state = {
-        "sources": [1, 2, 3, 4, 5],
-        "evidence": [1, 2, 3],
-        "iteration": 1,
-        "max_iterations": 3,
-    }
+def test_quality_fails_when_evidence_is_empty():
 
-    result = quality_check(state)
+    result = check_evidence_quality([])
 
-    assert result["quality_decision"] == "insights"
-    assert should_continue(
-        {**state, **result}
-    ) == "insights"
+    assert result["sufficient"] is False
+    assert result["score"] == 0.0
+    assert len(result["missing_information"]) > 0
 
 
-def test_quality_check_stops_at_max_iterations():
-    state = {
-        "sources": [],
-        "evidence": [],
-        "iteration": 3,
-        "max_iterations": 3,
-    }
+def test_quality_fails_when_evidence_is_insufficient():
 
-    result = quality_check(state)
+    evidence = [
+        make_evidence("Guests liked the location.")
+    ]
 
-    assert result["quality_decision"] == "insights"
-    assert should_continue(
-        {**state, **result}
-    ) == "insights"
+    result = check_evidence_quality(
+        evidence,
+        min_evidence=3,
+    )
+
+    assert result["sufficient"] is False
+    assert result["score"] < 1.0
+
+
+def test_quality_passes_with_enough_evidence():
+
+    evidence = [
+        make_evidence("Guests liked the location."),
+        make_evidence("Guests appreciated the social atmosphere."),
+        make_evidence("Guests mentioned clean rooms."),
+    ]
+
+    result = check_evidence_quality(
+        evidence,
+        min_evidence=3,
+    )
+
+    assert result["sufficient"] is True
+    assert result["score"] > 0.5
+    assert result["missing_information"] == []
+
+
+def test_quality_ignores_invalid_evidence():
+
+    evidence = [
+        make_evidence("Valid evidence."),
+        Evidence.model_construct(
+            claim="",
+            source_title="Invalid Source",
+            source_url="https://example.com",
+            source_type="web",
+            confidence=0.8,
+        ),
+    ]
+
+    result = check_evidence_quality(
+        evidence,
+        min_evidence=2,
+    )
+
+    assert result["sufficient"] is False

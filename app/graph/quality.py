@@ -1,57 +1,64 @@
-from typing import Literal
+from typing import List
 
-from app.graph.state import ResearchState
+from app.schemas.evidence import Evidence
 
 
-def quality_check(state: ResearchState) -> dict:
+def check_evidence_quality(
+    evidence: List[Evidence],
+    min_evidence: int = 3,
+) -> dict:
     """
-    Evaluate whether the research has enough evidence to continue
-    to insight generation or whether another research iteration is needed.
+    Evaluate whether the collected evidence is sufficient
+    to continue to the insight stage.
 
-    This node does not perform web searches.
-    It only evaluates the current state.
+    Returns:
+        {
+            "sufficient": bool,
+            "score": float,
+            "missing_information": list[str],
+        }
     """
 
-    sources = state.get("sources", [])
-    evidence = state.get("evidence", [])
-    iteration = state.get("iteration", 0)
-    max_iterations = state.get("max_iterations", 3)
+    if not evidence:
+        return {
+            "sufficient": False,
+            "score": 0.0,
+            "missing_information": [
+                "No evidence was collected."
+            ],
+        }
 
-    print(
-        f"Quality check: iteration={iteration}, "
-        f"sources={len(sources)}, evidence={len(evidence)}"
+    valid_evidence = [
+        item
+        for item in evidence
+        if item.claim.strip()
+        and item.source_url.strip()
+    ]
+
+    if len(valid_evidence) < min_evidence:
+        return {
+            "sufficient": False,
+            "score": min(
+                len(valid_evidence) / min_evidence,
+                1.0,
+            ),
+            "missing_information": [
+                "More supporting evidence is needed."
+            ],
+        }
+
+    average_confidence = sum(
+        item.confidence
+        for item in valid_evidence
+    ) / len(valid_evidence)
+
+    score = min(
+        0.5 + (0.5 * average_confidence),
+        1.0,
     )
 
-    # Basic evidence threshold.
-    # We deliberately keep this deterministic for now.
-    enough_sources = len(sources) >= 5
-    enough_evidence = len(evidence) >= 3
-
-    if enough_sources and enough_evidence:
-        decision = "insights"
-
-    elif iteration >= max_iterations:
-        # Never allow the research loop to run forever.
-        decision = "insights"
-
-    else:
-        decision = "research"
-
     return {
-        "quality_decision": decision,
+        "sufficient": True,
+        "score": score,
+        "missing_information": [],
     }
-
-
-def should_continue(
-    state: ResearchState,
-) -> Literal["research", "insights"]:
-    """
-    Convert the quality-check result into a LangGraph routing decision.
-    """
-
-    decision = state.get("quality_decision", "research")
-
-    if decision == "insights":
-        return "insights"
-
-    return "research"
