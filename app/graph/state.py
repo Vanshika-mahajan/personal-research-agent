@@ -37,5 +37,6 @@ class ResearchState(TypedDict, total=False):
     iteration: int
     max_iterations: int
 
+    quality_decision: str
     # Final output
     report: str
