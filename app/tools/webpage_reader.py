@@ -1,9 +1,10 @@
 import requests
+from bs4 import BeautifulSoup
 
 
 def read_webpage(url: str) -> str:
     """
-    Fetch a webpage and return its HTML.
+    Fetch a webpage and return readable text.
     """
 
     if not url.strip():
@@ -19,4 +20,11 @@ def read_webpage(url: str) -> str:
 
     response.raise_for_status()
 
-    return response.text
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    for tag in soup(["script", "style", "noscript"]):
+        tag.decompose()
+
+    text = soup.get_text(separator=" ", strip=True)
+
+    return text
