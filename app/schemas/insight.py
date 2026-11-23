@@ -1,16 +1,10 @@
 from typing import Literal
-
 from pydantic import BaseModel, Field
 
 
 class Insight(BaseModel):
-    claim: str = Field(description="The research finding.")
-    evidence: list[str] = Field(
-        description="Evidence supporting the finding."
-    )
-    source_urls: list[str] = Field(
-        default_factory=list,
-        description="URLs supporting the finding."
-    )
-    confidence: Literal["low", "medium", "high"] = "medium"
-    type: Literal["fact", "observation", "hypothesis"] = "observation"
+    statement: str
+    type: Literal["FACT", "OBSERVATION", "HYPOTHESIS"]
+    supporting_evidence: list[str] = Field(default_factory=list)
+    confidence: float = Field(ge=0.0, le=1.0)
+    reasoning: str = ""

@@ -142,3 +142,4 @@ def test_research_state_preserves_question():
     result = graph.invoke(initial_state)
 
     assert result["question"] == question
+    
