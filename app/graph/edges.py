@@ -3,18 +3,17 @@ from app.graph.state import ResearchState
 
 def should_continue(state: ResearchState) -> str:
     """
-    Decide whether the research loop should continue
-    or move forward.
+    Decide where the graph goes after quality_check.
     """
 
-    evidence_score = state.get("evidence_score", 0.0)
+    sources = state.get("sources", [])
     iteration = state.get("iteration", 0)
     max_iterations = state.get("max_iterations", 3)
 
-    if evidence_score >= 0.8:
-        return "complete"
+    if len(sources) >= 10:
+        return "insights"
 
     if iteration >= max_iterations:
-        return "complete"
+        return "insights"
 
     return "research"

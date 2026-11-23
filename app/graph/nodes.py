@@ -1,5 +1,6 @@
 from app.graph.state import ResearchState
-from app.schemas.research import ResearchPlan, ResearchQuery
+from app.tools.web_search import search_web
+from app.schemas.research import ResearchPlan
 
 
 def research_planner(state: ResearchState) -> dict:
@@ -9,26 +10,38 @@ def research_planner(state: ResearchState) -> dict:
 
     plan = ResearchPlan(
         queries=[
-            ResearchQuery(
-                query=question.question,
-                purpose="Understand the main topic",
-                priority=5,
-            ),
-            ResearchQuery(
-                query=f"{question.question} reviews complaints",
-                purpose="Find recurring problems and negative experiences",
-                priority=4,
-            ),
-            ResearchQuery(
-                query=f"{question.question} reviews positive experiences",
-                purpose="Find recurring positive experiences",
-                priority=4,
-            ),
+            {
+                "query": "hostels in Manali",
+                "purpose": "Identify relevant hostels and properties",
+                "priority": 5,
+            },
+            {
+                "query": "Manali hostels reviews complaints",
+                "purpose": "Find recurring customer complaints",
+                "priority": 4,
+            },
+            {
+                "query": "Manali hostels reviews positive experiences",
+                "purpose": "Find what guests appreciate",
+                "priority": 4,
+            },
+            {
+                "query": "Manali hostel customer experience",
+                "purpose": "Understand guest expectations and experiences",
+                "priority": 3,
+            },
+            {
+                "query": "best hostels Manali Zostel goStops Moustache",
+                "purpose": "Identify major hostel competitors",
+                "priority": 3,
+            },
         ],
         research_goals=[
-            "Understand the topic",
-            "Identify recurring problems",
-            "Identify positive experiences",
+            "Identify relevant properties",
+            "Identify recurring customer problems",
+            "Identify positive guest experiences",
+            "Identify customer expectations",
+            "Identify competitor patterns",
         ],
         expected_output="Evidence-backed research report",
     )
@@ -40,41 +53,96 @@ def research_planner(state: ResearchState) -> dict:
     }
 
 
-def mock_research(state: ResearchState) -> dict:
-    """
-    Temporary research node.
+def research(state: ResearchState) -> dict:
+    plan = state["research_plan"]
 
-    We are deliberately using fake research here to test
-    the LangGraph loop before adding real web tools.
-    """
+    sources = list(state.get("sources", []))
 
-    iteration = state.get("iteration", 0)
+    for query in plan.queries:
+        results = search_web(
+            query=query.query,
+            max_results=5,
+        )
+
+        sources.extend(results)
 
     return {
-        "iteration": iteration + 1,
+        "sources": sources,
+        "iteration": state.get("iteration", 0) + 1,
     }
-
 
 def quality_check(state: ResearchState) -> dict:
     """
-    Temporary quality checker.
-
-    For testing:
-    iterations 1 and 2 -> insufficient
-    iteration 3 -> sufficient
+    Decide whether enough evidence has been collected.
     """
 
+    sources = state.get("sources", [])
     iteration = state.get("iteration", 0)
+    max_iterations = state.get("max_iterations", 3)
 
-    if iteration < 3:
+    print(
+        f"Quality check: iteration={iteration}, "
+        f"sources={len(sources)}"
+    )
+
+    # We have enough evidence.
+    if len(sources) >= 10:
         return {
-            "missing_information": [
-                "Additional evidence is required."
-            ],
-            "evidence_score": iteration / 3,
+            "evidence_score": 1.0,
+            "missing_information": [],
         }
 
+    # We have reached the safety limit.
+    if iteration >= max_iterations:
+        return {
+            "evidence_score": len(sources) / 10,
+            "missing_information": [
+                "More evidence could not be collected within the iteration limit."
+            ],
+        }
+
+    # Not enough evidence yet.
     return {
-        "missing_information": [],
-        "evidence_score": 1.0,
+        "evidence_score": len(sources) / 10,
+        "missing_information": [
+            "Need more sources."
+        ],
+    }
+
+def quality_check(state: ResearchState) -> dict:
+    """
+    Decide whether the collected research is sufficient.
+    """
+
+    sources = state.get("sources", [])
+    iteration = state.get("iteration", 0)
+    max_iterations = state.get("max_iterations", 3)
+
+    print(
+        f"Quality check: iteration={iteration}, "
+        f"sources={len(sources)}"
+    )
+
+    # Enough evidence
+    if len(sources) >= 10:
+        return {
+            "evidence_score": 1.0,
+            "missing_information": [],
+        }
+
+    # We have reached the maximum allowed iterations
+    if iteration >= max_iterations:
+        return {
+            "evidence_score": len(sources) / 10,
+            "missing_information": [
+                "More evidence is needed, but the maximum iteration limit was reached."
+            ],
+        }
+
+    # Need another research pass
+    return {
+        "evidence_score": len(sources) / 10,
+        "missing_information": [
+            "More evidence is needed."
+        ],
     }
