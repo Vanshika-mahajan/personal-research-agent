@@ -4,12 +4,7 @@ from pydantic import BaseModel, Field
 class Evidence(BaseModel):
     claim: str = Field(
         min_length=1,
-        description="A claim supported by the source.",
-    )
-
-    supporting_text: str = Field(
-        min_length=1,
-        description="Relevant evidence extracted from the source.",
+        description="A specific factual observation supported by the source.",
     )
 
     source_title: str = Field(
@@ -22,11 +17,16 @@ class Evidence(BaseModel):
         description="URL of the source supporting the evidence.",
     )
 
+    source_type: str = Field(
+        default="web",
+        description="Type of source: web, review, booking, social, etc.",
+    )
+
     confidence: float = Field(
         default=0.5,
         ge=0.0,
         le=1.0,
-        description="Confidence that the evidence supports the claim.",
+        description="Confidence that the evidence accurately supports the claim.",
     )
 
 

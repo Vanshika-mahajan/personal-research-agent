@@ -1,28 +1,35 @@
 from typing import List
 
-from app.schemas.source import Source
+from app.schemas.evidence import Evidence
+from app.schemas.source import SearchResult
 
 
-def extract_evidence(sources: List[Source]) -> List[dict]:
+def extract_evidence(
+    results: List[SearchResult],
+) -> List[Evidence]:
     """
-    Convert collected sources into structured evidence records.
+    Convert search results into structured evidence.
 
-    For now, this is intentionally simple.
-    Later, an LLM will read the actual webpage content
-    and extract claims and supporting evidence.
+    This first version preserves the source information and
+    creates one evidence item per search result.
     """
 
-    evidence = []
+    evidence: List[Evidence] = []
 
-    for source in sources:
+    for result in results:
+        claim = result.snippet.strip()
+
+        if not claim:
+            continue
+
         evidence.append(
-            {
-                "claim": source.title,
-                "evidence": f"Source found: {source.title}",
-                "source": source.title,
-                "url": source.url,
-                "confidence": source.credibility,
-            }
+            Evidence(
+                claim=claim,
+                source_title=result.title,
+                source_url=result.url,
+                source_type=result.source_type,
+                confidence=0.5,
+            )
         )
 
     return evidence
