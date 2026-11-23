@@ -1,6 +1,15 @@
 from pydantic import BaseModel, Field
 
+class SearchResult(BaseModel):
 
+    title: str
+
+    url: str
+
+    snippet: str
+
+    source_type: str = "web"
+    
 class Source(BaseModel):
     title: str = Field(
         min_length=1,
