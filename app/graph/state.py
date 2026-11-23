@@ -1,4 +1,4 @@
-from typing import List, TypedDict
+from typing import List, TypedDict, Any
 
 from app.schemas.research import (
     ResearchQuestion,
@@ -21,9 +21,13 @@ class ResearchState(TypedDict, total=False):
     # Planning
     research_plan: ResearchPlan
 
+    search_queries: List[str]
+    pending_queries: List[str]
+
     # Research
     sources: List[Source]
     evidence: List[Evidence]
+    contradictions: List[Dict[str, Any]]
 
     # Analysis
     findings: List[Finding]
@@ -38,5 +42,6 @@ class ResearchState(TypedDict, total=False):
     max_iterations: int
 
     quality_decision: str
+
     # Final output
     report: str
