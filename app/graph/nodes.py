@@ -9,7 +9,8 @@ from app.schemas.research import (
 
 from app.tools.web_search import search_web
 
-
+def research_node(state: ResearchState) -> ResearchState:
+    return research(state)
 # ============================================================
 # RESEARCH PLANNER
 # ============================================================
@@ -235,7 +236,7 @@ def extract_evidence(
 
         evidence_item = {
             "claim": supporting_text,
-            "type": "FACT",
+            "type": "OBSERVATION",
             "supporting_evidence": (
                 [source.get("source_url", "")]
                 if source.get("source_url")
