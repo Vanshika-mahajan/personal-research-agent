@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Research Agent</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230f766e'/%3E%3Ccircle cx='15' cy='15' r='6' fill='none' stroke='white' stroke-width='3'/%3E%3Cpath d='M20 20l6 6' stroke='white' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
+<style>
+:root {
+  --bg: #f6f7f9; --card: #ffffff; --text: #1b1f27; --muted: #5d6676; --line: #e1e5ec;
+  --accent: #0f766e; --accent-ink: #ffffff; --accent-soft: #e3f4f1;
+  --warn: #b45309; --warn-soft: #fdf1dc; --bad: #b42318; --bad-soft: #fde9e7;
+  --good: #067647; --good-soft: #e1f5ea; --info: #1d4ed8; --info-soft: #e5edff;
+  --shadow: 0 1px 2px rgba(16,24,40,.06), 0 1px 3px rgba(16,24,40,.08);
+  --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #12151b; --card: #1a1f27; --text: #e8ecf2; --muted: #98a2b3; --line: #2b323d;
+    --accent: #2dd4bf; --accent-ink: #06201c; --accent-soft: #123530;
+    --warn: #f5b361; --warn-soft: #33260f; --bad: #ff8a80; --bad-soft: #3a1a17;
+    --good: #5fd39a; --good-soft: #10301f; --info: #8fb2ff; --info-soft: #17254a;
+    --shadow: none;
+  }
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body { font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); padding-bottom: 64px; }
+header.top { background: var(--card); border-bottom: 1px solid var(--line); position: sticky; top: 0; z-index: 20; }
+.wrap { max-width: 1120px; margin: 0 auto; padding: 0 20px; }
+.bar { display: flex; align-items: center; gap: 16px; padding: 12px 0; flex-wrap: wrap; }
+.brand { font-weight: 700; font-size: 17px; letter-spacing: -.01em; }
+.brand small { font-weight: 500; color: var(--muted); margin-left: 8px; font-size: 13px; }
+.chips { margin-left: auto; display: flex; gap: 8px; flex-wrap: wrap; }
+.chip { border: 1px solid var(--line); background: var(--bg); color: var(--text); border-radius: 999px; padding: 4px 11px; font-size: 13px; display: inline-flex; gap: 7px; align-items: center; cursor: default; }
+.chip button { all: unset; cursor: pointer; color: var(--accent); font-weight: 600; }
+.dot { width: 8px; height: 8px; border-radius: 50%; background: var(--muted); display: inline-block; }
+.dot.ok { background: var(--good); } .dot.bad { background: var(--bad); }
+nav.tabs { display: flex; gap: 2px; overflow-x: auto; }
+nav.tabs button { all: unset; cursor: pointer; padding: 10px 14px; font-weight: 600; color: var(--muted); border-bottom: 2px solid transparent; white-space: nowrap; }
+nav.tabs button:hover { color: var(--text); }
+nav.tabs button[aria-selected="true"] { color: var(--accent); border-color: var(--accent); }
+main { padding: 22px 0; }
+section.panel { display: none; }
+section.panel.active { display: block; }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 20px; box-shadow: var(--shadow); margin-bottom: 18px; }
+.card h2 { margin: 0 0 4px; font-size: 17px; letter-spacing: -.01em; }
+.card h3 { margin: 18px 0 8px; font-size: 14px; }
+.lead { color: var(--muted); margin: 0 0 16px; }
+.grid { display: grid; gap: 14px; }
+.grid.three { grid-template-columns: 2fr 1fr 1fr; }
+.grid.two { grid-template-columns: 1fr 1fr; }
+@media (max-width: 760px) { .grid.three, .grid.two { grid-template-columns: 1fr; } }
+label.field { display: block; font-weight: 600; font-size: 13px; }
+label.field span.hint { font-weight: 400; color: var(--muted); }
+input[type=text], input[type=number], input[type=url], select, textarea {
+  width: 100%; margin-top: 5px; padding: 9px 11px; border: 1px solid var(--line); border-radius: 8px;
+  background: var(--bg); color: var(--text); font: inherit; }
+textarea { resize: vertical; min-height: 110px; }
+input:focus, select:focus, textarea:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: transparent; }
+details.more { margin-top: 14px; border-top: 1px dashed var(--line); padding-top: 12px; }
+details.more summary { cursor: pointer; font-weight: 600; color: var(--muted); font-size: 13px; }
+.checks { display: grid; gap: 8px; margin-top: 12px; }
+.checks label { display: flex; gap: 9px; align-items: flex-start; font-size: 14px; }
+.checks input { margin-top: 4px; }
+.checks .hint { color: var(--muted); font-size: 13px; }
+.actions { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 18px; }
+@media (max-width: 760px) { .actions { grid-template-columns: 1fr; } }
+.action { border: 1px solid var(--line); border-radius: 10px; padding: 12px; background: var(--bg); display: flex; flex-direction: column; gap: 8px; }
+.action p { margin: 0; color: var(--muted); font-size: 13px; flex: 1; }
+button.run, button.btn { font: inherit; font-weight: 600; border-radius: 8px; padding: 9px 14px; cursor: pointer; border: 1px solid var(--line); background: var(--card); color: var(--text); }
+button.run.primary, button.btn.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+button.run:hover:not(:disabled), button.btn:hover:not(:disabled) { filter: brightness(.96); }
+button:disabled { opacity: .5; cursor: not-allowed; }
+button.small { padding: 4px 10px; font-size: 13px; border-radius: 6px; }
+button.danger { color: var(--bad); }
+.cols { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+@media (max-width: 860px) { .cols { grid-template-columns: 1fr; } }
+.col-title { font-weight: 700; margin: 0 0 8px; display: flex; justify-content: space-between; align-items: baseline; }
+.col-title small { color: var(--muted); font-weight: 500; }
+.prop { border: 1px solid var(--line); border-radius: 10px; padding: 12px; margin-bottom: 10px; background: var(--bg); }
+.prop .head { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.prop .name { font-weight: 700; }
+.pill { font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); }
+.pill.warn { background: var(--warn-soft); color: var(--warn); }
+.pill.good { background: var(--good-soft); color: var(--good); }
+.pill.bad { background: var(--bad-soft); color: var(--bad); }
+.pill.info { background: var(--info-soft); color: var(--info); }
+.pill.plain { background: var(--line); color: var(--muted); }
+.prop .meta { color: var(--muted); font-size: 13px; margin-top: 6px; }
+.prop .row { display: flex; gap: 10px; align-items: center; margin-top: 8px; }
+.score { flex: 1; height: 6px; background: var(--line); border-radius: 99px; overflow: hidden; }
+.score span { display: block; height: 100%; background: var(--accent); }
+.score-num { font-size: 12px; font-weight: 700; color: var(--muted); min-width: 48px; text-align: right; }
+.empty { color: var(--muted); border: 1px dashed var(--line); border-radius: 10px; padding: 16px; text-align: center; font-size: 14px; }
+.note { background: var(--warn-soft); color: var(--text); border-radius: 8px; padding: 10px 12px; font-size: 13px; margin-top: 10px; }
+.note.info { background: var(--info-soft); }
+.list { display: grid; gap: 6px; }
+.list button.item { all: unset; cursor: pointer; display: flex; justify-content: space-between; gap: 10px; align-items: baseline; padding: 9px 11px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); }
+.list button.item:hover, .list button.item.active { border-color: var(--accent); }
+.list .t { font-weight: 600; } .list .s { color: var(--muted); font-size: 12px; white-space: nowrap; }
+.viewer-head { display: flex; gap: 10px; align-items: center; justify-content: space-between; flex-wrap: wrap; margin-bottom: 10px; }
+.viewer-head h2 { margin: 0; }
+.doc { overflow-wrap: anywhere; }
+.doc h1 { font-size: 24px; margin: 4px 0 12px; letter-spacing: -.02em; }
+.doc h2 { font-size: 19px; margin: 26px 0 8px; padding-top: 12px; border-top: 1px solid var(--line); }
+.doc h3 { font-size: 16px; margin: 20px 0 6px; } .doc h4 { font-size: 14px; margin: 16px 0 4px; }
+.doc p { margin: 8px 0; } .doc ul, .doc ol { padding-left: 22px; } .doc li { margin: 3px 0; }
+.doc blockquote { margin: 12px 0; padding: 8px 14px; border-left: 3px solid var(--accent); background: var(--accent-soft); border-radius: 0 8px 8px 0; }
+.doc blockquote p { margin: 4px 0; }
+.doc code { font-family: var(--mono); font-size: 13px; background: var(--bg); padding: 1px 5px; border-radius: 4px; border: 1px solid var(--line); }
+.doc pre { background: var(--bg); padding: 12px; border-radius: 8px; overflow: auto; border: 1px solid var(--line); }
+.doc pre code { border: 0; padding: 0; }
+.doc a { color: var(--accent); }
+.doc hr { border: 0; border-top: 1px solid var(--line); margin: 20px 0; }
+.table-wrap { overflow-x: auto; margin: 12px 0; border: 1px solid var(--line); border-radius: 8px; }
+.doc table { border-collapse: collapse; width: 100%; font-size: 13.5px; }
+.doc th, .doc td { padding: 7px 10px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+.doc th { background: var(--bg); font-weight: 700; white-space: nowrap; }
+.doc tr:last-child td { border-bottom: 0; }
+iframe.frame { width: 100%; height: 78vh; border: 1px solid var(--line); border-radius: 10px; background: #fff; }
+.toasts { position: fixed; top: 74px; right: 16px; display: grid; gap: 8px; z-index: 50; max-width: 380px; }
+.toast { background: var(--card); border: 1px solid var(--line); border-left: 4px solid var(--info); border-radius: 8px; padding: 10px 14px; box-shadow: 0 8px 24px rgba(0,0,0,.18); font-size: 14px; }
+.toast.bad { border-left-color: var(--bad); } .toast.good { border-left-color: var(--good); }
+/* activity drawer */
+.drawer { position: fixed; left: 0; right: 0; bottom: 0; background: var(--card); border-top: 1px solid var(--line); box-shadow: 0 -6px 20px rgba(0,0,0,.08); z-index: 30; }
+.drawer .bar { padding: 10px 0; cursor: pointer; }
+.drawer .title { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 52vw; }
+.drawer .spacer { flex: 1; }
+.drawer .body { display: none; padding-bottom: 14px; }
+.drawer.open .body { display: block; }
+.drawer .results { display: flex; gap: 8px; flex-wrap: wrap; margin: 0 0 10px; }
+pre.log { margin: 0; height: 230px; overflow: auto; background: #0e1116; color: #d6dde8; padding: 12px; border-radius: 8px; font: 12.5px/1.45 var(--mono); white-space: pre-wrap; word-break: break-word; }
+pre.log:empty::before { content: "Waiting for output…"; color: #6b7686; }
+body.drawer-open { padding-bottom: 380px; }
+.spin { width: 12px; height: 12px; border: 2px solid var(--line); border-top-color: var(--accent); border-radius: 50%; animation: spin .8s linear infinite; display: inline-block; }
+@keyframes spin { to { transform: rotate(360deg); } }
+[hidden] { display: none !important; }
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <div class="bar">
+      <div class="brand">Research Agent<small>hotels · hostels · cafés</small></div>
+      <div class="chips">
+        <span class="chip" id="chip-llm" title="The local model that reads and summarises the evidence"><span class="dot"></span><span class="label">Checking Ollama…</span></span>
+        <span class="chip" id="chip-web"><span class="dot"></span><span class="label">Web search</span><button type="button" id="btn-web">Test</button></span>
+      </div>
+    </div>
+    <nav class="tabs" role="tablist">
+      <button role="tab" data-tab="study" aria-selected="true">Study a place</button>
+      <button role="tab" data-tab="property" aria-selected="false">One property</button>
+      <button role="tab" data-tab="ask" aria-selected="false">Ask a question</button>
+      <button role="tab" data-tab="notes" aria-selected="false">Add notes</button>
+      <button role="tab" data-tab="reports" aria-selected="false">Reports</button>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+
+<!-- ================= STUDY A PLACE ================= -->
+<section class="panel active" data-panel="study">
+  <div class="card">
+    <h2>Study a place</h2>
+    <p class="lead">Name a town. The agent finds the hotels, hostels and cafés with the most reviews and history there, then studies them. You don't have to choose any property yourself.</p>
+    <form id="form-study" autocomplete="off">
+      <div class="grid three">
+        <label class="field">Place <input type="text" name="place" value="Manali" list="places" required><datalist id="places"></datalist></label>
+        <label class="field">Hotels / hostels <input type="number" name="stays" value="3" min="0" max="10"></label>
+        <label class="field">Cafés <input type="number" name="cafes" value="2" min="0" max="10"></label>
+      </div>
+      <details class="more">
+        <summary>More options</summary>
+        <div class="grid two" style="margin-top:12px">
+          <label class="field">Reviews that must be visible <span class="hint">(default 50)</span><input type="number" name="min_reviews" value="50" min="0"></label>
+          <label class="field">Independent sources that must mention it <span class="hint">(default 3)</span><input type="number" name="min_sources" value="3" min="1" max="20"></label>
+          <label class="field">Research depth
+            <select name="depth"><option value="quick">Quick (1 search round)</option><option value="standard" selected>Standard (2 rounds)</option><option value="deep">Deep (3 rounds)</option></select></label>
+          <label class="field">Vibers brief: which part
+            <select name="part"><option value="both" selected>Both parts</option><option value="1">Part 1 only</option><option value="2">Part 2 only</option></select></label>
+        </div>
+        <div class="checks">
+          <label><input type="checkbox" name="allow_thin"><span>Fill empty slots with weaker candidates <span class="hint">(clearly flagged; otherwise you get fewer rather than padding)</span></span></label>
+          <label><input type="checkbox" name="rediscover"><span>Search for properties again <span class="hint">(otherwise the saved choice for this place is reused)</span></span></label>
+          <label><input type="checkbox" name="refresh"><span>Redo research even if saved</span></label>
+          <label><input type="checkbox" name="skip_fetch"><span>Don't download web pages <span class="hint">(faster, but less detail)</span></span></label>
+          <label><input type="checkbox" name="no_llm"><span>Brief: leave the idea drafts blank for me to write</span></label>
+        </div>
+      </details>
+      <div class="actions">
+        <div class="action"><button type="button" class="run primary" data-job="discover">1 · Find properties</button><p>Searches the web for the places with the most reviews and history. A few minutes. Doesn't need Ollama.</p></div>
+        <div class="action"><button type="button" class="run" data-job="study">2 · Research them</button><p>Studies each property (complaints, why people choose it, what's missing) and writes one report. Needs Ollama; can take a while.</p></div>
+        <div class="action"><button type="button" class="run" data-job="brief">Vibers brief</button><p>The full two-part brief with idea drafts and the dashboard wireframe, using the same properties.</p></div>
+      </div>
+    </form>
+  </div>
+
+  <div class="card" id="selection-card" hidden>
+    <h2 id="selection-title">Properties</h2>
+    <p class="lead" id="selection-lead"></p>
+    <div class="cols" id="selection-cols"></div>
+    <div class="note info" id="selection-hint" hidden>The list changed. Click <strong>2 · Research them</strong> to study it (research already saved is reused).</div>
+    <div id="selection-notes"></div>
+    <details class="more"><summary>Why these? Scores, evidence and rejected candidates</summary><div class="doc" id="selection-doc" style="margin-top:12px"></div></details>
+  </div>
+</section>
+
+<!-- ================= ONE PROPERTY ================= -->
+<section class="panel" data-panel="property">
+  <div class="card">
+    <h2>Research one property</h2>
+    <p class="lead">For a place you already have in mind. Works for any town.</p>
+    <form id="form-property" autocomplete="off">
+      <div class="grid two">
+        <label class="field">Name <input type="text" name="name" placeholder="e.g. Cafe 1947" required></label>
+        <label class="field">Place <input type="text" name="place" value="Manali" required></label>
+        <label class="field">Type
+          <select name="type"><option value="hostel">Hostel</option><option value="hotel">Hotel</option><option value="homestay">Homestay</option><option value="resort">Resort</option><option value="guesthouse">Guesthouse</option><option value="lodge">Lodge</option><option value="cafe">Café</option><option value="restaurant">Restaurant</option></select></label>
+        <label class="field">Official website <span class="hint">(optional)</span><input type="url" name="website" placeholder="https://"></label>
+        <label class="field">Research depth
+          <select name="depth"><option value="quick">Quick</option><option value="standard" selected>Standard</option><option value="deep">Deep</option></select></label>
+      </div>
+      <div class="checks">
+        <label><input type="checkbox" name="refresh"><span>Redo research even if saved</span></label>
+        <label><input type="checkbox" name="skip_fetch"><span>Don't download web pages (faster, less detail)</span></label>
+      </div>
+      <div style="margin-top:16px"><button type="button" class="run primary" data-job="property">Research this property</button></div>
+    </form>
+  </div>
+</section>
+
+<!-- ================= ASK ================= -->
+<section class="panel" data-panel="ask">
+  <div class="card">
+    <h2>Ask a research question</h2>
+    <p class="lead">Any question the web can help with. Every claim in the answer is tied to a source link.</p>
+    <form id="form-ask" autocomplete="off">
+      <label class="field">Question
+        <textarea name="question" placeholder="What do guests complain about at beach hostels in Goa?" maxlength="600"></textarea></label>
+      <div class="grid two" style="margin-top:12px">
+        <label class="field">Research depth
+          <select name="depth"><option value="quick">Quick</option><option value="standard" selected>Standard</option><option value="deep">Deep</option></select></label>
+      </div>
+      <div class="checks"><label><input type="checkbox" name="skip_fetch"><span>Don't download web pages (faster, less detail)</span></label></div>
+      <div style="margin-top:16px"><button type="button" class="run primary" data-job="ask">Research this</button></div>
+    </form>
+  </div>
+</section>
+
+<!-- ================= NOTES ================= -->
+<section class="panel" data-panel="notes">
+  <div class="cols">
+    <div class="card">
+      <h2>Add what you read yourself</h2>
+      <p class="lead">Google Maps and Instagram can't be read by a program. Open them in your browser, copy reviews or captions, and paste them here. They count as high-confidence evidence the next time that property is researched.</p>
+      <form id="form-notes" autocomplete="off">
+        <label class="field">About <span class="hint">(a property or platform name)</span>
+          <input type="text" name="subject" list="subjects" placeholder="e.g. Zostel Manali" required><datalist id="subjects"></datalist></label>
+        <div class="grid two" style="margin-top:12px">
+          <label class="field">Where you read it
+            <select name="platform"><option>Google Maps</option><option>Instagram</option><option>Facebook</option><option>Zomato</option><option>Tripadvisor</option><option>Other</option></select></label>
+          <label class="field">Link <span class="hint">(optional)</span><input type="url" name="url" placeholder="https://"></label>
+        </div>
+        <label class="field" style="margin-top:12px">Notes
+          <textarea name="text" placeholder="Paste reviews or captions. Leave a blank line between separate notes."></textarea></label>
+        <div style="margin-top:14px"><button type="submit" class="btn primary">Save notes</button></div>
+      </form>
+    </div>
+    <div class="card">
+      <h2>Saved notes</h2>
+      <p class="lead">Re-run the research for a property to include new notes.</p>
+      <div class="list" id="note-subjects"></div>
+      <div id="note-list" style="margin-top:14px"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= REPORTS ================= -->
+<section class="panel" data-panel="reports">
+  <div class="cols" style="grid-template-columns: minmax(280px, 1fr) 2.2fr; align-items: start">
+    <div>
+      <div class="card">
+        <h2>Reports</h2>
+        <input type="text" id="doc-filter" placeholder="Filter reports…" style="margin: 8px 0 12px">
+        <div class="list" id="doc-list"></div>
+      </div>
+      <div class="card">
+        <h2>Researched properties</h2>
+        <p class="lead">⚠ means the research found little material.</p>
+        <div class="list" id="prop-list"></div>
+      </div>
+    </div>
+    <div class="card" id="viewer">
+      <div class="empty">Pick a report on the left. New reports appear here when a job finishes.</div>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<div class="toasts" id="toasts" aria-live="polite"></div>
+
+<aside class="drawer" id="drawer">
+  <div class="wrap">
+    <div class="bar" id="drawer-bar">
+      <span id="job-spin" class="spin" hidden></span>
+      <span class="title" id="job-title">Activity: nothing running</span>
+      <span class="pill plain" id="job-status" hidden></span>
+      <span class="spacer"></span>
+      <span style="color:var(--muted);font-size:13px" id="job-elapsed"></span>
+      <button type="button" class="btn small danger" id="job-cancel" hidden>Stop</button>
+      <span id="drawer-caret" style="color:var(--muted)">▲</span>
+    </div>
+    <div class="body">
+      <div class="results" id="job-results"></div>
+      <pre class="log" id="job-log">Jobs you start show their progress here.</pre>
+    </div>
+  </div>
+</aside>
+
+<script>
+"use strict";
+
+const $ = (selector, root = document) => root.querySelector(selector);
+const $$ = (selector, root = document) => Array.from(root.querySelectorAll(selector));
+
+function el(tag, attrs = {}, ...kids) {
+  const node = document.createElement(tag);
+  for (const [key, value] of Object.entries(attrs || {})) {
+    if (value === null || value === undefined || value === false) continue;
+    if (key === "class") node.className = value;
+    else if (key === "onclick") node.addEventListener("click", value);
+    else node.setAttribute(key, value === true ? "" : value);
+  }
+  for (const kid of kids.flat()) {
+    if (kid === null || kid === undefined || kid === false) continue;
+    node.append(kid.nodeType ? kid : document.createTextNode(String(kid)));
+  }
+  return node;
+}
+
+async function api(path, options = {}) {
+  const init = { method: options.method || "GET", headers: {} };
+  if (options.body !== undefined) {
+    init.method = options.method || "POST";
+    init.headers["Content-Type"] = "application/json";
+    init.body = JSON.stringify(options.body);
+  }
+  let response;
+  try { response = await fetch(path, init); }
+  catch (e) { throw new Error("Can't reach the interface server. Is it still running in your terminal?"); }
+  let data = {};
+  try { data = await response.json(); } catch (e) { /* not JSON */ }
+  if (!response.ok) {
+    const error = new Error(data.error || ("Request failed (" + response.status + ")"));
+    error.status = response.status; error.data = data;
+    throw error;
+  }
+  return data;
+}
+
+function toast(message, kind = "info", ms = 6000) {
+  const node = el("div", { class: "toast " + kind }, message);
+  $("#toasts").append(node);
+  setTimeout(() => node.remove(), ms);
+}
+
+function readForm(form) {
+  const values = {};
+  for (const input of $$("input, select, textarea", form)) {
+    if (!input.name) continue;
+    values[input.name] = input.type === "checkbox" ? input.checked : input.value;
+  }
+  return values;
+}
+
+/* ---------- tabs ---------- */
+function showTab(name) {
+  if (!$(`[data-panel="${name}"]`)) name = "study";
+  $$("nav.tabs button").forEach(b => b.setAttribute("aria-selected", String(b.dataset.tab === name)));
+  $$("section.panel").forEach(p => p.classList.toggle("active", p.dataset.panel === name));
+  history.replaceState(null, "", "#" + name);
+  if (name === "reports") { loadDocuments(); loadProperties(); }
+  if (name === "notes") loadNoteSubjects();
+}
+$$("nav.tabs button").forEach(b => b.addEventListener("click", () => showTab(b.dataset.tab)));
+
+/* ---------- status chips ---------- */
+async function refreshStatus() {
+  try {
+    const status = await api("/api/status");
+    const chip = $("#chip-llm");
+    $(".dot", chip).className = "dot " + (status.llm.ok ? "ok" : "bad");
+    $(".label", chip).textContent = status.llm.ok ? "Ollama · " + status.model : "Ollama not running";
+    chip.title = status.llm.message + (status.llm.ok ? "" : "  — start it with: ollama serve");
+    if (status.active_job && !state.job) attachJob(status.active_job.id);
+  } catch (e) {
+    $(".dot", $("#chip-llm")).className = "dot bad";
+    $(".label", $("#chip-llm")).textContent = "Server unreachable";
+  }
+}
+$("#btn-web").addEventListener("click", async () => {
+  const chip = $("#chip-web"); $(".label", chip).textContent = "Testing…";
+  const result = await api("/api/web-check").catch(e => ({ ok: false, message: e.message }));
+  $(".dot", chip).className = "dot " + (result.ok ? "ok" : "bad");
+  $(".label", chip).textContent = result.ok ? "Web search works" : "Web search failed";
+  chip.title = result.message;
+  if (!result.ok) toast(result.message, "bad");
+});
+
+/* ---------- jobs ---------- */
+const state = { job: null, offset: 0, timer: null, place: "" };
+
+function setBusy(busy) {
+  $$("button.run").forEach(b => { b.disabled = busy; });
+}
+
+function formatElapsed(seconds) {
+  seconds = Math.round(seconds || 0);
+  return Math.floor(seconds / 60) + ":" + String(seconds % 60).padStart(2, "0");
+}
+
+const STATUS_CLASS = { running: "info", queued: "info", done: "good", error: "bad", cancelled: "plain" };
+const STATUS_TEXT = { running: "running", queued: "starting", done: "done", error: "failed", cancelled: "stopped" };
+
+function openDrawer(open = true) {
+  $("#drawer").classList.toggle("open", open);
+  document.body.classList.toggle("drawer-open", open);
+  $("#drawer-caret").textContent = open ? "▼" : "▲";
+}
+$("#drawer-bar").addEventListener("click", (event) => {
+  if (event.target.closest("button")) return;
+  openDrawer(!$("#drawer").classList.contains("open"));
+});
+
+function renderJob(job, append) {
+  const active = job.status === "running" || job.status === "queued";
+  $("#job-title").textContent = job.title;
+  const pill = $("#job-status");
+  pill.hidden = false; pill.className = "pill " + STATUS_CLASS[job.status]; pill.textContent = STATUS_TEXT[job.status];
+  $("#job-spin").hidden = !active;
+  $("#job-elapsed").textContent = formatElapsed(job.elapsed);
+  $("#job-cancel").hidden = !active;
+  setBusy(active);
+
+  const log = $("#job-log");
+  if (!append) log.textContent = "";
+  if (job.log && job.log.length) {
+    const nearBottom = log.scrollHeight - log.scrollTop - log.clientHeight < 60;
+    log.textContent += job.log.join("\n") + "\n";
+    if (nearBottom) log.scrollTop = log.scrollHeight;
+  } else if (!append && !job.log_total) {
+    log.textContent = "Starting…\n";
+  }
+  state.offset = job.log_total;
+
+  const results = $("#job-results");
+  results.replaceChildren();
+  if (job.status === "done") {
+    for (const doc of (job.result && job.result.documents) || []) {
+      results.append(el("button", { type: "button", class: "btn small primary", onclick: () => openDocument(doc.path, true) }, "Open: " + doc.label));
+    }
+  }
+}
+
+async function pollJob() {
+  if (!state.job) return;
+  try {
+    const job = await api(`/api/jobs/${state.job}?since=${state.offset}`);
+    renderJob(job, true);
+    if (job.status === "running" || job.status === "queued") return;
+    clearInterval(state.timer); state.timer = null;
+    if (job.status === "done") {
+      toast(job.result.summary || "Finished.", "good");
+      loadSelection(); loadPlaces();
+      if ($('[data-panel="reports"]').classList.contains("active")) { loadDocuments(); loadProperties(); }
+    } else if (job.status === "error") {
+      toast(job.error, "bad", 12000); openDrawer(true);
+    }
+  } catch (e) {
+    clearInterval(state.timer); state.timer = null; toast(e.message, "bad");
+  }
+}
+
+function attachJob(id, fresh) {
+  state.job = id; state.offset = 0;
+  if (state.timer) clearInterval(state.timer);
+  $("#job-log").textContent = "";
+  pollJob();
+  state.timer = setInterval(pollJob, 1000);
+}
+
+async function startJob(kind, params) {
+  try {
+    const response = await api("/api/jobs", { body: { kind, params } });
+    openDrawer(true);
+    attachJob(response.job.id);
+  } catch (e) {
+    if (e.status === 409 && e.data && e.data.job) {
+      toast("Something is already running. Showing it.", "info");
+      openDrawer(true); attachJob(e.data.job.id);
+    } else {
+      toast(e.message, "bad", 9000);
+    }
+  }
+}
+
+$$("form").forEach(form => form.addEventListener("submit", event => event.preventDefault()));
+
+$$("button[data-job]").forEach(button => {
+  button.addEventListener("click", () => {
+    const form = button.closest("form");
+    const params = readForm(form);
+    if (button.dataset.job === "study" || button.dataset.job === "brief") params.refresh = !!params.refresh;
+    startJob(button.dataset.job, params);
+  });
+});
+
+$("#job-cancel").addEventListener("click", async () => {
+  if (!state.job) return;
+  await api(`/api/jobs/${state.job}/cancel`, { body: {} }).catch(e => toast(e.message, "bad"));
+  toast("Stopping at the next step…");
+});
+
+/* ---------- selection (properties chosen for a place) ---------- */
+const placeInput = $('#form-study [name="place"]');
+let selectionTimer = null;
+placeInput.addEventListener("input", () => { clearTimeout(selectionTimer); selectionTimer = setTimeout(loadSelection, 400); });
+
+async function loadPlaces() {
+  const data = await api("/api/selections").catch(() => ({ selections: [] }));
+  $("#places").replaceChildren(...data.selections.map(s => el("option", { value: s.place })));
+}
+
+async function loadSelection() {
+  const place = placeInput.value.trim();
+  const card = $("#selection-card");
+  if (!place) { card.hidden = true; return; }
+  try {
+    const view = await api("/api/selection?place=" + encodeURIComponent(place));
+    if (view.found === false) { card.hidden = true; return; }
+    renderSelection(view);
+  } catch (e) {
+    card.hidden = true;
+  }
+}
+
+function propertyCard(item, current, place) {
+  const flags = [];
+  if (item.thin) flags.push(el("span", { class: "pill warn" }, "thin evidence"));
+  if (current) {
+    flags.push(item.researched
+      ? el("span", { class: "pill good" }, "researched · " + item.evidence_count + " passages")
+      : el("span", { class: "pill plain" }, "not researched yet"));
+  }
+  const meta = [item.site_count + " sources", item.seen !== "not shown" ? item.seen : "review counts not shown"];
+  if (item.earliest_year) meta.push("since " + item.earliest_year);
+  return el("div", { class: "prop" },
+    el("div", { class: "head" }, el("span", { class: "name" }, item.name), el("span", { class: "pill info" }, item.type), flags),
+    el("div", { class: "row" },
+      el("div", { class: "score", title: "How much evidence exists to study (out of 100)" }, el("span", { style: "width:" + Math.max(2, Math.min(100, item.score)) + "%" })),
+      el("span", { class: "score-num" }, item.score + "/100")),
+    el("div", { class: "meta" }, meta.join(" · ")),
+    el("div", { class: "row" },
+      current
+        ? el("button", { type: "button", class: "btn small danger", onclick: () => editSelection(place, "remove", item.name) }, "Remove")
+        : el("button", { type: "button", class: "btn small", onclick: () => editSelection(place, "add", item.name) }, "Use this instead")));
+}
+
+function renderSelection(view) {
+  $("#selection-card").hidden = false;
+  $("#selection-title").textContent = "Properties for " + view.place;
+  $("#selection-lead").textContent = "Chosen by evidence, not by hand. Found " + (view.created_at || "").replace("T", " ") +
+    ". Scores say how much there is to study, not how good a place is.";
+  const cols = $("#selection-cols"); cols.replaceChildren();
+  const titles = { stays: "Hotels & hostels", cafes: "Cafés" };
+  for (const [key, block] of Object.entries(view.kinds)) {
+    if (!block.requested && !block.current.length) continue;
+    const column = el("div", {},
+      el("div", { class: "col-title" }, titles[key], el("small", {}, block.current.length + " of " + block.requested + " requested")));
+    if (!block.current.length) column.append(el("div", { class: "empty" }, "Nothing cleared the evidence bar."));
+    block.current.forEach(item => column.append(propertyCard(item, true, view.place)));
+    if (block.available.length) {
+      column.append(el("h3", {}, "Other candidates"));
+      block.available.forEach(item => column.append(propertyCard(item, false, view.place)));
+    }
+    cols.append(column);
+  }
+  const notes = $("#selection-notes"); notes.replaceChildren();
+  (view.notes || []).forEach(text => notes.append(el("div", { class: "note" }, text)));
+  $("#selection-doc").innerHTML = view.html;
+}
+
+async function editSelection(place, action, name) {
+  try {
+    renderSelection(await api("/api/selection/edit", { body: { place, action, name } }));
+    $("#selection-hint").hidden = false;
+  } catch (e) { toast(e.message, "bad"); }
+}
+
+/* ---------- reports ---------- */
+let documents = [];
+let activePath = "";
+
+function formatDate(seconds) {
+  const d = new Date(seconds * 1000);
+  return d.toLocaleDateString(undefined, { day: "numeric", month: "short" }) + " " +
+         d.toLocaleTimeString(undefined, { hour: "2-digit", minute: "2-digit" });
+}
+
+async function loadDocuments() {
+  const data = await api("/api/documents").catch(e => { toast(e.message, "bad"); return { documents: [] }; });
+  documents = data.documents; renderDocuments();
+}
+
+function renderDocuments() {
+  const needle = $("#doc-filter").value.trim().toLowerCase();
+  const list = $("#doc-list"); list.replaceChildren();
+  const shown = documents.filter(d => !needle || (d.title + " " + d.kind).toLowerCase().includes(needle));
+  if (!shown.length) list.append(el("div", { class: "empty" }, documents.length ? "No match." : "No reports yet. Run a job first."));
+  shown.forEach(doc => list.append(el("button", {
+    type: "button", class: "item" + (doc.path === activePath ? " active" : ""), onclick: () => openDocument(doc.path),
+  }, el("span", { class: "t" }, doc.title), el("span", { class: "s" }, doc.kind + " · " + formatDate(doc.modified)))));
+}
+$("#doc-filter").addEventListener("input", renderDocuments);
+
+function viewer(title, buttons, body) {
+  const box = $("#viewer"); box.replaceChildren(
+    el("div", { class: "viewer-head" }, el("h2", {}, title), el("div", { style: "display:flex;gap:8px" }, buttons)), body);
+}
+
+async function openDocument(path, switchTab) {
+  if (switchTab) showTab("reports");
+  activePath = path; renderDocuments();
+  try {
+    const doc = await api("/api/document?path=" + encodeURIComponent(path));
+    if (doc.format === "html") {
+      viewer(doc.title, [el("a", { class: "btn small", href: doc.url, target: "_blank", rel: "noopener" }, "Open in a new tab")],
+        el("iframe", { class: "frame", src: doc.url, sandbox: "", title: doc.title }));
+    } else {
+      const body = el("div", { class: "doc" }); body.innerHTML = doc.html;
+      viewer(doc.title, [el("a", { class: "btn small", href: doc.url + "?download=1" }, "Download .md")], body);
+    }
+    $("#viewer").scrollIntoView({ block: "nearest" });
+  } catch (e) { toast(e.message, "bad"); }
+}
+
+async function loadProperties() {
+  const data = await api("/api/properties").catch(() => ({ properties: [] }));
+  const list = $("#prop-list"); list.replaceChildren();
+  if (!data.properties.length) list.append(el("div", { class: "empty" }, "Nothing researched yet."));
+  data.properties.forEach(p => list.append(el("button", { type: "button", class: "item", onclick: () => openProperty(p.name) },
+    el("span", { class: "t" }, (p.thin ? "⚠ " : "") + p.name),
+    el("span", { class: "s" }, p.evidence_count + " passages · " + p.source_count + " sources"))));
+  $("#subjects").replaceChildren(...data.properties.map(p => el("option", { value: p.name })));
+}
+
+async function openProperty(name) {
+  try {
+    const data = await api("/api/property?name=" + encodeURIComponent(name));
+    const body = el("div", { class: "doc" }); body.innerHTML = data.html;
+    activePath = ""; renderDocuments();
+    viewer(data.name, [], body);
+  } catch (e) { toast(e.message, "bad"); }
+}
+
+/* ---------- notes ---------- */
+async function loadNoteSubjects() {
+  await loadProperties();
+  const data = await api("/api/notes").catch(() => ({ subjects: [] }));
+  const list = $("#note-subjects"); list.replaceChildren();
+  if (!data.subjects.length) list.append(el("div", { class: "empty" }, "No notes yet."));
+  data.subjects.forEach(s => list.append(el("button", { type: "button", class: "item", onclick: () => showNotes(s.subject) },
+    el("span", { class: "t" }, s.subject), el("span", { class: "s" }, s.count + (s.count === 1 ? " note" : " notes")))));
+  const known = new Set($$("#subjects option").map(o => o.value));
+  data.subjects.forEach(s => { if (!known.has(s.subject)) $("#subjects").append(el("option", { value: s.subject })); });
+}
+
+async function showNotes(subject) {
+  const data = await api("/api/notes?subject=" + encodeURIComponent(subject)).catch(e => { toast(e.message, "bad"); return { notes: [] }; });
+  const box = $("#note-list"); box.replaceChildren(el("h3", {}, subject));
+  data.notes.forEach(n => box.append(el("div", { class: "prop" },
+    el("div", {}, n.text),
+    el("div", { class: "meta" }, [n.platform, (n.added_at || "").replace("T", " ")].filter(Boolean).join(" · ")))));
+}
+
+$("#form-notes").addEventListener("submit", async (event) => {
+  event.preventDefault();
+  const values = readForm(event.target);
+  try {
+    const result = await api("/api/notes", { body: values });
+    toast("Saved " + result.saved + (result.saved === 1 ? " note." : " notes."), "good");
+    event.target.elements.text.value = "";
+    loadNoteSubjects(); showNotes(values.subject);
+  } catch (e) { toast(e.message, "bad"); }
+});
+
+/* ---------- start ---------- */
+(async function init() {
+  showTab((location.hash || "#study").slice(1));
+  await refreshStatus();
+  setInterval(refreshStatus, 20000);
+  loadPlaces();
+  loadSelection();
+  const jobs = await api("/api/jobs").catch(() => ({ jobs: [] }));
+  if (jobs.jobs.length && !state.job) {
+    state.job = jobs.jobs[0].id; state.offset = 0;
+    const job = await api(`/api/jobs/${state.job}`).catch(() => null);
+    if (job) { renderJob(job, false); if (job.status === "running") attachJob(job.id); else state.job = null; }
+  }
+})();
+</script>
+</body>
+</html>

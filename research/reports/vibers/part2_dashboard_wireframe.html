@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Owner's morning dashboard - wireframe</title>
+<style>
+  :root { --ink:#1f2933; --muted:#667085; --line:#d9dee5; --bg:#f6f7f9; --card:#fff; --accent:#2b6cb0; }
+  * { box-sizing:border-box; }
+  body { margin:0; font:15px/1.5 system-ui,-apple-system,Segoe UI,sans-serif; color:var(--ink); background:var(--bg); }
+  main { max-width:1100px; margin:0 auto; padding:28px 20px 48px; }
+  h1 { font-size:22px; margin:0 0 4px; }
+  .sub { color:var(--muted); margin:0 0 22px; }
+  .note { background:#fff8e6; border:1px solid #f0d58c; padding:10px 14px; border-radius:8px; margin-bottom:20px; font-size:14px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(310px,1fr)); gap:16px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:16px; }
+  .card.wide { grid-column:1 / -1; border-color:var(--accent); }
+  .card header { display:flex; align-items:center; gap:10px; }
+  .card h2 { font-size:16px; margin:0; }
+  .num { background:var(--ink); color:#fff; width:24px; height:24px; border-radius:50%; display:grid; place-items:center; font-size:12px; }
+  .q { color:var(--muted); font-style:italic; margin:8px 0; }
+  .viz { height:64px; background:repeating-linear-gradient(90deg,#eef1f5 0 40px,#f8f9fb 40px 80px); border-radius:8px; margin:10px 0; display:flex; align-items:center; gap:10px; padding:0 12px; color:var(--muted); }
+  .viz i { flex:1; height:10px; background:#cfd6df; border-radius:5px; }
+  p { margin:6px 0; }
+  footer { display:flex; gap:8px; flex-wrap:wrap; margin-top:10px; }
+  .tag { font-size:11px; padding:2px 8px; border-radius:99px; border:1px solid var(--line); }
+  .tag.idea { background:#eef4ff; border-color:#c3d5f5; }
+  .tag.research { background:#eefbf2; border-color:#b8e3c5; }
+  .tag.none { background:#f3f4f6; color:var(--muted); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Owner's morning dashboard - Manali</h1>
+  <p class="sub">Wireframe: what information sits where, and why. Illustrative only - no real data or numbers.</p>
+  <div class="note"><b>IDEA</b> = design hypothesis, not evidence. The research tag shows how many verified
+  findings back that panel's data (see the research document).</div>
+  <div class="grid">
+      <section class="card wide">
+        <header>
+          <span class="num">7</span>
+          <h2>Today&#x27;s 3 actions - decision intelligence</h2>
+        </header>
+        <p class="q">Can the platform give simple recommendations instead of complicated reports?</p>
+        <div class="viz"><span>▲ ▼ ▬</span><i></i><i></i><i></i></div>
+        <p><b>Shows:</b> Three recommended actions for today, each with the reason behind it.</p>
+        <p><b>Why:</b> The reason an owner opens it every morning: it tells him what to do, not just what happened.</p>
+        <footer><span class="tag idea">IDEA</span><span class="tag none">none (owner&#x27;s own data / product design)</span></footer>
+      </section>
+      <section class="card">
+        <header>
+          <span class="num">1</span>
+          <h2>Market demand</h2>
+        </header>
+        <p class="q">Are more travellers visiting Manali this week? Is demand rising or falling?</p>
+        <div class="viz"><span>▲ ▼ ▬</span><i></i><i></i><i></i></div>
+        <p><b>Shows:</b> Demand trend vs last week (up / down / flat), a 14-day outlook, and the next long weekends.</p>
+        <p><b>Why:</b> Tells the owner whether to hold or drop prices and how much staff / stock to line up.</p>
+        <footer><span class="tag idea">IDEA</span><span class="tag research">13 verified finding(s)</span></footer>
+      </section>
+      <section class="card">
+        <header>
+          <span class="num">2</span>
+          <h2>Competitor intelligence</h2>
+        </header>
+        <p class="q">What are nearby properties charging, and what are they doing differently?</p>
+        <div class="viz"><span>▲ ▼ ▬</span><i></i><i></i><i></i></div>
+        <p><b>Shows:</b> Nearby rates for my room type (today / this weekend), who is sold out, and new offers rivals launched.</p>
+        <p><b>Why:</b> Pricing is the owner&#x27;s biggest daily decision; today it means checking apps one by one.</p>
+        <footer><span class="tag idea">IDEA</span><span class="tag research">13 verified finding(s)</span></footer>
+      </section>
+      <section class="card">
+        <header>
+          <span class="num">3</span>
+          <h2>Customer intelligence</h2>
+        </header>
+        <p class="q">What are guests complaining about at nearby hotels, and what experiences do they want?</p>
+        <div class="viz"><span>▲ ▼ ▬</span><i></i><i></i><i></i></div>
+        <p><b>Shows:</b> New reviews at nearby properties, this month&#x27;s top complaint themes, and what guests keep asking for.</p>
+        <p><b>Why:</b> Lets the owner fix the same problems before they hit his own reviews and copy what guests love.</p>
+        <footer><span class="tag idea">IDEA</span><span class="tag research">Part 1 findings</span></footer>
+      </section>
+      <section class="card">
+        <header>
+          <span class="num">4</span>
+          <h2>Revenue opportunities</h2>
+        </header>
+        <p class="q">What additional services could the property offer to increase earnings?</p>
+        <div class="viz"><span>▲ ▼ ▬</span><i></i><i></i><i></i></div>
+        <p><b>Shows:</b> Add-on services ranked by fit for this property (rentals, treks, café, workshops, events).</p>
+        <p><b>Why:</b> Turns empty beds and idle space into extra income without discounting.</p>
+        <footer><span class="tag idea">IDEA</span><span class="tag research">16 verified finding(s)</span></footer>
+      </section>
+      <section class="card">
+        <header>
+          <span class="num">5</span>
+          <h2>Local intelligence</h2>
+        </header>
+        <p class="q">Are there upcoming events, weather changes or tourist activities that may influence bookings?</p>
+        <div class="viz"><span>▲ ▼ ▬</span><i></i><i></i><i></i></div>
+        <p><b>Shows:</b> Events, weather and road/pass status for the next 14 days, each flagged as likely to raise or hurt bookings.</p>
+        <p><b>Why:</b> Lets the owner prepare for rushes and cancellations a week ahead instead of reacting.</p>
+        <footer><span class="tag idea">IDEA</span><span class="tag research">13 verified finding(s)</span></footer>
+      </section>
+      <section class="card">
+        <header>
+          <span class="num">6</span>
+          <h2>Business performance</h2>
+        </header>
+        <p class="q">What is working well, what isn&#x27;t, and what should the owner improve?</p>
+        <div class="viz"><span>▲ ▼ ▬</span><i></i><i></i><i></i></div>
+        <p><b>Shows:</b> Occupancy, average rate, revenue and review score vs last week, plus the top complaint inside the property.</p>
+        <p><b>Why:</b> One honest scoreboard; the owner sees movement, not a spreadsheet.</p>
+        <footer><span class="tag idea">IDEA</span><span class="tag none">none (owner&#x27;s own data / product design)</span></footer>
+      </section>
+  </div>
+</main>
+</body>
+</html>

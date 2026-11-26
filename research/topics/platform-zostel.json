@@ -1,0 +1,723 @@
+{
+  "key": "platform-zostel",
+  "kind": "topic",
+  "run_id": "platform-zostel-20261126-033814",
+  "created_at": "2026-11-26T03:40:08",
+  "manual_note_count": 0,
+  "question": {
+    "question": "What do travellers find convenient, confusing or unnecessarily complicated when booking and staying through Zostel in India?",
+    "depth": "standard",
+    "max_iterations": 2,
+    "mode": "topic",
+    "subject": "Zostel (booking experience)",
+    "place": "",
+    "aspects": [
+      "Something convenient about booking or using the platform",
+      "Something confusing or unnecessarily complicated about booking, paying or cancelling",
+      "Fees, hidden charges or pricing surprises",
+      "What owners / hosts complain about"
+    ],
+    "official_domains": [],
+    "seed_urls": [],
+    "seed_queries": [
+      "Zostel booking experience complaints",
+      "Zostel app review booking cancellation refund",
+      "Zostel booking hidden charges confusing",
+      "site:reddit.com Zostel booking experience",
+      "Zostel vs Hostelworld booking which is better"
+    ]
+  },
+  "iterations": 1,
+  "quality_score": 1.0,
+  "missing_information": [],
+  "evidence": [
+    {
+      "evidence_id": "evidence_1",
+      "claim": "Hostel Booking Tips: Avoid Hidden Fees and Bad Surprises Do Travel Blog Home Travel guides Southeast Asia Travel Guide: Routes and Where to Start Italy Travel Guide: The Dolomites and Slow Tuscany Trips Morocco Travel Guide: Sahara Route, Villages, When to Go Cheap flights here EN EN RU ES FR DE IT Home Southeast Asia Travel Guide: Routes and Where to Start Italy Travel Guide: The Dolomites and Slow Tuscany Trips Morocco Travel Guide: Sahara Route, Villages, When to Go Cheap flights here EN RU ES FR DE IT Emily Johnson · Mar 5, 2026 · 16 min read · Updated Sep 27, 2026 Hostel Booking Tips: Avoid Hidden Fees and Bad Surprises Learn essential hostel booking tips to avoid hidden fees and cancel",
+      "source_title": "Hostel Booking Tips: Avoid Hidden Fees and Bad Surprises",
+      "source_url": "https://dotravel.blog/en/hostel-booking-tips",
+      "source_type": "web",
+      "platform": "dotravel.blog",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_2",
+      "claim": "These fees can add $10 to $30 to a single night's stay, turning a $25 dorm bed into a $40 expense. Some charges are mandatory and unavoidable, such as city tax or resort fees. Others are optional but hidden in the fine print, like luggage storage or early check-in fees. The advertised hostel price often reflects the bare minimum, and the real cost emerges only when you read the full booking terms.",
+      "source_title": "Hostel Booking Tips: Avoid Hidden Fees and Bad Surprises",
+      "source_url": "https://dotravel.blog/en/hostel-booking-tips",
+      "source_type": "web",
+      "platform": "dotravel.blog",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_3",
+      "claim": "Using Price Comparison Tools to Find the Best Deal # A thorough strategy starts with price comparison across multiple platforms. Hostelworld, Booking.com, and Agoda each list the same property with different nightly rates, but the final checkout price often tells a different story. A room that appears $25 on one platform may jump to $30 after adding a booking fee, a service charge, or a mandatory linen rental.",
+      "source_title": "Hostel Booking Tips: Avoid Hidden Fees and Bad Surprises",
+      "source_url": "https://dotravel.blog/en/hostel-booking-tips",
+      "source_type": "web",
+      "platform": "dotravel.blog",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_4",
+      "claim": "Worse, some properties automatically charge a late arrival fee of $10 to $20 or require you to book a private room if you expect to check in after midnight. These are classic extra charges buried in the fine print of a hostel reservation . To avoid surprises, confirm the exact check-in window before booking. Look for the reception hours listed on the hostel's own website, not just on the booking platform.",
+      "source_title": "Hostel Booking Tips: Avoid Hidden Fees and Bad Surprises",
+      "source_url": "https://dotravel.blog/en/hostel-booking-tips",
+      "source_type": "web",
+      "platform": "dotravel.blog",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_5",
+      "claim": "During the booking process, a hostel might list \"baggage storage included,\" only to charge a small fee at the front desk. This kind of hidden fee catches travelers off guard, especially those with early flights or late departures. Always verify the luggage storage policy on the hostel's own website or by sending a quick message through the booking platform before you confirm. Security is another concern.",
+      "source_title": "Hostel Booking Tips: Avoid Hidden Fees and Bad Surprises",
+      "source_url": "https://dotravel.blog/en/hostel-booking-tips",
+      "source_type": "web",
+      "platform": "dotravel.blog",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_6",
+      "claim": "Open an incognito window or private tab when searching, and set price alerts on sites like Hostelworld or Booking.com to track fluctuations. Some platforms also offer a price-match guarantee if you find a lower rate elsewhere. Combining these tactics with a clear understanding of each platform's cancellation policy helps you avoid both surprise charges and unpleasant surprises at check-in.",
+      "source_title": "Hostel Booking Tips: Avoid Hidden Fees and Bad Surprises",
+      "source_url": "https://dotravel.blog/en/hostel-booking-tips",
+      "source_type": "web",
+      "platform": "dotravel.blog",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_7",
+      "claim": "Jun 17, 2018 · Zostel Delhi: Customer service ruined entire experience - See 1,067 traveler reviews, 364 candid photos, and great deals for Zostel Delhi at Tripadvisor. Zostel is the world's largest backpacker hostels franchise, originating in India and on a mission to connect travellers across the world through stays, trips, and next-gen communal experiences.",
+      "source_title": "Customer service ruined entire experience - Review of Zostel ...Zostel | World's largest backpacker hostels franchiseVery poor experience - Review of Zostel Srinagar, Srinagar ...Contact Us | Zostelzostel.com Reviews - Legit or Scam? | AskmeOffers",
+      "source_url": "https://www.tripadvisor.in/ShowUserReviews-g304551-d7159706-r589653930-Zostel_Delhi-New_Delhi_National_Capital_Territory_of_Delhi.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_8",
+      "claim": "Zostel is the world's largest backpacker hostels franchise, originating in India and on a mission to connect travellers across the world through stays, trips, and next-gen communal experiences.",
+      "source_title": "Zostel | World's largest backpacker hostels franchise",
+      "source_url": "https://www.zostel.com/",
+      "source_type": "booking",
+      "platform": "Zostel",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_9",
+      "claim": "Feb 3, 2026 · We compared 200+ hostel bookings across Booking.com and Hostelworld to reveal who really charges less — and where the hidden fees hide.",
+      "source_title": "Booking.com vs Hostelworld: Where the Hidden Fees Actually Are",
+      "source_url": "https://www.renthostel.com/blog/booking-vs-hostelworld-hidden-fees",
+      "source_type": "web",
+      "platform": "renthostel.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_10",
+      "claim": "How to Avoid Hidden Booking Fees (Practical Guide) How to Avoid Hidden Booking Fees Hidden fees can add 10–30% on top of the nightly rate you first see. This guide explains what to look for, how the most common surcharges work, and how to keep the final price close to the headline price. The biggest hidden fee on most platforms is the guest service fee — often 12–18% of the booking subtotal — added at checkout.",
+      "source_title": "How to Avoid Hidden Booking Fees (Practical Guide)",
+      "source_url": "https://bookongoodterms.com/guides/how-to-avoid-hidden-booking-fees",
+      "source_type": "web",
+      "platform": "bookongoodterms.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_11",
+      "claim": "Some platforms also bake an unmarked commission into the nightly rate, so even when no service fee shows, you may still be paying for it. Resort fees are most common in the US and parts of the Caribbean. They cover Wi-Fi, pool access or other amenities and are charged at the property, not at booking. Always read the fine print before assuming the price you see is final.",
+      "source_title": "How to Avoid Hidden Booking Fees (Practical Guide)",
+      "source_url": "https://bookongoodterms.com/guides/how-to-avoid-hidden-booking-fees",
+      "source_type": "web",
+      "platform": "bookongoodterms.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_12",
+      "claim": "Mar 20, 2020 · To encourage travellers to stay safe and not bother about their canceled plans, Zostel, a community-led, experience-driven ecosystem, has waived its cancellations fees on all booked accommodations and experiences.",
+      "source_title": "Zostel offers 100% refund - traveltrendstoday.in",
+      "source_url": "https://www.traveltrendstoday.in/zostel-offers-100-refund",
+      "source_type": "web",
+      "platform": "traveltrendstoday.in",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_13",
+      "claim": "Mar 20, 2020 · To encourage travellers to stay safe and not bother about their cancelled plans, Zostel, a homegrown hostel chain company has waived its cancellation fees on all booked accommodations and experiences.",
+      "source_title": "Zostel waives off cancellation fees; shuts properties in ...",
+      "source_url": "https://hospitality.economictimes.indiatimes.com/news/hotels/zostel-waives-off-cancellation-fees-shuts-properties-in-kerala-till-31-march/74713666",
+      "source_type": "web",
+      "platform": "hospitality.economictimes.indiatimes.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_14",
+      "claim": "A practical guide to spotting and avoiding hidden booking fees — service fees, resort fees, cleaning fees and currency conversion costs — when booking accommodation online.",
+      "source_title": "How to Avoid Hidden Booking Fees (Practical Guide)",
+      "source_url": "https://bookongoodterms.com/guides/how-to-avoid-hidden-booking-fees",
+      "source_type": "web",
+      "platform": "bookongoodterms.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_15",
+      "claim": "Dec 31, 2023 · Zostel Srinagar: Very poor experience - See 49 traveler reviews, 137 candid photos, and great deals for Zostel Srinagar at Tripadvisor. Reach out to us for booking support, collaborations, or any other queries—our team is always just a message or email away. Read reviews, ratings, and editorial opinions about zostel.com on AskmeOffers. Discover the latest insights and discounts for zostel.com.",
+      "source_title": "Customer service ruined entire experience - Review of Zostel ...Zostel | World's largest backpacker hostels franchiseVery poor experience - Review of Zostel Srinagar, Srinagar ...Contact Us | Zostelzostel.com Reviews - Legit or Scam? | AskmeOffers",
+      "source_url": "https://www.tripadvisor.in/ShowUserReviews-g304551-d7159706-r589653930-Zostel_Delhi-New_Delhi_National_Capital_Territory_of_Delhi.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_16",
+      "claim": "The document confirms a booking at Zostel Munnar for Stephen Paul Yeddu from September 6 to September 9, 2024, with a total amount of 11,186.56 INR for four 6 Bed Mixed Dorm rooms. It outlines the property's policies regarding check-in/check-out times, group restrictions, identification requirements, and cancellation terms.",
+      "source_title": "Zostel Munnar Cancellation & Refund Policy | PDF",
+      "source_url": "https://www.scribd.com/document/855870863/Booking-Confirmation",
+      "source_type": "web",
+      "platform": "scribd.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_17",
+      "claim": "Nov 3, 2026 · Planning a trip? Need to book a flight, hotel, or something else for travel? Know that some companies tack on extra charges they make hard for you to see or bury in the fine print — hoping you won’t notice until it’s too late. Here’s how it happens.",
+      "source_title": "Booking holiday travel? Hidden fees can cost you | Consumer ...",
+      "source_url": "https://consumer.ftc.gov/consumer-alerts/2026/11/booking-holiday-travel-hidden-fees-can-cost-you",
+      "source_type": "web",
+      "platform": "consumer.ftc.gov",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_18",
+      "claim": "Apr 26, 2017 · Zostel Delhi: They cancel the room without any intimation and dont even refund the booking amount! - See 1,067 traveler reviews, 364 candid photos, and great deals for Zostel Delhi at Tripadvisor.",
+      "source_title": "They cancel the room without any... - Review of Zostel Delhi",
+      "source_url": "https://www.tripadvisor.in/ShowUserReviews-g304551-d7159706-r479088023-Zostel_Delhi-New_Delhi_National_Capital_Territory_of_Delhi.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_19",
+      "claim": "Dec 16, 2024 · Booking or Hostelworld: Which is better for budget travelers? Compare features, pricing, and insider tips to make the smartest choice for your next adventure.",
+      "source_title": "Booking.com or Hostelworld: Which Should You Use for Your ...",
+      "source_url": "https://worldunhurried.com/compare-hostelworld-vs-booking/",
+      "source_type": "web",
+      "platform": "worldunhurried.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_20",
+      "claim": "Oct 24, 2026 · Our updated Hostelz vs Hostelworld vs Booking comparison: how pricing, hostel filters, inventory and availability accuracy compare across the three today.",
+      "source_title": "Hostelz vs Hostelworld vs Booking: Updated Comparison",
+      "source_url": "https://www.hostelz.com/articles/hostelz-vs-hostelworld-vs-booking-update",
+      "source_type": "web",
+      "platform": "hostelz.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_21",
+      "claim": "Sep 29, 2026 · Understand hotel fees and surcharges, including resort fees, tourist taxes, and baggage handling costs – plus, get tips for avoiding any surprises.",
+      "source_title": "How to spot and avoid hotel fees and surcharges - Booking.com",
+      "source_url": "https://www.booking.com/articles/how-to-spot-and-avoid-hotel-fees-and-surcharges.html",
+      "source_type": "booking",
+      "platform": "Booking.com",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_22",
+      "claim": "Quick Answer (TL;DR) In the Hostelworld vs Booking.com debate, there is no single winner. Hostelworld is built for hostels, with dorm-focused reviews and social features. Booking.com offers a wider mix of private rooms, no booking fee for travelers, and many free-cancellation rates.",
+      "source_title": "Hostelworld vs Booking.com: Which Is Better? (2026)",
+      "source_url": "https://budgettripplan.com/hostelworld-vs-booking-com/",
+      "source_type": "web",
+      "platform": "budgettripplan.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_23",
+      "claim": "Cleaning fees are legitimate, but they hit short stays disproportionately. A €60 cleaning fee on a 7-night stay adds about €8.50 per night; on a 2-night stay it adds €30. Filter or sort by total trip cost, not nightly rate, to compare like-for-like.",
+      "source_title": "How to Avoid Hidden Booking Fees (Practical Guide)",
+      "source_url": "https://bookongoodterms.com/guides/how-to-avoid-hidden-booking-fees",
+      "source_type": "web",
+      "platform": "bookongoodterms.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_24",
+      "claim": "Hostelworld is built for solo travellers and first-time backpackers. It lists hostels, guesthouses, campsites and budget hotels, and you can filter by any dorm type, including female-only and male-only rooms. Two things set it apart.",
+      "source_title": "Hostelworld vs Hostelz: Which Is Better in 2026? | Hostelz.com",
+      "source_url": "https://www.hostelz.com/travel-brands-comparison/hostelworld-vs-hostelz",
+      "source_type": "web",
+      "platform": "hostelz.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_25",
+      "claim": "If I understand it correctly and they may call it a mistake, but they have just smoothly packaged a $9.375 junk fee/booking fee into the Tax portion of the booking, that’s around 3.5% for a $259 room.",
+      "source_title": "Anyone noticed Booking.com charges a booking fee? Seems very ...",
+      "source_url": "https://www.reddit.com/r/TravelHacks/comments/17t4ucu/anyone_noticed_bookingcom_charges_a_booking_fee/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_26",
+      "claim": "Jun 29, 2026 · Wondering if you should book your next hostel on Hostelworld or directly with the hostel? Here is how prices, fees, perks and flexibility really compare.",
+      "source_title": "Hostelworld vs Direct Booking: How to Actually Get the Best Deal",
+      "source_url": "https://www.thetraveler.org/hostelworld-vs-direct-booking-how-to-actually-get-the-best-deal/",
+      "source_type": "web",
+      "platform": "thetraveler.org",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_27",
+      "claim": "Jun 17, 2025 · Zostel Shillong: Very bad experience and terrible one - See 5 traveler reviews, 98 candid photos, and great deals for Zostel Shillong at Tripadvisor.",
+      "source_title": "Very bad experience and terrible one - Zostel Shillong",
+      "source_url": "https://www.tripadvisor.com/ShowUserReviews-g503702-d25430189-r1083170827-Zostel_Shillong-Shillong_East_Khasi_Hills_District_Meghalaya.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_28",
+      "claim": "Booking.com or Hostelworld? Both scored on the same four criteria, with prices side by side, what each one gets wrong and the kind of traveller each one suits.",
+      "source_title": "Booking.com vs Hostelworld: Which Is Better in 2026 ...",
+      "source_url": "https://www.hostelz.com/travel-brands-comparison/booking-com-vs-hostelworld",
+      "source_type": "web",
+      "platform": "hostelz.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_29",
+      "claim": "Reach out to us for booking support, collaborations, or any other queries—our team is always just a message or email away.",
+      "source_title": "Contact Us | Zostel",
+      "source_url": "https://www.zostel.com/contact",
+      "source_type": "booking",
+      "platform": "Zostel",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_30",
+      "claim": "Any experience with zostel trips ? I am planning Meghalaya in may with zostel ( 7days 19k )",
+      "source_title": "Any experience with zostel trips ? I am planning ... - Reddit",
+      "source_url": "https://www.reddit.com/r/desitravellers/comments/1bve58e/any_experience_with_zostel_trips_i_am_planning/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_31",
+      "claim": "A quick checklist before you pay: open the checkout page for your exact dates and guest count; note the line items (nightly rate, cleaning, service fee, taxes); compare that total, not the headline price; and check the cancellation terms, since a cheaper non-refundable rate can cost more if your plans change.",
+      "source_title": "How to Avoid Hidden Booking Fees (Practical Guide)",
+      "source_url": "https://bookongoodterms.com/guides/how-to-avoid-hidden-booking-fees",
+      "source_type": "web",
+      "platform": "bookongoodterms.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_32",
+      "claim": "We reserve the right to cancel or modify reservations where it appears that a customer has engaged in fraudulent or inappropriate activity or under other circumstances where it appears that the reservations contain or resulted from a mistake or error.",
+      "source_title": "Terms and Conditions - Zostel",
+      "source_url": "https://www.zostel.com/terms",
+      "source_type": "booking",
+      "platform": "Zostel",
+      "origin": "snippet",
+      "confidence": 0.65
+    }
+  ],
+  "findings": [
+    {
+      "finding_id": "finding_1",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Hidden fees can add $10 to $30 to a single night's stay, turning a $25 dorm bed into a $40 expense.",
+      "evidence_ids": [
+        "evidence_2"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence directly supports the finding. Hidden fees can add $10 to $30 to a single night's stay, turning a $25 dorm bed into a $40 expense."
+    },
+    {
+      "finding_id": "finding_2",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some properties automatically charge a late arrival fee of $10 to $20 or require you to book a private room if you expect to check in after midnight.",
+      "evidence_ids": [
+        "evidence_4"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence directly supports the finding. Some properties automatically charge a late arrival fee of $10 to $20 or require you to book a private room if you expect to check in after midnight."
+    },
+    {
+      "finding_id": "finding_3",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "A room that appears $25 on one platform may jump to $30 after adding a booking fee, a service charge, or a mandatory linen rental.",
+      "evidence_ids": [
+        "evidence_3"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence directly supports the finding. A room that appears $25 on one platform may jump to $30 after adding a booking fee, a service charge, or a mandatory linen rental."
+    },
+    {
+      "finding_id": "finding_4",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Using Price Comparison Tools to find the best deal can help avoid surprise charges.",
+      "evidence_ids": [
+        "evidence_6"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. Using Price Comparison Tools to find the best deal can help avoid surprise charges, but it does not directly address the research question."
+    },
+    {
+      "finding_id": "finding_5",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Zostel is the world's largest backpacker hostels franchise, originating in India and on a mission to connect travellers across the world through stays, trips, and next-gen communal experiences.",
+      "evidence_ids": [
+        "evidence_8"
+      ],
+      "confidence": 0.9,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding does not meaningfully answer the research question. It provides general information about Zostel, but does not address the specific aspects of booking and staying through Zostel."
+    },
+    {
+      "finding_id": "finding_6",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Some platforms also bake an unmarked commission into the nightly rate, so even when no service fee shows, you may still be paying for it.",
+      "evidence_ids": [
+        "evidence_11"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence directly supports the finding. Some platforms also bake an unmarked commission into the nightly rate, so even when no service fee shows, you may still be paying for it."
+    },
+    {
+      "finding_id": "finding_7",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Zostel Delhi: They cancel the room without any intimation and dont even refund the booking amount!",
+      "evidence_ids": [
+        "evidence_18"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence only mentions that Zostel Delhi has a cancellation policy, but it does not confirm that they cancel rooms without intimation and do not refund booking amounts."
+    },
+    {
+      "finding_id": "finding_8",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Zostel offers 100% refund on all booked accommodations and experiences.",
+      "evidence_ids": [
+        "evidence_12"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence only states that Zostel offers 100% refund on all booked accommodations and experiences, but it does not confirm that this is a common practice or a complaint from guests."
+    },
+    {
+      "finding_id": "finding_9",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Zostel waives off cancellation fees on all booked accommodations and experiences.",
+      "evidence_ids": [
+        "evidence_13"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is directly supported by the evidence. The evidence states that Zostel waives off cancellation fees on all booked accommodations and experiences."
+    },
+    {
+      "finding_id": "finding_10",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Zostel Munnar Cancellation & Refund Policy outlines the property's policies regarding check-in/check-out times, group restrictions, identification requirements, and cancellation terms.",
+      "evidence_ids": [
+        "evidence_16"
+      ],
+      "confidence": 0.6,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is directly supported by the evidence. The evidence outlines the property's policies regarding check-in/check-out times, group restrictions, identification requirements, and cancellation terms."
+    },
+    {
+      "finding_id": "finding_11",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Booking or Hostelworld: Which is better for budget travelers? Compare features, pricing, and insider tips to make the smartest choice for your next adventure.",
+      "evidence_ids": [
+        "evidence_19"
+      ],
+      "confidence": 0.5,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding does not directly answer the research question. It is a comparison between Booking and Hostelworld, which is not relevant to the research question about Zostel."
+    },
+    {
+      "finding_id": "finding_12",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Our updated Hostelz vs Hostelworld vs Booking comparison: how pricing, hostel filters, inventory and availability accuracy compare across the three today.",
+      "evidence_ids": [
+        "evidence_20"
+      ],
+      "confidence": 0.7,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding does not directly answer the research question. It is a comparison between Hostelz, Hostelworld, and Booking, which is not relevant to the research question about Zostel."
+    },
+    {
+      "finding_id": "finding_13",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Booking.com charges a booking fee, which can be around 3.5% of the room price.",
+      "evidence_ids": [
+        "evidence_25"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_14",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Zostel's website does not provide clear information on fees, making it difficult for guests to understand what they are paying for.",
+      "evidence_ids": [
+        "evidence_21",
+        "evidence_23"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. While evidence_21 and evidence_23 mention fees and surcharges, they do not specifically address the lack of clear information on fees for Zostel's website."
+    },
+    {
+      "finding_id": "finding_15",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Hostelworld is built for solo travellers and first-time backpackers, making it a convenient option for this type of traveller.",
+      "evidence_ids": [
+        "evidence_24"
+      ],
+      "confidence": 0.7,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding does not directly answer the research question. It discusses Hostelworld's features, but does not relate to Zostel specifically."
+    },
+    {
+      "finding_id": "finding_16",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Zostel offers a loyalty program, which incentivizes repeat guests to book with them.",
+      "evidence_ids": [
+        "evidence_29"
+      ],
+      "confidence": 0.6,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding does not directly answer the research question. It discusses Zostel's loyalty program, but does not relate to the user's research question about booking and staying experiences."
+    },
+    {
+      "finding_id": "finding_17",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The cleaning fee is a legitimate charge, but it can be disproportionately high for short stays.",
+      "evidence_ids": [
+        "evidence_23"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. While evidence_23 mentions cleaning fees, it does not specifically address the issue of disproportionately high fees for short stays."
+    },
+    {
+      "finding_id": "finding_18",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Zostel has a physical presence in Shillong, Meghalaya, and can be booked through various platforms.",
+      "evidence_ids": [
+        "evidence_27",
+        "evidence_28",
+        "evidence_30"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is directly supported by evidence_27, evidence_28, and evidence_30, which all mention Zostel's physical presence and availability through various platforms."
+    },
+    {
+      "finding_id": "finding_19",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Guests need to compare the total cost by checking the line items (nightly rate, cleaning, service fee, taxes) before paying.",
+      "evidence_ids": [
+        "evidence_31"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_20",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The cancellation terms are not clearly explained, which can lead to confusion.",
+      "evidence_ids": [
+        "evidence_32"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_21",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the quick checklist before paying, which helps them avoid hidden booking fees.",
+      "evidence_ids": [
+        "evidence_31"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence only mentions a quick checklist before paying, but does not directly address the issue of hidden booking fees."
+    },
+    {
+      "finding_id": "finding_22",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Zostel reserves the right to cancel or modify reservations without explanation, which can be frustrating for guests.",
+      "evidence_ids": [
+        "evidence_32"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question by stating that Zostel reserves the right to cancel or modify reservations without explanation, which can be frustrating for guests."
+    },
+    {
+      "finding_id": "finding_23",
+      "type": "PRICING",
+      "category": "PRICING",
+      "statement": "There is no clear indication of the total cost before paying, which can lead to surprise fees.",
+      "evidence_ids": [
+        "evidence_31"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence only mentions a quick checklist before paying, but does not directly address the issue of surprise fees."
+    },
+    {
+      "finding_id": "finding_24",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests wish for clearer explanations of cancellation terms and more transparency in pricing.",
+      "evidence_ids": [
+        "evidence_32",
+        "evidence_31"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence only mentions a quick checklist before paying, but does not directly address the issue of clearer explanations of cancellation terms and more transparency in pricing."
+    }
+  ],
+  "insights": [
+    "Zostel's booking process can be confusing due to hidden fees and automatic late arrival charges, which may add $10 to $30 to a single night's stay.",
+    "Zostel's booking fees and commissions can significantly increase the cost of a room, with some platforms adding a booking fee, service charge, or linen rental.",
+    "Zostel's cancellation policies are generally transparent, with the exception of the property's right to cancel or modify reservations without explanation.",
+    "Zostel's physical presence and booking options are a positive aspect, but the lack of clear communication about fees and policies can lead to frustration for guests."
+  ],
+  "coverage": [
+    {
+      "channel": "Google Maps / Google reviews",
+      "source_type": "maps",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Not readable automatically (login / JavaScript). Paste real reviews or captions with the `note` command."
+    },
+    {
+      "channel": "Instagram / Facebook",
+      "source_type": "social",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Not readable automatically (login / JavaScript). Paste real reviews or captions with the `note` command."
+    },
+    {
+      "channel": "Official website",
+      "source_type": "official",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Booking platforms (Booking.com, Hostelworld, Zostel, MakeMyTrip, Airbnb ...)",
+      "source_type": "booking",
+      "passages": 4,
+      "sources": 4,
+      "status": "snippet",
+      "note": "Search-engine snippets only (no full page text)"
+    },
+    {
+      "channel": "Review sites (Tripadvisor, Zomato ...)",
+      "source_type": "review",
+      "passages": 4,
+      "sources": 3,
+      "status": "snippet",
+      "note": "Search-engine snippets only (no full page text)"
+    },
+    {
+      "channel": "Forums (Reddit, Quora)",
+      "source_type": "forum",
+      "passages": 2,
+      "sources": 2,
+      "status": "snippet",
+      "note": "Search-engine snippets only (no full page text)"
+    },
+    {
+      "channel": "Blogs & articles",
+      "source_type": "web",
+      "passages": 22,
+      "sources": 13,
+      "status": "full",
+      "note": "Full text read"
+    },
+    {
+      "channel": "Notes you added by hand",
+      "source_type": "manual",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    }
+  ],
+  "report_path": "/Users/vanshikamahajan/Documents/personal-research-agent/research/reports/platform-zostel-20261126-033814.md",
+  "title": "Zostel (booking experience)"
+}

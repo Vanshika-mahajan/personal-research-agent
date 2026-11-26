@@ -47,7 +47,7 @@ def test_graph_runs():
         "missing_information": [],
         "evidence_score": 0.0,
         "iteration": 0,
-        "max_iterations": 1,
+        "max_iterations": 2,
         "quality_decision": "",
         "report": "",
     }
@@ -55,3 +55,32 @@ def test_graph_runs():
     result = graph.invoke(initial_state)
 
     assert result is not None
+
+def test_followup_query_generation():
+    from app.graph.nodes import generate_followup_queries
+
+    state = {
+        "question": ResearchQuestion(
+            question="Research hostels in Manali"
+        ),
+        "missing_information": [
+            "Research needs more independent sources."
+        ],
+        "search_queries": [
+            "Research hostels in Manali"
+        ],
+    }
+
+    result = generate_followup_queries(state)
+
+    assert len(result["pending_queries"]) > 0
+
+    previous_queries = {
+        query.lower()
+        for query in state["search_queries"]
+    }
+
+    for query in result["pending_queries"]:
+        assert query.lower() not in previous_queries
+        assert isinstance(query, str)
+        assert query.strip()

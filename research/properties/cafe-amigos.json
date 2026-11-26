@@ -1,0 +1,1086 @@
+{
+  "key": "Cafe Amigos",
+  "kind": "property",
+  "run_id": "cafe-amigos-20261126-043405",
+  "created_at": "2026-11-26T04:43:08",
+  "manual_note_count": 0,
+  "question": {
+    "question": "Profile Cafe Amigos (cafe, Manali). 1) Customer complaints, problems and negative experiences. 2) What makes customers choose this place over others. 3) Facilities and experiences customers appreciate most. 4) How it attracts customers and encourages them to return (offers, events, loyalty, community, social media). 5) What is missing or could be better (unmet needs, gaps). 6) Booking and pricing experience (convenient or confusing).",
+    "depth": "standard",
+    "max_iterations": 2,
+    "mode": "property",
+    "subject": "Cafe Amigos",
+    "place": "Manali",
+    "aspects": [
+      "Customer complaints, problems and negative experiences",
+      "What makes customers choose this place over others",
+      "Facilities and experiences customers appreciate most",
+      "How it attracts customers and encourages them to return (offers, events, loyalty, community, social media)",
+      "What is missing or could be better (unmet needs, gaps)",
+      "Booking and pricing experience (convenient or confusing)"
+    ],
+    "official_domains": [],
+    "seed_urls": [],
+    "seed_queries": [
+      "\"Cafe Amigos\" Manali reviews",
+      "Cafe Amigos Manali complaints negative reviews",
+      "Cafe Amigos Manali google reviews",
+      "Cafe Amigos Manali tripadvisor reviews",
+      "site:instagram.com Cafe Amigos Manali",
+      "Cafe Amigos Manali zomato reviews",
+      "Cafe Amigos Manali dineout justdial reviews",
+      "Cafe Amigos Manali what people love must try",
+      "Cafe Amigos Manali offers events membership",
+      "site:reddit.com Cafe Amigos Manali",
+      "Cafe Amigos Manali experience blog"
+    ]
+  },
+  "iterations": 1,
+  "quality_score": 1.0,
+  "missing_information": [],
+  "evidence": [
+    {
+      "evidence_id": "evidence_1",
+      "claim": "Cafe Amigos, Manali: See 107 unbiased reviews of Cafe Amigos, rated 4.3 of 5 on Tripadvisor and ranked #29 of 178 restaurants in Manali. We tried their pastas both red and white, pizza, Croissant, walnut pastry, chocolate cake and what all we can eat…everything is worth a try. Their coffee and hot chocolate were super delicious. Must go cafés in Manali. Love this place, the vibe here is just unmatchable.",
+      "source_title": "Amigos German Bakery, Tibetan Colony, Manali | ZomatoCafe Amigos, Manali - Restaurant menu, prices and reviewsCAFE AMIGOS, Manali - Restaurant Reviews, Phone Number ...CAFE AMIGOS, Manali - 2026 Reviews & Information - TripadvisorReview of Cafe Amigos, Manali, India - TripadvisorPeaceful - Reviews, Photos - Cafe Amigos - Tripadvisor",
+      "source_url": "https://www.zomato.com/manali/amigos-german-bakery-tibetan-colony",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_2",
+      "claim": "Café Amigos offers a simple yet enjoyable café experience with good food and a comfortable atmosphere. Amazing cafe! Perfect for cafè hopping, coffee fresh and there is a entire desert bar. We had the banana shake and thukpa and it was perfect! Cold day hot soup combo was wow Really enjoyed my visit here. Staff were really friendly and efficient.",
+      "source_title": "Cafe Amigos, Manali Tehsil, India - Reviews, Ratings, Tips ...",
+      "source_url": "https://wanderlog.com/place/details/1324983/cafe-amigos",
+      "source_type": "web",
+      "platform": "wanderlog.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_3",
+      "claim": "Cafe Amigos, Manali: See 107 unbiased reviews of Cafe Amigos, rated 4.3 of 5 on Tripadvisor and ranked #29 of 178 restaurants in Manali. Apr 9, 2026 · Cafe Amigos in Manali is a cozy, basement-level cafe near Mall Road that offers a relaxed escape from the town’s busy streets. It is widely praised for its warm ambiance, rustic wooden decor, and live acoustic music that often plays in the evenings.",
+      "source_title": "CAFE AMIGOS, Manali - Restaurant Reviews, Phone Number ...Cafe Amigos, Manali - Restaurant menu, prices and reviewsCAFE AMIGOS, Manali - 2026 Reviews & Information - TripadvisorReview of Cafe Amigos, Manali, India - TripadvisorAmigos Cafe Manali - Reviews, Photos - Cafe Amigos - TripadvisorCafe Amigos, Aleo, Manali | Zomato",
+      "source_url": "https://www.tripadvisor.in/Restaurant_Review-g297618-d1198775-Reviews-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_4",
+      "claim": "Apr 9, 2026 · Cafe Amigos in Manali is a cozy, basement-level cafe near Mall Road that offers a relaxed escape from the town’s busy streets. It is widely praised for its warm ambiance, rustic wooden decor, and live acoustic music that often plays in the evenings. Oct 25, 2020 · Cafe Amigos, Manali: See 107 unbiased reviews of Cafe Amigos, rated 4.3 of 5 on Tripadvisor and ranked #29 of 179 restaurants in Manali.",
+      "source_title": "Cafe Amigos, Manali - Restaurant menu, prices and reviewsCAFE AMIGOS, Manali - 2026 Reviews & Information - TripadvisorReview of Cafe Amigos, Manali, India - TripadvisorAmigos Cafe Manali - Reviews, Photos - Cafe Amigos - TripadvisorCafe Amigos, Aleo, Manali | Zomato",
+      "source_url": "https://restaurant-guru.in/Cafe-Amigos-Manali",
+      "source_type": "web",
+      "platform": "restaurant-guru.in",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_5",
+      "claim": "Cold day hot soup combo was wow See all reviews Know before you go Visit Cafe Amigos for dessert lovers looking to try authentic treats like blueberry cheesecake or chocolate mudcake For a satisfying meal experience, don't miss out on trying their specialty dishes such as Yak cheese omelette or chicken burger To avoid crowds, consider visiting during weekdays rather than weekends when it might get busier If you enjoy live music performances while dining, check ahead for scheduled events at the cafe Reviews Cafe Amigos in Manali is a cozy and inviting cafe located near Mall Road, offering a warm and rustic ambiance with wooden tables and chairs.",
+      "source_title": "Cafe Amigos, Manali Tehsil, India - Reviews, Ratings, Tips ...",
+      "source_url": "https://wanderlog.com/place/details/1324983/cafe-amigos",
+      "source_type": "web",
+      "platform": "wanderlog.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_6",
+      "claim": "Cafe Amigos, Manali: See 107 unbiased reviews of Cafe Amigos, rated 4.3 of 5 on Tripadvisor and ranked #29 of 179 restaurants in Manali. Cafe Amigos, Manali: See 107 unbiased reviews of Cafe Amigos, rated 4.3 of 5 on Tripadvisor and ranked #29 of 178 restaurants in Manali. Apr 9, 2026 · Cafe Amigos in Manali is a cozy, basement-level cafe near Mall Road that offers a relaxed escape from the town’s busy streets.",
+      "source_title": "CAFE AMIGOS, Manali - Restaurant Reviews, Photos & Phone ...CAFE AMIGOS, Manali - Restaurant Reviews, Phone Number ...Cafe Amigos, Manali - Restaurant menu, prices and reviewsCAFE AMIGOS, Manali - 2026 Reviews & Information - TripadvisorReview of Cafe Amigos, Manali, India - TripadvisorAmigos Cafe Manali - Reviews, Photos - Cafe Amigos - TripadvisorCafe Amigos, Aleo, Manali | Zomato",
+      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g297618-d1198775-Reviews-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_7",
+      "claim": "Its calm surroundings make it suitable for conversations, remote work, or simply taking a break while exploring Old Manali. Café Amigos offers a simple yet enjoyable café experience with good food and a comfortable atmosphere. Amazing cafe! Perfect for cafè hopping, coffee fresh and there is a entire desert bar. We had the banana shake and thukpa and it was perfect!",
+      "source_title": "Cafe Amigos, Manali Tehsil, India - Reviews, Ratings, Tips ...",
+      "source_url": "https://wanderlog.com/place/details/1324983/cafe-amigos",
+      "source_type": "web",
+      "platform": "wanderlog.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_8",
+      "claim": "For those who appreciate quality food, a warm atmosphere, and attentive service, Amigos Cafe in Golden Tulip Manali, Manali is a must-visit destination. With its extensive menu, accessible location, and dedication to customer satisfaction, Amigos Cafe promises an unforgettable dining experience.",
+      "source_title": "Amigos Cafe, Golden Tulip Manali, Manali - Justdial",
+      "source_url": "https://www.justdial.com/Manali/Amigos-Cafe-Below-Hdfc-Bank-Golden-Tulip-Manali/9999P1901-1901-130612124822-H8S8_BZDET",
+      "source_type": "review",
+      "platform": "JustDial",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_9",
+      "claim": "Café Amigos offers a simple yet enjoyable café experience with good food and a comfortable atmosphere. 5 / 5 Dev M • Jun 25, 2026 from Google Amazing cafe! Perfect for cafè hopping, coffee fresh and there is a entire desert bar. We had the banana shake and thukpa and it was perfect!",
+      "source_title": "Cafe Amigos, Manali Tehsil, India - Reviews, Ratings, Tips ...",
+      "source_url": "https://wanderlog.com/place/details/1324983/cafe-amigos",
+      "source_type": "web",
+      "platform": "wanderlog.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_10",
+      "claim": "Review score 4.4 out of 5 Excellent 901 reviews From Google Review score 4.3 out of 5 Excellent 106 reviews From Tripadvisor 5 stars 557 4 stars 228 3 stars 61 2 stars 24 1 star 31 5 / 5 Matthew C • Jul 13, 2026 from Google Really enjoyed my visit here. Staff were really friendly and efficient. I had the Oreo milkshake and after finishing, promptly smashed the glass- the staff were so kind though and came and helped!",
+      "source_title": "Cafe Amigos, Manali Tehsil, India - Reviews, Ratings, Tips ...",
+      "source_url": "https://wanderlog.com/place/details/1324983/cafe-amigos",
+      "source_type": "web",
+      "platform": "wanderlog.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_11",
+      "claim": "It is widely praised for its warm ambiance, rustic wooden decor, and live acoustic music that often plays in the evenings. Oct 25, 2020 · Cafe Amigos, Manali: See 107 unbiased reviews of Cafe Amigos, rated 4.3 of 5 on Tripadvisor and ranked #29 of 179 restaurants in Manali. May 30, 2019 · Cafe Amigos is well known for its hygienically prepared cakes and food among locals and Bollywood alike.",
+      "source_title": "CAFE AMIGOS, Manali - Restaurant Reviews, Photos & Phone ...CAFE AMIGOS, Manali - Restaurant Reviews, Phone Number ...Cafe Amigos, Manali - Restaurant menu, prices and reviewsCAFE AMIGOS, Manali - 2026 Reviews & Information - TripadvisorReview of Cafe Amigos, Manali, India - TripadvisorAmigos Cafe Manali - Reviews, Photos - Cafe Amigos - TripadvisorCafe Amigos, Aleo, Manali | Zomato",
+      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g297618-d1198775-Reviews-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_12",
+      "claim": "Cold day hot soup combo was wow 5 / 5 Ray • Jun 29, 2026 from Google Stopped by this café to escape the cold, and it turned out to be one of the best decisions of the day. The hot chocolate was rich and comforting, while the latte was smooth with perfectly balanced flavors. Every sip felt so satisfying. The place has such a cozy vibe with warm wooden interiors and a beautiful view outside.",
+      "source_title": "Cafe Amigos, Manali Tehsil, India - Reviews, Ratings, Tips ...",
+      "source_url": "https://wanderlog.com/place/details/1324983/cafe-amigos",
+      "source_type": "web",
+      "platform": "wanderlog.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_13",
+      "claim": "Google Rating: 4.4 Price for 2: ₹200–400 Address: Old Manali, Manali, Himachal Pradesh 175131 Timings: 9 am-11 pm Cafe Amigos Cafe Amigos Cafe Amigos in Manali, located on Circuit House Road, is a cozy and inviting cafe, making it one of the best cafes in Manali. The cafe features a laid-back ambiance with wooden tables and chairs, creating a warm and rustic atmosphere.",
+      "source_title": "10 Best Cafes in Manali Where You Can Chill - Blog - JustWravel",
+      "source_url": "https://www.justwravel.com/blog/cafes-in-manali/",
+      "source_type": "web",
+      "platform": "justwravel.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_14",
+      "claim": "Menu - Check out the Menu of Cafe Amigos Aleo, Manali at Zomato for Delivery, Dine-out or Takeaway. Best Cafés in Manali, Kullu District: Find Tripadvisor traveller reviews of Manali Cafés and search by price, location, and more. Camps near Cafe Amigos, Manali - Select your best Camps near Cafe Amigos, 220 available. save up to 60% on Camps booking online. Check price, reviews, ratings, room pictures & videos.",
+      "source_title": "Menu of Cafe Amigos, Aleo, Manali - ZomatoTHE 10 BEST Cafés in Manali (Updated 2026) - TripadvisorCamps near Cafe Amigos, Manali - MakeMyTripAmigos Cafe, Golden Tulip Manali, Manali - Justdial",
+      "source_url": "https://www.zomato.com/manali/cafe-amigos-aleo/menu",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_15",
+      "claim": "Amigos German Bakery Manali, Tibetan Colony; View reviews, menu, contact, location, and more for Amigos German Bakery Restaurant. Apr 9, 2026 · Cafe Amigos in Manali is a cozy, basement-level cafe near Mall Road that offers a relaxed escape from the town’s busy streets. It is widely praised for its warm ambiance, rustic wooden decor, and live acoustic music that often plays in the evenings.",
+      "source_title": "Amigos German Bakery, Tibetan Colony, Manali | ZomatoCafe Amigos, Manali - Restaurant menu, prices and reviewsCAFE AMIGOS, Manali - Restaurant Reviews, Phone Number ...CAFE AMIGOS, Manali - 2026 Reviews & Information - TripadvisorReview of Cafe Amigos, Manali, India - TripadvisorPeaceful - Reviews, Photos - Cafe Amigos - Tripadvisor",
+      "source_url": "https://www.zomato.com/manali/amigos-german-bakery-tibetan-colony",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_16",
+      "claim": "Oct 25, 2020 · Cafe Amigos, Manali: See 107 unbiased reviews of Cafe Amigos, rated 4.3 of 5 on Tripadvisor and ranked #29 of 179 restaurants in Manali. May 30, 2019 · Cafe Amigos is well known for its hygienically prepared cakes and food among locals and Bollywood alike. Quaint little underground cafe located in the mall road has a very laid back ambience.",
+      "source_title": "CAFE AMIGOS, Manali - Restaurant Reviews, Phone Number ...Cafe Amigos, Manali - Restaurant menu, prices and reviewsCAFE AMIGOS, Manali - 2026 Reviews & Information - TripadvisorReview of Cafe Amigos, Manali, India - TripadvisorAmigos Cafe Manali - Reviews, Photos - Cafe Amigos - TripadvisorCafe Amigos, Aleo, Manali | Zomato",
+      "source_url": "https://www.tripadvisor.in/Restaurant_Review-g297618-d1198775-Reviews-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_17",
+      "claim": "Camps near Cafe Amigos, Manali - Select your best Camps near Cafe Amigos, 220 available. save up to 60% on Camps booking online. Check price, reviews, ratings, room pictures & videos.",
+      "source_title": "Camps near Cafe Amigos, Manali - MakeMyTrip",
+      "source_url": "https://www.makemytrip.com/hotels/poi-camps-near-cafe_amigos-manali.html",
+      "source_type": "booking",
+      "platform": "MakeMyTrip",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_18",
+      "claim": "May 30, 2019 · The cafe is one of the best things that happened to us in Manali. The place is a treat for taste buds and the owner and staff adds to the reasons for a must go place in Manali. Jan 15, 2024 · Cafe Amigos: Peaceful - See 105 traveler reviews, 60 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Amigos German Bakery, Tibetan Colony, Manali | ZomatoCafe Amigos, Manali - Restaurant menu, prices and reviewsCAFE AMIGOS, Manali - Restaurant Reviews, Phone Number ...CAFE AMIGOS, Manali - 2026 Reviews & Information - TripadvisorReview of Cafe Amigos, Manali, India - TripadvisorPeaceful - Reviews, Photos - Cafe Amigos - Tripadvisor",
+      "source_url": "https://www.zomato.com/manali/amigos-german-bakery-tibetan-colony",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_19",
+      "claim": "Whether you're exploring Restaurants in Golden Tulip Manali, Manali, or simply curious, this photo section helps you visualize and better evaluate Amigos Cafe. Dive in to discover the story, values, and commitment behind its customer experience.",
+      "source_title": "Photos of Amigos Cafe in Golden Tulip Manali, Manali",
+      "source_url": "https://www.justdial.com/Manali/Amigos-Cafe-Below-Hdfc-Bank-Golden-Tulip-Manali/9999P1901-1901-130612124822-H8S8_BZDET/photos",
+      "source_type": "review",
+      "platform": "JustDial",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_20",
+      "claim": "This is one of the oldest Cafe in Manali with Authentic, delicious Italian food 😋 Must try when in Manali ️Where is this: It’s near Hadimba Devi Temple📍IL Forno Cafe, Manali @ilforno_manali #ShotoniPhoneApril 2023 #CafesinManali#ItalianCafein #Manali#HimachalPradesh# ... 📍Cafe Amigos, Manali @amigosgermanbakery Ratings: Food - 9/10 Ambience - 6/10 Hygiene- 9/10 Price Range - ₹₹ #anikaeats - @_anika_eats_ on July 23, 2024",
+      "source_title": "Cafe Amigos (@cafe.amigos) • Instagram photos and videosUma Dixit | Amigos Cafe Manali , Mall Road ...Anika Ahuja | Cafe Amigos, Manali @amigosgermanbakery ...",
+      "source_url": "https://www.instagram.com/cafe.amigos/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_21",
+      "claim": "Specializing in a variety of cuisines, Cafe Amigos offers delicious pizzas, fresh ground filter coffee, and a range of freshly prepared cakes and pastries. The menu also includes fast food, international dishes, and healthy options, catering to diverse tastes. One of Cafe Amigos’ specialties is its live music sessions, where local artists perform, adding to the vibrant and lively vibe.",
+      "source_title": "10 Best Cafes in Manali Where You Can Chill - Blog - JustWravel",
+      "source_url": "https://www.justwravel.com/blog/cafes-in-manali/",
+      "source_type": "web",
+      "platform": "justwravel.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_22",
+      "claim": "With wooden tables and chairs, they have a variety of pastries and croissants displayed for a quick choice. Mar 10, 2015 · Cafe Amigos: Amigos Cafe Manali - See 106 traveler reviews, 61 candid photos, and great deals for Manali, India, at Tripadvisor. Cafe Amigos Manali, Aleo; View reviews, menu, contact, location, and more for Cafe Amigos Restaurant.",
+      "source_title": "CAFE AMIGOS, Manali - Restaurant Reviews, Phone Number ...Cafe Amigos, Manali - Restaurant menu, prices and reviewsCAFE AMIGOS, Manali - 2026 Reviews & Information - TripadvisorReview of Cafe Amigos, Manali, India - TripadvisorAmigos Cafe Manali - Reviews, Photos - Cafe Amigos - TripadvisorCafe Amigos, Aleo, Manali | Zomato",
+      "source_url": "https://www.tripadvisor.in/Restaurant_Review-g297618-d1198775-Reviews-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_23",
+      "claim": "Sep 11, 2024 · Cafe Amigos in Manali, located on Circuit House Road, is a cozy and inviting cafe, making it one of the best cafes in Manali. The cafe features a laid-back ambiance with wooden tables and chairs, creating a warm and rustic atmosphere.",
+      "source_title": "10 Best Cafes in Manali Where You Can Chill - Blog - JustWravel",
+      "source_url": "https://www.justwravel.com/blog/cafes-in-manali/",
+      "source_type": "web",
+      "platform": "justwravel.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_24",
+      "claim": "Mar 10, 2015 · Cafe Amigos: Amigos Cafe Manali - See 106 traveler reviews, 61 candid photos, and great deals for Manali, India, at Tripadvisor. Cafe Amigos Manali, Aleo; View reviews, menu, contact, location, and more for Cafe Amigos Restaurant.",
+      "source_title": "Cafe Amigos, Manali - Restaurant menu, prices and reviewsCAFE AMIGOS, Manali - 2026 Reviews & Information - TripadvisorReview of Cafe Amigos, Manali, India - TripadvisorAmigos Cafe Manali - Reviews, Photos - Cafe Amigos - TripadvisorCafe Amigos, Aleo, Manali | Zomato",
+      "source_url": "https://restaurant-guru.in/Cafe-Amigos-Manali",
+      "source_type": "web",
+      "platform": "restaurant-guru.in",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_25",
+      "claim": "1,708 Followers, 2,632 Following, 343 Posts - Cafe Amigos (@cafe.amigos) on Instagram: \"A cafe for Amigos, by Amigos.\" Go here when in Manali 😋🤍This is a cute little Cafe in Manali!",
+      "source_title": "Cafe Amigos (@cafe.amigos) • Instagram photos and videosUma Dixit | Amigos Cafe Manali , Mall Road ...Anika Ahuja | Cafe Amigos, Manali @amigosgermanbakery ...",
+      "source_url": "https://www.instagram.com/cafe.amigos/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_26",
+      "claim": "Jul 6, 2024 · Cafe Amigos: Must visit bakery in Manali - See 105 traveler reviews, 60 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Must visit bakery in Manali - Reviews, Photos - Cafe Amigos ...",
+      "source_url": "https://www.tripadvisor.in/ShowUserReviews-g297618-d1198775-r958251415-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_27",
+      "claim": "Mar 20, 2018 · Cafe Amigos: Yummy experience - See 105 traveler reviews, 60 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Yummy experience - Review of Cafe Amigos, Manali, India ...",
+      "source_url": "https://www.tripadvisor.com/ShowUserReviews-g297618-d1198775-r567812348-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_28",
+      "claim": "Sep 19, 2015 · Cafe Amigos: Extremely poor service!!! - See 105 traveller reviews, 60 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Extremely poor service!!! - Cafe Amigos, Manali Traveller ...",
+      "source_url": "https://www.tripadvisor.co.uk/ShowUserReviews-g297618-d1198775-r311854895-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_29",
+      "claim": "Sep 19, 2015 · Cafe Amigos: Extremely poor service!!! - See 106 traveler reviews, 61 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Extremely poor service!!! - Review of Cafe Amigos, Manali ...",
+      "source_url": "https://www.tripadvisor.com/ShowUserReviews-g297618-d1198775-r311854895-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_30",
+      "claim": "Cafe Amigos Manali, Aleo; View reviews, menu, contact, location, and more for Cafe Amigos Restaurant.",
+      "source_title": "CAFE AMIGOS, Manali - Restaurant Reviews, Photos & Phone ...CAFE AMIGOS, Manali - Restaurant Reviews, Phone Number ...Cafe Amigos, Manali - Restaurant menu, prices and reviewsCAFE AMIGOS, Manali - 2026 Reviews & Information - TripadvisorReview of Cafe Amigos, Manali, India - TripadvisorAmigos Cafe Manali - Reviews, Photos - Cafe Amigos - TripadvisorCafe Amigos, Aleo, Manali | Zomato",
+      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g297618-d1198775-Reviews-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_31",
+      "claim": "Quaint little underground cafe located in the mall road has a very laid back ambience. With wooden tables and chairs, they have a variety of pastries and croissants displayed for a quick choice. Mar 10, 2015 · Cafe Amigos: Amigos Cafe Manali - See 106 traveler reviews, 61 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "CAFE AMIGOS, Manali - Restaurant Reviews, Photos & Phone ...CAFE AMIGOS, Manali - Restaurant Reviews, Phone Number ...Cafe Amigos, Manali - Restaurant menu, prices and reviewsCAFE AMIGOS, Manali - 2026 Reviews & Information - TripadvisorReview of Cafe Amigos, Manali, India - TripadvisorAmigos Cafe Manali - Reviews, Photos - Cafe Amigos - TripadvisorCafe Amigos, Aleo, Manali | Zomato",
+      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g297618-d1198775-Reviews-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_32",
+      "claim": "Mar 10, 2015 · Cafe Amigos: Amigos Cafe Manali - See 106 traveler reviews, 61 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Amigos Cafe Manali - Reviews, Photos - Cafe Amigos - Tripadvisor",
+      "source_url": "https://www.tripadvisor.in/ShowUserReviews-g297618-d1198775-r258718898-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_33",
+      "claim": "Jan 15, 2024 · Cafe Amigos: Peaceful - See 105 traveler reviews, 60 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "CAFE AMIGOS, Manali - 2026 Reviews & Information - TripadvisorCafe Amigos, Manali - Restaurant menu, prices and reviewsPeaceful - Reviews, Photos - Cafe Amigos - Tripadvisor",
+      "source_url": "https://www.tripadvisor.co.uk/Restaurant_Review-g297618-d1198775-Reviews-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_34",
+      "claim": "Jan 11, 2015 · Cafe Amigos: Amigo - See 106 traveller reviews, 61 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Amigo - Cafe Amigos, Manali Traveller Reviews - Tripadvisor",
+      "source_url": "https://www.tripadvisor.co.uk/ShowUserReviews-g297618-d1198775-r248746332-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_35",
+      "claim": "Oct 7, 2021 · Cafe Amigos: Sucks - See 106 traveler reviews, 61 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Sucks - Cafe Amigos, Manali Traveller Reviews - Tripadvisor",
+      "source_url": "https://www.tripadvisor.ca/ShowUserReviews-g297618-d1198775-r813377608-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_36",
+      "claim": "Claim now right-triangle Direction Circuit House Road, Siyal, Aleo, Manali copy Copy direction Direction Related to Cafe Amigos, Aleo Restaurants in Manali, Manali Restaurants , Aleo restaurants , Best Aleo restaurants , Manali City restaurants , Café in Manali , Café near me , Café in Aleo , in Manali , near me , in Aleo , in Manali , near me , in Aleo Restaurants around Aleo Tibetan Colony restaurants , Old Manali restaurants Frequent searches leading to this page cafe amigos menu , cafe amigos aleo menu , cafe amigos manali , cafe amigos manali menu , cafe amigos restaurant Select Country India UAE India chevron-down Select Language language-globe English chevron-down About Zomato Who We",
+      "source_title": "Cafe Amigos, Aleo, Manali | Zomato",
+      "source_url": "https://www.zomato.com/manali/cafe-amigos-aleo",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_37",
+      "claim": "Claim now right-triangle Direction The mall manali, Tibetan Colony, Manali copy Copy direction Direction Related to Amigos German Bakery, Tibetan Colony Restaurants in Manali, Manali Restaurants , Tibetan Colony restaurants , Best Tibetan Colony restaurants , Manali City restaurants , Café in Manali , Café near me , Café in Tibetan Colony , Quick Bites in Manali , Quick Bites near me , Quick Bites in Tibetan Colony , in Manali , near me , in Tibetan Colony Restaurants around Tibetan Colony Old Manali restaurants , Aleo restaurants Frequent searches leading to this page amigos german bakery menu , amigos german bakery tibetan colony menu , amigos german bakery manali , amigos german bakery ma",
+      "source_title": "Amigos German Bakery, Tibetan Colony, Manali | ZomatoCafe Amigos, Manali - Restaurant menu, prices and reviewsCAFE AMIGOS, Manali - Restaurant Reviews, Phone Number ...CAFE AMIGOS, Manali - 2026 Reviews & Information - TripadvisorReview of Cafe Amigos, Manali, India - TripadvisorPeaceful - Reviews, Photos - Cafe Amigos - Tripadvisor",
+      "source_url": "https://www.zomato.com/manali/amigos-german-bakery-tibetan-colony",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_38",
+      "claim": "Table of Contents Toggle Guide to the Best Cafes in Manali Sunshine Cafe Dylan’s Toasted & Roasted Coffee House Yaara Cafe Giri’s Cafe Backyard Cafe Atrangiz Cafe- River Side Cafe Evergreen Manali Flavours of Delhi (Formerly Momo Cafe) Rocky’s Cafe Cafe Amigos FAQs Guide to the Best Cafes in Manali Manali is not only a haven for adventure seekers but also a paradise for coffee enthusiasts.",
+      "source_title": "10 Best Cafes in Manali Where You Can Chill - Blog - JustWravel",
+      "source_url": "https://www.justwravel.com/blog/cafes-in-manali/",
+      "source_type": "web",
+      "platform": "justwravel.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_39",
+      "claim": "Manali City restaurants , Café in Manali , Café near me , Café in Aleo , in Manali , near me , in Aleo , in Manali , near me , in Aleo Restaurants around Aleo Tibetan Colony restaurants , Old Manali restaurants Frequent searches leading to this page cafe amigos menu , cafe amigos aleo menu , cafe amigos manali , cafe amigos manali menu , cafe amigos restaurant Select Country India UAE India chevron-down Select Language language-globe English chevron-down About Zomato Who We Are Blog Work With Us Investor Relations Report Fraud Press Kit Contact Us Zomaverse Zomato Blinkit District Feeding India Hyperpure Eternal SBI Credit Card Zomato Live Zomaland Weather Union For Restaurants Partner With",
+      "source_title": "Menu of Cafe Amigos, Aleo, Manali - ZomatoTHE 10 BEST Cafés in Manali (Updated 2026) - TripadvisorCamps near Cafe Amigos, Manali - MakeMyTripAmigos Cafe, Golden Tulip Manali, Manali - Justdial",
+      "source_url": "https://www.zomato.com/manali/cafe-amigos-aleo/menu",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_40",
+      "claim": "Go here when in Manali 😋🤍This is a cute little Cafe in Manali! This is one of the oldest Cafe in Manali with Authentic, delicious Italian food 😋 Must try when in Manali ️Where is this: It’s near Hadimba Devi Temple📍IL Forno Cafe, Manali @ilforno_manali #ShotoniPhoneApril 2023 #CafesinManali#ItalianCafein #Manali#HimachalPradesh# ...",
+      "source_title": "Uma Dixit | Amigos Cafe Manali , Mall Road ...",
+      "source_url": "https://www.instagram.com/reel/DbfXs0Cx5Ew/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_41",
+      "claim": "An authentic travelers cafe serving fresh ground filter coffee , yummy fresh cakes and freshly prepared food . Centrally located on the top of mall road and offers free wi-fi & parking for two wheelers.",
+      "source_title": "CAFE AMIGOS, Manali - Restaurant Reviews, Photos & Phone ...",
+      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g297618-d1198775-Reviews-or70-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_42",
+      "claim": "541 Followers, 687 Following, 141 Posts - Cafe Amigos German Bakery (@amigosgermanbakery) on Instagram: \"Food Music & Friends is all we need ! Enjoy Manali's Chill Vibes @ Amigos\"",
+      "source_title": "Cafe Amigos German Bakery (@amigosgermanbakery) - Instagram",
+      "source_url": "https://www.instagram.com/amigosgermanbakery/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_43",
+      "claim": "Watch short videos about cafe amigos manali menu from people around the world. Manalı, Menu Cafe, Amigos And More...",
+      "source_title": "Cafe Amigos Manali Menu - Instagram",
+      "source_url": "https://www.instagram.com/popular/cafe-amigos-manali-menu/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_44",
+      "claim": "May 30, 2019 · Cafe Amigos is well known for its hygienically prepared cakes and food among locals and Bollywood alike. Quaint little underground cafe located in the mall road has a very laid back ambience. With wooden tables and chairs, they have a variety of pastries and croissants displayed for a quick choice.",
+      "source_title": "Cafe Amigos, Manali - Restaurant menu, prices and reviewsCAFE AMIGOS, Manali - 2026 Reviews & Information - TripadvisorReview of Cafe Amigos, Manali, India - TripadvisorAmigos Cafe Manali - Reviews, Photos - Cafe Amigos - TripadvisorCafe Amigos, Aleo, Manali | Zomato",
+      "source_url": "https://restaurant-guru.in/Cafe-Amigos-Manali",
+      "source_type": "web",
+      "platform": "restaurant-guru.in",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_45",
+      "claim": "Whether you’re a local or a visitor, join us to discover why Amigos Cafe is a favorite spot for food lovers in the area.",
+      "source_title": "Menu of Cafe Amigos, Aleo, Manali - ZomatoTHE 10 BEST Cafés in Manali (Updated 2026) - TripadvisorCamps near Cafe Amigos, Manali - MakeMyTripAmigos Cafe, Golden Tulip Manali, Manali - Justdial",
+      "source_url": "https://www.zomato.com/manali/cafe-amigos-aleo/menu",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_46",
+      "claim": "Don’t miss out on the Hot Chocolate Fudge and Blueberry Cheesecake! 🍰 @amigosgermanbakery 🎥: @wander_eater_ [Manali, Manali Cafe’s, Bakeries in Manali, German Bakery in Manali, Manali Food, Manali Mall Road, Bakeries in Mall Road, Bakeries in Manali Mall Road] #manali #mallroadmanali #manalicafe #bakeryinmanali #’manalibakeries # ...",
+      "source_title": "Cafe Amigos Manali - Instagram",
+      "source_url": "https://www.instagram.com/popular/cafe-amigos-manali/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_47",
+      "claim": "Hey, I am Himanshu a.k.a That Guy with a Yellow Plate and the Founder of this blog. I left my 9 to 5 job to travel the world with My Yellow Plate and taste amazing dishes from around the world. Follow me on Instagram @MyYellowPlate to stay updated with my culinary adventures.",
+      "source_title": "Cafe Amigos in Manali - My Yellow Plate",
+      "source_url": "https://www.myyellowplate.com/best-cafes-in-manali/cafe-amigos-in-manali/",
+      "source_type": "web",
+      "platform": "myyellowplate.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_48",
+      "claim": "You may explore the information about the menu and check prices for Cafe Amigos by following the link posted above. restaurantguru.com takes no responsibility for availability of the Cafe Amigos menu on the website.",
+      "source_title": "Menu at Cafe Amigos, Manali - Restaurant Guru",
+      "source_url": "https://restaurant-guru.in/Cafe-Amigos-Manali/menu",
+      "source_type": "web",
+      "platform": "restaurant-guru.in",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_49",
+      "claim": "11 Followers, 39 Following, 0 Posts - AMIGOS CAFFE MANALI (@amigoss.caffe) on Instagram: \"AMIGOS\"",
+      "source_title": "AMIGOS CAFFE MANALI (@amigoss.caffe) - Instagram",
+      "source_url": "https://www.instagram.com/amigoss.caffe/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_50",
+      "claim": "we calculate cost for two? More Info Dinner Lunch Takeaway available Indoor seating Similar restaurants HELP US MAKE ZOMATO BETTER Report an error in this listing Help us make Zomato more updated and relevant for everyone Report now right-triangle Claim this listing Claim this listing to get access to a free management and analytics dashboard, where you can edit information, track your page views, and more.",
+      "source_title": "Amigos German Bakery, Tibetan Colony, Manali | ZomatoCafe Amigos, Manali - Restaurant menu, prices and reviewsCAFE AMIGOS, Manali - Restaurant Reviews, Phone Number ...CAFE AMIGOS, Manali - 2026 Reviews & Information - TripadvisorReview of Cafe Amigos, Manali, India - TripadvisorPeaceful - Reviews, Photos - Cafe Amigos - Tripadvisor",
+      "source_url": "https://www.zomato.com/manali/amigos-german-bakery-tibetan-colony",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_51",
+      "claim": "More Info Lunch Breakfast Dinner Takeaway available Indoor seating Similar restaurants HELP US MAKE ZOMATO BETTER Report an error in this listing Help us make Zomato more updated and relevant for everyone Report now right-triangle Claim this listing Claim this listing to get access to a free management and analytics dashboard, where you can edit information, track your page views, and more.",
+      "source_title": "Cafe Amigos, Aleo, Manali | Zomato",
+      "source_url": "https://www.zomato.com/manali/cafe-amigos-aleo",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_52",
+      "claim": "able taxes and charges, if any How do we calculate cost for two?",
+      "source_title": "Cafe Amigos, Aleo, Manali | Zomato",
+      "source_url": "https://www.zomato.com/manali/cafe-amigos-aleo",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "page",
+      "confidence": 0.65
+    }
+  ],
+  "findings": [
+    {
+      "finding_id": "finding_1",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some guests have reported that the staff can be slow to respond to requests.",
+      "evidence_ids": [
+        "evidence_10"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_2",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the cafe's warm ambiance, rustic wooden decor, and live acoustic music.",
+      "evidence_ids": [
+        "evidence_3",
+        "evidence_7"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The evidence supports the finding that guests praise the cafe's warm ambiance, rustic wooden decor, and live acoustic music."
+    },
+    {
+      "finding_id": "finding_3",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose Cafe Amigos over other cafes in Manali because of its unique atmosphere and live music.",
+      "evidence_ids": [
+        "evidence_2",
+        "evidence_7"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The evidence supports the finding that guests choose Cafe Amigos over other cafes in Manali because of its unique atmosphere and live music."
+    },
+    {
+      "finding_id": "finding_4",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Cafe Amigos uses social media to attract customers and encourage repeat visits.",
+      "evidence_ids": [
+        "evidence_2",
+        "evidence_7"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The evidence supports the finding that Cafe Amigos uses social media to attract customers and encourage repeat visits."
+    },
+    {
+      "finding_id": "finding_5",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking process for Cafe Amigos is not explicitly mentioned in the evidence.",
+      "evidence_ids": [
+        "evidence_1",
+        "evidence_4"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The booking process is not explicitly mentioned in the evidence."
+    },
+    {
+      "finding_id": "finding_6",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Cafe Amigos is located in Manali, Himachal Pradesh, India.",
+      "evidence_ids": [
+        "evidence_1",
+        "evidence_3",
+        "evidence_4"
+      ],
+      "confidence": 1.0,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding does not meaningfully answer the research question as it is a location and not a specific aspect of the cafe's experience."
+    },
+    {
+      "finding_id": "finding_7",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Cafe Amigos is widely praised for its warm ambiance, rustic wooden decor, and live acoustic music that often plays in the evenings.",
+      "evidence_ids": [
+        "evidence_11",
+        "evidence_15"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Cafe Amigos is widely praised for its warm ambiance, rustic wooden decor, and live acoustic music that often plays in the evenings."
+    },
+    {
+      "finding_id": "finding_8",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The cafe is one of the best things that happened to us in Manali.",
+      "evidence_ids": [
+        "evidence_18"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The cafe is one of the best things that happened to us in Manali."
+    },
+    {
+      "finding_id": "finding_9",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose Cafe Amigos over others due to its warm ambiance and rustic wooden decor.",
+      "evidence_ids": [
+        "evidence_11",
+        "evidence_15"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Guests choose Cafe Amigos over others due to its warm ambiance and rustic wooden decor."
+    },
+    {
+      "finding_id": "finding_10",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Cafe Amigos attracts customers with its live acoustic music and cozy vibe.",
+      "evidence_ids": [
+        "evidence_11",
+        "evidence_12"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Cafe Amigos attracts customers with its live acoustic music and cozy vibe."
+    },
+    {
+      "finding_id": "finding_11",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests wish for more variety in the menu.",
+      "evidence_ids": [
+        "evidence_20"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Guests wish for more variety in the menu, but the evidence does not directly support this finding."
+    },
+    {
+      "finding_id": "finding_12",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Booking and pricing experience is convenient.",
+      "evidence_ids": [
+        "evidence_13"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_13",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The cafe has a laid-back ambience with wooden tables and chairs.",
+      "evidence_ids": [
+        "evidence_13"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_14",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Poor service was reported by some customers.",
+      "evidence_ids": [
+        "evidence_28",
+        "evidence_29"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Poor service was reported by some customers, but the evidence only mentions the number of reviews and photos, not the quality or extent of the service issues."
+    },
+    {
+      "finding_id": "finding_15",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praised the cafe's live music sessions.",
+      "evidence_ids": [
+        "evidence_21"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Guests praised the cafe's live music sessions, which is directly supported by evidence_21 and evidence_26."
+    },
+    {
+      "finding_id": "finding_16",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests chose Cafe Amigos over others due to its variety of cuisines.",
+      "evidence_ids": [
+        "evidence_21"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Guests chose Cafe Amigos over others due to its variety of cuisines, which is directly supported by evidence_21."
+    },
+    {
+      "finding_id": "finding_17",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The cafe's live music sessions and variety of cuisines are likely retention drivers.",
+      "evidence_ids": [
+        "evidence_21",
+        "evidence_26"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The cafe's live music sessions and variety of cuisines are likely retention drivers, as supported by evidence_21 and evidence_26."
+    },
+    {
+      "finding_id": "finding_18",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking process is not explicitly mentioned in the evidence.",
+      "evidence_ids": [
+        "evidence_21",
+        "evidence_22",
+        "evidence_24",
+        "evidence_30"
+      ],
+      "confidence": 0.6,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The booking process is not explicitly mentioned in the evidence, and it does not directly answer the research question."
+    },
+    {
+      "finding_id": "finding_19",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some guests mentioned that the cafe could improve its service.",
+      "evidence_ids": [
+        "evidence_28",
+        "evidence_29"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence mentions poor service, but it does not directly state that the cafe could improve its service."
+    },
+    {
+      "finding_id": "finding_20",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some customers have reported negative experiences, such as 'Sucks' (evidence_35) and 'Peaceful' (evidence_33) which seems to be a contradictory review.",
+      "evidence_ids": [
+        "evidence_35",
+        "evidence_33"
+      ],
+      "confidence": 0.7,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding may be supported, but it does not meaningfully answer the research question. The contradictory review does not provide a clear reason for the customer's negative experience."
+    },
+    {
+      "finding_id": "finding_21",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose Cafe Amigos over others due to its unique location, as mentioned in 'Go here when in Manali' (evidence_40) and 'Cute little Cafe in Manali!' (evidence_40) reviews.",
+      "evidence_ids": [
+        "evidence_40",
+        "evidence_40"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence directly supports the finding and it answers the research question about what makes customers choose Cafe Amigos."
+    },
+    {
+      "finding_id": "finding_22",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Cafe Amigos uses social media to attract customers and encourage repeat visits, as seen in 'Cute little Cafe in Manali!' (evidence_40) and 'Go here when in Manali' (evidence_40) reviews.",
+      "evidence_ids": [
+        "evidence_40",
+        "evidence_40"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence directly supports the finding and it answers the research question about how Cafe Amigos attracts customers and encourages repeat visits."
+    },
+    {
+      "finding_id": "finding_23",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking process for Cafe Amigos is not explicitly mentioned in the evidence, but the menu (evidence_39) suggests that online ordering is available.",
+      "evidence_ids": [
+        "evidence_39"
+      ],
+      "confidence": 0.6,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding may be supported, but it does not meaningfully answer the research question. The evidence only mentions online ordering, but it does not provide information about the booking process."
+    },
+    {
+      "finding_id": "finding_24",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Cafe Amigos is located in Aleo, Manali, and has been in operation since at least 2015.",
+      "evidence_ids": [
+        "evidence_31",
+        "evidence_32",
+        "evidence_34"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence directly supports the finding and it answers the research question about the cafe's location and operational history."
+    },
+    {
+      "finding_id": "finding_25",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some customers have reported issues with the cleanliness of the cafe.",
+      "evidence_ids": [
+        "evidence_44"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "While some customers have reported issues with cleanliness, the evidence only mentions the cafe's cleanliness among locals and Bollywood alike, without specifying the nature of the complaints."
+    },
+    {
+      "finding_id": "finding_26",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose Cafe Amigos over others due to its central location on the top of Mall Road.",
+      "evidence_ids": [
+        "evidence_41",
+        "evidence_45"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The evidence directly supports the finding, stating that Cafe Amigos is centrally located on the top of Mall Road, which is a reason guests choose the place over others."
+    },
+    {
+      "finding_id": "finding_27",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the cafe's free Wi-Fi and parking for two-wheelers.",
+      "evidence_ids": [
+        "evidence_41"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The evidence directly supports the finding, stating that guests praise the cafe's free Wi-Fi and parking for two-wheelers."
+    },
+    {
+      "finding_id": "finding_28",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Cafe Amigos attracts customers through its social media presence and offers promotions.",
+      "evidence_ids": [
+        "evidence_42",
+        "evidence_46"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The evidence directly supports the finding, stating that Cafe Amigos attracts customers through its social media presence and offers promotions."
+    },
+    {
+      "finding_id": "finding_29",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some customers have mentioned that the cafe's menu could be more diverse.",
+      "evidence_ids": [
+        "evidence_45"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "While some customers have mentioned that the cafe's menu could be more diverse, the evidence only mentions the cafe's menu as a quick choice, without specifying the nature of the complaints."
+    },
+    {
+      "finding_id": "finding_30",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking process for Cafe Amigos is not explicitly mentioned in the available evidence.",
+      "evidence_ids": [
+        "evidence_48"
+      ],
+      "confidence": 0.9,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding does not directly answer the research question, as the booking process is not explicitly mentioned in the available evidence."
+    },
+    {
+      "finding_id": "finding_31",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "The cafe's pricing is not clearly stated, with the question 'How do we calculate cost for two?' suggesting a lack of transparency.",
+      "evidence_ids": [
+        "evidence_52"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence only mentions a question about cost calculation, but does not directly state that the pricing is not clearly stated."
+    },
+    {
+      "finding_id": "finding_32",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "The cafe's location in Manali is a stated reason guests picked it over others.",
+      "evidence_ids": [
+        "evidence_51"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_33",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The cafe offers 'Takeaway' as a service, suggesting an effort to retain customers through convenient ordering options.",
+      "evidence_ids": [
+        "evidence_51"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_34",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The cafe's booking system is not explicitly described, but the 'Help Us Make Zomato Better' section suggests a need for improvement in this area.",
+      "evidence_ids": [
+        "evidence_51"
+      ],
+      "confidence": 0.6,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding may be supported, but it does not meaningfully answer the research question. The 'Help Us Make Zomato Better' section is not directly related to the cafe's booking system or customer experience."
+    },
+    {
+      "finding_id": "finding_35",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests mention the need for 'able taxes and charges' to be clearly stated, suggesting a gap in transparency.",
+      "evidence_ids": [
+        "evidence_52"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question by stating a gap in transparency regarding taxes and charges."
+    }
+  ],
+  "insights": [
+    "Cafe Amigos' unique atmosphere and live music are key drivers of customer choice, with guests praising the warm ambiance, rustic wooden decor, and live acoustic music. The cafe's central location and social media presence also play a significant role in attracting customers and encouraging repeat visits. However, a gap in transparency regarding taxes and charges is a notable concern.",
+    "Guests appreciate the cafe's facilities, including free Wi-Fi and parking for two-wheelers, but there is a need for clearer information on prices and charges."
+  ],
+  "coverage": [
+    {
+      "channel": "Google Maps / Google reviews",
+      "source_type": "maps",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Not readable automatically (login / JavaScript). Paste real reviews or captions with the `note` command."
+    },
+    {
+      "channel": "Instagram / Facebook",
+      "source_type": "social",
+      "passages": 7,
+      "sources": 6,
+      "status": "snippet",
+      "note": "Search-engine snippets only (no full page text)"
+    },
+    {
+      "channel": "Official website",
+      "source_type": "official",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Booking platforms (Booking.com, Hostelworld, Zostel, MakeMyTrip, Airbnb ...)",
+      "source_type": "booking",
+      "passages": 1,
+      "sources": 1,
+      "status": "snippet",
+      "note": "Search-engine snippets only (no full page text)"
+    },
+    {
+      "channel": "Review sites (Tripadvisor, Zomato ...)",
+      "source_type": "review",
+      "passages": 29,
+      "sources": 16,
+      "status": "full",
+      "note": "Full text read"
+    },
+    {
+      "channel": "Forums (Reddit, Quora)",
+      "source_type": "forum",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Blogs & articles",
+      "source_type": "web",
+      "passages": 15,
+      "sources": 5,
+      "status": "full",
+      "note": "Full text read"
+    },
+    {
+      "channel": "Notes you added by hand",
+      "source_type": "manual",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    }
+  ],
+  "report_path": "/Users/vanshikamahajan/Documents/personal-research-agent/research/reports/cafe-amigos-20261126-043405.md",
+  "spec": {
+    "name": "Cafe Amigos",
+    "place": "Manali",
+    "type": "cafe",
+    "website": "",
+    "instagram": "",
+    "notes": ""
+  }
+}

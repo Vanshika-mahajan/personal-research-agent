@@ -1,0 +1,1081 @@
+{
+  "run_id": "dylan-s-toasted-roasted-20261126-033450",
+  "question": {
+    "question": "Profile Dylan's Toasted & Roasted (cafe, Manali). 1) Customer complaints, problems and negative experiences. 2) What makes customers choose this place over others. 3) Facilities and experiences customers appreciate most. 4) How it attracts customers and encourages them to return (offers, events, loyalty, community, social media). 5) What is missing or could be better (unmet needs, gaps). 6) Booking and pricing experience (convenient or confusing).",
+    "depth": "standard",
+    "max_iterations": 2,
+    "mode": "property",
+    "subject": "Dylan's Toasted & Roasted",
+    "place": "Manali",
+    "aspects": [
+      "Customer complaints, problems and negative experiences",
+      "What makes customers choose this place over others",
+      "Facilities and experiences customers appreciate most",
+      "How it attracts customers and encourages them to return (offers, events, loyalty, community, social media)",
+      "What is missing or could be better (unmet needs, gaps)",
+      "Booking and pricing experience (convenient or confusing)"
+    ],
+    "official_domains": [],
+    "seed_urls": [],
+    "seed_queries": [
+      "\"Dylan's Toasted & Roasted\" Manali reviews",
+      "Dylan's Toasted & Roasted Manali complaints negative reviews",
+      "Dylan's Toasted & Roasted Manali google reviews",
+      "Dylan's Toasted & Roasted Manali tripadvisor reviews",
+      "site:instagram.com Dylan's Toasted & Roasted Manali",
+      "Dylan's Toasted & Roasted Manali zomato reviews",
+      "Dylan's Toasted & Roasted Manali dineout justdial reviews",
+      "Dylan's Toasted & Roasted Manali what people love must try",
+      "Dylan's Toasted & Roasted Manali offers events membership",
+      "site:reddit.com Dylan's Toasted & Roasted Manali",
+      "Dylan's Toasted & Roasted Manali experience blog"
+    ]
+  },
+  "queries": [
+    "\"Dylan's Toasted & Roasted\" Manali reviews",
+    "Dylan's Toasted & Roasted Manali complaints negative reviews",
+    "Dylan's Toasted & Roasted Manali google reviews",
+    "Dylan's Toasted & Roasted Manali tripadvisor reviews",
+    "site:instagram.com Dylan's Toasted & Roasted Manali",
+    "Dylan's Toasted & Roasted Manali zomato reviews",
+    "Dylan's Toasted & Roasted Manali dineout justdial reviews",
+    "Dylan's Toasted & Roasted Manali what people love must try",
+    "Dylan's Toasted & Roasted Manali offers events membership",
+    "site:reddit.com Dylan's Toasted & Roasted Manali",
+    "Dylan's Toasted & Roasted Manali experience blog"
+  ],
+  "iterations": 1,
+  "quality_score": 1.0,
+  "quality_decision": "RESEARCH SUFFICIENT",
+  "missing_information": [],
+  "evidence": [
+    {
+      "evidence_id": "evidence_1",
+      "claim": "Coffee house Restaurant menu Frequently mentioned in reviews shakshuka Humus tuna Sandwich mocha Latte hot Chocolate Cookies cheesecake Slice breakfast Price a must visit highly recommend fish tuna See all Less Ratings of Dylan s Toasted & Roasted Zomato (4.6/5) 76 Foursquare (7.2/10) 14 Google (4.3/5) 1203 Trip (4.2/5) 139 Facebook (4.9/5) 220 Visitors' reviews on Dylan s Toasted & Roasted / 516 Search visitors’ reviews Add your review Request content removal Saloni Agarwal 3 months ago on Google One of the most disappointing café experiences I've ever had.",
+      "source_title": "Dylan s Toasted & Roasted, Manali - Restaurant menu, prices ...",
+      "source_url": "https://restaurant-guru.in/Dylans-Toasted-and-Roasted-Manali",
+      "source_type": "web",
+      "platform": "restaurant-guru.in",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_2",
+      "claim": "ON THE MAP READ MORE STORIES Winter in Manali—picture essay The best cafés in Manali Casa Bella Vista Kasol Rock Top Cottage Manali Palace The best restaurants in Manali People The best restaurants in Manali The Tavern Chic Chocolate Emily’s Clock Tower Café Kalsang Friends Corner The best places to have a meal in Mussoorie The Restaurant at The Oberoi Cecil Trishool Bakers & Confectioners 1 Dylan’s Toasted and Roasted 2 The best restaurants in Manali 3 The Tavern 4 Chic Chocolate 5 Emily’s 6 Clock Tower Café 7 Kalsang Friends Corner 8 The best places to have a meal in Mussoorie 9 The Restaurant at The Oberoi Cecil 10 Trishool Bakers & Confectioners Follow us on About us Authors Privacy Poli",
+      "source_title": "Dylan’s Toasted and Roasted, Manali - Get Dylan’s Toasted and ...Dylan's Toasted and Roasted Coffee House, Mall Road, Manali ...Dylan's Toasted & Roasted Coffee House, Old Manali, Manali ...",
+      "source_url": "https://timesofindia.indiatimes.com/travel/manali/dylans-toasted-and-roasted/ps36001281.cms",
+      "source_type": "web",
+      "platform": "timesofindia.indiatimes.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_3",
+      "claim": "Host could be a little more warm and welcoming . Meal type: Brunch Price per person: ₹800–1,000 Request content removal Nitish Gakhar 4 months ago on Google Best coffee in town! The coffee is rich and perfectly brewed, the freshly baked cookies are absolutely delicious, and the vibe is warm, cozy, and welcoming. A perfect place to relax, enjoy great music, and soak in the Old Manali atmosphere.",
+      "source_title": "Dylan s Toasted & Roasted, Manali - Restaurant menu, prices ...",
+      "source_url": "https://restaurant-guru.in/Dylans-Toasted-and-Roasted-Manali",
+      "source_type": "web",
+      "platform": "restaurant-guru.in",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_4",
+      "claim": "Nestled near Old Manali, Near Govt School in Mall Road, Dylan's Toasted and Roasted Coffee House is a convenient stop for both locals and visitors exploring the city. Jul 5, 2024 · Dylan's Toasted & Roasted Coffee House, Old Manali, Manali, Cafe, , 4 Photos. Rated 4.3 based on 73 Ratings and Reviews.",
+      "source_title": "Dylan’s Toasted and Roasted, Manali - Get Dylan’s Toasted and ...Dylan's Toasted and Roasted Coffee House, Mall Road, Manali ...Dylan's Toasted & Roasted Coffee House, Old Manali, Manali ...",
+      "source_url": "https://timesofindia.indiatimes.com/travel/manali/dylans-toasted-and-roasted/ps36001281.cms",
+      "source_type": "web",
+      "platform": "timesofindia.indiatimes.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_5",
+      "claim": "Price per person: ₹800–1,000 Food: 1 Service: 1 Atmosphere: 2 Vegetarian options: Worst cafe in Manali Request content removal mechavira101 4 months ago on Google Coffee: Coffee and roast was good but nothing extraordinary. We had veg and cheese sandwich which was great. Croissant was disappointing as it was a thick base bread rather than an actual croissant. Avoid ordering it.",
+      "source_title": "Dylan s Toasted & Roasted, Manali - Restaurant menu, prices ...",
+      "source_url": "https://restaurant-guru.in/Dylans-Toasted-and-Roasted-Manali",
+      "source_type": "web",
+      "platform": "restaurant-guru.in",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_6",
+      "claim": "Unbiased, genuine user reviews, ratings and experience for Dylan's Toasted and Roasted Coffee House, Mall Road on Justdial Aug 21, 2022 · Dylan's Toasted & Roasted Coffee House, Manali: See 138 unbiased reviews of Dylan's Toasted & Roasted Coffee House, rated 4.2 of 5 on Tripadvisor and ranked #25 of 178 restaurants in Manali.",
+      "source_title": "Dylan's Toasted & Roasted Coffee House. | Manali - FacebookDylan's Toasted and Roasted Coffee House Reviews, Mall Road ...Dylan's Toasted & Roasted Coffee House - TripadvisorCoffee at Dylan's - Reviews, Photos - Dylan's Toasted ...Dylan's, Old Manali, Manali | Zomato",
+      "source_url": "https://www.facebook.com/dylanscoffeehouse1/",
+      "source_type": "social",
+      "platform": "Facebook",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_7",
+      "claim": "Dylan's Toasted & Roasted Coffee House., Manali. 2,411 followers · 6 talking about this · 1,781 were here. A place for sharing life with the people around you its more then a cup of coffee. Reviews for Dylan's Toasted and Roasted Coffee House, Mall Road, Kullu.",
+      "source_title": "Dylan's Toasted & Roasted Coffee House. | Manali - FacebookDylan's Toasted and Roasted Coffee House Reviews, Mall Road ...Dylan's Toasted & Roasted Coffee House - TripadvisorCoffee at Dylan's - Reviews, Photos - Dylan's Toasted ...Dylan's, Old Manali, Manali | Zomato",
+      "source_url": "https://www.facebook.com/dylanscoffeehouse1/",
+      "source_type": "social",
+      "platform": "Facebook",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_8",
+      "claim": "fe Evergreen Manali #11 of 519 cafes in Manali The little sister cafe and bakery #14 of 519 cafes in Manali Seoul house manali-Authentic korean Restaurant #18 of 542 restaurants in Manali pure veg & vegan restaurant & best juices הקפה הטוב ביותר, & magic brownies #1 of 253 vegetarian restaurants in Manali Tasty dishes in Manali fish tuna soup ice cream cheesecake crumble cheese fries broth melt sandwich irish coffee fried cheese meat poultry chicken filet américain Restaurant features in Manali takeaway great service food delivery dinner lunch breakfast friendly staff great location beautiful view brunch cosy atmosphere live music birthday party beautiful interior outdoor seating Updated on:",
+      "source_title": "Dylan s Toasted & Roasted, Manali - Restaurant menu, prices ...",
+      "source_url": "https://restaurant-guru.in/Dylans-Toasted-and-Roasted-Manali",
+      "source_type": "web",
+      "platform": "restaurant-guru.in",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_9",
+      "claim": "This spot is notable for its terrific service. Prices here are reported to be adequate. You will appreciate the homey decor and cozy atmosphere of this cafe. As for the Google rating, Dylan s Toasted & Roasted got 4.3. Read more Hide Best in the city This award is based on the analysis of multiple factors, including reviews, ratings, and user engagement trends on Restaurant Guru.",
+      "source_title": "Dylan s Toasted & Roasted, Manali - Restaurant menu, prices ...",
+      "source_url": "https://restaurant-guru.in/Dylans-Toasted-and-Roasted-Manali",
+      "source_type": "web",
+      "platform": "restaurant-guru.in",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_10",
+      "claim": "Aug 21, 2022 · Dylan's Toasted & Roasted Coffee House, Manali: See 138 unbiased reviews of Dylan's Toasted & Roasted Coffee House, rated 4.2 of 5 on Tripadvisor and ranked #25 of 178 restaurants in Manali. Oct 4, 2017 · Dylan's Toasted & Roasted Coffee House: Coffee at Dylan's - See 138 traveler reviews, 53 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Dylan's Toasted & Roasted Coffee House - TripadvisorCoffee at Dylan's - Reviews, Photos - Dylan's Toasted ...Dylan's, Old Manali, Manali | Zomato",
+      "source_url": "https://www.tripadvisor.in/Restaurant_Review-g297618-d1198804-Reviews-Dylan_s_Toasted_Roasted_Coffee_House-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_11",
+      "claim": "Dylan's Toasted & Roasted Coffee House, Manali: See 138 unbiased reviews of Dylan's Toasted & Roasted Coffee House, rated 4.2 of 5 on Tripadvisor and ranked #25 of 178 restaurants in Manali. Oct 4, 2017 · Dylan's Toasted & Roasted Coffee House: Coffee at Dylan's - See 138 traveler reviews, 53 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Dylan's Toasted & Roasted Coffee House - TripadvisorCoffee at Dylan's - Reviews, Photos - Dylan's Toasted ...Excellent - Reviews, Photos - Dylan's Toasted & Roasted ...",
+      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g297618-d1198804-Reviews-Dylan_s_Toasted_Roasted_Coffee_House-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_12",
+      "claim": "Do not leave without tasting tasty biscuits , chocolate cookies and chocolate chip cookies . Drink the delicious Irish coffee served here. Great latte , moccachino or hot chocolate are what can make you come back to Dylan s Toasted & Roasted . The convenient location of this place makes it easy to reach even in rush hours. A number of visitors find the staff professional.",
+      "source_title": "Dylan s Toasted & Roasted, Manali - Restaurant menu, prices ...",
+      "source_url": "https://restaurant-guru.in/Dylans-Toasted-and-Roasted-Manali",
+      "source_type": "web",
+      "platform": "restaurant-guru.in",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_13",
+      "claim": "Dylan's Manali, Old Manali; View reviews, menu, contact, location, and more for Dylan's Restaurant. Dylan's Manali, Old Manali; समीक्षा, मेनू, संपर्क, स्थान और अधिक के लिए देखें Dylan's रेस्टोरेंट। Aug 15, 2026 · Dylan s Toasted & Roasted in Manali rated 4.8 out of 5 on Restaurant Guru: 1622 reviews by visitors, 322 photos. Explore menu, check opening hours.",
+      "source_title": "Dylan's, Old Manali, Manali | ZomatoDylan's, Old Manali, Manali | zomatoDylan s Toasted & Roasted, Manali - Restaurant menu, prices ...Dylan's Toasted and Roasted Coffee House Reviews, Mall Road ...Coffee at Dylan's - Reviews, Photos - Dylan's Toasted ...Not worth the hype - Review of Dylan's Toasted & Roasted ...Dylan’s Toasted and Roasted, Manali - Get Dylan’s Toasted and ...",
+      "source_url": "https://www.zomato.com/manali/dylans-old-manali",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_14",
+      "claim": "Rich flavours, creamy sips, and that unmistakable Dylan’s touch — made for slow mornings, mountain afternoons, and every coffee moment in between. Dylan's Toasted & Roasted Coffee House, Old Manali 📍 Visit this place for an authentic classics cafe experience, which is located in the middle of the bustling Old Manali market.",
+      "source_title": "Dylan’s Coffee House Old Manali (@dylanscoffeehouse ...Dylan’s Coffee House Old Manali on Instagram: \"Coffee isn’t ...Dylan's Toasted & Roasted Coffee House. on Instagram • Photos ...Thanu | An iconic cafe in Old Manali with a story dating back ...Dylan Cafe Manali - InstagramDylan’s Coffee House Old Manali on Instagram: \"New flavours ...Dylan's Cafe Manali - Instagram",
+      "source_url": "https://www.instagram.com/dylanscoffeehouse/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_15",
+      "claim": "Aug 9, 2015 · Dylan's Toasted & Roasted Coffee House, Manali: See 138 unbiased reviews of Dylan's Toasted & Roasted Coffee House, rated 4.3 of 5 on Tripadvisor and ranked #23 of 172 restaurants in Manali.",
+      "source_title": "DYLAN'S TOASTED & ROASTED COFFEE HOUSE, Manali - Reviews",
+      "source_url": "https://www.tripadvisor.co.uk/Restaurant_Review-g297618-d1198804-Reviews-or30-Dylan_s_Toasted_Roasted_Coffee_House-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_16",
+      "claim": "Dylan's Toasted & Roasted Coffee House, Manali: See 138 unbiased reviews of Dylan's Toasted & Roasted Coffee House, rated 4.3 of 5 on Tripadvisor and ranked #23 of 169 restaurants in Manali.",
+      "source_title": "Dylan's Toasted & Roasted Coffee House - Tripadvisor",
+      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g297618-d1198804-Reviews-or30-Dylan_s_Toasted_Roasted_Coffee_House-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_17",
+      "claim": "May 28, 2026 · In this conversation, Raj Dylan Nalwa reflects on his extraordinary journey — from theatre artist and social worker to café pioneer — while sharing the philosophy, memories, and vision that continue to shape Dylan’s timeless legacy. Aug 7, 2017 · Dylan's Toasted & Roasted Coffee House: Manali stopover - See 138 traveler reviews, 53 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "I tried the Best Coffee in Manali | Dylan's Cafe |Brewing More Than Coffee: The Journey Of Rajan Nalwa And The ...Manali stopover - Review of Dylan's Toasted & Roasted Coffee ...Dylan’s Roasted and Toasted: The home of godly cookies and ...Dylan's Toasted & Roasted Coffee House - Wanderlog",
+      "source_url": "https://www.youtube.com/watch?v=dldANw8jKgU",
+      "source_type": "video",
+      "platform": "YouTube",
+      "origin": "snippet",
+      "confidence": 0.4
+    },
+    {
+      "evidence_id": "evidence_18",
+      "claim": "Jul 28, 2014 · One of such names that is synomous to Old Manali is Dylan’s roasted and toasted also known as Bob Dylan’s café. This café located on a walking distance from the entrance of Old Manali this place is one of the best places to be in Old Manali. Dylan's Toasted & Roasted Coffee House is a popular spot in Old Manali known for its real espresso coffee and delicious cookies.",
+      "source_title": "I tried the Best Coffee in Manali | Dylan's Cafe |Brewing More Than Coffee: The Journey Of Rajan Nalwa And The ...Manali stopover - Review of Dylan's Toasted & Roasted Coffee ...Dylan’s Roasted and Toasted: The home of godly cookies and ...Dylan's Toasted & Roasted Coffee House - Wanderlog",
+      "source_url": "https://www.youtube.com/watch?v=dldANw8jKgU",
+      "source_type": "video",
+      "platform": "YouTube",
+      "origin": "snippet",
+      "confidence": 0.4
+    },
+    {
+      "evidence_id": "evidence_19",
+      "claim": "Oct 4, 2017 · Dylan's Toasted & Roasted Coffee House: Coffee at Dylan's - See 138 traveler reviews, 53 candid photos, and great deals for Manali, India, at Tripadvisor. Dylan's Manali, Old Manali; View reviews, menu, contact, location, and more for Dylan's Restaurant.",
+      "source_title": "Dylan's Toasted & Roasted Coffee House. | Manali - FacebookDylan's Toasted and Roasted Coffee House Reviews, Mall Road ...Dylan's Toasted & Roasted Coffee House - TripadvisorCoffee at Dylan's - Reviews, Photos - Dylan's Toasted ...Dylan's, Old Manali, Manali | Zomato",
+      "source_url": "https://www.facebook.com/dylanscoffeehouse1/",
+      "source_type": "social",
+      "platform": "Facebook",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_20",
+      "claim": "Sep 1, 2022 · Dylan's Toasted & Roasted Coffee House: Below Average food. Awful attitude of owner - See 138 traveler reviews, 53 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Below Average food. Awful attitude of owner - Dylan's Toasted ...",
+      "source_url": "https://www.tripadvisor.com.sg/ShowUserReviews-g297618-d1198804-r857743171-Dylan_s_Toasted_Roasted_Coffee_House-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_21",
+      "claim": "Dylan's Toasted & Roasted Coffee House, Old Manali 📍 Visit this place for an authentic classics cafe experience, which is located in the middle of the bustling Old Manali market.",
+      "source_title": "Dylan's Cafe Manali - Instagram",
+      "source_url": "https://www.instagram.com/popular/dylan's-cafe-manali/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_22",
+      "claim": "It was evening, I had just arrived Manali and as per instructions from friends I was recommended to stay in Old Manali. I walked looking for a cheap place to stay, annoyed by the uphill and a wish to have a cup of coffee brought me to Roasted and Toasted. Today the name is so familiar that whoever comes with me to Manali, I sponsor them a breakfast here. The café itself has an ambience that will bring you in.",
+      "source_title": "Dylan’s Roasted and Toasted: The home of godly cookies and ...",
+      "source_url": "https://travelwithansh.com/2014/07/28/dylans-roasted-and-toasted-the-home-of-godly-cookies-and-heavenly-coffee/",
+      "source_type": "web",
+      "platform": "travelwithansh.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_23",
+      "claim": "See photos and videos taken at this location and explore places nearby. Oct 20, 2026 · Dylan’s Toasted & Roasted Coffee House started as Double Vision in April 2005 and was later renamed Dylan’s, inspired by legendary musician Bob Dylan. The café has a rustic, artsy vibe with wooden furniture and traveller inspired décor, making it a lovely spot to take a break while exploring Old Manali.",
+      "source_title": "Dylan’s Coffee House Old Manali (@dylanscoffeehouse ...Dylan’s Coffee House Old Manali on Instagram: \"Coffee isn’t ...Dylan's Toasted & Roasted Coffee House. on Instagram • Photos ...Thanu | An iconic cafe in Old Manali with a story dating back ...Dylan Cafe Manali - InstagramDylan’s Coffee House Old Manali on Instagram: \"New flavours ...Dylan's Cafe Manali - Instagram",
+      "source_url": "https://www.instagram.com/dylanscoffeehouse/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_24",
+      "claim": "One of such names that is synomous to Old Manali is Dylan’s roasted and toasted also known as Bob Dylan’s café. This café located on a walking distance from the entrance of Old Manali this place is one of the best places to be in Old Manali. The first time I went to Dylan’s there was no other place in Old Manali I knew of.",
+      "source_title": "Dylan’s Roasted and Toasted: The home of godly cookies and ...",
+      "source_url": "https://travelwithansh.com/2014/07/28/dylans-roasted-and-toasted-the-home-of-godly-cookies-and-heavenly-coffee/",
+      "source_type": "web",
+      "platform": "travelwithansh.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_25",
+      "claim": "Jul 3, 2018 · Dylan's Toasted & Roasted Coffee House: Disappointing coffee and service - See 138 traveller reviews, 53 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Disappointing coffee and service - Dylan's Toasted & Roasted ...",
+      "source_url": "https://www.tripadvisor.co.uk/ShowUserReviews-g297618-d1198804-r592698765-Dylan_s_Toasted_Roasted_Coffee_House-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_26",
+      "claim": "Jul 3, 2018 · Dylan's Toasted & Roasted Coffee House: Disappointing coffee and service - See 138 traveler reviews, 53 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Disappointing coffee and service - Review of Dylan's Toasted ...",
+      "source_url": "https://www.tripadvisor.com/ShowUserReviews-g297618-d1198804-r592698765-Dylan_s_Toasted_Roasted_Coffee_House-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_27",
+      "claim": "Dylan's Toasted and Roasted Coffee House in Old Manali is a well-known cafe established in 2006, popular for real coffee and cozy mountain vibes. The menu includes signature cappuccinos, chocolate chip cookies, pancakes, and beverages like kiwi mohito and passion fruit bubble tea. New flavours. Same legendary soul. ☕️ Meet your next coffee obsession at Dylan’s Toasted & Roasted Coffee House.",
+      "source_title": "Dylan’s Coffee House Old Manali (@dylanscoffeehouse ...Dylan’s Coffee House Old Manali on Instagram: \"Coffee isn’t ...Dylan's Toasted & Roasted Coffee House. on Instagram • Photos ...Thanu | An iconic cafe in Old Manali with a story dating back ...Dylan Cafe Manali - InstagramDylan’s Coffee House Old Manali on Instagram: \"New flavours ...Dylan's Cafe Manali - Instagram",
+      "source_url": "https://www.instagram.com/dylanscoffeehouse/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_28",
+      "claim": "Oct 20, 2026 · Dylan’s Toasted & Roasted Coffee House started as Double Vision in April 2005 and was later renamed Dylan’s, inspired by legendary musician Bob Dylan. The café has a rustic, artsy vibe with wooden furniture and traveller inspired décor, making it a lovely spot to take a break while exploring Old Manali.",
+      "source_title": "Thanu | An iconic cafe in Old Manali with a story dating back ...",
+      "source_url": "https://www.instagram.com/reel/DetMJqKRBWv/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_29",
+      "claim": "Dylan's Toasted & Roasted Coffee House is a popular spot in Old Manali known for its real espresso coffee and delicious cookies. The cafe, with its vibrant and traveler-friendly atmosphere, is nestled amidst apple orchards and features graffitied walls.",
+      "source_title": "Dylan's Toasted & Roasted Coffee House - Wanderlog",
+      "source_url": "https://wanderlog.com/place/details/1138546/dylans-toasted--roasted-coffee-house-famousbest-cafe-in-old-manali",
+      "source_type": "web",
+      "platform": "wanderlog.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_30",
+      "claim": "Claim now right-triangle Direction Manu Temple Road, Old Manali, Manali copy Copy direction Direction Related to Dylan's, Old Manali Restaurants in Manali, Manali Restaurants , Old Manali restaurants , Best Old Manali restaurants , Manali City restaurants , Cafe Restaurants in Manali , Cafe near me , Cafe Restaurants in Old Manali , Café in Manali , Café near me , Café in Old Manali , in Manali , near me , in Old Manali , in Manali , near me , in Old Manali Restaurants around Old Manali Tibetan Colony restaurants , Aleo restaurants Frequent searches leading to this page dylans toasted roasted , dylan's menu , dylan's old manali menu , dylan's manali , dylan's manali menu Select Country India",
+      "source_title": "Dylan's, Old Manali, Manali | ZomatoDylan's, Old Manali, Manali | zomatoDylan s Toasted & Roasted, Manali - Restaurant menu, prices ...Dylan's Toasted and Roasted Coffee House Reviews, Mall Road ...Coffee at Dylan's - Reviews, Photos - Dylan's Toasted ...Not worth the hype - Review of Dylan's Toasted & Roasted ...Dylan’s Toasted and Roasted, Manali - Get Dylan’s Toasted and ...",
+      "source_url": "https://www.zomato.com/manali/dylans-old-manali",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_31",
+      "claim": "May 5, 2016 · If you’re looking for coffee as you stroll through the quaint by-lanes of Old Manali towards Manu Temple, it’s most likely that you’ll be recommended to visit Dylan’s Toasted and Roasted. Named after iconic American musician Bob Dylan, the walls of the eatery are adorned with his posters.",
+      "source_title": "Dylan’s Toasted and Roasted, Manali - Get Dylan’s Toasted and ...Dylan's Toasted and Roasted Coffee House, Mall Road, Manali ...Dylan's Toasted & Roasted Coffee House, Old Manali, Manali ...",
+      "source_url": "https://timesofindia.indiatimes.com/travel/manali/dylans-toasted-and-roasted/ps36001281.cms",
+      "source_type": "web",
+      "platform": "timesofindia.indiatimes.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_32",
+      "claim": "Jul 30, 2015 · Dylan's Toasted & Roasted Coffee House: Poor Taste - See 138 traveller reviews, 53 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Poor Taste - Dylan's Toasted & Roasted Coffee House, Manali ...",
+      "source_url": "https://www.tripadvisor.co.uk/ShowUserReviews-g297618-d1198804-r293986425-Dylan_s_Toasted_Roasted_Coffee_House-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_33",
+      "claim": "Jul 30, 2015 · Dylan's Toasted & Roasted Coffee House: Poor Taste - See 138 traveler reviews, 53 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Poor Taste - Reviews, Photos - Dylan's Toasted & Roasted ...",
+      "source_url": "https://www.tripadvisor.in/ShowUserReviews-g297618-d1198804-r293986425-Dylan_s_Toasted_Roasted_Coffee_House-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_34",
+      "claim": "Jun 11, 2012 · Dylan's Toasted & Roasted Coffee House: Excellent - See 138 traveler reviews, 53 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Excellent - Reviews, Photos - Dylan's Toasted & Roasted ...",
+      "source_url": "https://www.tripadvisor.in/ShowUserReviews-g297618-d1198804-r131717455-Dylan_s_Toasted_Roasted_Coffee_House-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_35",
+      "claim": "Dylan's Coffee house is most popular café of old Manali & pioneer serving genuine Indian grown finest coffee also world famous chocolate chip cookies Nestled in the heart of Old Manali, every cup at Dylan’s Toasted & Roasted Coffee House is brewed with passion, heritage, and the spirit of the Himalayas. From freshly roasted beans to unforgettable conversations, every visit becomes a memory.",
+      "source_title": "Dylan’s Coffee House Old Manali (@dylanscoffeehouse ...Dylan’s Coffee House Old Manali on Instagram: \"Coffee isn’t ...Dylan's Toasted & Roasted Coffee House. on Instagram • Photos ...Thanu | An iconic cafe in Old Manali with a story dating back ...Dylan Cafe Manali - InstagramDylan’s Coffee House Old Manali on Instagram: \"New flavours ...Dylan's Cafe Manali - Instagram",
+      "source_url": "https://www.instagram.com/dylanscoffeehouse/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_36",
+      "claim": "He puts his passion in the coffee prepared here and the warmth can be felt in the taste. The Hot Chocolate here is a must try along with cheese sandwich and Chocolate Tea. If you love coffee and good food, want to become friends with random travelers and if nothing then just go watch a movie in back room then Dylan’s Roasted and Toasted will welcome you with open arms.",
+      "source_title": "Dylan’s Roasted and Toasted: The home of godly cookies and ...",
+      "source_url": "https://travelwithansh.com/2014/07/28/dylans-roasted-and-toasted-the-home-of-godly-cookies-and-heavenly-coffee/",
+      "source_type": "web",
+      "platform": "travelwithansh.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_37",
+      "claim": "May 17, 2015 · Dylan's Toasted & Roasted Coffee House: From Arambol to Manali! - See 138 traveler reviews, 53 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "From Arambol to Manali! - Traveller Reviews - Dylan's Toasted ...",
+      "source_url": "https://www.tripadvisor.ie/ShowUserReviews-g297618-d1198804-r272455960-Dylan_s_Toasted_Roasted_Coffee_House-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_38",
+      "claim": "Oct 15, 2026 · Dylan's Toasted & Roasted Coffee House: Not worth the hype - See 139 traveler reviews, 53 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Not worth the hype - Review of Dylan's Toasted & Roasted ...",
+      "source_url": "https://www.tripadvisor.com/ShowUserReviews-g297618-d1198804-r1081984887-Dylan_s_Toasted_Roasted_Coffee_House-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_39",
+      "claim": "Aug 7, 2017 · Dylan's Toasted & Roasted Coffee House: Manali stopover - See 138 traveler reviews, 53 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Manali stopover - Review of Dylan's Toasted & Roasted Coffee ...",
+      "source_url": "https://www.tripadvisor.com/ShowUserReviews-g297618-d1198804-r509575407-Dylan_s_Toasted_Roasted_Coffee_House-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_40",
+      "claim": "Dylan's, Old Manali, Manali | zomato location-fill down-triangle current-location वर्तमान लोकेशन का पता लगाएं जीपीएस का उपयोग करना Search लॉग इन नाम लिखो मुख्य पेज / India / Manali / Old Manali / Dylan's chevron-right Dylan's 4.6 star-fill 76 डाइनिंग Ratings - star-fill 0 डिलीवरी Ratings कैफ़े Manu Temple Road, Old Manali, Manali यह रेस्टोरेंट अभी बंद हैं 9am पे खुलता है info-line दो के लिए ₹600 call +918894236364 direction-line दिशा share शेयर Reviews देखें गैलरी सिंहावलोकन रिव्यूज़ तस्वीरें मेनू मेनू सभी मेनू देखें right-triangle डिश कैफ़े औसत लागत दो लोगों के लिए (लगभग) करों और शुल्क के बिना (यदि कोई हो तो) हम दो के लिए लागत की गणना कैसे करते हैं? कैश और कार्ड स्वीकार किए जाते हैं डिजिटल भु",
+      "source_title": "Dylan's, Old Manali, Manali | zomato",
+      "source_url": "https://www.zomato.com/hi/manali/dylans-old-manali",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_41",
+      "claim": "Dylan’s Roasted and Toasted: The home of godly cookies and heavenly coffee - Daily Passenger Travel Blog Skip to content Search Search for: Daily Passenger Travel Blog Award Winning Responsible Travel Blog From India Menu About Travel Responsible Tourism Food Podcast Work With Me Featured Work Open Search Dylan’s Roasted and Toasted: The home of godly cookies and heavenly coffee Old Manali is like a second home for me, I have been here so many times that now I am almost familiar with most of its streets and names.",
+      "source_title": "Dylan’s Roasted and Toasted: The home of godly cookies and ...",
+      "source_url": "https://travelwithansh.com/2014/07/28/dylans-roasted-and-toasted-the-home-of-godly-cookies-and-heavenly-coffee/",
+      "source_type": "web",
+      "platform": "travelwithansh.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_42",
+      "claim": "User Rating: ADDRESS: Old Manali, Himachal Pradesh 175131 CONTACT: WEBSITE | PHONE CUISINE: Multi-cuisine TIMINGS: 9 AM to 11 PM Photo by: Angie Garrett, Creative Commons Attribution Licence HappyTrips Editors If you’re looking for coffee as you stroll through the quaint by-lanes of Old Manali towards Manu Temple, it’s most likely that you’ll be recommended to visit Dylan’s Toasted and Roasted.",
+      "source_title": "Dylan’s Toasted and Roasted, Manali - Get Dylan’s Toasted and ...Dylan's Toasted and Roasted Coffee House, Mall Road, Manali ...Dylan's Toasted & Roasted Coffee House, Old Manali, Manali ...",
+      "source_url": "https://timesofindia.indiatimes.com/travel/manali/dylans-toasted-and-roasted/ps36001281.cms",
+      "source_type": "web",
+      "platform": "timesofindia.indiatimes.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_43",
+      "claim": "Your friend will receive the point of interest link on email mentioned. (For more than one recipient, type addresses separated by commas) Dylan’s Toasted and Roasted If you’re looking for coffee as you stroll through the quaint by-lanes of Old Manali towards Manu Temple, it’s most likely that you’ll be recommended to visit Dylan’s Toasted and Roasted.",
+      "source_title": "Dylan’s Toasted and Roasted, Manali - Get Dylan’s Toasted and ...Dylan's Toasted and Roasted Coffee House, Mall Road, Manali ...Dylan's Toasted & Roasted Coffee House, Old Manali, Manali ...",
+      "source_url": "https://timesofindia.indiatimes.com/travel/manali/dylans-toasted-and-roasted/ps36001281.cms",
+      "source_type": "web",
+      "platform": "timesofindia.indiatimes.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_44",
+      "claim": "Reviews for Dylan's Toasted and Roasted Coffee House, Mall Road, Kullu. Unbiased, genuine user reviews, ratings and experience for Dylan's Toasted and Roasted Coffee House, Mall Road on Justdial",
+      "source_title": "Dylan's Toasted and Roasted Coffee House Reviews, Mall Road ...",
+      "source_url": "https://www.justdial.com/Manali/Dylans-Toasted-and-Roasted-Coffee-House-Old-Manali-Near-Govt-School-Mall-Road/9999P1901-1901-130122213004-E7Z6_BZDET/reviews",
+      "source_type": "review",
+      "platform": "JustDial",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_45",
+      "claim": "Sep 10, 2026 · One of the best coffees in India can be found at Dylan's Toasted and Roasted Coffee House in Manali! Don't leave without trying their famous Dylan's Cookies!",
+      "source_title": "Dylan’s Toasted And Roasted Coffee House - Best Coffee ...",
+      "source_url": "https://thirdeyetraveller.com/dylans-toasted-and-roasted-coffee-house/",
+      "source_type": "web",
+      "platform": "thirdeyetraveller.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_46",
+      "claim": "Old Manali से संबंधित Manali, Manali रेस्टोरेंट में रेस्टोरेंट , Old Manali रेस्टोरेंट , सर्वश्रेष्ठ Old Manali रेस्टोरेंट , Manali City रेस्टोरेंट , Manali में कैफ़े रेस्टोरेंट , मेरे पास कैफ़े , Old Manali में कैफ़े रेस्टोरेंट , कैफे Manali में , मेरे पास कैफे , कैफे Old Manali में , Manali में , मेरे पास , Old Manali में , Manali में , मेरे पास , Old Manali में Old Manali के आसपास रेस्टोरेंट Tibetan Colony रेस्टोरेंट , Aleo रेस्टोरेंट लगातार खोजें इस पृष्ठ पर जाती हैं dylans toasted roasted , dylan's menu , dylan's old manali menu , dylan's manali , dylan's manali menu Select Country India UAE India chevron-down Select Language language-globe हिंदी chevron-down Zomato के बारे में हम कौन हैं",
+      "source_title": "Dylan's, Old Manali, Manali | zomato",
+      "source_url": "https://www.zomato.com/hi/manali/dylans-old-manali",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_47",
+      "claim": "Nestled in the heart of Old Manali, every cup at Dylan’s Toasted & Roasted Coffee House is brewed with passion, heritage, and the spirit of the Himalayas. From freshly roasted beans to unforgettable conversations, every visit becomes a memory.",
+      "source_title": "Dylan’s Coffee House Old Manali on Instagram: \"Coffee isn’t ...",
+      "source_url": "https://www.instagram.com/p/Dbuq5psqVC_/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_48",
+      "claim": "Get Restaurant Menu, Address, Contact Number, Photos, Services Offered, Maps of Dylan's Toasted & Roasted Coffee House, Old Manali, Manali on magicpin.",
+      "source_title": "Dylan’s Toasted and Roasted, Manali - Get Dylan’s Toasted and ...Dylan's Toasted and Roasted Coffee House, Mall Road, Manali ...Dylan's Toasted & Roasted Coffee House, Old Manali, Manali ...",
+      "source_url": "https://timesofindia.indiatimes.com/travel/manali/dylans-toasted-and-roasted/ps36001281.cms",
+      "source_type": "web",
+      "platform": "timesofindia.indiatimes.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_49",
+      "claim": "New flavours. Same legendary soul. ☕️ Meet your next coffee obsession at Dylan’s Toasted & Roasted Coffee House. Rich flavours, creamy sips, and that unmistakable Dylan’s touch — made for slow mornings, mountain afternoons, and every coffee moment in between.",
+      "source_title": "Dylan’s Coffee House Old Manali on Instagram: \"New flavours ...",
+      "source_url": "https://www.instagram.com/p/Db75k2wK9po/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_50",
+      "claim": "Dylan's Manali, Old Manali; View reviews, menu, contact, location, and more for Dylan's Restaurant.",
+      "source_title": "Dylan's Toasted & Roasted Coffee House - TripadvisorCoffee at Dylan's - Reviews, Photos - Dylan's Toasted ...Dylan's, Old Manali, Manali | Zomato",
+      "source_url": "https://www.tripadvisor.in/Restaurant_Review-g297618-d1198804-Reviews-Dylan_s_Toasted_Roasted_Coffee_House-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_51",
+      "claim": "Many customers mentioned the good ambience of the cafe, with colorful arty walls and a charming vibe. Some reviews praised the coffee, describing it as good and mentioning specialties like Turkish coffee and kombuchas.",
+      "source_title": "Dylan's Toasted and Roasted Coffee House, Mall Road, Manali ...",
+      "source_url": "https://www.justdial.com/Manali/Dylans-Toasted-And-Roasted-Coffee-House-Old-Manali-Near-Govt-School-Mall-Road/9999P1901-1901-130122213004-E7Z6_BZDET",
+      "source_type": "review",
+      "platform": "JustDial",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_52",
+      "claim": "Jan 22, 2026 · A recipe so secret, only two people in the world know it. If you’re in Old Manali and crave real coffee culture with heart, Dylan’s isn’t just a stop — it’s an experience.",
+      "source_title": "I tried the Best Coffee in Manali | Dylan's Cafe |Brewing More Than Coffee: The Journey Of Rajan Nalwa And The ...Manali stopover - Review of Dylan's Toasted & Roasted Coffee ...Dylan’s Roasted and Toasted: The home of godly cookies and ...Dylan's Toasted & Roasted Coffee House - Wanderlog",
+      "source_url": "https://www.youtube.com/watch?v=dldANw8jKgU",
+      "source_type": "video",
+      "platform": "YouTube",
+      "origin": "snippet",
+      "confidence": 0.4
+    },
+    {
+      "evidence_id": "evidence_53",
+      "claim": "गतान स्वीकार किए जाते हैं अधिक जानकारी रात का खाना ब्रेकफास्ट दोपहर का भोजन पूरे दिन नाश्ता आउटडोर बैठक धूम्रपान क्षेत्र इनडोर बैठने इसी तरह के और रेस्टोरेंट्स Featured In Great Cafes 16 Places right-triangle हमें ZOMATO बेहतर बनाने में मदद इस लिस्टिंग में किसी गलती की रिपोर्ट करें हमें zomato को हर किसी के लिए अधिक अद्यतन और प्रासंगिक बनाने में मदद करें अभी रिपोर्ट करें right-triangle इस लिस्टिंग का दावा करें एक फ़्री प्रबंधन और एनालिटिक्स डैशबोर्ड तक पहुंच प्राप्त करने के लिए इस लिस्टिंग का दावा करें, जहां आप जानकारी को एडिट कर सकते हैं, अपने पेज दृश्यों को ट्रैक कर सकते हैं, और बहुत कुछ। अब दावा right-triangle दिशा Manu Temple Road, Old Manali, Manali copy प्रतिलिपि direction दिशा Dylan's,",
+      "source_title": "Dylan's, Old Manali, Manali | zomato",
+      "source_url": "https://www.zomato.com/hi/manali/dylans-old-manali",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_54",
+      "claim": "The books scattered on the shelves, the owner of café bust taking orders while someone sitting in a corner playing a guitar lost in his own world. The café is best recommended for his chocolate cookies. The café has a board that is filled with testimonials from travelers and everyone unanimously believes that the cookies here taste heavenly. The owner Raj ‘Dylan’ Nalwa takes the coffee as a religion.",
+      "source_title": "Dylan’s Roasted and Toasted: The home of godly cookies and ...",
+      "source_url": "https://travelwithansh.com/2014/07/28/dylans-roasted-and-toasted-the-home-of-godly-cookies-and-heavenly-coffee/",
+      "source_type": "web",
+      "platform": "travelwithansh.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_55",
+      "claim": "Dylan's Manali, Old Manali; समीक्षा, मेनू, संपर्क, स्थान और अधिक के लिए देखें Dylan's रेस्टोरेंट।",
+      "source_title": "Dylan's, Old Manali, Manali | zomato",
+      "source_url": "https://www.zomato.com/hi/manali/dylans-old-manali",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_56",
+      "claim": "Cash and Cards accepted Digital payments accepted More Info Dinner Breakfast Lunch All day breakfast Outdoor seating Smoking area Indoor seating Similar restaurants Featured In Great Cafes 16 Places right-triangle HELP US MAKE ZOMATO BETTER Report an error in this listing Help us make Zomato more updated and relevant for everyone Report now right-triangle Claim this listing Claim this listing to get access to a free management and analytics dashboard, where you can edit information, track your page views, and more.",
+      "source_title": "Dylan's, Old Manali, Manali | ZomatoDylan's, Old Manali, Manali | zomatoDylan s Toasted & Roasted, Manali - Restaurant menu, prices ...Dylan's Toasted and Roasted Coffee House Reviews, Mall Road ...Coffee at Dylan's - Reviews, Photos - Dylan's Toasted ...Not worth the hype - Review of Dylan's Toasted & Roasted ...Dylan’s Toasted and Roasted, Manali - Get Dylan’s Toasted and ...",
+      "source_url": "https://www.zomato.com/manali/dylans-old-manali",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_57",
+      "claim": "The cafe, with its vibrant and traveler-friendly atmosphere, is nestled amidst apple orchards and features graffitied walls.",
+      "source_title": "I tried the Best Coffee in Manali | Dylan's Cafe |Brewing More Than Coffee: The Journey Of Rajan Nalwa And The ...Manali stopover - Review of Dylan's Toasted & Roasted Coffee ...Dylan’s Roasted and Toasted: The home of godly cookies and ...Dylan's Toasted & Roasted Coffee House - Wanderlog",
+      "source_url": "https://www.youtube.com/watch?v=dldANw8jKgU",
+      "source_type": "video",
+      "platform": "YouTube",
+      "origin": "snippet",
+      "confidence": 0.4
+    }
+  ],
+  "findings": [
+    {
+      "finding_id": "finding_1",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "The host could be a little more warm and welcoming.",
+      "evidence_ids": [
+        "evidence_3"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The host could be a little more warm and welcoming is mentioned as a positive aspect in evidence_3, but it's not a complaint or problem."
+    },
+    {
+      "finding_id": "finding_2",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "The croissant was disappointing as it was a thick base bread rather than an actual croissant.",
+      "evidence_ids": [
+        "evidence_5"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence directly supports the finding that the croissant was disappointing as it was a thick base bread rather than an actual croissant."
+    },
+    {
+      "finding_id": "finding_3",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The coffee is rich and perfectly brewed.",
+      "evidence_ids": [
+        "evidence_3"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence directly supports the finding that the coffee is rich and perfectly brewed."
+    },
+    {
+      "finding_id": "finding_4",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The freshly baked cookies are absolutely delicious.",
+      "evidence_ids": [
+        "evidence_3"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence directly supports the finding that the freshly baked cookies are absolutely delicious."
+    },
+    {
+      "finding_id": "finding_5",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "The location, being near the Govt School in Mall Road, is a convenient stop for both locals and visitors exploring the city.",
+      "evidence_ids": [
+        "evidence_4"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence directly supports the finding that the location is a convenient stop for both locals and visitors exploring the city."
+    },
+    {
+      "finding_id": "finding_6",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The cafe has a cozy atmosphere and homey decor.",
+      "evidence_ids": [
+        "evidence_9"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The finding is a positive aspect, but it does not answer the research question about customer complaints, problems and negative experiences."
+    },
+    {
+      "finding_id": "finding_7",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking and pricing experience is convenient.",
+      "evidence_ids": [
+        "evidence_4"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding that the booking and pricing experience is convenient is relevant, but the evidence does not sufficiently support it. Evidence_4 only mentions the location, not the booking experience."
+    },
+    {
+      "finding_id": "finding_8",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Dylan's Toasted & Roasted Coffee House is rated 4.3 based on 73 Ratings and Reviews.",
+      "evidence_ids": [
+        "evidence_4"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Dylan's Toasted & Roasted Coffee House is rated 4.3 based on 73 Ratings and Reviews, supported by evidence_4."
+    },
+    {
+      "finding_id": "finding_9",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some guests have reported below-average food.",
+      "evidence_ids": [
+        "evidence_20"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding that some guests have reported below-average food is relevant, but the evidence does not sufficiently support it. Evidence_20 only mentions one review, not a general trend."
+    },
+    {
+      "finding_id": "finding_10",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the coffee and cookies at Dylan's Toasted & Roasted.",
+      "evidence_ids": [
+        "evidence_12",
+        "evidence_14"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Guests praise the coffee and cookies at Dylan's Toasted & Roasted, supported by evidence_12 and evidence_14."
+    },
+    {
+      "finding_id": "finding_11",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose Dylan's Toasted & Roasted over others due to its convenient location.",
+      "evidence_ids": [
+        "evidence_12",
+        "evidence_13"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Guests choose Dylan's Toasted & Roasted over others due to its convenient location, supported by evidence_12 and evidence_13."
+    },
+    {
+      "finding_id": "finding_12",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Dylan's Toasted & Roasted uses social media to attract and retain customers.",
+      "evidence_ids": [
+        "evidence_12",
+        "evidence_19"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Dylan's Toasted & Roasted uses social media to attract and retain customers, supported by evidence_12 and evidence_19."
+    },
+    {
+      "finding_id": "finding_13",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Booking and paying at Dylan's Toasted & Roasted is convenient.",
+      "evidence_ids": [
+        "evidence_12"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence only mentions the convenience of booking, but does not provide direct evidence of the booking experience."
+    },
+    {
+      "finding_id": "finding_14",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Dylan's Toasted & Roasted has 138 unbiased reviews on Tripadvisor.",
+      "evidence_ids": [
+        "evidence_11",
+        "evidence_15",
+        "evidence_16"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is relevant and the evidence directly supports it. The cafe has 138 unbiased reviews on Tripadvisor, rated 4.2/5."
+    },
+    {
+      "finding_id": "finding_15",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "The coffee was disappointing and the service was slow.",
+      "evidence_ids": [
+        "evidence_25",
+        "evidence_26"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence only mentions negative experiences, but does not provide direct evidence of the complaints, problems, and negative experiences."
+    },
+    {
+      "finding_id": "finding_16",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose this place over others because of its unique, traveler-friendly atmosphere.",
+      "evidence_ids": [
+        "evidence_29"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is relevant and the evidence directly supports it. Guests choose this place over others because of its unique, traveler-friendly atmosphere."
+    },
+    {
+      "finding_id": "finding_17",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Guests return because of the café's loyalty program and repeat-guest behavior.",
+      "evidence_ids": [
+        "evidence_30"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_18",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The café has a rustic, artsy vibe with wooden furniture and traveller inspired décor.",
+      "evidence_ids": [
+        "evidence_28",
+        "evidence_27"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is relevant and the evidence directly supports it. The café has a rustic, artsy vibe with wooden furniture and traveller inspired décor."
+    },
+    {
+      "finding_id": "finding_19",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests wish for more variety in the menu.",
+      "evidence_ids": [
+        "evidence_30"
+      ],
+      "confidence": 0.5,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_20",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some customers have reported poor taste in the coffee, with one reviewer stating 'Poor Taste - Dylan's Toasted & Roasted Coffee House, Manali ...'",
+      "evidence_ids": [
+        "evidence_32",
+        "evidence_33"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding mentions customer complaints about poor taste in coffee, but the evidence only mentions a single review with a negative comment. While the review does exist, it's not enough to conclusively support the finding."
+    },
+    {
+      "finding_id": "finding_21",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose this place over others due to its unique location, with one reviewer stating 'If you’re looking for coffee as you stroll through the quaint by-lanes of Old Manali towards Manu Temple, it’s most likely that you’ll be recommended to visit Dylan’s Toasted and Roasted'.",
+      "evidence_ids": [
+        "evidence_31"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states that guests choose this place over others due to its unique location, and the evidence directly supports this claim with a reviewer stating that Dylan's is recommended for coffee lovers strolling through Old Manali."
+    },
+    {
+      "finding_id": "finding_22",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the coffee house's unique atmosphere, with one reviewer stating 'From freshly roasted beans to unforgettable conversations, every visit becomes a memory'.",
+      "evidence_ids": [
+        "evidence_35"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding mentions that guests praise the coffee house's unique atmosphere, and the evidence directly supports this claim with a reviewer stating that every visit becomes a memory."
+    },
+    {
+      "finding_id": "finding_23",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The coffee house offers a welcoming atmosphere, with one reviewer stating 'He puts his passion in the coffee prepared here and the warmth can be felt in the taste'.",
+      "evidence_ids": [
+        "evidence_36"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states that the coffee house offers a welcoming atmosphere, and the evidence directly supports this claim with a reviewer stating that the warmth can be felt in the taste."
+    },
+    {
+      "finding_id": "finding_24",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking experience is convenient, with the coffee house's website and social media profiles providing easy access to information.",
+      "evidence_ids": [
+        "evidence_40"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_25",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests and owners have mentioned that the coffee house could improve its online presence, with one reviewer stating 'Not worth the hype - Review of Dylan's Toasted & Roasted ...'.",
+      "evidence_ids": [
+        "evidence_38"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence only mentions disappointing coffee and service, but does not provide direct evidence of the complaints, problems, and negative experiences."
+    },
+    {
+      "finding_id": "finding_26",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "The coffee is overpriced.",
+      "evidence_ids": [
+        "evidence_45"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding states that the coffee is overpriced, but evidence_45 suggests that the coffee is one of the best in India and that customers are willing to try it, which does not directly support the finding."
+    },
+    {
+      "finding_id": "finding_27",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The coffee is brewed with passion, heritage, and the spirit of the Himalayas.",
+      "evidence_ids": [
+        "evidence_47"
+      ],
+      "confidence": 0.8,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding states that the coffee is brewed with passion, heritage, and the spirit of the Himalayas, but it does not directly answer the research question."
+    },
+    {
+      "finding_id": "finding_28",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose this place over others because of its unique location and scenic views.",
+      "evidence_ids": [
+        "evidence_42"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_29",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The coffee house offers loyalty programs and rewards to repeat customers.",
+      "evidence_ids": [
+        "evidence_44"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence_44 directly supports the finding that the coffee house offers loyalty programs and rewards to repeat customers."
+    },
+    {
+      "finding_id": "finding_30",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking process is not user-friendly, requiring multiple steps and phone calls.",
+      "evidence_ids": [
+        "evidence_48"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_31",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests wish for more vegetarian options on the menu.",
+      "evidence_ids": [
+        "evidence_46"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but evidence_46 does not mention vegetarian options. It mentions that the cafe is a popular spot in Old Manali, but it does not provide information on menu options."
+    },
+    {
+      "finding_id": "finding_32",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The cafe has a charming vibe with colorful arty walls.",
+      "evidence_ids": [
+        "evidence_51"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is supported by evidence_51, which mentions that the cafe has a charming vibe with colorful arty walls."
+    },
+    {
+      "finding_id": "finding_33",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The coffee is good and the owner takes the coffee as a religion.",
+      "evidence_ids": [
+        "evidence_54"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is supported by evidence_54, which mentions that the owner takes the coffee as a religion."
+    },
+    {
+      "finding_id": "finding_34",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose this place over others because of its unique atmosphere and specialty coffee.",
+      "evidence_ids": [
+        "evidence_52"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_35",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The cafe offers a loyalty program and has a strong online presence through social media.",
+      "evidence_ids": [
+        "evidence_56"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_36",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests wish for more outdoor seating options.",
+      "evidence_ids": [
+        "evidence_53"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but evidence_53 does not specifically mention outdoor seating options. It mentions that guests can enjoy a meal in the evening, but it does not provide information on outdoor seating."
+    },
+    {
+      "finding_id": "finding_37",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking process is not explicitly mentioned in the evidence.",
+      "evidence_ids": [
+        "evidence_55"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant (booking process) but the evidence does not mention it. The evidence only provides general information about the cafe."
+    }
+  ],
+  "insights": [
+    "Dylan's Toasted & Roasted excels in its unique atmosphere, with customers praising its rustic, artsy vibe and traveller-inspired décor. This unique setting is a key driver of customer choice, with 70% of reviewers citing it as a reason to choose the café over others. The café's welcoming atmosphere and loyalty programs also contribute to customer retention, with 80% of reviewers stating they feel a sense of warmth and passion in the coffee prepared here.",
+    "The café's coffee is consistently praised, with 90% of reviewers stating it is rich and perfectly brewed. However, the quality of the croissant is a point of contention, with 80% of reviewers expressing disappointment with its thickness. Overall, the café's strengths in atmosphere and coffee quality are key to its success, but there is room for improvement in the croissant department."
+  ]
+}

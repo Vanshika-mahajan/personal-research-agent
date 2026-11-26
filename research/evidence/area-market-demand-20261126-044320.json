@@ -1,0 +1,840 @@
+{
+  "run_id": "area-market-demand-20261126-044320",
+  "question": {
+    "question": "What public data exists on traveller demand and tourist footfall in Manali, and how often is it published?",
+    "depth": "standard",
+    "max_iterations": 2,
+    "mode": "topic",
+    "subject": "Market demand - Manali",
+    "place": "",
+    "aspects": [
+      "What data or signals exist and how an owner can get them",
+      "A trend, event, price or fact relevant to the owner's decision",
+      "What is hard to find or missing"
+    ],
+    "official_domains": [],
+    "seed_urls": [],
+    "seed_queries": [
+      "Manali tourist footfall statistics",
+      "Manali tourist arrivals trend this season",
+      "Manali hotel occupancy tourist rush weekend",
+      "Himachal Pradesh tourist arrivals data Kullu Manali"
+    ]
+  },
+  "queries": [
+    "Manali tourist footfall statistics",
+    "Manali tourist arrivals trend this season",
+    "Manali hotel occupancy tourist rush weekend",
+    "Himachal Pradesh tourist arrivals data Kullu Manali"
+  ],
+  "iterations": 1,
+  "quality_score": 1.0,
+  "quality_decision": "RESEARCH SUFFICIENT",
+  "missing_information": [],
+  "evidence": [
+    {
+      "evidence_id": "evidence_1",
+      "claim": "Get Started We harness the power of data to empower short-term rental investors and operators to make a smarter decision Trustpilot Trustpilot Get Started Go to App Tutorial Support Pricing FAQs Email us Our Customer Representative [email protected] Availability: 8 AM – 5 PM Singapore Time Solutions Market Explorer Market Overview Airbnb Calculator Airbnb Listing Lookup API Property-level Data Enterprise About Airbtics Airbtics Data Accuracy ROI of Airbtics Careers Affiliates Resources All Resources Market Leaderboards Market Directory Host Leaderboards Host Directory Listing Leaderboards Reports Free Tools Tutorials Blog © 2026 Airbtics, LLC.",
+      "source_title": "Manali Tourism Statistics: Insights from Airbnb User",
+      "source_url": "https://airbtics.com/tourism-statistics-manali-in/",
+      "source_type": "web",
+      "platform": "airbtics.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_2",
+      "claim": "But there’s a flip side. Rising footfall is putting pressure on the region’s fragile environment. Both locals and travellers are flagging the need for responsible tourism. For now, though, Manali is firmly in control of the summer circuit, with demand strong, inventory tight, and the season far from over. Tags: Manali Tourism Hotel Occupancy Himachal Pradesh Travel Summer Season Demand What's Your Reaction?",
+      "source_title": "Manali Tourism 2026 Drives Hotels to 80% Occupancy",
+      "source_url": "https://hospitalitycareerprofile.com/news/hotel-news/manali-tourism-2026-hotel-occupancy-80-percent-surge-summer",
+      "source_type": "web",
+      "platform": "hospitalitycareerprofile.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_3",
+      "claim": "Manali tourist rush: Heavy traffic, packed hotels amid long weekend | Himachal Pradesh - PTC News Thu, Nov 26, 2026 English | Punjabi English News Politics Punjab Chandigarh Delhi Haryana Himachal Jammu & Kashmir Uttar Pradesh Visual Stories Videos Entertainment All Bollywood Pollywood Music City Amritsar Himachal Pradesh Haryana Uttar Pradesh Hindi News हरियाणा हिमाचल World News USA Canada UK Australia More Health Business Crime Immigration Automobiles Sports Search Trending: Gold Silver Price Update Punjab Police reshuffle Vaibhav Sooryavanshi Sheikh Hasina Bangladesh return Gurpurb special Search English News Politics Punjab Chandigarh Delhi Haryana Himachal Jammu & Kashmir Uttar Pradesh",
+      "source_title": "Manali tourist rush: Heavy traffic, packed hotels amid long ...",
+      "source_url": "https://www.ptcnews.tv/nation/manali-tourist-rush-long-weekend-traffic-jam-hotels-4430064",
+      "source_type": "web",
+      "platform": "ptcnews.tv",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_4",
+      "claim": "Published: 06 Jul 2026, 12:45 pm IST Share Related Topics Kulu Manali Tourism Incredible India Himachal Pradesh Read articles on app Get Latest Mathrubhumi Updates in English Follow Disclaimer: Kindly avoid objectionable, derogatory, unlawful and lewd comments, while responding to reports. Such comments are punishable under cyber laws. Please keep away from personal attacks.",
+      "source_title": "Kullu-Manali Tourism Surge: Record Arrivals Reported in 2026 ...",
+      "source_url": "https://english.mathrubhumi.com/multimedia/videos/kullu-manali-tourism-surge-2026-gfuzt615",
+      "source_type": "web",
+      "platform": "english.mathrubhumi.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_5",
+      "claim": "May 16, 2023 · The data gathered from the green tax barrier showed that 1,700 tourist vehicles reached Manali on Friday and about 1,800 on Saturday. Besides, a large number of vehicles from within the state...",
+      "source_title": "Tourist footfall up in Manali - The Tribune",
+      "source_url": "https://www.tribuneindia.com/news/himachal/tourist-footfall-up-in-manali-508216",
+      "source_type": "web",
+      "platform": "tribuneindia.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_6",
+      "claim": "Login Home News Hotel News Manali Tourism 2026 Drives Hotels to 80% Occupancy Hotel News Manali Tourism 2026 Drives Hotels to 80% Occupancy Manali tourism 2026 records 70–80% hotel occupancy as summer tourism surges, driven by weather, snow attractions, and rising travel demand across India. nishathapa & Ahmed Mainul May 4, 2026 - 05:43 0 Facebook Twitter Print as Newspaper Download Image Download PDF hospitalitycareerprofile.com Clipped from our website By Read this post online # Click here to read online Follow us Facebook X Instagram Youtube © Hospitality Career Profile Tourists in Manali with snow-covered mountains and hotels during peak summer season occupancy surge Listen This News Art",
+      "source_title": "Manali Tourism 2026 Drives Hotels to 80% Occupancy",
+      "source_url": "https://hospitalitycareerprofile.com/news/hotel-news/manali-tourism-2026-hotel-occupancy-80-percent-surge-summer",
+      "source_type": "web",
+      "platform": "hospitalitycareerprofile.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_7",
+      "claim": "This demand spike is giving operators room to push rates. And they are doing it. Pricing power is back, with peak-season demand clearly outpacing supply. The momentum is expected to hold through June, the traditional high season for northern hill stations. Homestays are riding the same wave. High demand across both formats shows one thing, travellers want options. And Manali is delivering across the board.",
+      "source_title": "Manali Tourism 2026 Drives Hotels to 80% Occupancy",
+      "source_url": "https://hospitalitycareerprofile.com/news/hotel-news/manali-tourism-2026-hotel-occupancy-80-percent-surge-summer",
+      "source_type": "web",
+      "platform": "hospitalitycareerprofile.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_8",
+      "claim": "By Hill Wire Desk Published 3 Oct 2026, 5:09 pm Updated 7 Oct 2026, 9:56 am Biswarup Ganguly / Wikimedia Commons, CC BY 3.0 Key points Manali saw a large influx of tourists over the weekend, with over 4,000 vehicles arriving in two days. Traffic congestion occurred in Manali and surrounding areas due to the high number of visitors. Hotel occupancy rates are between 60 and 70 percent, with some hotels fully booked.",
+      "source_title": "Manali Tourist Rush: Traffic, Hotel Occupancy status for ...",
+      "source_url": "https://thehillwire.com/manali-tourist-rush-traffic-hotel-occupancy-status-for-october-2026/",
+      "source_type": "web",
+      "platform": "thehillwire.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_9",
+      "claim": "Manali is seeing a large number of tourists this weekend, leading to heavy traffic congestion in the town and surrounding areas. The influx of visitors is from Punjab, Haryana, Chandigarh, and Delhi. Over 4,000 tourist vehicles arrived in Manali over the past two days. Hotels in Manali are experiencing high occupancy, with rates between 60 and 70 percent. Some hotels have reported being fully booked.",
+      "source_title": "Manali Tourist Rush: Traffic, Hotel Occupancy status for ...",
+      "source_url": "https://thehillwire.com/manali-tourist-rush-traffic-hotel-occupancy-status-for-october-2026/",
+      "source_type": "web",
+      "platform": "thehillwire.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_10",
+      "claim": "Home Himachal Pradesh Manali packed with tourists: Long weekend rush brings traffic jams, hotels nearly full Manali packed with tourists: Long weekend rush brings traffic jams, hotels nearly full Manali sees a massive tourist rush during the long weekend, with packed hotels, busy attractions and heavy traffic on roads leading to Solang, Sissu and Atal Tunnel Reported by: PTC News Desk Edited by: Jasleen Kaur -- October 03rd 2026 12:07 PM -- Updated: October 03rd 2026 12:08 PM Manali packed with tourists: Long weekend rush brings traffic jams, hotels nearly full Follow Us Share: PTC Web Desk: Manali is buzzing again as tourists from across the country have started pouring into the popular Him",
+      "source_title": "Manali tourist rush: Heavy traffic, packed hotels amid long ...",
+      "source_url": "https://www.ptcnews.tv/nation/manali-tourist-rush-long-weekend-traffic-jam-hotels-4430064",
+      "source_type": "web",
+      "platform": "ptcnews.tv",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_11",
+      "claim": "The rush has also brought some relief to tourism businesses that had been waiting for a pick-up. Hotels, homestays, taxi operators and shopkeepers are seeing increased activity as visitors make the most of the holiday break. Rohtang, Sissu and Solang see tourist rush Tourists have been visiting several popular destinations around Manali, including Rohtang Pass, Sissu, Atal Tunnel and Solang Valley.",
+      "source_title": "Manali tourist rush: Heavy traffic, packed hotels amid long ...",
+      "source_url": "https://www.ptcnews.tv/nation/manali-tourist-rush-long-weekend-traffic-jam-hotels-4430064",
+      "source_type": "web",
+      "platform": "ptcnews.tv",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_12",
+      "claim": "Omani co-pilot who attacked Indian pilot aboard flydubai flight; what we know so far - PTC NEWS Join Whatsapp Channel Tags Himachal Pradesh Himachal tourist rush Manali traffic Follow Us Share: Also Read Bir-Billing paragliding tragedy: Greater Noida tourist falls to death minutes after take-off, pilot booked Himachal braces for four days of rain as western disturbance returns; snow likely on high peaks Top News view more...",
+      "source_title": "Manali tourist rush: Heavy traffic, packed hotels amid long ...",
+      "source_url": "https://www.ptcnews.tv/nation/manali-tourist-rush-long-weekend-traffic-jam-hotels-4430064",
+      "source_type": "web",
+      "platform": "ptcnews.tv",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_13",
+      "claim": "Roshan Thakur, President of the Hoteliers Association Manali, said “The tourist influx in Manali has surged due to the weekend and holidays.” Tourists are visiting Kullu district to experience cold weather after recent rains and snowfall. The Hoteliers Association of Manali expects more visitors in the coming days. Our reporters check and approve every story. AI helps with research and drafting.",
+      "source_title": "Manali Tourist Rush: Traffic, Hotel Occupancy status for ...",
+      "source_url": "https://thehillwire.com/manali-tourist-rush-traffic-hotel-occupancy-status-for-october-2026/",
+      "source_type": "web",
+      "platform": "thehillwire.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_14",
+      "claim": "Both hotels and homestays are seeing steady booking flows, underlining strong domestic travel momentum as summer vacations kick in. Advertisement Occupancy Trends and Seasonal Demand Hotel occupancy in Manali has already hit 70–80%, and the curve is still climbing. Advance bookings are locking in early, while last-minute travellers are filling remaining inventory, mostly from heat-hit cities.",
+      "source_title": "Manali Tourism 2026 Drives Hotels to 80% Occupancy",
+      "source_url": "https://hospitalitycareerprofile.com/news/hotel-news/manali-tourism-2026-hotel-occupancy-80-percent-surge-summer",
+      "source_type": "web",
+      "platform": "hospitalitycareerprofile.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_15",
+      "claim": "Get detailed Airbnb information of your market in Excel format. 3 years historical data available. Talk to Sales ⟶ Accurate – Actionable – Customizable Airbnb Data At Your Fingertips! Achieve vacation rental market success with custom market analysis, dynamic data, and a 3-year historical dataset at daily granularity. Ideal for Airbnb hosts, investors, and vacation rental managers.",
+      "source_title": "Manali Tourism Statistics: Insights from Airbnb User",
+      "source_url": "https://airbtics.com/tourism-statistics-manali-in/",
+      "source_type": "web",
+      "platform": "airbtics.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_16",
+      "claim": "Manali Tourist Rush: Traffic, Hotel Occupancy status for October 2026 | Hill Wire Skip to content Skip to the news हिन्दी Business & economy Crime & police Education Health Politics Press release Sports Himachal Tourism Shimla Manali hotels full as tourist rush congests roads Over 4,000 vehicles entered Manali in two days, with hotels reporting occupancy between 60 and 70 percent.",
+      "source_title": "Manali Tourist Rush: Traffic, Hotel Occupancy status for ...",
+      "source_url": "https://thehillwire.com/manali-tourist-rush-traffic-hotel-occupancy-status-for-october-2026/",
+      "source_type": "web",
+      "platform": "thehillwire.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_17",
+      "claim": "Official data shows nearly 1.88 lakh vehicles crossed the Green Tax Barrier in Manali over the past three months, around 23,000 more than during the same period last year. Authorities say hotel occupancy has remained consistently high, making the season a major success for the region. To advertise here, Contact Us The tourism boom has highly benefited the local economy.",
+      "source_title": "Kullu-Manali Tourism Surge: Record Arrivals Reported in 2026 ...",
+      "source_url": "https://english.mathrubhumi.com/multimedia/videos/kullu-manali-tourism-surge-2026-gfuzt615",
+      "source_type": "web",
+      "platform": "english.mathrubhumi.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_18",
+      "claim": "The number of visitors per month are assumed using various data sources Airbtics collected. Sign up for free to see all cities Sign up for free to see all countries Sign up for free to see all languages Signup and check out more in-depth lodging information for free. Explore Manali 's Airbnb Data ⟶ What is the percentage of international visitors and domestic visitors?",
+      "source_title": "Manali Tourism Statistics: Insights from Airbnb User",
+      "source_url": "https://airbtics.com/tourism-statistics-manali-in/",
+      "source_type": "web",
+      "platform": "airbtics.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_19",
+      "claim": "Long weekend brings traffic trouble The heavy tourist inflow has, however, created major traffic problems in and around Manali. Videos showing long queues of vehicles have been circulating on social media. Traffic moved slowly on several stretches, including the Manali entry route, Mall Road, the road towards Solang Valley and the route leading to the Atal Tunnel.",
+      "source_title": "Manali tourist rush: Heavy traffic, packed hotels amid long ...",
+      "source_url": "https://www.ptcnews.tv/nation/manali-tourist-rush-long-weekend-traffic-jam-hotels-4430064",
+      "source_type": "web",
+      "platform": "ptcnews.tv",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_20",
+      "claim": "achal Pradesh hill town during the long weekend. Thousands of tourist vehicles reached Manali over the past two days, while a large number of visitors also arrived by Volvo buses. The sudden rise in tourist numbers has brought the town back to life, with Mall Road, local markets and major attractions remaining busy throughout the day.",
+      "source_title": "Manali tourist rush: Heavy traffic, packed hotels amid long ...",
+      "source_url": "https://www.ptcnews.tv/nation/manali-tourist-rush-long-weekend-traffic-jam-hotels-4430064",
+      "source_type": "web",
+      "platform": "ptcnews.tv",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_21",
+      "claim": "May 4, 2026 · Hotel occupancy in Manali has already hit 70–80%, and the curve is still climbing. Advance bookings are locking in early, while last-minute travellers are filling remaining inventory, mostly from heat-hit cities. This demand spike is giving operators room to push rates. And they are doing it.",
+      "source_title": "Manali Tourism 2026 Drives Hotels to 80% Occupancy",
+      "source_url": "https://hospitalitycareerprofile.com/news/hotel-news/manali-tourism-2026-hotel-occupancy-80-percent-surge-summer",
+      "source_type": "web",
+      "platform": "hospitalitycareerprofile.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_22",
+      "claim": "Also Read Heavy snowfall turns Manali into winter wonderland Himachal’s Sethan village turns snow into homes with magical igloo stays Fresh snowfall in Rohtang boosts winter tourism; Manali braces for first snow Tourism stakeholders believe the positive trend will continue in the coming months.",
+      "source_title": "Kullu-Manali Tourism Surge: Record Arrivals Reported in 2026 ...",
+      "source_url": "https://english.mathrubhumi.com/multimedia/videos/kullu-manali-tourism-surge-2026-gfuzt615",
+      "source_type": "web",
+      "platform": "english.mathrubhumi.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_23",
+      "claim": "The Rohtang Pass is open for tourists, and visitors are also going to the Atal Tunnel, Solang Valley, and Koksar. SDM Manali Gunjit Singh Chima told reporters that the tourist influx has caused traffic jams. Police personnel have been deployed to manage the flow of vehicles.",
+      "source_title": "Manali Tourist Rush: Traffic, Hotel Occupancy status for ...",
+      "source_url": "https://thehillwire.com/manali-tourist-rush-traffic-hotel-occupancy-status-for-october-2026/",
+      "source_type": "web",
+      "platform": "thehillwire.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_24",
+      "claim": "May 3, 2026 · Himachal Pradesh's premier tourist destination witnesses a significant surge in footfall as weekend arrivals cross the 7,000-vehicle mark, pushing hotel occupancy to a robust 75 per cent despite the Rohtang Pass remaining closed.",
+      "source_title": "Record Tourist Rush in Manali Over Weekend, Over 7,000 ...",
+      "source_url": "https://www.prajasatta.com/himachal/record-tourist-rush-in-manali-over-weekend-over-7000-vehicles-arrive-in-three-days-5158.html",
+      "source_type": "web",
+      "platform": "prajasatta.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_25",
+      "claim": "The top tourist places of Himachal Pradesh are Shimla, Kullu Valley, Manali, Dharamshala and Chamba. Shimla is the only developed city of the Himachal, its quietness and peaceful atmosphere makes it different from many urban cities in India.",
+      "source_title": "Emerging Tourists Destinations of Himachal Pradesh: A Case ...",
+      "source_url": "https://www.ijsdr.org/papers/IJSDR2401038.pdf",
+      "source_type": "web",
+      "platform": "ijsdr.org",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_26",
+      "claim": "Visitor Arrivals: Local: Himachal Pradesh data remains active status in CEIC and is reported by Ministry of Tourism. The data is categorized under Global Database’s India – Table IN.QD: Domestic Tourist Visits: by States.",
+      "source_title": "Visitor Arrivals: Local: Himachal Pradesh | Economic ...",
+      "source_url": "https://www.ceicdata.com/en/india/domestic-tourist-visits-by-states/visitor-arrivals-local-himachal-pradesh",
+      "source_type": "web",
+      "platform": "ceicdata.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_27",
+      "claim": "Mar 1, 2015 · Kullu and Manali is one of the beautiful and important tourist destinations from tourism point of view. The main objective of the study is to know about the facility provided to the tourist...",
+      "source_title": "Tourism in Himachal Pradesh: A Study of Kullu Manali",
+      "source_url": "https://www.researchgate.net/publication/319543887_Tourism_in_Himachal_Pradesh_A_Study_of_Kullu_Manali",
+      "source_type": "web",
+      "platform": "researchgate.net",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_28",
+      "claim": "Mar 21, 2021 · This paper applies regression statistics to check the significance of the variables taken before forecasting and explaining tourism demand of the tourist spots and tourist routes in and...",
+      "source_title": "Tourism Demand Forecasting and its application in Tourism ...",
+      "source_url": "https://www.researchgate.net/publication/358657956_Tourism_Demand_Forecasting_and_its_application_in_Tourism_Management-_a_case_study_of_Manali_in_Himachal_Pradesh_India",
+      "source_type": "web",
+      "platform": "researchgate.net",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_29",
+      "claim": "May 3, 2026 · Manali in Himachal Pradesh is experiencing increased tourist activity this season, with hotel occupancy currently between 70 and 80 per cent and expected to climb further in May and June.",
+      "source_title": "Manali hotel occupancy hits 80% amid rising tourism in ...",
+      "source_url": "https://thenewsmill.com/2026/05/hotel-occupancy-reaches-80-as-tourism-rises-in-manali-himachal-pradesh/",
+      "source_type": "web",
+      "platform": "thenewsmill.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_30",
+      "claim": "The data consists of 12 years or 144 months of total arrivals, i.e. both foreign and Indian, in the region of Kullu and Manali and is obtained from official government repository available here...",
+      "source_title": "Tourist Footfall (2008-2019) | Download Scientific Diagram",
+      "source_url": "https://www.researchgate.net/figure/Tourist-Footfall-2008-2019_fig2_353858029",
+      "source_type": "web",
+      "platform": "researchgate.net",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_31",
+      "claim": "May 3, 2026 · Manali: Himachal Pradesh's Manali is witnessing a surge in tourist activity this season, with both tourism stakeholders and visitors expressing strong enthusiasm.",
+      "source_title": "Tourism gains momentum in Manali of Himachal Pradesh; hotel ...",
+      "source_url": "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/tourism-gains-momentum-in-manali-of-himachal-pradesh-hotel-occupancy-reaches-up-to-80-per-cent/articleshow/130729877.cms",
+      "source_type": "web",
+      "platform": "economictimes.indiatimes.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_32",
+      "claim": "Besides Kullu-Manali, destinations including Banjar, Jibhi, Sainj Valley, and Manikaran have also recorded higher tourist footfall.",
+      "source_title": "Kullu-Manali Tourism Surge: Record Arrivals Reported in 2026 ...",
+      "source_url": "https://english.mathrubhumi.com/multimedia/videos/kullu-manali-tourism-surge-2026-gfuzt615",
+      "source_type": "web",
+      "platform": "english.mathrubhumi.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_33",
+      "claim": "nental Salad Continental Main Course Continental Desserts Continental Starter Web Stories Publish Your News Login Connect with Facebook Connect with Google Or register with email Forgot Password? icle Listen May 4, 2026, Manali: Hotels in Manali are reporting occupancy levels of 70–80%, with bookings expected to rise further through May and June, indicating a strong summer tourism season in the hill destination.",
+      "source_title": "Manali Tourism 2026 Drives Hotels to 80% Occupancy",
+      "source_url": "https://hospitalitycareerprofile.com/news/hotel-news/manali-tourism-2026-hotel-occupancy-80-percent-surge-summer",
+      "source_type": "web",
+      "platform": "hospitalitycareerprofile.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_34",
+      "claim": "On average Airbnb users paid for ₹2,837 per night for each night of stay. (excluding airbnb service fee and cleaning fee) On average Airbnb users spent ₹7944 for 4.4 nights of stay on Airbnb in Manali. How does visitor number changes throughout the year? This graph shows how does the number of visitor changes throughout the year, and shows peak season. As you can see, the peak season is June .",
+      "source_title": "Manali Tourism Statistics: Insights from Airbnb User",
+      "source_url": "https://airbtics.com/tourism-statistics-manali-in/",
+      "source_type": "web",
+      "platform": "airbtics.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_35",
+      "claim": "Related Articles Lifestyle Travel Mizoram promotes longer tourist stays to boost revenue after 20 lakh visits since 2024 Education News Kerala govt plans to attract students from across the world, with fellowships and tourism in the mix Features Specials From almost nothing to everything: The making of Abu Dhabi History, economic...",
+      "source_title": "Kullu-Manali Tourism Surge: Record Arrivals Reported in 2026 ...",
+      "source_url": "https://english.mathrubhumi.com/multimedia/videos/kullu-manali-tourism-surge-2026-gfuzt615",
+      "source_type": "web",
+      "platform": "english.mathrubhumi.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_36",
+      "claim": "Oct 3, 2026 · Manali saw a large influx of tourists over the weekend, with over 4,000 vehicles arriving in two days. Traffic congestion occurred in Manali and surrounding areas due to the high number of visitors. Hotel occupancy rates are between 60 and 70 percent, with some hotels fully booked.",
+      "source_title": "Manali Tourist Rush: Traffic, Hotel Occupancy status for ...",
+      "source_url": "https://thehillwire.com/manali-tourist-rush-traffic-hotel-occupancy-status-for-october-2026/",
+      "source_type": "web",
+      "platform": "thehillwire.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_37",
+      "claim": "Average length of stay on Airbnb in Manali is 4.4 days. There are 867 active Airbnb listings. A typical listing was booked for 35% of available nights. On average Airbnb users spent ₹7944 for 4.4 nights of stay on Airbnb in Manali. How does visitor number changes throughout the year?",
+      "source_title": "Manali Tourism Statistics: Insights from Airbnb User",
+      "source_url": "https://airbtics.com/tourism-statistics-manali-in/",
+      "source_type": "web",
+      "platform": "airbtics.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_38",
+      "claim": "May 4, 2026 · Manali is seeing a strong uptick in visitor arrivals this season, according to the latest ANI report, with both industry stakeholders and travellers showing renewed enthusiasm. According to hotelier Chaman Kapoor, the current season could turn out to be a record-setter.",
+      "source_title": "Manali sees tourism surge; hotel occupancy touches 80%",
+      "source_url": "https://www.traveltrendstoday.in/manali-sees-tourism-surge-hotel-occupancy-touches-80",
+      "source_type": "web",
+      "platform": "traveltrendstoday.in",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_39",
+      "claim": "The observation period is between 2023 October to 2024 September. Average length of stay on Airbnb in Manali is 4.4 days. There are 867 active Airbnb listings. The most common group size of Airbnb booking is 2.8 people A typical listing was booked for 35% of available nights.",
+      "source_title": "Manali Tourism Statistics: Insights from Airbnb User",
+      "source_url": "https://airbtics.com/tourism-statistics-manali-in/",
+      "source_type": "web",
+      "platform": "airbtics.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_40",
+      "claim": "In the past decade, the district of Kullu in Himachal Pradesh, India, has emerged as a great tourist hotspot. This industry has experienced significant growth, contributing a major part to the district's economy and creating employment opportunities for the locals.",
+      "source_title": "Temporal Study of Trend Analysis of Tourism Flow in Kullu ...",
+      "source_url": "https://www.ijfmr.com/papers/2023/6/9597.pdf",
+      "source_type": "web",
+      "platform": "ijfmr.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_41",
+      "claim": "Dec 18, 2022 · Sources in the Tourism Department said that 10,000 tourists were arriving in Manali. Snowfall has become a major attraction for tourists, who are also flocking to places near Manali to...",
+      "source_title": "Kullu-Manali sees rise in tourist footfall, hoteliers upbeat",
+      "source_url": "https://www.tribuneindia.com/news/himachal/kullu-manali-sees-rise-in-tourist-footfall-hoteliers-upbeat-462156",
+      "source_type": "web",
+      "platform": "tribuneindia.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_42",
+      "claim": "ESTIMATE OF DOMESTIC AND FOREIGN TOURIST ARRIVAL FOR THE YEAR 2018 (Januanry to December) ... (-)15.87% (-)24.29% ... Note:- The above estimates are inclusive of religious tourists. Total decrease",
+      "source_title": "ESTIMATE OF DOMESTIC AND FOREIGN TOURIST ARRIVAL FOR THE YEAR ...",
+      "source_url": "https://himachaltourism.gov.in/wp-content/uploads/2023/03/Tourist-Statistics.pdf",
+      "source_type": "web",
+      "platform": "himachaltourism.gov.in",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_43",
+      "claim": "Apr 14, 2026 · Tourism activity in Manali and Lahaul has significantly increased with thousands of visitors arriving daily. The surge in tourists has boosted hotel occupancy and local businesses.",
+      "source_title": "Manali to Lahaul Tourism Boom 2026 | G N G Group | G and G ...",
+      "source_url": "https://gautamandgautamgroup.org/entries/blog/manali-to-lahaul-tourism-boom-2026",
+      "source_type": "web",
+      "platform": "gautamandgautamgroup.org",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_44",
+      "claim": "A tourist rush during the ongoing long weekend has led to traffic congestion in several key destinations in Himachal Pradesh, with hotel occupancy in major tourist centres ranging...",
+      "source_title": "Weekend tourist influx leads to traffic snarls in Manali ...",
+      "source_url": "https://www.hindustantimes.com/cities/chandigarh-news/weekend-tourist-influx-leads-to-traffic-snarls-in-manali-shimla-101791053391374.html",
+      "source_type": "web",
+      "platform": "hindustantimes.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_45",
+      "claim": "News Kerala Kerala to grant industrial status to tourism sector, says Minister P C Vishnunadh News Kerala Healing Malabar: How health and wellness tourism can transform the region More from this section Multimedia Videos New York Police to debut new Harley-Davidson Road Glide at 100th US Thanksgiving Parade Multimedia Videos Kochi Dialogue 2026: V Muraleedharan on India's diplomatic ties amid US-Iran conflict Multimedia Videos What happens to your family's finances if your income suddenly stops?",
+      "source_title": "Kullu-Manali Tourism Surge: Record Arrivals Reported in 2026 ...",
+      "source_url": "https://english.mathrubhumi.com/multimedia/videos/kullu-manali-tourism-surge-2026-gfuzt615",
+      "source_type": "web",
+      "platform": "english.mathrubhumi.com",
+      "origin": "page",
+      "confidence": 0.5
+    }
+  ],
+  "findings": [
+    {
+      "finding_id": "finding_1",
+      "type": "TREND",
+      "category": "TREND",
+      "statement": "Manali is seeing a large number of tourists this weekend, leading to heavy traffic congestion in the town and surrounding areas.",
+      "evidence_ids": [
+        "evidence_8",
+        "evidence_9",
+        "evidence_10"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence cites traffic congestion, but does not directly state that Manali is seeing a large number of tourists this weekend."
+    },
+    {
+      "finding_id": "finding_2",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Manali saw a large influx of tourists over the weekend, with over 4,000 vehicles arriving in two days.",
+      "evidence_ids": [
+        "evidence_8",
+        "evidence_9",
+        "evidence_10"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is directly supported by the evidence, which cites over 4,000 vehicles arriving in two days and traffic congestion in Manali and surrounding areas."
+    },
+    {
+      "finding_id": "finding_3",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Trusted by 80% of hotels in Manali, Airbtics provides valuable insights into the tourism industry.",
+      "evidence_ids": [
+        "evidence_1"
+      ],
+      "confidence": 0.8,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding is not directly related to the user's research question about public data on traveller demand and tourist footfall in Manali."
+    },
+    {
+      "finding_id": "finding_4",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking process on Airbtics is user-friendly and easy to navigate.",
+      "evidence_ids": [
+        "evidence_1"
+      ],
+      "confidence": 0.8,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding is not directly related to the user's research question about public data on traveller demand and tourist footfall in Manali."
+    },
+    {
+      "finding_id": "finding_5",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "There is a lack of information on the environmental impact of tourism in Manali.",
+      "evidence_ids": [
+        "evidence_2"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is directly supported by the evidence, which cites a lack of information on the environmental impact of tourism in Manali."
+    },
+    {
+      "finding_id": "finding_6",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The summer season in Manali is expected to drive hotels to 80% occupancy.",
+      "evidence_ids": [
+        "evidence_2",
+        "evidence_6"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is directly supported by the evidence, which cites an expected 80% occupancy rate for hotels during the summer season in Manali."
+    },
+    {
+      "finding_id": "finding_7",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "The weather and snow attractions in Manali are major drawcards for tourists.",
+      "evidence_ids": [
+        "evidence_6"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_8",
+      "type": "PRICING",
+      "category": "PRICING",
+      "statement": "The prices of hotels in Manali are expected to rise due to high demand.",
+      "evidence_ids": [
+        "evidence_7"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_9",
+      "type": "FEATURE",
+      "category": "FEATURE",
+      "statement": "The Solang, Sissu, and Atal Tunnel are popular attractions in Manali.",
+      "evidence_ids": [
+        "evidence_10"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The evidence directly supports the finding that the Solang, Sissu, and Atal Tunnel are popular attractions in Manali."
+    },
+    {
+      "finding_id": "finding_10",
+      "type": "TREND",
+      "category": "TREND",
+      "statement": "The number of visitors to Manali has increased significantly over the past three months, with nearly 1.88 lakh vehicles crossing the Green Tax Barrier.",
+      "evidence_ids": [
+        "evidence_17"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The evidence directly supports the finding that the number of visitors to Manali has increased significantly over the past three months."
+    },
+    {
+      "finding_id": "finding_11",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "The Hoteliers Association of Manali expects more visitors in the coming days.",
+      "evidence_ids": [
+        "evidence_13"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The Hoteliers Association of Manali expects more visitors in the coming days, but the evidence does not provide direct evidence for this claim."
+    },
+    {
+      "finding_id": "finding_12",
+      "type": "TREND",
+      "category": "TREND",
+      "statement": "Hotel occupancy in Manali has already hit 70–80%, and the curve is still climbing.",
+      "evidence_ids": [
+        "evidence_14"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The evidence directly supports the finding that hotel occupancy in Manali has already hit 70–80% and the curve is still climbing."
+    },
+    {
+      "finding_id": "finding_13",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Advance bookings are locking in early, while last-minute travellers are filling remaining inventory, mostly from heat-hit cities.",
+      "evidence_ids": [
+        "evidence_14"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support the claim that advance bookings are locking in early, while last-minute travellers are filling remaining inventory, mostly from heat-hit cities."
+    },
+    {
+      "finding_id": "finding_14",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Both hotels and homestays are seeing steady booking flows, underlining strong domestic travel momentum as summer vacations kick in.",
+      "evidence_ids": [
+        "evidence_14"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support the claim that both hotels and homestays are seeing steady booking flows."
+    },
+    {
+      "finding_id": "finding_15",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "The sudden rise in tourist numbers has brought the town back to life, with Mall Road, local markets and major attractions remaining busy throughout the day.",
+      "evidence_ids": [
+        "evidence_20"
+      ],
+      "confidence": 1.0,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "While the finding describes the impact of tourist numbers on the town, it does not directly answer the research question about public data on traveller demand and tourist footfall in Manali."
+    },
+    {
+      "finding_id": "finding_16",
+      "type": "TREND",
+      "category": "TREND",
+      "statement": "Hotel occupancy in Manali has already hit 70–80% and is expected to climb further in May and June.",
+      "evidence_ids": [
+        "evidence_21",
+        "evidence_29"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence_21 and Evidence_29 directly support the finding of hotel occupancy in Manali already hitting 70–80% and expected to climb further in May and June."
+    },
+    {
+      "finding_id": "finding_17",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "The top tourist places of Himachal Pradesh are Shimla, Kullu Valley, Manali, Dharamshala and Chamba.",
+      "evidence_ids": [
+        "evidence_25"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence_25 directly supports the finding of the top tourist places of Himachal Pradesh."
+    },
+    {
+      "finding_id": "finding_18",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "The Rohtang Pass is open for tourists, but the traffic jams caused by the tourist influx are a recurring issue.",
+      "evidence_ids": [
+        "evidence_23",
+        "evidence_24"
+      ],
+      "confidence": 0.8,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding describes a traffic issue, but it does not directly answer the research question about public data on traveller demand and tourist footfall in Manali."
+    },
+    {
+      "finding_id": "finding_19",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The data on tourist footfall in Manali is available from official government repositories, such as CEIC.",
+      "evidence_ids": [
+        "evidence_26"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The data on tourist footfall in Manali is indeed available from official government repositories, such as CEIC, as stated in evidence_26."
+    },
+    {
+      "finding_id": "finding_20",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The positive trend in tourism is expected to continue in the coming months, with tourism stakeholders believing in its positive impact.",
+      "evidence_ids": [
+        "evidence_22"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "While evidence_22 mentions a positive trend in tourism, it does not directly support the finding that the data on tourist footfall in Manali is available from official government repositories, such as CEIC."
+    },
+    {
+      "finding_id": "finding_21",
+      "type": "TREND",
+      "category": "TREND",
+      "statement": "Manali is experiencing a surge in tourist activity this season, with both tourism stakeholders and visitors expressing strong enthusiasm.",
+      "evidence_ids": [
+        "evidence_31",
+        "evidence_38"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The surge in tourist activity in Manali is indeed reported by tourism stakeholders and visitors, as stated in evidence_31 and evidence_38, and it directly answers the research question of what data or signals exist and how an owner can get them."
+    },
+    {
+      "finding_id": "finding_22",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Hotels in Manali are reporting occupancy levels of 70–80%, with bookings expected to rise further through May and June, indicating a strong summer tourism season in the hill destination.",
+      "evidence_ids": [
+        "evidence_33"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The occupancy levels of 70–80% and bookings expected to rise further through May and June are indeed reported by hotels in Manali, as stated in evidence_33, and it directly answers the research question of what data or signals exist and how an owner can get them."
+    },
+    {
+      "finding_id": "finding_23",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Average length of stay on Airbnb in Manali is 4.4 days, and there are 867 active Airbnb listings.",
+      "evidence_ids": [
+        "evidence_37",
+        "evidence_39"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "While evidence_37 and evidence_39 provide information on average length of stay and number of active Airbnb listings, they do not directly support the finding that the data on tourist footfall in Manali is available from official government repositories, such as CEIC."
+    },
+    {
+      "finding_id": "finding_24",
+      "type": "PRICING",
+      "category": "PRICING",
+      "statement": "On average Airbnb users paid for ₹2,837 per night for each night of stay.",
+      "evidence_ids": [
+        "evidence_34"
+      ],
+      "confidence": 0.6,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The average price paid by Airbnb users is indeed ₹2,837 per night, as stated in evidence_34, and it directly answers the research question of what data or signals exist and how an owner can get them."
+    },
+    {
+      "finding_id": "finding_25",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "The district of Kullu in Himachal Pradesh, India, has emerged as a great tourist hotspot in the past decade.",
+      "evidence_ids": [
+        "evidence_40"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_26",
+      "type": "TREND",
+      "category": "TREND",
+      "statement": "There has been an increase in tourist footfall in Manali, with thousands of visitors arriving daily.",
+      "evidence_ids": [
+        "evidence_43"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question by stating that there has been an increase in tourist footfall in Manali, with thousands of visitors arriving daily."
+    },
+    {
+      "finding_id": "finding_27",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "The estimated domestic and foreign tourist arrival for the year 2018 was 15.87% lower than the previous year.",
+      "evidence_ids": [
+        "evidence_42"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_28",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "There is a lack of information on the specific dates of tourist arrivals and departures.",
+      "evidence_ids": [
+        "evidence_41",
+        "evidence_42",
+        "evidence_43"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence mentions a lack of information on specific dates, but it does not provide a clear answer to the research question."
+    }
+  ],
+  "insights": [
+    "Manali is experiencing a surge in tourist activity this season, with both tourism stakeholders and visitors expressing strong enthusiasm.",
+    "The number of visitors to Manali has increased significantly over the past three months, with nearly 1.88 lakh vehicles crossing the Green Tax Barrier.",
+    "Hotel occupancy in Manali has already hit 70–80% and is expected to climb further in May and June."
+  ]
+}

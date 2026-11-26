@@ -1,0 +1,956 @@
+{
+  "key": "platform-makemytrip",
+  "kind": "topic",
+  "run_id": "platform-makemytrip-20261126-034008",
+  "created_at": "2026-11-26T03:43:03",
+  "manual_note_count": 0,
+  "question": {
+    "question": "What do travellers and hotel owners find convenient, confusing or unnecessarily complicated about MakeMyTrip hotel bookings in India?",
+    "depth": "standard",
+    "max_iterations": 2,
+    "mode": "topic",
+    "subject": "MakeMyTrip (hotel booking)",
+    "place": "",
+    "aspects": [
+      "Something convenient about booking or using the platform",
+      "Something confusing or unnecessarily complicated about booking, paying or cancelling",
+      "Fees, hidden charges or pricing surprises",
+      "What owners / hosts complain about"
+    ],
+    "official_domains": [],
+    "seed_urls": [],
+    "seed_queries": [
+      "MakeMyTrip hotel booking complaints hidden charges refund",
+      "MakeMyTrip app hotel booking confusing review",
+      "MakeMyTrip hotel partner commission complaints hoteliers",
+      "site:reddit.com MakeMyTrip hotel booking experience",
+      "MakeMyTrip vs Booking.com vs Airbnb India comparison"
+    ]
+  },
+  "iterations": 1,
+  "quality_score": 1.0,
+  "missing_information": [],
+  "evidence": [
+    {
+      "evidence_id": "evidence_1",
+      "claim": "Consumer Rights Guide How to File a Complaint Against MakeMyTrip MakeMyTrip (India) Private Limited is one of India's well-known online travel agencies (OTAs), offering flight, hotel, bus, train, and holiday package bookings. As with any large booking platform, customers regularly report unresolved issues with refunds, cancellations, hidden charges, and unresponsive customer support.",
+      "source_title": "Complaint Against MakeMyTrip | File Free & Get Refund ...",
+      "source_url": "https://complaintkart.com/complaint-against-makemytrip",
+      "source_type": "web",
+      "platform": "complaintkart.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_2",
+      "claim": "It's legit, as much as booking.com or Agoda. Do I need to call hotels to confirm MMT bookings? No, not really. Find out if MakeMyTrip Flight Hotel Bus is safe & legit. read complaints, ratings, billing issues, and app safety insights. | Read the latest user opinions and reviews for MakeMyTrip Flight, Hotel, Bus - Crowned as the ‘Super App of Travel’, MakeMyTrip is the perfect accompaniment to all your trips.",
+      "source_title": "MakeMyTrip Reviews (From First-hand Experiences)MakeMyTrip - Flights & Hotels | User reviews and ratingsIs it okay to book hotels thru MakeMyTrip? Is it legit? - RedditMakeMyTrip Flight Hotel Bus Reviews (2026) | Check if app is ...",
+      "source_url": "https://www.consumeraffairs.com/travel/makemytrip.html",
+      "source_type": "web",
+      "platform": "consumeraffairs.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_3",
+      "claim": "Platform-wise Grievance Officer locations and common issues Platform Cancellation Rule Grievance Officer Location Recurring Friction MakeMyTrip / Goibibo Property-specific free-cancellation window Footer > Grievance Officer / Redressal Invoking “non-refundable” even on hotel fault Booking.com Usually free up to 24 to 48 hrs pre-check-in Footer > India Grievance Officer page Deflecting blame as “only an aggregator” OYO Category-specific (Townhouse / Classic) Footer > India Grievance Officer Unilateral property substitution without consent Airbnb Flexible / Moderate / Strict tiers Footer > Contact Us > India Grievance Officer Delayed escalation after host refusal (see Airbnb fraud and Airbnb r",
+      "source_title": "Hotel Booking Refund Denied: Consumer Complaint Guide 2026",
+      "source_url": "https://righttoinformation.wiki/hotel-booking-refund-denied-india",
+      "source_type": "web",
+      "platform": "righttoinformation.wiki",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_4",
+      "claim": "Which is better for an Indian homestay - Airbnb or Booking.com? What commission does Airbnb charge hosts in India in 2026? What commission does Booking.com charge hosts in India? What commission does MakeMyTrip charge homestay hosts? How do I list on Airbnb and Booking.com at the same time? Is Airbnb or Booking.com faster to pay hosts? Do I need GST registration to list on Airbnb / Booking.com / MakeMyTrip?",
+      "source_title": "Airbnb vs Booking.com for Hosts (2026) | Fursat",
+      "source_url": "https://www.fursat.fun/blog/airbnb-vs-booking-com-vs-makemytrip-for-hosts",
+      "source_type": "web",
+      "platform": "fursat.fun",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_5",
+      "claim": "Airbnb vs Booking.com for Hosts (2026) | Fursat Skip to main content fursat. Anywhere in India Anytime 2 guests Where to? Browse stays List your home fursat. Anywhere in India Anytime 2 guests Where to? Journal / Homestay Guides 13 min read · 15 June 2026 Airbnb vs Booking.com vs MakeMyTrip . Best Platform for Indian Hosts (2026) Airbnb vs Booking.com vs MakeMyTrip for Indian hosts.",
+      "source_title": "Airbnb vs Booking.com for Hosts (2026) | Fursat",
+      "source_url": "https://www.fursat.fun/blog/airbnb-vs-booking-com-vs-makemytrip-for-hosts",
+      "source_type": "web",
+      "platform": "fursat.fun",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_6",
+      "claim": "Indian hosts often skip these because the extranet UX is harder. Don't - it's where 30-40% of Indian domestic OTA bookings happen. Listing on every OTA simultaneously without testing. Start with the one strongest platform for your property type. Get 5-10 reviews. Then expand. How to manage Airbnb + Booking.com + MakeMyTrip from one place Three options: Manual.",
+      "source_title": "Airbnb vs Booking.com for Hosts (2026) | Fursat",
+      "source_url": "https://www.fursat.fun/blog/airbnb-vs-booking-com-vs-makemytrip-for-hosts",
+      "source_type": "web",
+      "platform": "fursat.fun",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_7",
+      "claim": "From flight and hotel bookings to holiday packages and bus/train tickets — if MakeMyTrip has failed you, our platform knows how to make them respond. ✈️ Flight Booking Issues Wrong fare charged, booking errors, failed payments still deducted, or denied boarding due to platform mistakes.",
+      "source_title": "Complaint Against MakeMyTrip | File Free & Get Refund ...",
+      "source_url": "https://complaintkart.com/complaint-against-makemytrip",
+      "source_type": "web",
+      "platform": "complaintkart.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_8",
+      "claim": "Oct 14, 2026 · Compare Airbnb, Booking.com, MakeMyTrip, and Homeyhuts to find out which platform helps homestay hosts earn more. Understand commissions, guest types, payouts, and profit potential before you list.",
+      "source_title": "Airbnb vs. Booking.com vs. MakeMyTrip vs. Homeyhuts: Which…",
+      "source_url": "https://homeyhuts.com/article/host-knowledge-hub/Airbnb-vs.-Booking.com-vs.-MakeMyTrip-vs.-Homeyhuts:-Which-Platform-Makes-Hosts-More-Money",
+      "source_type": "booking",
+      "platform": "Booking.com",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_9",
+      "claim": "File complaint → 🔁 Rescheduling & Date Change Fraud Excessive rescheduling fees, forced date changes, or failure to process approved changes. File complaint → 🧾 Hidden Charges & Overbilling Convenience fees, insurance, or add-ons charged without clear consent at checkout. File complaint → 🚌 Bus & Train Booking Issues Ticket not confirmed despite payment, incorrect PNR, or operator cancellations without proper refund.",
+      "source_title": "Complaint Against MakeMyTrip | File Free & Get Refund ...",
+      "source_url": "https://complaintkart.com/complaint-against-makemytrip",
+      "source_type": "web",
+      "platform": "complaintkart.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_10",
+      "claim": "Common Refund Disputes with MakeMyTrip Issue Type What You Can Claim Airline/hotel refunded MakeMyTrip but you weren't paid Full pass-through refund + interest for the delay Booking failed but amount was deducted Immediate reversal of the deducted amount Hidden convenience fee or add-on charged without consent Refund of the undisclosed charge Property/operator denied service despite confirmed booking Full refund + compensation for inconvenience Time Limit to File a Complaint Against MakeMyTrip Under the Consumer Protection Act, 2019, a consumer complaint must generally be filed within two years from the date the cause of action arose — usually the date of the failed booking or the date a pro",
+      "source_title": "Complaint Against MakeMyTrip | File Free & Get Refund ...",
+      "source_url": "https://complaintkart.com/complaint-against-makemytrip",
+      "source_type": "web",
+      "platform": "complaintkart.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_11",
+      "claim": "Download on the App Store Get it on Google Play ✕ Hotel Booking Refund Denied: Consumer Complaint Guide Quick Reply: When MakeMyTrip, OYO, Goibibo, Booking.com, Cleartrip, Agoda, or Airbnb denies a hotel refund over a misrepresented property, cancelled stay, or refused check-in, run four parallel levers instead of waiting sequentially: Platform Grievance Officer: Mandatory under Consumer Protection (E-Commerce) Rules, 2020 Rule 4(5) (48-hour acknowledgement, 1-month resolution) and IT Rules, 2021 Rule 3(2) (24-hour acknowledgement, 15-day resolution).",
+      "source_title": "Hotel Booking Refund Denied: Consumer Complaint Guide 2026",
+      "source_url": "https://righttoinformation.wiki/hotel-booking-refund-denied-india",
+      "source_type": "web",
+      "platform": "righttoinformation.wiki",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_12",
+      "claim": "Sample Grievance Officer demand email To: The Grievance Officer, [MakeMyTrip / Booking.com / OYO / Goibibo / Airbnb] [Official India Grievance Email from Footer] Subject: Refund Demand - Booking ID [XXXX] dated [DD-MM-2026] under E-Commerce Rules 2020 Rule 4(5), IT Rules 2021 Rule 3(2), and CPA 2019 Section 2(11) Sir / Madam, I, [Full Name] of [City, State], paid Rs [Amount] on [Date] (Card/Account ending [4 digits]) for Booking ID [XXXX] at [Hotel Name].",
+      "source_title": "Hotel Booking Refund Denied: Consumer Complaint Guide 2026",
+      "source_url": "https://righttoinformation.wiki/hotel-booking-refund-denied-india",
+      "source_type": "web",
+      "platform": "righttoinformation.wiki",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_13",
+      "claim": "With dynamic pricing across multiple platforms, you can charge premium nights on whichever platform's audience is willing to pay it. Direct booking siphoning. Once a guest finds you on any OTA, getting them to rebook directly on your own channel (WhatsApp, your website) saves the full commission. Listing on Airbnb and Booking.com simultaneously: the workflow The sequence most homestay hosts in India follow: Step 1.",
+      "source_title": "Airbnb vs Booking.com for Hosts (2026) | Fursat",
+      "source_url": "https://www.fursat.fun/blog/airbnb-vs-booking-com-vs-makemytrip-for-hosts",
+      "source_type": "web",
+      "platform": "fursat.fun",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_14",
+      "claim": "Free distribution to all three plus 60+ other platforms, real-time calendar sync, professional photography, WhatsApp booking management. Worth it at 1-3 properties. For most single-property hosts in India, the math is: Fursat is free (commission only on bookings, paid out of OTA take). NextPax / Channex cost ~Rs 25,000-50,000/year per property. Hostaway costs ~Rs 50,000-100,000/year per property.",
+      "source_title": "Airbnb vs Booking.com for Hosts (2026) | Fursat",
+      "source_url": "https://www.fursat.fun/blog/airbnb-vs-booking-com-vs-makemytrip-for-hosts",
+      "source_type": "web",
+      "platform": "fursat.fun",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_15",
+      "claim": "Nov 18, 2026 · We met with accident and when asked for help to refund or change dates they blamed on hotel whereas hotel blamed on MMT. Discover feedback and ratings from users who have used MakeMyTrip - Flights & Hotels. Make an informed decision and find out what others think about this Android app. Is having MMT booking confirmation vouchers enough for the hotels or should call hotels after?",
+      "source_title": "MakeMyTrip Reviews (From First-hand Experiences)MakeMyTrip - Flights & Hotels | User reviews and ratingsIs it okay to book hotels thru MakeMyTrip? Is it legit? - RedditMakeMyTrip Flight Hotel Bus Reviews (2026) | Check if app is ...",
+      "source_url": "https://www.consumeraffairs.com/travel/makemytrip.html",
+      "source_type": "web",
+      "platform": "consumeraffairs.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_16",
+      "claim": "Most travellers assume a booking platform is \"just a middleman\" and give up when refunds get stuck — but under the Consumer Protection Act, 2019, an intermediary that collects your payment is directly answerable to you for service deficiency. Step 1: Escalate to MakeMyTrip Customer Care Before legal escalation, raise the issue formally with MakeMyTrip's customer care and keep a written record.",
+      "source_title": "Complaint Against MakeMyTrip | File Free & Get Refund ...",
+      "source_url": "https://complaintkart.com/complaint-against-makemytrip",
+      "source_type": "web",
+      "platform": "complaintkart.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_17",
+      "claim": "List your home free In this guide What each platform does well in India Airbnb vs Booking.com vs MakeMyTrip: head-to-head comparison table Should I list my homestay on Airbnb or Booking.com? Both. Listing on Airbnb and Booking.com simultaneously: the workflow Best site to list a homestay in India in 2026 What's the best platform to list a homestay in India? It depends on the property type.",
+      "source_title": "Airbnb vs Booking.com for Hosts (2026) | Fursat",
+      "source_url": "https://www.fursat.fun/blog/airbnb-vs-booking-com-vs-makemytrip-for-hosts",
+      "source_type": "web",
+      "platform": "fursat.fun",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_18",
+      "claim": "MakeMyTrip.com: Save upto 60% on Hotel Booking 4,442,00+ Hotels Worldwide List Your Property Grow your business! nital , Resorts In Neemrana , Resorts In Kodaikanal Q. How to book a hotel online with MakeMyTrip? A. Booking a hotel online is easy through MakeMyTrip. All you need to do first is to download our app on your Android or iOS device or simply use your computer.",
+      "source_title": "MakeMyTrip Book at Rs. 0 Offer - Up to 70% Off on Hotels Today",
+      "source_url": "https://www.bing.com/aclick?ld=e8R6ikIWVDUsF6Zkw2gwQWNTVUCUw-PDQEwAu92wZWTvHnkMhqKqigSZPCqpyd-0KdiN76YoG4_YfHkl6o3xU6qwF3QDeL8Pk4XRtsgeykqh0FDmKPHzDSKD2jIv-l46DC3TCG14ZBhkKMVSQ_3sruuLjwWD6Hw_55nQ0WhTs1mKw45xQ1BNxkopEsLiGcGNWdwWcQjU6scfUGd_Iorr2Hfa2ZvaY&u=aHR0cHMlM2ElMmYlMmZwaXhlbC5ldmVyZXN0dGVjaC5uZXQlMmYxNjMxJTJmY3ElM2Zldl9zaWQlM2QxMCUyNmV2X2xuJTNkaG90ZWwlMjUyMGJvb2tpbmclMjUyMGluJTI1MjBtYWtlJTI1MjBteSUyNTIwdHJpcCUyNmV2X2x0eCUzZCUyNmV2X2x4JTNka3dkLTcxNTM3NzYzMzc3MDgyJTNhbG9jLTkwJTI2ZXZfY3J4JTNkNzE1MzcyMTU3MDE2MzclMjZldl9tdCUzZGUlMjZldl9kdmMlM2RjJTI2ZXZfcGh5JTNkMjYwODM3JTI2ZXZfbG9jJTNkJTI2ZXZfY3glM2Q2MjcxMTk5NDglMjZldl9heCUzZDExNDQ1OTMyNDkwMDkzODMlMjZldl9leCUzZCUyNmV2X2VmaWQlM2RjNTc0YTJkOGFkNzUxMjU5N2U5ZGM5ZGZmMTkyNmQ0MSUzYUclM2FzJTI2dXJsJTNkaHR0cHMlMjUzQSUyNTJGJTI1MkZ3d3cubWFrZW15dHJpcC5jb20lMjUyRmhvdGVscyUyNTNGY21wJTI1M0RTRU0lMjU3Q0QlMjU3Q0RIJTI1N0NCJTI1N0NCcmFuZCUyNTdDSF8xX0JyYW5kX1RvcF81X0V4YWN0JTI1N0NCcmFuZF9OYW1lcyUyNTdDRVRBJTI1N0NSZWd1bGFyJTI1N0MlMjUyNnNfa3djaWQlMjUzREFMITE2MzEhMyEhZSEhbyEhaG90ZWwlMjUyNTIwYm9va2luZyUyNTI1MjBpbiUyNTI1MjBtYWtlJTI1MjUyMG15JTI1MjUyMHRyaXAlMjUyNmVmX2lkJTI1M0RjNTc0YTJkOGFkNzUxMjU5N2U5ZGM5ZGZmMTkyNmQ0MSUyNTNBRyUyNTNBcyUyNm1zY2xraWQlM2RjNTc0YTJkOGFkNzUxMjU5N2U5ZGM5ZGZmMTkyNmQ0MQ&rlid=c574a2d8ad7512597e9dc9dff1926d41",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_19",
+      "claim": "Jan 3, 2025 · Consumer complaints and reviews about MakeMyTrip India - request for refund and grievance against makemytrip's customer service and hotel booking standards. MakeMyTrip India contact information and services description.",
+      "source_title": "MakeMyTrip Reviews and Complaints 2026 | ComplaintsBoardSupport Contact Us - MakeMyTripMakeMyTrip India — Complaint Regarding Hotel Booking and ...MakeMyTrip India — request for refund and grievance against ...",
+      "source_url": "https://www.complaintsboard.com/makemytrip-b119676",
+      "source_type": "web",
+      "platform": "complaintsboard.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_20",
+      "claim": "File a free complaint against MakeMyTrip for flight, hotel or holiday package refund delays, cancellations or hidden charges. Send a legal notice or approach consumer court. 92% success rate.",
+      "source_title": "Complaint Against MakeMyTrip | File Free & Get Refund ...",
+      "source_url": "https://complaintkart.com/complaint-against-makemytrip",
+      "source_type": "web",
+      "platform": "complaintkart.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_21",
+      "claim": "Lowest Prices, Multiple Hotel Options, Best-in-class Booking Experience. Book Hotels at Rs. 0 on MakeMyTrip. Convenient Payment Options. Easy Cancellation Policy. Popular Links:",
+      "source_title": "MakeMyTrip Book at Rs. 0 Offer - Up to 70% Off on Hotels Today",
+      "source_url": "https://www.bing.com/aclick?ld=e8R6ikIWVDUsF6Zkw2gwQWNTVUCUw-PDQEwAu92wZWTvHnkMhqKqigSZPCqpyd-0KdiN76YoG4_YfHkl6o3xU6qwF3QDeL8Pk4XRtsgeykqh0FDmKPHzDSKD2jIv-l46DC3TCG14ZBhkKMVSQ_3sruuLjwWD6Hw_55nQ0WhTs1mKw45xQ1BNxkopEsLiGcGNWdwWcQjU6scfUGd_Iorr2Hfa2ZvaY&u=aHR0cHMlM2ElMmYlMmZwaXhlbC5ldmVyZXN0dGVjaC5uZXQlMmYxNjMxJTJmY3ElM2Zldl9zaWQlM2QxMCUyNmV2X2xuJTNkaG90ZWwlMjUyMGJvb2tpbmclMjUyMGluJTI1MjBtYWtlJTI1MjBteSUyNTIwdHJpcCUyNmV2X2x0eCUzZCUyNmV2X2x4JTNka3dkLTcxNTM3NzYzMzc3MDgyJTNhbG9jLTkwJTI2ZXZfY3J4JTNkNzE1MzcyMTU3MDE2MzclMjZldl9tdCUzZGUlMjZldl9kdmMlM2RjJTI2ZXZfcGh5JTNkMjYwODM3JTI2ZXZfbG9jJTNkJTI2ZXZfY3glM2Q2MjcxMTk5NDglMjZldl9heCUzZDExNDQ1OTMyNDkwMDkzODMlMjZldl9leCUzZCUyNmV2X2VmaWQlM2RjNTc0YTJkOGFkNzUxMjU5N2U5ZGM5ZGZmMTkyNmQ0MSUzYUclM2FzJTI2dXJsJTNkaHR0cHMlMjUzQSUyNTJGJTI1MkZ3d3cubWFrZW15dHJpcC5jb20lMjUyRmhvdGVscyUyNTNGY21wJTI1M0RTRU0lMjU3Q0QlMjU3Q0RIJTI1N0NCJTI1N0NCcmFuZCUyNTdDSF8xX0JyYW5kX1RvcF81X0V4YWN0JTI1N0NCcmFuZF9OYW1lcyUyNTdDRVRBJTI1N0NSZWd1bGFyJTI1N0MlMjUyNnNfa3djaWQlMjUzREFMITE2MzEhMyEhZSEhbyEhaG90ZWwlMjUyNTIwYm9va2luZyUyNTI1MjBpbiUyNTI1MjBtYWtlJTI1MjUyMG15JTI1MjUyMHRyaXAlMjUyNmVmX2lkJTI1M0RjNTc0YTJkOGFkNzUxMjU5N2U5ZGM5ZGZmMTkyNmQ0MSUyNTNBRyUyNTNBcyUyNm1zY2xraWQlM2RjNTc0YTJkOGFkNzUxMjU5N2U5ZGM5ZGZmMTkyNmQ0MQ&rlid=c574a2d8ad7512597e9dc9dff1926d41",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_22",
+      "claim": "Nov 18, 2026 · Hotel refund denied by MakeMyTrip, OYO or Booking.com in India in 2026? File under E-Commerce Rules 2020, escalate to NCH 1915, e-Jagriti, or card chargeback.",
+      "source_title": "Hotel Booking Refund Denied: Consumer Complaint Guide 2026",
+      "source_url": "https://righttoinformation.wiki/hotel-booking-refund-denied-india",
+      "source_type": "web",
+      "platform": "righttoinformation.wiki",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_23",
+      "claim": "I am a citizen of India. [Name, Address, Phone, Email, Date] Documents and screenshots checklist Booking confirmation email with PNR/booking ID and total paid Original property listing PDF showing star rating, photos, and promised amenities Timestamped cancellation request and platform refusal email or chat transcript Geo-tagged photos/videos of property condition or front-desk refusal Bank or credit card debit statement and GST tax invoice Government ID used at booking and travel insurance policy (if attached) Frequently asked questions Is a \"non-refundable\" booking really non-refundable in India?",
+      "source_title": "Hotel Booking Refund Denied: Consumer Complaint Guide 2026",
+      "source_url": "https://righttoinformation.wiki/hotel-booking-refund-denied-india",
+      "source_type": "web",
+      "platform": "righttoinformation.wiki",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_24",
+      "claim": "Oct 7, 2026 · MakeMyTrip: 242 complaints and 6 reviews, rated 2.5 out of 5 from 248 ratings. Read real customer experiences or share yours on ComplaintsBoard. You can make a booking online through our website and complete your transaction using a variety of secure payment options that are available. If you would like to make a booking/enquiry on the phone, please contact our Customer Support service.",
+      "source_title": "MakeMyTrip Reviews and Complaints 2026 | ComplaintsBoardSupport Contact Us - MakeMyTripMakeMyTrip India — Complaint Regarding Hotel Booking and ...MakeMyTrip India — request for refund and grievance against ...",
+      "source_url": "https://www.complaintsboard.com/makemytrip-b119676",
+      "source_type": "web",
+      "platform": "complaintsboard.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_25",
+      "claim": "Introducing myBiz Business Travel Solution My Trips Manage your bookings Wishlist Save favourites Login or Create Account Flights Flights Hotels Hotels Villas & Homestays Villas & Homestays Holiday Packages Holiday Packages Trains Trains Buses Buses Cabs Cabs Tours & Attractions Tours & Attractions Visa Visa Forex Card & Currency Forex Card & Currency Travel Insurance Travel Insurance Wishlist Save favourites Login or Create Account Country Currency INR MakeMyTrip About Us , Investor Relations , Careers , Sustainability , MMT Foundation , Legal Notices , CSR Policy , myPartner - Travel Agent Portal , List your hotel , Partners- Redbus , Partners- Goibibo , Advertise with Us , Holiday-Franchi",
+      "source_title": "MakeMyTrip Book at Rs. 0 Offer - Up to 70% Off on Hotels Today",
+      "source_url": "https://www.bing.com/aclick?ld=e8R6ikIWVDUsF6Zkw2gwQWNTVUCUw-PDQEwAu92wZWTvHnkMhqKqigSZPCqpyd-0KdiN76YoG4_YfHkl6o3xU6qwF3QDeL8Pk4XRtsgeykqh0FDmKPHzDSKD2jIv-l46DC3TCG14ZBhkKMVSQ_3sruuLjwWD6Hw_55nQ0WhTs1mKw45xQ1BNxkopEsLiGcGNWdwWcQjU6scfUGd_Iorr2Hfa2ZvaY&u=aHR0cHMlM2ElMmYlMmZwaXhlbC5ldmVyZXN0dGVjaC5uZXQlMmYxNjMxJTJmY3ElM2Zldl9zaWQlM2QxMCUyNmV2X2xuJTNkaG90ZWwlMjUyMGJvb2tpbmclMjUyMGluJTI1MjBtYWtlJTI1MjBteSUyNTIwdHJpcCUyNmV2X2x0eCUzZCUyNmV2X2x4JTNka3dkLTcxNTM3NzYzMzc3MDgyJTNhbG9jLTkwJTI2ZXZfY3J4JTNkNzE1MzcyMTU3MDE2MzclMjZldl9tdCUzZGUlMjZldl9kdmMlM2RjJTI2ZXZfcGh5JTNkMjYwODM3JTI2ZXZfbG9jJTNkJTI2ZXZfY3glM2Q2MjcxMTk5NDglMjZldl9heCUzZDExNDQ1OTMyNDkwMDkzODMlMjZldl9leCUzZCUyNmV2X2VmaWQlM2RjNTc0YTJkOGFkNzUxMjU5N2U5ZGM5ZGZmMTkyNmQ0MSUzYUclM2FzJTI2dXJsJTNkaHR0cHMlMjUzQSUyNTJGJTI1MkZ3d3cubWFrZW15dHJpcC5jb20lMjUyRmhvdGVscyUyNTNGY21wJTI1M0RTRU0lMjU3Q0QlMjU3Q0RIJTI1N0NCJTI1N0NCcmFuZCUyNTdDSF8xX0JyYW5kX1RvcF81X0V4YWN0JTI1N0NCcmFuZF9OYW1lcyUyNTdDRVRBJTI1N0NSZWd1bGFyJTI1N0MlMjUyNnNfa3djaWQlMjUzREFMITE2MzEhMyEhZSEhbyEhaG90ZWwlMjUyNTIwYm9va2luZyUyNTI1MjBpbiUyNTI1MjBtYWtlJTI1MjUyMG15JTI1MjUyMHRyaXAlMjUyNmVmX2lkJTI1M0RjNTc0YTJkOGFkNzUxMjU5N2U5ZGM5ZGZmMTkyNmQ0MSUyNTNBRyUyNTNBcyUyNm1zY2xraWQlM2RjNTc0YTJkOGFkNzUxMjU5N2U5ZGM5ZGZmMTkyNmQ0MQ&rlid=c574a2d8ad7512597e9dc9dff1926d41",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_26",
+      "claim": "Surajkund Vivanta , JW Marriott Banglore , Alila Diwa Goa , Westin Goa , Trident Hotel Udaipur , Ritz Carlton Bangalore , Taj Hotel Lucknow , Leela In Kovalam , Trident Hotel Jaipur Corporate Travel Business Travel , Corporate Travel , Corporate Travel Management , Corporate Travel Solution , Corporate Hotel Booking , Corporate Flight Booking , Expense Management , Corporate Expense Management , GST on Hotel Rooms , GST on Flight Tickets , Business Travel for SME , GST on International Flight Tickets​ , GST on Bus Tickets , GST on Train Tickets , T&E (Travel & Expense) , myBiz - Best Business Travel Platform , GST Invoice for Corporate Travel , myBiz for Small Business , Free cancellation on",
+      "source_title": "MakeMyTrip Book at Rs. 0 Offer - Up to 70% Off on Hotels Today",
+      "source_url": "https://www.bing.com/aclick?ld=e8R6ikIWVDUsF6Zkw2gwQWNTVUCUw-PDQEwAu92wZWTvHnkMhqKqigSZPCqpyd-0KdiN76YoG4_YfHkl6o3xU6qwF3QDeL8Pk4XRtsgeykqh0FDmKPHzDSKD2jIv-l46DC3TCG14ZBhkKMVSQ_3sruuLjwWD6Hw_55nQ0WhTs1mKw45xQ1BNxkopEsLiGcGNWdwWcQjU6scfUGd_Iorr2Hfa2ZvaY&u=aHR0cHMlM2ElMmYlMmZwaXhlbC5ldmVyZXN0dGVjaC5uZXQlMmYxNjMxJTJmY3ElM2Zldl9zaWQlM2QxMCUyNmV2X2xuJTNkaG90ZWwlMjUyMGJvb2tpbmclMjUyMGluJTI1MjBtYWtlJTI1MjBteSUyNTIwdHJpcCUyNmV2X2x0eCUzZCUyNmV2X2x4JTNka3dkLTcxNTM3NzYzMzc3MDgyJTNhbG9jLTkwJTI2ZXZfY3J4JTNkNzE1MzcyMTU3MDE2MzclMjZldl9tdCUzZGUlMjZldl9kdmMlM2RjJTI2ZXZfcGh5JTNkMjYwODM3JTI2ZXZfbG9jJTNkJTI2ZXZfY3glM2Q2MjcxMTk5NDglMjZldl9heCUzZDExNDQ1OTMyNDkwMDkzODMlMjZldl9leCUzZCUyNmV2X2VmaWQlM2RjNTc0YTJkOGFkNzUxMjU5N2U5ZGM5ZGZmMTkyNmQ0MSUzYUclM2FzJTI2dXJsJTNkaHR0cHMlMjUzQSUyNTJGJTI1MkZ3d3cubWFrZW15dHJpcC5jb20lMjUyRmhvdGVscyUyNTNGY21wJTI1M0RTRU0lMjU3Q0QlMjU3Q0RIJTI1N0NCJTI1N0NCcmFuZCUyNTdDSF8xX0JyYW5kX1RvcF81X0V4YWN0JTI1N0NCcmFuZF9OYW1lcyUyNTdDRVRBJTI1N0NSZWd1bGFyJTI1N0MlMjUyNnNfa3djaWQlMjUzREFMITE2MzEhMyEhZSEhbyEhaG90ZWwlMjUyNTIwYm9va2luZyUyNTI1MjBpbiUyNTI1MjBtYWtlJTI1MjUyMG15JTI1MjUyMHRyaXAlMjUyNmVmX2lkJTI1M0RjNTc0YTJkOGFkNzUxMjU5N2U5ZGM5ZGZmMTkyNmQ0MSUyNTNBRyUyNTNBcyUyNm1zY2xraWQlM2RjNTc0YTJkOGFkNzUxMjU5N2U5ZGM5ZGZmMTkyNmQ0MQ&rlid=c574a2d8ad7512597e9dc9dff1926d41",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_27",
+      "claim": "MakeMyTrip offers plenty of deals and offers on luxury and budget hotels in India in all the cities, on a daily basis. However, these are available for a limited time and they are subject to change the next day. You can look for these deals while you are about to book the hotel after narrowing down your choices. On the app, you can check a property that has ‘MMT Exclusive Deal’ button below its discounted rate.",
+      "source_title": "MakeMyTrip Book at Rs. 0 Offer - Up to 70% Off on Hotels Today",
+      "source_url": "https://www.bing.com/aclick?ld=e8R6ikIWVDUsF6Zkw2gwQWNTVUCUw-PDQEwAu92wZWTvHnkMhqKqigSZPCqpyd-0KdiN76YoG4_YfHkl6o3xU6qwF3QDeL8Pk4XRtsgeykqh0FDmKPHzDSKD2jIv-l46DC3TCG14ZBhkKMVSQ_3sruuLjwWD6Hw_55nQ0WhTs1mKw45xQ1BNxkopEsLiGcGNWdwWcQjU6scfUGd_Iorr2Hfa2ZvaY&u=aHR0cHMlM2ElMmYlMmZwaXhlbC5ldmVyZXN0dGVjaC5uZXQlMmYxNjMxJTJmY3ElM2Zldl9zaWQlM2QxMCUyNmV2X2xuJTNkaG90ZWwlMjUyMGJvb2tpbmclMjUyMGluJTI1MjBtYWtlJTI1MjBteSUyNTIwdHJpcCUyNmV2X2x0eCUzZCUyNmV2X2x4JTNka3dkLTcxNTM3NzYzMzc3MDgyJTNhbG9jLTkwJTI2ZXZfY3J4JTNkNzE1MzcyMTU3MDE2MzclMjZldl9tdCUzZGUlMjZldl9kdmMlM2RjJTI2ZXZfcGh5JTNkMjYwODM3JTI2ZXZfbG9jJTNkJTI2ZXZfY3glM2Q2MjcxMTk5NDglMjZldl9heCUzZDExNDQ1OTMyNDkwMDkzODMlMjZldl9leCUzZCUyNmV2X2VmaWQlM2RjNTc0YTJkOGFkNzUxMjU5N2U5ZGM5ZGZmMTkyNmQ0MSUzYUclM2FzJTI2dXJsJTNkaHR0cHMlMjUzQSUyNTJGJTI1MkZ3d3cubWFrZW15dHJpcC5jb20lMjUyRmhvdGVscyUyNTNGY21wJTI1M0RTRU0lMjU3Q0QlMjU3Q0RIJTI1N0NCJTI1N0NCcmFuZCUyNTdDSF8xX0JyYW5kX1RvcF81X0V4YWN0JTI1N0NCcmFuZF9OYW1lcyUyNTdDRVRBJTI1N0NSZWd1bGFyJTI1N0MlMjUyNnNfa3djaWQlMjUzREFMITE2MzEhMyEhZSEhbyEhaG90ZWwlMjUyNTIwYm9va2luZyUyNTI1MjBpbiUyNTI1MjBtYWtlJTI1MjUyMG15JTI1MjUyMHRyaXAlMjUyNmVmX2lkJTI1M0RjNTc0YTJkOGFkNzUxMjU5N2U5ZGM5ZGZmMTkyNmQ0MSUyNTNBRyUyNTNBcyUyNm1zY2xraWQlM2RjNTc0YTJkOGFkNzUxMjU5N2U5ZGM5ZGZmMTkyNmQ0MQ&rlid=c574a2d8ad7512597e9dc9dff1926d41",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_28",
+      "claim": "We are continuously call MMT customer service but they don't guide us how to add review in MMT. Nov 18, 2026 · We met with accident and when asked for help to refund or change dates they blamed on hotel whereas hotel blamed on MMT. Discover feedback and ratings from users who have used MakeMyTrip - Flights & Hotels. Make an informed decision and find out what others think about this Android app.",
+      "source_title": "Makemytrip Reviews | Read Customer Service Reviews of www ...MakeMyTrip Reviews and Complaints 2026 | ComplaintsBoardMakeMyTrip Review - Extremely Disappointing Experience ...MakeMyTrip Reviews (From First-hand Experiences)MakeMyTrip - Flights & Hotels | User reviews and ratingsIs it okay to book hotels thru MakeMyTrip? Is it legit? - RedditMakeMyTrip Flight Hotel Bus Reviews (2026) | Check if app is ...",
+      "source_url": "https://www.trustpilot.com/review/www.makemytrip.com",
+      "source_type": "review",
+      "platform": "Trustpilot",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_29",
+      "claim": "Under CPA 2019 Sections 2(42) and 2(11), a platform accepting payment, setting rules, and issuing invoices is a liable service provider. Name both OTA and hotel as opposite parties. Do I need a lawyer to file on e-Jagriti? No. Filing on e-jagriti.gov.in is free up to ₹5 lakh, designed for self-representation, and supports video hearings. What if I paid by UPI instead of a card?",
+      "source_title": "Hotel Booking Refund Denied: Consumer Complaint Guide 2026",
+      "source_url": "https://righttoinformation.wiki/hotel-booking-refund-denied-india",
+      "source_type": "web",
+      "platform": "righttoinformation.wiki",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_30",
+      "claim": "How to find the cheapest hotel deals in any city? A. MakeMyTrip, being the best hotel-booking site in the country, offers several discounts on budget hotels as well. If you are looking for the cheapest hotels with amazing deals on the app, you can tap on Sort & Filter option and drag down the Price option from Rs.0 to Rs.500 or from Rs.0 to Rs.1000.",
+      "source_title": "MakeMyTrip Book at Rs. 0 Offer - Up to 70% Off on Hotels Today",
+      "source_url": "https://www.bing.com/aclick?ld=e8R6ikIWVDUsF6Zkw2gwQWNTVUCUw-PDQEwAu92wZWTvHnkMhqKqigSZPCqpyd-0KdiN76YoG4_YfHkl6o3xU6qwF3QDeL8Pk4XRtsgeykqh0FDmKPHzDSKD2jIv-l46DC3TCG14ZBhkKMVSQ_3sruuLjwWD6Hw_55nQ0WhTs1mKw45xQ1BNxkopEsLiGcGNWdwWcQjU6scfUGd_Iorr2Hfa2ZvaY&u=aHR0cHMlM2ElMmYlMmZwaXhlbC5ldmVyZXN0dGVjaC5uZXQlMmYxNjMxJTJmY3ElM2Zldl9zaWQlM2QxMCUyNmV2X2xuJTNkaG90ZWwlMjUyMGJvb2tpbmclMjUyMGluJTI1MjBtYWtlJTI1MjBteSUyNTIwdHJpcCUyNmV2X2x0eCUzZCUyNmV2X2x4JTNka3dkLTcxNTM3NzYzMzc3MDgyJTNhbG9jLTkwJTI2ZXZfY3J4JTNkNzE1MzcyMTU3MDE2MzclMjZldl9tdCUzZGUlMjZldl9kdmMlM2RjJTI2ZXZfcGh5JTNkMjYwODM3JTI2ZXZfbG9jJTNkJTI2ZXZfY3glM2Q2MjcxMTk5NDglMjZldl9heCUzZDExNDQ1OTMyNDkwMDkzODMlMjZldl9leCUzZCUyNmV2X2VmaWQlM2RjNTc0YTJkOGFkNzUxMjU5N2U5ZGM5ZGZmMTkyNmQ0MSUzYUclM2FzJTI2dXJsJTNkaHR0cHMlMjUzQSUyNTJGJTI1MkZ3d3cubWFrZW15dHJpcC5jb20lMjUyRmhvdGVscyUyNTNGY21wJTI1M0RTRU0lMjU3Q0QlMjU3Q0RIJTI1N0NCJTI1N0NCcmFuZCUyNTdDSF8xX0JyYW5kX1RvcF81X0V4YWN0JTI1N0NCcmFuZF9OYW1lcyUyNTdDRVRBJTI1N0NSZWd1bGFyJTI1N0MlMjUyNnNfa3djaWQlMjUzREFMITE2MzEhMyEhZSEhbyEhaG90ZWwlMjUyNTIwYm9va2luZyUyNTI1MjBpbiUyNTI1MjBtYWtlJTI1MjUyMG15JTI1MjUyMHRyaXAlMjUyNmVmX2lkJTI1M0RjNTc0YTJkOGFkNzUxMjU5N2U5ZGM5ZGZmMTkyNmQ0MSUyNTNBRyUyNTNBcyUyNm1zY2xraWQlM2RjNTc0YTJkOGFkNzUxMjU5N2U5ZGM5ZGZmMTkyNmQ0MQ&rlid=c574a2d8ad7512597e9dc9dff1926d41",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_31",
+      "claim": "Find out if MakeMyTrip Flight Hotel Bus is safe & legit. read complaints, ratings, billing issues, and app safety insights. | Read the latest user opinions and reviews for MakeMyTrip Flight, Hotel, Bus - Crowned as the ‘Super App of Travel’, MakeMyTrip is the perfect accompaniment to all your trips.",
+      "source_title": "Makemytrip Reviews | Read Customer Service Reviews of www ...MakeMyTrip Reviews and Complaints 2026 | ComplaintsBoardMakeMyTrip Review - Extremely Disappointing Experience ...MakeMyTrip Reviews (From First-hand Experiences)MakeMyTrip - Flights & Hotels | User reviews and ratingsIs it okay to book hotels thru MakeMyTrip? Is it legit? - RedditMakeMyTrip Flight Hotel Bus Reviews (2026) | Check if app is ...",
+      "source_url": "https://www.trustpilot.com/review/www.makemytrip.com",
+      "source_type": "review",
+      "platform": "Trustpilot",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_32",
+      "claim": "Jun 18, 2026 · In this detailed comparison, we'll analyze pricing, hotel inventory, flight booking options, customer support, loyalty programs, cancellation flexibility, and overall user experience to help you make the right choice.",
+      "source_title": "MakeMyTrip vs Booking.com - Which Is Better for Hotel and ...",
+      "source_url": "https://tripnestify.com/blog/makemytrip-vs-booking-com-which-is-better-for-hotel-and-flight-booking",
+      "source_type": "web",
+      "platform": "tripnestify.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_33",
+      "claim": "Is having MMT booking confirmation vouchers enough for the hotels or should call hotels after? It's legit, as much as booking.com or Agoda. Do I need to call hotels to confirm MMT bookings? No, not really.",
+      "source_title": "Makemytrip Reviews | Read Customer Service Reviews of www ...MakeMyTrip Reviews and Complaints 2026 | ComplaintsBoardMakeMyTrip Review - Extremely Disappointing Experience ...MakeMyTrip Reviews (From First-hand Experiences)MakeMyTrip - Flights & Hotels | User reviews and ratingsIs it okay to book hotels thru MakeMyTrip? Is it legit? - RedditMakeMyTrip Flight Hotel Bus Reviews (2026) | Check if app is ...",
+      "source_url": "https://www.trustpilot.com/review/www.makemytrip.com",
+      "source_type": "review",
+      "platform": "Trustpilot",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_34",
+      "claim": "Jun 27, 2026 · This guide covers every major platform honestly — including Airbnb, MakeMyTrip, Booking.com, and Unpaqd — so you can choose based on your actual travel needs, not marketing copy.",
+      "source_title": "Best Homestay Booking Apps in India 2026: An Honest Comparison",
+      "source_url": "https://unpaqd.com/blog/best-homestay-platform-in-india/",
+      "source_type": "web",
+      "platform": "unpaqd.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_35",
+      "claim": "Product Solutions Resources Pricing Reviews Start free trial Turn your property into profits with Homeyhuts: zero-commission listing, direct bookings, and tools built for Indian hosts.",
+      "source_title": "Airbnb vs. Booking.com vs. MakeMyTrip vs. Homeyhuts: Which…",
+      "source_url": "https://homeyhuts.com/article/host-knowledge-hub/Airbnb-vs.-Booking.com-vs.-MakeMyTrip-vs.-Homeyhuts:-Which-Platform-Makes-Hosts-More-Money",
+      "source_type": "booking",
+      "platform": "Booking.com",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_36",
+      "claim": "Oct 7, 2026 · Overall reputation rating based on reviews and complaints MakeMyTrip earns a 2.5-star rating from 6 reviews and 242 complaints, indicating that most travelers are somewhat satisfied with booking experience. Customer Service Failure: Despite making multiple calls to MakeMyTrip during the trip, we received no resolution. The customer care experience was extremely frustrating and unhelpful.",
+      "source_title": "Makemytrip Reviews | Read Customer Service Reviews of www ...MakeMyTrip Reviews and Complaints 2026 | ComplaintsBoardMakeMyTrip Review - Extremely Disappointing Experience ...MakeMyTrip Reviews (From First-hand Experiences)MakeMyTrip - Flights & Hotels | User reviews and ratingsIs it okay to book hotels thru MakeMyTrip? Is it legit? - RedditMakeMyTrip Flight Hotel Bus Reviews (2026) | Check if app is ...",
+      "source_url": "https://www.trustpilot.com/review/www.makemytrip.com",
+      "source_type": "review",
+      "platform": "Trustpilot",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_37",
+      "claim": "Popular Locations Homestays in Goa Homestays in Kerala Homestays in Manali Homestays in Rishikesh Homestays in Udaipur Homestays in Lonavala Browse all stays All locations Pet friendly homestays Couple friendly homestays Workation stays in Himachal Riverside cottages in Uttarakhand Destination wedding venues in Goa Destination wedding venues in Hyderabad Home Stay Menu Airbnb vs. Booking.com vs. MakeMyTrip vs.",
+      "source_title": "Airbnb vs. Booking.com vs. MakeMyTrip vs. Homeyhuts: Which…",
+      "source_url": "https://homeyhuts.com/article/host-knowledge-hub/Airbnb-vs.-Booking.com-vs.-MakeMyTrip-vs.-Homeyhuts:-Which-Platform-Makes-Hosts-More-Money",
+      "source_type": "booking",
+      "platform": "Booking.com",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_38",
+      "claim": "Dec 16, 2023 · I am writing to formally register a complaint against [Hotel Name] for their unfair treatment and violation of their own stated refund policy. On December 11, 2023, I booked a hotel room through the MakeMyTrip app. Unfortunately, I was unable to check in as planned.",
+      "source_title": "MakeMyTrip Reviews and Complaints 2026 | ComplaintsBoardSupport Contact Us - MakeMyTripMakeMyTrip India — Complaint Regarding Hotel Booking and ...MakeMyTrip India — request for refund and grievance against ...",
+      "source_url": "https://www.complaintsboard.com/makemytrip-b119676",
+      "source_type": "web",
+      "platform": "complaintsboard.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_39",
+      "claim": "22 hours ago · Here you can see how Booking.com and Airbnb match up head-to-head in a battle for the Best Vacation Rental Sites in 2026. Booking.com is a massive travel platform that offers millions of accommodations worldwide but falls short where it truly matters.",
+      "source_title": "Booking.com vs Airbnb for November 2026 | Best Vacation ...",
+      "source_url": "https://www.topconsumerreviews.com/best-vacation-rental-sites/compare/booking-com-vs-airbnb.php",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_40",
+      "claim": "You can make a booking online through our website and complete your transaction using a variety of secure payment options that are available. If you would like to make a booking/enquiry on the phone, please contact our Customer Support service.",
+      "source_title": "Support Contact Us - MakeMyTrip",
+      "source_url": "https://www.makemytrip.com/support/contact-us.php",
+      "source_type": "booking",
+      "platform": "MakeMyTrip",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_41",
+      "claim": "I have travelled across India and I have been loyal to booking.com for hotels all the time. Never had an issue and being a top tier member, I enjoy the privileges it offers.",
+      "source_title": "Experience - MMT, Yatra, Goibibo : r/india - Reddit",
+      "source_url": "https://www.reddit.com/r/india/comments/13hwho9/experience_mmt_yatra_goibibo/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_42",
+      "claim": "Discover feedback and ratings from users who have used MakeMyTrip - Flights & Hotels. Make an informed decision and find out what others think about this Android app.",
+      "source_title": "MakeMyTrip - Flights & Hotels | User reviews and ratings",
+      "source_url": "https://chrome-stats.com/d/com.makemytrip/reviews",
+      "source_type": "web",
+      "platform": "chrome-stats.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_43",
+      "claim": "Compare Airbnb VS MakeMyTrip and find out what's different, what people are saying, and what are their alternatives",
+      "source_title": "Airbnb VS MakeMyTrip - compare differences & reviews?",
+      "source_url": "https://www.saashub.com/compare-airbnb-vs-makemytrip",
+      "source_type": "web",
+      "platform": "saashub.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_44",
+      "claim": "Customer Service Failure: Despite making multiple calls to MakeMyTrip during the trip, we received no resolution. The customer care experience was extremely frustrating and unhelpful. We are continuously call MMT customer service but they don't guide us how to add review in MMT.",
+      "source_title": "MakeMyTrip Review - Extremely Disappointing Experience ...",
+      "source_url": "https://www.tripadvisor.com/ShowTopic-g293860-i511-k15336768-MakeMyTrip_Review_Extremely_Disappointing_Experience-India.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_45",
+      "claim": "Your dream vacation is just a click away—book now for unbeatable & discounted hotel deals! Discover amazing destinations and book your perfect getaway with us today!",
+      "source_title": "Save on Hotel Booking - Online Hotel Booking",
+      "source_url": "https://www.bing.com/aclick?ld=e86rAKwglZzlMEm5NWOe-VijVUCUyvbI01sIUd02CHR-KdyuFlbo_oewcObfaxDoQbLavtq7M3O-6qit0tAtiYTtUEvbccdErz1lN-YPhzMwl3Koph4iaty4-q0EdPcPirFAnRTDmKmwi61srng2gb-NAk-L8Kpd9TDtarPuW5ifQ3c1sYRBwkKbt_5Ycbn_llibrELh6W8TpPD41TJCCq2EQW6E4&u=aHR0cHMlM2ElMmYlMmZ3d3cudHJpcG9kZWFsLmNvbSUyZmhvdGVscyUzZnV0bV9zb3VyY2UlM2RiaW5nX2hvdGVsJTI2bXNjbGtpZCUzZDhjZTYzOWE5OGY1YjE1YTYxZGFlNTJhZWQzYmM0Mjc4&rlid=8ce639a98f5b15a61dae52aed3bc4278",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_46",
+      "claim": "File MakeMyTrip Complaints to seek a refund, replacement or compensation. Get help resolving your consumer complaint against MakeMyTrip online now.",
+      "source_title": "MakeMyTrip Complaints | Refund & Compensation Help ...",
+      "source_url": "https://complaintkart.com/company/makemytrip",
+      "source_type": "web",
+      "platform": "complaintkart.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_47",
+      "claim": "Search & Book Over 900,000 Hotels Worldwide. Quick, Easy Booking. Great Rates.",
+      "source_title": "Hotels: Booking.com - Book Now.",
+      "source_url": "https://www.bing.com/aclick?ld=e8edNG_slPDf0WwDCQEU-ReTVUCUxcWfl0Ksha9yS9l8AnhZW1B18rvMjRI_4yHjLsEIOIoK_vYkXAlvuXdSnm0V0xrOoJs6Ccv8BRrNT-e0XSuHAEmqtzjutlTwDaMRQnE6sEA0Tv9rLwtcRF4SxyU1AT3U_1OtrwzT1yLfCQ6qMwTKEBZZwEOwFsd8bd4X9FQjbDNeOGce0a69pxrGGqbW1oCe0&u=aHR0cHMlM2ElMmYlMmZ3d3cuYm9va2luZy5jb20lMmZpbmRleC5lbi5odG1sJTNmYWlkJTNkMjI3ODcwMCUyNnBhZ2VuYW1lJTNkaG90ZWxzLWVuZ2xpc2gtZW4taW5kaWElMjZsYWJlbCUzZG1zbi1QUDZNd0RXbmJuNmZNTkI1WWthd3RnLTc5OTg5NjUzMTU1OTk5JTNhdGlrd2QtNzk5ODk4MTQxODMwMjklM2Fsb2MtOTAlM2FuZW8lM2FtdHAlM2FscDI2MDgzNyUzYWRlYyUzYWNpZDU3ODc3ODMwMCUzYWFnaWQxMjc5ODMyMTg5MTAzODQyJTNhY2xraWQ1YTY4ZmIwMDliYmYxZTM2Y2E5MDkwMDdjNzU4NTNjMyUyNnV0bV9jYW1wYWlnbiUzZEVuZ2xpc2hfSW5kaWElMjUyMEVOJTI1MjBJTiUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV90ZXJtJTNkUFA2TXdEV25ibjZmTU5CNVlrYXd0ZyUyNm1zY2xraWQlM2Q1YTY4ZmIwMDliYmYxZTM2Y2E5MDkwMDdjNzU4NTNjMw&rlid=5a68fb009bbf1e36ca909007c75853c3",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_48",
+      "claim": "Also, for hotels, I would say that as a person working in the hospitality industry, I would prefer you book airbnb's over these websites as they have strict customer centric policies.",
+      "source_title": "Makemytrip tour packages are a HUGE scam, if you are ... - Reddit",
+      "source_url": "https://www.reddit.com/r/india/comments/12ik1um/makemytrip_tour_packages_are_a_huge_scam_if_you/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    }
+  ],
+  "findings": [
+    {
+      "finding_id": "finding_1",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Guests may find the process of listing on multiple platforms simultaneously to be complicated and time-consuming.",
+      "evidence_ids": [
+        "evidence_6"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_2",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Some guests may find the platform's cancellation policy confusing, especially when it comes to non-refundable bookings.",
+      "evidence_ids": [
+        "evidence_3"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question about something confusing or unnecessarily complicated about booking, paying or cancelling."
+    },
+    {
+      "finding_id": "finding_3",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Guests have reported issues with hidden charges and overbilling, including convenience fees charged without clear consent.",
+      "evidence_ids": [
+        "evidence_9"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question about fees, hidden charges or pricing surprises."
+    },
+    {
+      "finding_id": "finding_4",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Guests have reported issues with refunds, including delayed refunds and full pass-through refunds not being processed.",
+      "evidence_ids": [
+        "evidence_10"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question about refunds, including delayed refunds and full pass-through refunds not being processed."
+    },
+    {
+      "finding_id": "finding_5",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests have praised the platform's user interface and user experience, with many finding it easy to use and navigate.",
+      "evidence_ids": [
+        "evidence_2"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The finding is about something convenient about booking or using the platform, but the evidence only talks about the user interface and user experience in general."
+    },
+    {
+      "finding_id": "finding_6",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Guests have reported that loyalty programs and repeat-guest behavior are effective in retaining customers.",
+      "evidence_ids": [
+        "evidence_4"
+      ],
+      "confidence": 0.6,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding may be supported, but it does not meaningfully answer the research question. The finding is about loyalty programs and repeat-guest behavior, which is not directly related to the research question."
+    },
+    {
+      "finding_id": "finding_7",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Guests may find the process of rescheduling and date changes to be complicated and time-consuming.",
+      "evidence_ids": [
+        "evidence_9"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_8",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Guests may find the process of getting a refund from MakeMyTrip complicated, as they need to escalate the issue to the customer care and keep a written record.",
+      "evidence_ids": [
+        "evidence_16"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The finding states that guests may find the process of getting a refund from MakeMyTrip complicated, but the evidence only provides a general guideline for escalating the issue to customer care and keeping a written record."
+    },
+    {
+      "finding_id": "finding_9",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The platform's dynamic pricing can be confusing for guests, as it may charge premium nights on different platforms.",
+      "evidence_ids": [
+        "evidence_13"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence states that the platform's dynamic pricing can be confusing for guests, as it may charge premium nights on different platforms."
+    },
+    {
+      "finding_id": "finding_10",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Guests may find the process of booking on MakeMyTrip convenient, as it allows for free distribution to multiple platforms and real-time calendar sync.",
+      "evidence_ids": [
+        "evidence_14"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence states that guests may find the process of booking on MakeMyTrip convenient, as it allows for free distribution to multiple platforms and real-time calendar sync."
+    },
+    {
+      "finding_id": "finding_11",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Guests may experience delays or cancellations of their bookings, leading to hidden charges or refund delays.",
+      "evidence_ids": [
+        "evidence_19",
+        "evidence_20"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence states that guests may experience delays or cancellations of their bookings, leading to hidden charges or refund delays."
+    },
+    {
+      "finding_id": "finding_12",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests may praise the platform's free distribution to multiple platforms and real-time calendar sync.",
+      "evidence_ids": [
+        "evidence_14"
+      ],
+      "confidence": 0.7,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding may be supported, but it does not meaningfully answer the research question. The finding states that guests may praise the platform's free distribution to multiple platforms and real-time calendar sync, but this is a positive aspect and does not address any potential issues or complaints."
+    },
+    {
+      "finding_id": "finding_13",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "MakeMyTrip is a popular booking platform in India, with a large number of hotels and guests.",
+      "evidence_ids": [
+        "evidence_15"
+      ],
+      "confidence": 0.8,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding does not directly answer the research question. It is about MakeMyTrip being a popular booking platform, but it does not address the aspects of convenience, confusion, or complications mentioned in the research question."
+    },
+    {
+      "finding_id": "finding_14",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Users may find the process of adding a review in MakeMyTrip confusing, as customer service does not guide them on how to do so.",
+      "evidence_ids": [
+        "evidence_28"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but evidence_28 does not sufficiently support it. The finding is about the process of adding a review being confusing, but the evidence only mentions the process of booking or cancelling being complicated."
+    },
+    {
+      "finding_id": "finding_15",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Users may find the process of booking or cancelling on MakeMyTrip to be unnecessarily complicated, as the platform does not provide clear instructions or guidance.",
+      "evidence_ids": [
+        "evidence_28"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but evidence_28 does not sufficiently support it. The finding is about the process of booking or cancelling being unnecessarily complicated, but the evidence only mentions the process of booking or cancelling being complicated."
+    },
+    {
+      "finding_id": "finding_16",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "MakeMyTrip offers convenient payment options.",
+      "evidence_ids": [
+        "evidence_21"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence_21 directly supports the finding that MakeMyTrip offers convenient payment options."
+    },
+    {
+      "finding_id": "finding_17",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "MakeMyTrip offers easy cancellation policies.",
+      "evidence_ids": [
+        "evidence_21"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence_21 directly supports the finding that MakeMyTrip offers easy cancellation policies."
+    },
+    {
+      "finding_id": "finding_18",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Users may experience difficulties with refunds or cancellations, as the platform's policies and procedures can be unclear or confusing.",
+      "evidence_ids": [
+        "evidence_22",
+        "evidence_29"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence_22 and evidence_29 directly support the finding that users may experience difficulties with refunds or cancellations, as the platform's policies and procedures can be unclear or confusing."
+    },
+    {
+      "finding_id": "finding_19",
+      "type": "PRICING",
+      "category": "PRICING",
+      "statement": "MakeMyTrip offers discounts of up to 70% off on hotels.",
+      "evidence_ids": [
+        "evidence_25",
+        "evidence_26",
+        "evidence_30"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding states that MakeMyTrip offers discounts of up to 70% off on hotels, but the evidence only mentions the platform's discounts on budget hotels and how to find the cheapest hotel deals, without directly addressing the 70% discount claim."
+    },
+    {
+      "finding_id": "finding_20",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Users may find the process of booking hotels through MakeMyTrip to be convenient, as the platform offers a wide range of options and easy payment options.",
+      "evidence_ids": [
+        "evidence_21",
+        "evidence_25"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding states that users find the process of booking hotels through MakeMyTrip to be convenient, but the evidence only mentions the platform's wide range of options and easy payment options, without directly addressing the convenience of the booking process itself."
+    },
+    {
+      "finding_id": "finding_21",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Some users find the process of booking hotels through MakeMyTrip to be confusing, with one user stating 'I am writing to formally register a complaint against [Hotel Name] for their unfair treatment and violation of their own stated refund policy. On December 11, 2023, I booked a hotel room through the MakeMyTrip app. Unfortunately, I was unable to check in as planned.'",
+      "evidence_ids": [
+        "evidence_38"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding cites a user's complaint about the booking process being confusing, and the evidence directly supports this claim."
+    },
+    {
+      "finding_id": "finding_22",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Another user expresses frustration with the customer service experience, stating 'Despite making multiple calls to MakeMyTrip during the trip, we received no resolution. The customer care experience was extremely frustrating and unhelpful.'",
+      "evidence_ids": [
+        "evidence_36"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding cites a user's complaint about the customer service experience being frustrating and unhelpful, and the evidence directly supports this claim."
+    },
+    {
+      "finding_id": "finding_23",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Some users praise the variety of secure payment options available on the MakeMyTrip website.",
+      "evidence_ids": [
+        "evidence_40"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states that users praise the variety of secure payment options available on the MakeMyTrip website, and the evidence directly supports this claim."
+    },
+    {
+      "finding_id": "finding_24",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "A user notes that having MMT booking confirmation vouchers is not enough for the hotels, and that calling hotels after booking is necessary.",
+      "evidence_ids": [
+        "evidence_33"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding states that users find having MMT booking confirmation vouchers to be insufficient for hotels, but the evidence only mentions that calling hotels after booking is necessary, without directly addressing the issue of confirmation vouchers."
+    },
+    {
+      "finding_id": "finding_25",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "MakeMyTrip earns a 2.5-star rating from 6 reviews and 242 complaints, indicating that most travelers are somewhat satisfied with booking experience.",
+      "evidence_ids": [
+        "evidence_36"
+      ],
+      "confidence": 0.5,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_26",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Some users find the booking process on MakeMyTrip to be confusing, with one user stating 'Never had an issue and being a top tier member, I enjoy the privileges it offers.'",
+      "evidence_ids": [
+        "evidence_41"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding states that some users find the booking process on MakeMyTrip to be confusing, but the evidence only mentions one user's experience and does not provide a comprehensive view of the issue."
+    },
+    {
+      "finding_id": "finding_27",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some users experience customer service issues, with one user stating 'Customer Service Failure: Despite making multiple calls to MakeMyTrip during the trip, we received no resolution. The customer care experience was extremely frustrating and unhelpful.'",
+      "evidence_ids": [
+        "evidence_44"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states that some users experience customer service issues, and the evidence directly supports this finding with a user's complaint about a frustrating experience."
+    },
+    {
+      "finding_id": "finding_28",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Some users appreciate the convenience of booking on MakeMyTrip, with one user stating 'Your dream vacation is just a click away—book now for unbeatable & discounted hotel deals!'",
+      "evidence_ids": [
+        "evidence_45"
+      ],
+      "confidence": 0.6,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states that some users appreciate the convenience of booking on MakeMyTrip, and the evidence directly supports this finding with a user's positive review."
+    },
+    {
+      "finding_id": "finding_29",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Some users find the booking process on MakeMyTrip to be complicated, with one user stating 'Makemytrip tour packages are a HUGE scam, if you are ...'.",
+      "evidence_ids": [
+        "evidence_48"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding states that some users find the booking process on MakeMyTrip to be complicated, but the evidence only mentions one user's experience and does not provide a comprehensive view of the issue."
+    },
+    {
+      "finding_id": "finding_30",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some users experience issues with the platform's features, with one user stating 'Discover feedback and ratings from users who have used MakeMyTrip - Flights & Hotels. Make an informed decision and find out what others think about this Android app.'",
+      "evidence_ids": [
+        "evidence_42"
+      ],
+      "confidence": 0.7,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding discusses issues with the platform's features, but it does not directly address the user's research question about booking or using the platform."
+    }
+  ],
+  "insights": [
+    "MakeMyTrip's dynamic pricing can be confusing for guests, as it may charge premium nights on different platforms.",
+    "Guests may experience issues with refunds, including delayed refunds and full pass-through refunds not being processed.",
+    "Some guests find the platform's cancellation policy confusing, especially when it comes to non-refundable bookings.",
+    "Guests have reported issues with hidden charges and overbilling, including convenience fees charged without clear consent."
+  ],
+  "coverage": [
+    {
+      "channel": "Google Maps / Google reviews",
+      "source_type": "maps",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Not readable automatically (login / JavaScript). Paste real reviews or captions with the `note` command."
+    },
+    {
+      "channel": "Instagram / Facebook",
+      "source_type": "social",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Not readable automatically (login / JavaScript). Paste real reviews or captions with the `note` command."
+    },
+    {
+      "channel": "Official website",
+      "source_type": "official",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Booking platforms (Booking.com, Hostelworld, Zostel, MakeMyTrip, Airbnb ...)",
+      "source_type": "booking",
+      "passages": 5,
+      "sources": 3,
+      "status": "full",
+      "note": "Full text read"
+    },
+    {
+      "channel": "Review sites (Tripadvisor, Zomato ...)",
+      "source_type": "review",
+      "passages": 5,
+      "sources": 2,
+      "status": "snippet",
+      "note": "Search-engine snippets only (no full page text)"
+    },
+    {
+      "channel": "Forums (Reddit, Quora)",
+      "source_type": "forum",
+      "passages": 2,
+      "sources": 2,
+      "status": "snippet",
+      "note": "Search-engine snippets only (no full page text)"
+    },
+    {
+      "channel": "Blogs & articles",
+      "source_type": "web",
+      "passages": 36,
+      "sources": 13,
+      "status": "full",
+      "note": "Full text read"
+    },
+    {
+      "channel": "Notes you added by hand",
+      "source_type": "manual",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    }
+  ],
+  "report_path": "/Users/vanshikamahajan/Documents/personal-research-agent/research/reports/platform-makemytrip-20261126-034008.md",
+  "title": "MakeMyTrip (hotel booking)"
+}

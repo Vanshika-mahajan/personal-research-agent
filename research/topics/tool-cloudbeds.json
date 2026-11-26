@@ -1,0 +1,1086 @@
+{
+  "key": "tool-cloudbeds",
+  "kind": "topic",
+  "run_id": "tool-cloudbeds-20261126-034919",
+  "created_at": "2026-11-26T03:52:30",
+  "manual_note_count": 0,
+  "question": {
+    "question": "What intelligence and reports does Cloudbeds give hostels and small hotels, and what do owners find missing or complicated?",
+    "depth": "standard",
+    "max_iterations": 2,
+    "mode": "topic",
+    "subject": "Cloudbeds",
+    "place": "",
+    "aspects": [
+      "A feature or kind of intelligence the tool provides",
+      "Pricing or cost of the tool",
+      "What owners say is missing, too complex or not suited to small properties"
+    ],
+    "official_domains": [],
+    "seed_urls": [],
+    "seed_queries": [
+      "Cloudbeds features PMS channel manager revenue management reports",
+      "Cloudbeds benchmarking competitor rates insights hostels",
+      "Cloudbeds review small hostel owners pros cons",
+      "site:reddit.com Cloudbeds hostel experience"
+    ]
+  },
+  "iterations": 1,
+  "quality_score": 1.0,
+  "missing_information": [],
+  "evidence": [
+    {
+      "evidence_id": "evidence_1",
+      "claim": "Turn your PMS into an intelligent growth engine Request a Demo Platform PMS Payments Insights & Reporting Channel Manager Booking Engine Distribution Partners Guest Experience Revenue Management Guest Marketing CRM Digital Marketing Websites Reputation Management Signals Signals AI Research Solutions Hotels Multi-property Groups Short-term Rentals Hostels B&Bs & Inns Revenue Managers General Managers Owners Front Desk Managers IT Managers Resources All Resources Articles Ebooks Podcast Videos Webinars Whitepapers & Reports Customer Resources Help Center Product Updates Cloudbeds University Partner with Cloudbeds Platform Integrations Ambassador Program Cloudbeds Horizon Company Our Story Car",
+      "source_title": "Hotel Revenue Management System - Move faster and smarter",
+      "source_url": "https://www.cloudbeds.com/revenue-management-system/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_2",
+      "claim": "Share Turn your PMS into an intelligent growth engine Request a Demo Platform PMS Payments Insights & Reporting Channel Manager Booking Engine Distribution Partners Guest Experience Revenue Management Guest Marketing CRM Digital Marketing Websites Reputation Management Signals Signals AI Research Solutions Hotels Multi-property Groups Short-term Rentals Hostels B&Bs & Inns Revenue Managers General Managers Owners Front Desk Managers IT Managers Resources All Resources Articles Ebooks Podcast Videos Webinars Whitepapers & Reports Customer Resources Help Center Product Updates Cloudbeds University Partner with Cloudbeds Platform Integrations Ambassador Program Cloudbeds Horizon Company Our Sto",
+      "source_title": "2026 State of Hostels Report Findings Revealed - cloudbeds.com",
+      "source_url": "https://www.cloudbeds.com/press/2026-hostels-report/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_3",
+      "claim": "Download Turn your PMS into an intelligent growth engine Request a Demo Platform PMS Payments Insights & Reporting Channel Manager Booking Engine Distribution Partners Guest Experience Revenue Management Guest Marketing CRM Digital Marketing Websites Reputation Management Signals Signals AI Research Solutions Hotels Multi-property Groups Short-term Rentals Hostels B&Bs & Inns Revenue Managers General Managers Owners Front Desk Managers IT Managers Resources All Resources Articles Ebooks Podcast Videos Webinars Whitepapers & Reports Customer Resources Help Center Product Updates Cloudbeds University Partner with Cloudbeds Platform Integrations Ambassador Program Cloudbeds Horizon Company Our",
+      "source_title": "The 2026 State of Hostels | Cloudbeds",
+      "source_url": "https://www.cloudbeds.com/hostel-report/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_4",
+      "claim": "In today’s difficult climate, it’s essential to react quickly to market changes, and Cloudbeds RMS helps hotels do just that.” Mark Lloyd Relationship Director Hotels and Leisure at Natwest “I would say confidently, 85% to 90% of the time, we’re accepting the recommendations with Cloudbeds RMS… which I think is very good.” Daniel Jolly Head of Revenue Operations, At Mine Hospitality “Every time I turn around, Cloudbeds is improving something or adding to the roadmap” Vipul Dayal President of VNR Management, LLC, and operator of Hotel 1550 “Cloudbeds, we have historical data that we can use to look forward.",
+      "source_title": "Hotel Revenue Management System - Move faster and smarter",
+      "source_url": "https://www.cloudbeds.com/revenue-management-system/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_5",
+      "claim": "Region: Worldwide No RevControl Live Sign up Integration guide Support RevControl calculates recommended room rates using historical data, forecasts, competitor information, and the property's pricing strategy. Its reports and graphs provide visibility into property performance for hotels, hostels, and holiday parks. Region: North America, South America, Europe, Africa, and the Middle East Yes.",
+      "source_title": "Revenue Management System (RMS) - Cloudbeds",
+      "source_url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/13604876981275-Revenue-Management-System-RMS",
+      "source_type": "web",
+      "platform": "myfrontdesk.cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_6",
+      "claim": "It supports dynamic pricing and revenue optimization for properties across the hospitality industry. How does Cloudbeds RMS determine the right room rate? Cloudbeds RMS continuously evaluates your booking pace, property performance, market demand, and competitor pricing.",
+      "source_title": "Hotel Revenue Management System - Move faster and smarter",
+      "source_url": "https://www.cloudbeds.com/revenue-management-system/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_7",
+      "claim": "Perfect for independent hotels, hostels, vacation rentals, and small chains, Cloudbeds streamlines operations with powerful automation, integrated payments, and a user-friendly interface.",
+      "source_title": "Cloudbeds - Hotel PMS, Channel Manager & Booking Engine",
+      "source_url": "https://www.hoteltechupdate.com/pms-rms/cloudbeds-pms",
+      "source_type": "web",
+      "platform": "hoteltechupdate.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_8",
+      "claim": "Prices can be updated manually in HUWMO and synchronized with Cloudbeds to manage the property's base rate. Region: Worldwide No IDeaS Elevate Live Sign up Integration guide Support IDeaS Elevate pulls room types, prices, reservations, room blocks, allotment blocks, and reports to analyze property data and send base rate suggestions to Cloudbeds. It does not update additional rate plans or restrictions.",
+      "source_title": "Revenue Management System (RMS) - Cloudbeds",
+      "source_url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/13604876981275-Revenue-Management-System-RMS",
+      "source_type": "web",
+      "platform": "myfrontdesk.cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_9",
+      "claim": "Cloudbeds partners with many brands, but makes no claims upon their trademarks. All trademarks contained herein belong to their respective owners and registrations. What is the right plan for me? Choosing the right pricing plan is like booking the perfect accommodation—everyone has different needs. Tell us what makes your property unique, and we'll tailor a plan to deliver the best value for your lodging business.",
+      "source_title": "Hotel Revenue Management System - Move faster and smarter",
+      "source_url": "https://www.cloudbeds.com/revenue-management-system/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_10",
+      "claim": "Discover how this platform performs in real scenarios. Feb 26, 2024 · We invite you to read this Cloudbeds review and see why we deem it the top choice for any accommodation owner. In this review we will go into detail about all of the main features of Cloudbeds. Sep 25, 2026 · Explore Cloudbeds’ pros, cons, pricing, and features compared to other accounting software to find the best fit for your business.",
+      "source_title": "Cloudbeds Reviews 2026. Verified Reviews, Pros & Cons | CapterraCloudbeds Reviews, Pros and Cons - 2026 Software AdviceCloudbeds Review – Pros, Cons & Features 2026Cloudbeds Review 2027: Pricing, Features, Pros & Cons ...Cloudbeds in FULL REVIEW 2026 (All Pros + Cons) - HostelnerdsCloudbeds Review: Pros, Cons, Features, and PricingCloudbeds Hospitality Management Software Review for 2026",
+      "source_url": "https://www.capterra.com/p/158839/Cloudbeds/reviews/",
+      "source_type": "web",
+      "platform": "capterra.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_11",
+      "claim": "Hospitality , 11-50 employees Less than 6 months 5 .0 May 2026 “ Packed with good features ” Pros Right from the start Cloudbeds has felt incredibly complete. They've clearly put a lot of thought into the small details that help a hotelier run the business well from one platform. They were also willing to work with us on pricing which made it a practical fit for a small hotel like ours.",
+      "source_title": "Cloudbeds Review – Pros, Cons & Features 2026",
+      "source_url": "https://softwarefinder.com/property-management-software/cloudbeds/reviews",
+      "source_type": "web",
+      "platform": "softwarefinder.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_12",
+      "claim": "View the calendar Resource Center Guides The 2026 State of Hostels The Data Hostels don’t operate like hotels. So why rely on hotel data? Beds aren’t rooms. Demand doesn’t behave the same. And performance can vary dramatically between private rooms and dorms—all within the same property. That’s why we built this report. To give hostels a clearer view of what’s really happening.",
+      "source_title": "The 2026 State of Hostels | Cloudbeds",
+      "source_url": "https://www.cloudbeds.com/hostel-report/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_13",
+      "claim": "You can also open detailed forecasts and pricing breakdowns to see the reasoning behind a recommendation, and track the KPIs that matter most to your property. How does hotel revenue management software improve occupancy? Cloudbeds RMS helps you spot softer dates early, using booking patterns and market trends, so you can respond before rooms go unsold.",
+      "source_title": "Hotel Revenue Management System - Move faster and smarter",
+      "source_url": "https://www.cloudbeds.com/revenue-management-system/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_14",
+      "claim": "Designed to scale with independent hotels, large hotel groups, and multi-property portfolios, Cloudbeds is trusted by tens of thousands of properties in more than 150 countries. Founded in 2012, Cloudbeds is recognized as a top Hotel Management System, PMS, and Channel Manager — and Best Place to Work — by Hotel Tech Report for eight consecutive years.",
+      "source_title": "2026 State of Hostels Report Findings Revealed - cloudbeds.com",
+      "source_url": "https://www.cloudbeds.com/press/2026-hostels-report/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_15",
+      "claim": "Feb 26, 2024 · We invite you to read this Cloudbeds review and see why we deem it the top choice for any accommodation owner. In this review we will go into detail about all of the main features of Cloudbeds. Sep 25, 2026 · Explore Cloudbeds’ pros, cons, pricing, and features compared to other accounting software to find the best fit for your business.",
+      "source_title": "Cloudbeds in FULL REVIEW 2026 (All Pros + Cons) - HostelnerdsCloudbeds Review: Pros, Cons, Features, and PricingCloudbeds Hospitality Management Software Review for 2026",
+      "source_url": "https://hostelnerds.com/cloudbeds-review/",
+      "source_type": "web",
+      "platform": "hostelnerds.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_16",
+      "claim": "By Property Type Hotels Multi-property Groups Hostels Short-term Rentals B&Bs and Inns By Role Revenue Managers General Managers Front Desk Managers Owners IT Managers Study The 2026 State of Independent Hotels Get exclusive insights from 90M+ bookings worldwide Download free Resources All the know-how, knowledge, and tools to keep you moving forward.",
+      "source_title": "Hotel Revenue Management System - Move faster and smarter",
+      "source_url": "https://www.cloudbeds.com/revenue-management-system/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_17",
+      "claim": "Private rooms maintained pricing stability, while dorms experienced significant rate pressure amid rising traveler price sensitivity and intensifying competition. “Hostels are operating in a far more fragmented and competitive market than just a few years ago,” said Stephan Leuenberger, Head of Market Development, Hostels, at Cloudbeds.",
+      "source_title": "2026 State of Hostels Report Findings Revealed - cloudbeds.com",
+      "source_url": "https://www.cloudbeds.com/press/2026-hostels-report/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_18",
+      "claim": "The Cloudbeds platform unifies operations, distribution, guest experience, and revenue marketing, giving operators a breadth of tools to capture demand, grow direct bookings, optimize pricing, maximize upsell revenue, and act on real-time intelligence within a single system.",
+      "source_title": "2026 State of Hostels Report Findings Revealed - cloudbeds.com",
+      "source_url": "https://www.cloudbeds.com/press/2026-hostels-report/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_19",
+      "claim": "The 2026 State of Hostels | Cloudbeds Request a Demo Platform Pricing Signals AI Solutions Hotelier Stories Resources Company Support Request a Demo Login EN Español Cloudbeds Platform Not your average PMS. The growth engine built for your ambition.",
+      "source_title": "The 2026 State of Hostels | Cloudbeds",
+      "source_url": "https://www.cloudbeds.com/hostel-report/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_20",
+      "claim": "2026 State of Hostels Report Findings Revealed Request a Demo Platform Pricing Signals AI Solutions Hotelier Stories Resources Company Support Request a Demo Login Cloudbeds Platform Not your average PMS. The growth engine built for your ambition.",
+      "source_title": "2026 State of Hostels Report Findings Revealed - cloudbeds.com",
+      "source_url": "https://www.cloudbeds.com/press/2026-hostels-report/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_21",
+      "claim": "Sep 25, 2026 · Explore Cloudbeds’ pros, cons, pricing, and features compared to other accounting software to find the best fit for your business.",
+      "source_title": "Cloudbeds Review: Pros, Cons, Features, and Pricing",
+      "source_url": "https://thecfoclub.com/tools/best-cloudbeds-review/",
+      "source_type": "web",
+      "platform": "thecfoclub.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_22",
+      "claim": "Before connecting an RMS, confirm the provider’s account, regional, onboarding, data, and pricing requirements. Expected result Identify an RMS that fits your property’s revenue strategy and find its signup, integration, and support resources. Limitations Supported rates, restrictions, update periods, regional availability, provider requirements, and group account connection support vary by integration.",
+      "source_title": "Revenue Management System (RMS) - Cloudbeds",
+      "source_url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/13604876981275-Revenue-Management-System-RMS",
+      "source_type": "web",
+      "platform": "myfrontdesk.cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_23",
+      "claim": "Depending on the integration, an RMS may be able to update: Existing nightly rates by room type Pricing for BAR rate plans Additional rate plans when supported and requested by the property RMS integrations do not directly modify: Percentage-based or fixed-amount derived rate calculations Additional guest pricing supplements Support for restrictions such as minimum and maximum length of stay, closed to arrival, closed to departure, accommodation blocked, cut-off, and last-minute booking varies by provider.",
+      "source_title": "Revenue Management System (RMS) - Cloudbeds",
+      "source_url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/13604876981275-Revenue-Management-System-RMS",
+      "source_type": "web",
+      "platform": "myfrontdesk.cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_24",
+      "claim": "Region: United States and Belize No Turbosuite Live Sign up Integration guide Support Turbosuite retrieves rates and reservations from Cloudbeds PMS and analyzes the data using big-data and AI models. It uses multiple pricing factors to determine rates and can update Cloudbeds for the next 30, 60, or 90 days, or for a custom period. Region: Worldwide Yes. Learn how to connect the app as an organization-level user .",
+      "source_title": "Revenue Management System (RMS) - Cloudbeds",
+      "source_url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/13604876981275-Revenue-Management-System-RMS",
+      "source_type": "web",
+      "platform": "myfrontdesk.cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_25",
+      "claim": "Rating Distribution Ease of use 10 Value for money 10 Customer Support 10 Functionality 10 A Anonymous Small Business , 11-50 employees 1 .0 June 2025 “ Credits removed without warning ” Pros The enrichment features work well and the pricing is fairly reasonable. Cons After a full year on the platform and spending several hundred dollars every month, they removed 70k credits from my account which was worth over $500.",
+      "source_title": "Cloudbeds Review – Pros, Cons & Features 2026",
+      "source_url": "https://softwarefinder.com/property-management-software/cloudbeds/reviews",
+      "source_type": "web",
+      "platform": "softwarefinder.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_26",
+      "claim": "7) Budapest, Hungary -10% Akih Pods Hostel 9.8 Superb (564) Santa Teresa, Costa Rica -30% Viajero Cartagena - Getsemaní Hostel 9.2 Superb (386) Cartagena, Colombia Discover all deals See Traveller Profiles the second you book Chat to travellers staying in your hostel & city Discover local events at your hostel & nearby Most booked today Travellers staying in hostels Social members In the chat now Events in the app now Join them on the app New Events & stays, hassle-free From music festivals to cultural celebrations, find global Events and budget-friendly places to stay right by the action – all in one place.",
+      "source_title": "Meet People to Hangout With - Adventures Happen at Hostels",
+      "source_url": "https://www.bing.com/aclick?ld=e8_-0GsStWLm-Vmbm6VHV2CDVUCUxT77DNWRR0C4uEQ47vIVl8WTqaeJuxWoj3Wq3X-oQv_z_qb9TN5_owVC2LHEPsuoU73RF4n80uArAa8zSLgZWNr13pHo3v0SBo9mohgLNcMy97uLgu22qRp6MInN4UcudJE0GV3IZ51ryvEsq0FzedBOLGoL93a7Spk32PeDqBwQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuaG9zdGVsd29ybGQuY29tJTJmJTNmc291cmNlJTNkcHBjX21zYWRzX25vbmJyYW5kX2Rza19zZWFyY2hfZ2VuX2VuX3JvdyUyNm5ldHdvcmslM2RvJTI2Y2FtcGFpZ25faWQlM2Q1NzA4MTY3MjMlMjZhZGdyb3VwX2lkJTNkMTE3NTM3OTk5Nzg3MDQ2NyUyNmNyaXRlcmlhX2lkJTNka3dkLTczNDYxNzAzNjYzMjY0JTI2Y3JlYXRpdmVfaWQlM2QlMjZsb2NhdGlvbl9waHlzaWNhbF9pZCUzZDI2MDgzNyUyNmxvY2F0aW9uX2ludGVyZXN0X2lkJTNkJTI2YWRwb3NpdGlvbiUzZCUyNnVuaXF1ZWNsaWNrSUQlM2QlMjZzdWJfa2V5d29yZCUzZGhvc3RlbHMlMjZzdWJfYWQlM2RwJTI2c3ViX3B1Ymxpc2hlciUzZEFEVyUyNmdjbHNyYyUzZDNwLmRzJTI2JTI2bXNjbGtpZCUzZDUxMTY4ZjI5MGE1MjEwZTdkNGU1ZTQyZTU1NzIwYTEy&rlid=51168f290a5210e7d4e5e42e55720a12",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_27",
+      "claim": "Thank you so much for making this a feature. V Vanessa I've used the chat to meet many travelers! S Seyma I find it helpful. Because of the chat feature, I can ask people where I should visit, where the best place to see the sunset is, etc. And I’m able to see which people stay with me at the same place, etc. C Charli Helped me meet people A Antonios It is quite fun, but the biggest thing is how useful it is.",
+      "source_title": "Meet People to Hangout With - Adventures Happen at Hostels",
+      "source_url": "https://www.bing.com/aclick?ld=e8_-0GsStWLm-Vmbm6VHV2CDVUCUxT77DNWRR0C4uEQ47vIVl8WTqaeJuxWoj3Wq3X-oQv_z_qb9TN5_owVC2LHEPsuoU73RF4n80uArAa8zSLgZWNr13pHo3v0SBo9mohgLNcMy97uLgu22qRp6MInN4UcudJE0GV3IZ51ryvEsq0FzedBOLGoL93a7Spk32PeDqBwQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuaG9zdGVsd29ybGQuY29tJTJmJTNmc291cmNlJTNkcHBjX21zYWRzX25vbmJyYW5kX2Rza19zZWFyY2hfZ2VuX2VuX3JvdyUyNm5ldHdvcmslM2RvJTI2Y2FtcGFpZ25faWQlM2Q1NzA4MTY3MjMlMjZhZGdyb3VwX2lkJTNkMTE3NTM3OTk5Nzg3MDQ2NyUyNmNyaXRlcmlhX2lkJTNka3dkLTczNDYxNzAzNjYzMjY0JTI2Y3JlYXRpdmVfaWQlM2QlMjZsb2NhdGlvbl9waHlzaWNhbF9pZCUzZDI2MDgzNyUyNmxvY2F0aW9uX2ludGVyZXN0X2lkJTNkJTI2YWRwb3NpdGlvbiUzZCUyNnVuaXF1ZWNsaWNrSUQlM2QlMjZzdWJfa2V5d29yZCUzZGhvc3RlbHMlMjZzdWJfYWQlM2RwJTI2c3ViX3B1Ymxpc2hlciUzZEFEVyUyNmdjbHNyYyUzZDNwLmRzJTI2JTI2bXNjbGtpZCUzZDUxMTY4ZjI5MGE1MjEwZTdkNGU1ZTQyZTU1NzIwYTEy&rlid=51168f290a5210e7d4e5e42e55720a12",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_28",
+      "claim": "Get the App Get the App Language English Français Deutsch Español Italiano Português Português (Brasil) Svenska Polski Suomi Dansk Nederlands Norsk český Русский Türk 中文 日本語 한국어 Follow us on English EUR Accommodation Hostels Hotels Bed and Breakfast Customer Support Talk to Us Help / Report Illegal Content Quick Links Social Pass Blog Booking Guarantee Hostel Awards Solo Travel Student Discount Roamies About Us Hostelworld Group PLC Press Careers Work With Us Hostel Sign Up Affiliate Program Hostelworld Inbox © 1999-2026 Hostelworld.com Limited Data Protection Notice & DSA Terms & Legal Coupons Vouchers Website Testing Site Map",
+      "source_title": "Meet People to Hangout With - Adventures Happen at Hostels",
+      "source_url": "https://www.bing.com/aclick?ld=e8_-0GsStWLm-Vmbm6VHV2CDVUCUxT77DNWRR0C4uEQ47vIVl8WTqaeJuxWoj3Wq3X-oQv_z_qb9TN5_owVC2LHEPsuoU73RF4n80uArAa8zSLgZWNr13pHo3v0SBo9mohgLNcMy97uLgu22qRp6MInN4UcudJE0GV3IZ51ryvEsq0FzedBOLGoL93a7Spk32PeDqBwQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuaG9zdGVsd29ybGQuY29tJTJmJTNmc291cmNlJTNkcHBjX21zYWRzX25vbmJyYW5kX2Rza19zZWFyY2hfZ2VuX2VuX3JvdyUyNm5ldHdvcmslM2RvJTI2Y2FtcGFpZ25faWQlM2Q1NzA4MTY3MjMlMjZhZGdyb3VwX2lkJTNkMTE3NTM3OTk5Nzg3MDQ2NyUyNmNyaXRlcmlhX2lkJTNka3dkLTczNDYxNzAzNjYzMjY0JTI2Y3JlYXRpdmVfaWQlM2QlMjZsb2NhdGlvbl9waHlzaWNhbF9pZCUzZDI2MDgzNyUyNmxvY2F0aW9uX2ludGVyZXN0X2lkJTNkJTI2YWRwb3NpdGlvbiUzZCUyNnVuaXF1ZWNsaWNrSUQlM2QlMjZzdWJfa2V5d29yZCUzZGhvc3RlbHMlMjZzdWJfYWQlM2RwJTI2c3ViX3B1Ymxpc2hlciUzZEFEVyUyNmdjbHNyYyUzZDNwLmRzJTI2JTI2bXNjbGtpZCUzZDUxMTY4ZjI5MGE1MjEwZTdkNGU1ZTQyZTU1NzIwYTEy&rlid=51168f290a5210e7d4e5e42e55720a12",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_29",
+      "claim": "Its pricing system adjusts rates using configurable factors and a strategy developed with its pricing specialists. Rates can be updated for all room types for up to 365 days in the future. Region: Worldwide No Duetto GameChanger Live Sign up Integration guide Support Through the two-way integration, Duetto receives real-time reservation, blocked-inventory, and group-allotment data from Cloudbeds.",
+      "source_title": "Revenue Management System (RMS) - Cloudbeds",
+      "source_url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/13604876981275-Revenue-Management-System-RMS",
+      "source_type": "web",
+      "platform": "myfrontdesk.cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_30",
+      "claim": "The report’s central finding is one of growing divergence across the hostel landscape. While occupancy remained resilient globally, performance increasingly varied by accommodation type, region, and operational model. he hostel sector: Performance split across accommodation types. Global occupancy increased across both private rooms (+2.8%) and dorms (+2.6%), but pricing power diverged sharply.",
+      "source_title": "2026 State of Hostels Report Findings Revealed - cloudbeds.com",
+      "source_url": "https://www.cloudbeds.com/press/2026-hostels-report/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_31",
+      "claim": "They has been excellent as a rep and has walked me through everything I've needed to learn how to do. Cons We only recently started using the groups feature so parts of it are still a bit confusing but I have a very helpful rep who always assists me. At times when a reservation comes in from Booking.com, we still have to double-check that it gets assigned correctly on the live calendar.",
+      "source_title": "Cloudbeds Review – Pros, Cons & Features 2026",
+      "source_url": "https://softwarefinder.com/property-management-software/cloudbeds/reviews",
+      "source_type": "web",
+      "platform": "softwarefinder.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_32",
+      "claim": "e shared their experiences helping you find the perfect hostel. L Levin Nice to meet people, it connects the whole city. T Tamas I love the feature that lets you chat with people that are in the city you are visiting. S Sam Being a solo female traveller it really means a lot to me also that I can find a larger variety of people who are down to just hang out and have a great time.",
+      "source_title": "Meet People to Hangout With - Adventures Happen at Hostels",
+      "source_url": "https://www.bing.com/aclick?ld=e8_-0GsStWLm-Vmbm6VHV2CDVUCUxT77DNWRR0C4uEQ47vIVl8WTqaeJuxWoj3Wq3X-oQv_z_qb9TN5_owVC2LHEPsuoU73RF4n80uArAa8zSLgZWNr13pHo3v0SBo9mohgLNcMy97uLgu22qRp6MInN4UcudJE0GV3IZ51ryvEsq0FzedBOLGoL93a7Spk32PeDqBwQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuaG9zdGVsd29ybGQuY29tJTJmJTNmc291cmNlJTNkcHBjX21zYWRzX25vbmJyYW5kX2Rza19zZWFyY2hfZ2VuX2VuX3JvdyUyNm5ldHdvcmslM2RvJTI2Y2FtcGFpZ25faWQlM2Q1NzA4MTY3MjMlMjZhZGdyb3VwX2lkJTNkMTE3NTM3OTk5Nzg3MDQ2NyUyNmNyaXRlcmlhX2lkJTNka3dkLTczNDYxNzAzNjYzMjY0JTI2Y3JlYXRpdmVfaWQlM2QlMjZsb2NhdGlvbl9waHlzaWNhbF9pZCUzZDI2MDgzNyUyNmxvY2F0aW9uX2ludGVyZXN0X2lkJTNkJTI2YWRwb3NpdGlvbiUzZCUyNnVuaXF1ZWNsaWNrSUQlM2QlMjZzdWJfa2V5d29yZCUzZGhvc3RlbHMlMjZzdWJfYWQlM2RwJTI2c3ViX3B1Ymxpc2hlciUzZEFEVyUyNmdjbHNyYyUzZDNwLmRzJTI2JTI2bXNjbGtpZCUzZDUxMTY4ZjI5MGE1MjEwZTdkNGU1ZTQyZTU1NzIwYTEy&rlid=51168f290a5210e7d4e5e42e55720a12",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_33",
+      "claim": "The interface is generally intuitive, and the automation features help save time and reduce manual work. Read verified Cloudbeds reviews, highlighting pros, cons, and real-world user experiences. See how this hospitality platform performs in daily operations and guest management. Aug 5, 2026 · Cloudbeds review (2027) — pricing, features, pros & cons, and use cases.",
+      "source_title": "Cloudbeds Reviews 2026. Verified Reviews, Pros & Cons | CapterraCloudbeds Reviews, Pros and Cons - 2026 Software AdviceCloudbeds Review – Pros, Cons & Features 2026Cloudbeds Review 2027: Pricing, Features, Pros & Cons ...Cloudbeds in FULL REVIEW 2026 (All Pros + Cons) - HostelnerdsCloudbeds Review: Pros, Cons, Features, and PricingCloudbeds Hospitality Management Software Review for 2026",
+      "source_url": "https://www.capterra.com/p/158839/Cloudbeds/reviews/",
+      "source_type": "web",
+      "platform": "capterra.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_34",
+      "claim": "Feb 13, 2026 · Cloudbeds Overview Cloudbeds is designed as a unified, cloud-native platform rather than a collection of disconnected modules. At its core are the PMS, payments, and marketplace, with optional distribution tools like the channel manager and booking engine, as well as add-ons for revenue intelligence, marketing, websites, and reputation management.",
+      "source_title": "Cloudbeds Hospitality Management Software Review for 2026",
+      "source_url": "https://thehotelgm.com/tools/cloudbeds-review/",
+      "source_type": "web",
+      "platform": "thehotelgm.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_35",
+      "claim": "It is what sets it apart from other options when booking hostels. S Sara Yes, very useful for solo travelling! P Patience The chat function is exceptional and is a really great way to connect with other travellers! Especially if you find yourself in a less-than-social hostel or are travelling in off-season! L Lizzy Made loads of friends A Anderson So fun!!!",
+      "source_title": "Meet People to Hangout With - Adventures Happen at Hostels",
+      "source_url": "https://www.bing.com/aclick?ld=e8_-0GsStWLm-Vmbm6VHV2CDVUCUxT77DNWRR0C4uEQ47vIVl8WTqaeJuxWoj3Wq3X-oQv_z_qb9TN5_owVC2LHEPsuoU73RF4n80uArAa8zSLgZWNr13pHo3v0SBo9mohgLNcMy97uLgu22qRp6MInN4UcudJE0GV3IZ51ryvEsq0FzedBOLGoL93a7Spk32PeDqBwQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuaG9zdGVsd29ybGQuY29tJTJmJTNmc291cmNlJTNkcHBjX21zYWRzX25vbmJyYW5kX2Rza19zZWFyY2hfZ2VuX2VuX3JvdyUyNm5ldHdvcmslM2RvJTI2Y2FtcGFpZ25faWQlM2Q1NzA4MTY3MjMlMjZhZGdyb3VwX2lkJTNkMTE3NTM3OTk5Nzg3MDQ2NyUyNmNyaXRlcmlhX2lkJTNka3dkLTczNDYxNzAzNjYzMjY0JTI2Y3JlYXRpdmVfaWQlM2QlMjZsb2NhdGlvbl9waHlzaWNhbF9pZCUzZDI2MDgzNyUyNmxvY2F0aW9uX2ludGVyZXN0X2lkJTNkJTI2YWRwb3NpdGlvbiUzZCUyNnVuaXF1ZWNsaWNrSUQlM2QlMjZzdWJfa2V5d29yZCUzZGhvc3RlbHMlMjZzdWJfYWQlM2RwJTI2c3ViX3B1Ymxpc2hlciUzZEFEVyUyNmdjbHNyYyUzZDNwLmRzJTI2JTI2bXNjbGtpZCUzZDUxMTY4ZjI5MGE1MjEwZTdkNGU1ZTQyZTU1NzIwYTEy&rlid=51168f290a5210e7d4e5e42e55720a12",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_36",
+      "claim": "Cons One thing that stood out on the downside was that a few of the more advanced reports took a bit more time to customize than I expected. Even so that small inconvenience is outweighed by how user friendly the software is overall. Rating Distribution Ease of use 10 Value for money 10 Customer Support 10 Functionality 9 EH Eric H.",
+      "source_title": "Cloudbeds Review – Pros, Cons & Features 2026",
+      "source_url": "https://softwarefinder.com/property-management-software/cloudbeds/reviews",
+      "source_type": "web",
+      "platform": "softwarefinder.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_37",
+      "claim": "4.4% ADR [privates] 5.6% ADR [dorms] 8.3% RevPAR [privates] Flat RevPAB [dorms] Asia Pacific saw broad-based growth. Canada vs. the US is just the beginning. See how your country performed against its neighbors. Download the report OTAs gained even more ground. OTA dependence is higher for hostels than hotels.",
+      "source_title": "The 2026 State of Hostels | Cloudbeds",
+      "source_url": "https://www.cloudbeds.com/hostel-report/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_38",
+      "claim": "Jun 9, 2026 · Cloudbeds, the hospitality management system built for ambitious hoteliers, today released findings from its annual State of Hostels report, offering a detailed analysis of hostel performance trends and traveler booking behavior across global markets in 2025.",
+      "source_title": "2026 State of Hostels Report reveals pricing pressure, rising ...",
+      "source_url": "https://insights.ehotelier.com/suppliers/2026/06/09/2026-state-of-hostels-report-reveals-pricing-pressure-rising-ota-dominance-and-uneven-global-performance/",
+      "source_type": "web",
+      "platform": "insights.ehotelier.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_39",
+      "claim": "Cloudbeds is an independent hospitality software developer. Cloudbeds partners with many brands, but makes no claims upon their trademarks. All trademarks contained herein belong to their respective owners and registrations.",
+      "source_title": "The 2026 State of Hostels | Cloudbeds",
+      "source_url": "https://www.cloudbeds.com/hostel-report/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_40",
+      "claim": "The booking management website hotels.cloudbeds looks legit ... would there be any possible reason why it might decline your credit card? But I agree with the comment below - just contact the property direct.",
+      "source_title": "Hostel scam? : r/bali - Reddit",
+      "source_url": "https://www.reddit.com/r/bali/comments/16ljsjr/hostel_scam/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_41",
+      "claim": "Article - 2026 State of Hostels Report Reveals Pricing Pressure, Rising OTA Dominance, and Uneven Global Performance - Drawing on 32 million bookings across 180 countries, the annual benchmark ...",
+      "source_title": "2026 State of Hostels Report Reveals Pricing Pressure, Rising ...",
+      "source_url": "https://www.hotelnewsresource.com/article141585.html",
+      "source_type": "web",
+      "platform": "hotelnewsresource.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_42",
+      "claim": "The best Cloudbeds alternatives in November 2026: Hostaway, OPERA Cloud Property Management, and Cvent Event Marketing & Management. Compare verified reviews, pricing, and features.",
+      "source_title": "Top 10 Cloudbeds Alternatives & Competitors - G2",
+      "source_url": "https://www.g2.com/products/cloudbeds/competitors/alternatives",
+      "source_type": "web",
+      "platform": "g2.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_43",
+      "claim": "Aug 5, 2026 · Cloudbeds review (2027) — pricing, features, pros & cons, and use cases. Discover how this platform performs in real scenarios.",
+      "source_title": "Cloudbeds Review 2027: Pricing, Features, Pros & Cons ...",
+      "source_url": "https://research.com/software/reviews/cloudbeds",
+      "source_type": "web",
+      "platform": "research.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_44",
+      "claim": "Access report Report The 2026 State of Hostels Contents The data The trends Report recap Ask AI This is our biggest industry report yet 32 million bookings 180 countries Tens of thousands of hostels Globally, performance diverged across private rooms & dorms. Private rooms remained stable. 2.8% Global occupancy [privates] 2.8% Global RevPAR [privates] 0% Global ADR [privates] Revenue varied significantly.",
+      "source_title": "The 2026 State of Hostels | Cloudbeds",
+      "source_url": "https://www.cloudbeds.com/hostel-report/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_45",
+      "claim": "Once the monthly subscription, add-ons and payment processing fees are included, it becomes a fairly major monthly expense for our small hotel. Rating Distribution Ease of use 10 Value for money 8 Customer Support 10 Functionality 10 OP Olga P. Hospitality , 1-10 employees Less than a year 5 .0 April 2026 “ Reliable and user-friendly platform ” Pros It is very easy to use and the interface is simple to understand.",
+      "source_title": "Cloudbeds Review – Pros, Cons & Features 2026",
+      "source_url": "https://softwarefinder.com/property-management-software/cloudbeds/reviews",
+      "source_type": "web",
+      "platform": "softwarefinder.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_46",
+      "claim": "Rating Distribution Ease of use 9 Value for money 8 Customer Support 9 Functionality 9 N Nicole Hospitality , 11-50 employees More than a year 5 .0 March 2026 “ Great booking tools! ” Pros Has been an excellent tool overall. The interface looks really good and feels very easy to use. It's also a big plus that customer support is consistently available and getting answers to questions is usually quick and simple.",
+      "source_title": "Cloudbeds Review – Pros, Cons & Features 2026",
+      "source_url": "https://softwarefinder.com/property-management-software/cloudbeds/reviews",
+      "source_type": "web",
+      "platform": "softwarefinder.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_47",
+      "claim": "T&Cs apply. -33% Generator Barcelona 8.1 Fabulous (3537) Barcelona, Spain -27% Mad Monkey Hostel Siargao 9.8 Superb (1544) Siargao Island, Philippines -30% Wombat's City Hostel Vienna Naschmarkt 9.1 Superb (34365) Vienna, Austria -20% St Christopher's Edinburgh - Original 8.1 Fabulous (9146) Edinburgh, Scotland -32% Mayan Monkey Tulum 9.2 Superb (2688) Tulum, Mexico -50% Wise Owl Hostels Shibuya 8.9 Fabulous (1314) Tokyo, Japan -50% Shanghai Desti Youth Hostel - Jing 'an Temple 9.5 Superb (137) Shanghai, China -10% Barefoot Backpackers Hostel, Ahangama Beach 10.0 Superb (500) Ahangama, Sri Lanka -10% Lushy Hostel Canggu 9.7 Superb (4259) Canggu, Indonesia -20% Avenue Hostel 8.9 Fabulous (947",
+      "source_title": "Meet People to Hangout With - Adventures Happen at Hostels",
+      "source_url": "https://www.bing.com/aclick?ld=e8_-0GsStWLm-Vmbm6VHV2CDVUCUxT77DNWRR0C4uEQ47vIVl8WTqaeJuxWoj3Wq3X-oQv_z_qb9TN5_owVC2LHEPsuoU73RF4n80uArAa8zSLgZWNr13pHo3v0SBo9mohgLNcMy97uLgu22qRp6MInN4UcudJE0GV3IZ51ryvEsq0FzedBOLGoL93a7Spk32PeDqBwQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuaG9zdGVsd29ybGQuY29tJTJmJTNmc291cmNlJTNkcHBjX21zYWRzX25vbmJyYW5kX2Rza19zZWFyY2hfZ2VuX2VuX3JvdyUyNm5ldHdvcmslM2RvJTI2Y2FtcGFpZ25faWQlM2Q1NzA4MTY3MjMlMjZhZGdyb3VwX2lkJTNkMTE3NTM3OTk5Nzg3MDQ2NyUyNmNyaXRlcmlhX2lkJTNka3dkLTczNDYxNzAzNjYzMjY0JTI2Y3JlYXRpdmVfaWQlM2QlMjZsb2NhdGlvbl9waHlzaWNhbF9pZCUzZDI2MDgzNyUyNmxvY2F0aW9uX2ludGVyZXN0X2lkJTNkJTI2YWRwb3NpdGlvbiUzZCUyNnVuaXF1ZWNsaWNrSUQlM2QlMjZzdWJfa2V5d29yZCUzZGhvc3RlbHMlMjZzdWJfYWQlM2RwJTI2c3ViX3B1Ymxpc2hlciUzZEFEVyUyNmdjbHNyYyUzZDNwLmRzJTI2JTI2bXNjbGtpZCUzZDUxMTY4ZjI5MGE1MjEwZTdkNGU1ZTQyZTU1NzIwYTEy&rlid=51168f290a5210e7d4e5e42e55720a12",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_48",
+      "claim": "Aug 6, 2026 · Is Cloudbeds the right Hospitality Property Management solution for you? Explore 351 verified user reviews from people in industries like yours to make a confident choice. Having reservations, channel management, rates, availability, guest information and payments integrated into one platform makes daily operations much easier and more organised.",
+      "source_title": "Cloudbeds Reviews 2026. Verified Reviews, Pros & Cons | CapterraCloudbeds Reviews, Pros and Cons - 2026 Software AdviceCloudbeds Review – Pros, Cons & Features 2026Cloudbeds Review 2027: Pricing, Features, Pros & Cons ...Cloudbeds in FULL REVIEW 2026 (All Pros + Cons) - HostelnerdsCloudbeds Review: Pros, Cons, Features, and PricingCloudbeds Hospitality Management Software Review for 2026",
+      "source_url": "https://www.capterra.com/p/158839/Cloudbeds/reviews/",
+      "source_type": "web",
+      "platform": "capterra.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_49",
+      "claim": "Cloudbeds gives revenue leaders the flexibility to build a tech stack that drives profit — not complexity. A PMS that plays well with your revenue data. Cloudbeds PMS is built for action — intuitive, modern, and designed to help you move faster from insight to impact.",
+      "source_title": "The Most Powerful Software for Hotel Revenue Managers",
+      "source_url": "https://www.cloudbeds.com/revenue-manager-software/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_50",
+      "claim": "Cloudbeds as a system and their customer service is incredibly frustrating. I have worked with other systems and while I can see someone feel this system is user friendly, it is the most inefficient system I can imagine for a hotel platform.",
+      "source_title": "What is you opinion on Cloudbeds PMS ? : r/askhotels - Reddit",
+      "source_url": "https://www.reddit.com/r/askhotels/comments/14t43vy/what_is_you_opinion_on_cloudbeds_pms/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_51",
+      "claim": "Feb 13, 2026 · In this review, I’ll walk through Cloudbeds’s features, pricing structure, strengths, limitations, and ideal use cases so you can decide whether it fits your property’s size, complexity, and growth plans.",
+      "source_title": "Cloudbeds Reviews 2026. Verified Reviews, Pros & Cons | CapterraCloudbeds Reviews, Pros and Cons - 2026 Software AdviceCloudbeds Review – Pros, Cons & Features 2026Cloudbeds Review 2027: Pricing, Features, Pros & Cons ...Cloudbeds in FULL REVIEW 2026 (All Pros + Cons) - HostelnerdsCloudbeds Review: Pros, Cons, Features, and PricingCloudbeds Hospitality Management Software Review for 2026",
+      "source_url": "https://www.capterra.com/p/158839/Cloudbeds/reviews/",
+      "source_type": "web",
+      "platform": "capterra.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_52",
+      "claim": "May 27, 2026 · Cloudbeds analyzed 32 million bookings across 180 countries, finding dorm ADR fell 8.2% while OTA share rose to 73.7% globally, with cancellation rates more than double those of direct bookings.",
+      "source_title": "2026 State of Hostels Report Reveals Pricing Pressure, Rising ...",
+      "source_url": "https://www.hospitalitynet.org/news/4132646/2026-state-of-hostels-report-reveals-pricing-pressure-rising-ota-dominance-and-uneven-global-performance",
+      "source_type": "web",
+      "platform": "hospitalitynet.org",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_53",
+      "claim": "We also use Cloudbeds - no issues like you described at all. Sorry it's happening to you. Reply reply Top 5% Rank by size",
+      "source_title": "Anyone having insane issues with CloudBeds in the ... - Reddit",
+      "source_url": "https://www.reddit.com/r/askhotels/comments/19bfe3f/anyone_having_insane_issues_with_cloudbeds_in_the/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_54",
+      "claim": "Contact the hostel and get/confirm their rate. Cloudbeds appears to be a direct management software for them.",
+      "source_title": "Does anyone know if hotels.cloudbeds is legit?? - Reddit",
+      "source_url": "https://www.reddit.com/r/ireland/comments/yqvls8/does_anyone_know_if_hotelscloudbeds_is_legit/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_55",
+      "claim": "Am looking for a hostel on a night where literally none is available (unless I want to trek out to Clonbur) but google has given an option in eyre square for 40 euro, directing me to this site. Is this a scam, or better yet is there a way to reliably check?? Thanks for any help :) Share Sort by: Best Open comment sort options Best Top New Controversial Old Q&A Add a Comment tim_skellington •",
+      "source_title": "Does anyone know if hotels.cloudbeds is legit?? - Reddit",
+      "source_url": "https://www.reddit.com/r/galway/comments/yqvkpj/does_anyone_know_if_hotelscloudbeds_is_legit/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_56",
+      "claim": "The Manager's Report is a standard production report that gives managers a single view of key operational and revenue metrics for a selected day, plus Month-to-Date (MTD) and Year-to-Date (YTD) totals.",
+      "source_title": "Manager's Report – Cloudbeds",
+      "source_url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/45131224156955-Manager-s-Report",
+      "source_type": "web",
+      "platform": "myfrontdesk.cloudbeds.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    }
+  ],
+  "findings": [
+    {
+      "finding_id": "finding_1",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some owners find the pricing of the tool too complex or not suited to small properties.",
+      "evidence_ids": [
+        "evidence_9"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The pricing of the tool is too complex or not suited to small properties, as stated in evidence_9."
+    },
+    {
+      "finding_id": "finding_2",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests and owners often mention that they wish for more automation and integration with other tools.",
+      "evidence_ids": [
+        "evidence_7",
+        "evidence_8"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding mentions automation and integration, but the evidence only supports automation and integration for independent hotels, hostels, vacation rentals, and small chains, which is not directly relevant to the research question."
+    },
+    {
+      "finding_id": "finding_3",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking process can be confusing for some users, with multiple steps and requirements.",
+      "evidence_ids": [
+        "evidence_3",
+        "evidence_6"
+      ],
+      "confidence": 0.5,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The booking process can be confusing for some users, as stated in evidence_3."
+    },
+    {
+      "finding_id": "finding_4",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The platform provides powerful automation, integrated payments, and a user-friendly interface.",
+      "evidence_ids": [
+        "evidence_7",
+        "evidence_9"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The platform provides powerful automation, integrated payments, and a user-friendly interface, as stated in evidence_7 and evidence_9."
+    },
+    {
+      "finding_id": "finding_5",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The platform offers a loyalty program and rewards for repeat guests.",
+      "evidence_ids": [
+        "evidence_4",
+        "evidence_10"
+      ],
+      "confidence": 0.6,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding mentions a loyalty program and rewards, but it does not directly answer the research question about pricing, cost, or what owners find missing or complicated."
+    },
+    {
+      "finding_id": "finding_6",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Cloudbeds partners with many brands and has a global presence.",
+      "evidence_ids": [
+        "evidence_5",
+        "evidence_9"
+      ],
+      "confidence": 0.9,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding mentions global presence, but it does not directly answer the research question about pricing, cost, or what owners find missing or complicated."
+    },
+    {
+      "finding_id": "finding_7",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Hostels don't operate like hotels, and demand doesn't behave the same, which can lead to performance variations between private rooms and dorms.",
+      "evidence_ids": [
+        "evidence_12"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_8",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "The 2026 State of Hostels report highlights that hostels are operating in a far more fragmented and competitive market than just a few years ago.",
+      "evidence_ids": [
+        "evidence_17"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The 2026 State of Hostels report directly supports the finding that hostels are operating in a far more fragmented and competitive market than just a few years ago."
+    },
+    {
+      "finding_id": "finding_9",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "The Cloudbeds platform unifies operations, distribution, guest experience, and revenue marketing, but it may not be tailored to the specific needs of small hostels.",
+      "evidence_ids": [
+        "evidence_18"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding that Cloudbeds may not be tailored to the specific needs of small hostels is relevant, but the evidence does not sufficiently support it."
+    },
+    {
+      "finding_id": "finding_10",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Cloudbeds is recognized as a top Hotel Management System, PMS, and Channel Manager — and Best Place to Work — by Hotel Tech Report for eight consecutive years.",
+      "evidence_ids": [
+        "evidence_14"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Cloudbeds is recognized as a top Hotel Management System, PMS, and Channel Manager — and Best Place to Work — by Hotel Tech Report for eight consecutive years, directly supporting the finding."
+    },
+    {
+      "finding_id": "finding_11",
+      "type": "FEATURE",
+      "category": "FEATURE",
+      "statement": "Cloudbeds provides a platform that unifies operations, distribution, guest experience, and revenue marketing.",
+      "evidence_ids": [
+        "evidence_18"
+      ],
+      "confidence": 0.8,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding that Cloudbeds provides a platform that unifies operations, distribution, guest experience, and revenue marketing is supported, but it does not meaningfully answer the research question about what owners find missing or complicated."
+    },
+    {
+      "finding_id": "finding_12",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Cloudbeds was founded in 2012 and is trusted by tens of thousands of properties in more than 150 countries.",
+      "evidence_ids": [
+        "evidence_14"
+      ],
+      "confidence": 0.9,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding that Cloudbeds was founded in 2012 and is trusted by tens of thousands of properties in more than 150 countries is supported, but it does not meaningfully answer the research question about what owners find missing or complicated."
+    },
+    {
+      "finding_id": "finding_13",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Cloudbeds removed 70k credits from an account worth over $500 after a full year on the platform.",
+      "evidence_ids": [
+        "evidence_25"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is directly supported by the evidence. The evidence_25 directly states that Cloudbeds removed 70k credits from an account worth over $500 after a full year on the platform."
+    },
+    {
+      "finding_id": "finding_14",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking process for Cloudbeds is not explicitly described in the evidence, but the website appears to be user-friendly.",
+      "evidence_ids": [
+        "evidence_28"
+      ],
+      "confidence": 0.5,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding does not directly answer the research question. The website's user-friendliness is not a key aspect of the tool's features or pricing for small properties."
+    },
+    {
+      "finding_id": "finding_15",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some owners find the pricing system of Cloudbeds to be not suited for small properties.",
+      "evidence_ids": [
+        "evidence_22",
+        "evidence_23"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence_22 and evidence_23 support the existence of an RMS, but they do not specifically address the suitability of the pricing system for small properties."
+    },
+    {
+      "finding_id": "finding_16",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "The report highlights growing divergence across the hostel landscape, with varying performance by accommodation type, region, and operational model.",
+      "evidence_ids": [
+        "evidence_30"
+      ],
+      "confidence": 0.8,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding does not directly answer the research question. The report's central finding is about growing divergence across the hostel landscape, but it does not specifically address the tool's features or pricing for small properties."
+    },
+    {
+      "finding_id": "finding_17",
+      "type": "FEATURE",
+      "category": "FEATURE",
+      "statement": "Cloudbeds provides a revenue management system (RMS) that can update rates and reservations in real-time.",
+      "evidence_ids": [
+        "evidence_22",
+        "evidence_29"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is directly supported by the evidence. The evidence_22 and evidence_29 directly state that Cloudbeds provides a revenue management system (RMS) that can update rates and reservations in real-time."
+    },
+    {
+      "finding_id": "finding_18",
+      "type": "TREND",
+      "category": "TREND",
+      "statement": "The hostel sector has seen growing occupancy, but pricing power has diverged sharply across accommodation types and regions.",
+      "evidence_ids": [
+        "evidence_30"
+      ],
+      "confidence": 0.8,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding does not directly answer the research question. The report's central finding is about growing divergence across the hostel landscape, but it does not specifically address the tool's features or pricing for small properties."
+    },
+    {
+      "finding_id": "finding_19",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Some owners still have to double-check that reservations from Booking.com get assigned correctly on the live calendar.",
+      "evidence_ids": [
+        "evidence_31"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The finding is about a potential issue with the live calendar, but the evidence only mentions a recent start of using the groups feature and a need to double-check reservations from Booking.com."
+    },
+    {
+      "finding_id": "finding_20",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some owners find that the automation features in Cloudbeds help save time and reduce manual work, but wish for more customization options for some reports.",
+      "evidence_ids": [
+        "evidence_36"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question about what owners find missing or complicated in Cloudbeds."
+    },
+    {
+      "finding_id": "finding_21",
+      "type": "TREND",
+      "category": "TREND",
+      "statement": "The booking management website hotels.cloudbeds looks legit, but there might be possible reasons why it might decline your credit card.",
+      "evidence_ids": [
+        "evidence_40"
+      ],
+      "confidence": 0.8,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding does not meaningfully answer the research question. The finding is about the legitimacy of the booking management website, but it does not provide any information about the tool's features or user experience."
+    },
+    {
+      "finding_id": "finding_22",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The chat function is exceptional and is a really great way to connect with other travellers.",
+      "evidence_ids": [
+        "evidence_35"
+      ],
+      "confidence": 0.8,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding does not meaningfully answer the research question. The finding is about the chat function, but it does not provide any information about the tool's features or user experience."
+    },
+    {
+      "finding_id": "finding_23",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The interface is generally intuitive, and the automation features help save time and reduce manual work.",
+      "evidence_ids": [
+        "evidence_33"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question about what owners find missing or complicated in Cloudbeds."
+    },
+    {
+      "finding_id": "finding_24",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some owners find that the pricing and cost of Cloudbeds is not clearly stated or transparent.",
+      "evidence_ids": [
+        "evidence_34"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_25",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "The monthly subscription, add-ons, and payment processing fees can be a major monthly expense for small hotels.",
+      "evidence_ids": [
+        "evidence_45"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_26",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some owners find that Cloudbeds lacks a robust loyalty program or repeat-guest behavior features.",
+      "evidence_ids": [
+        "evidence_41",
+        "evidence_46"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence only mentions a lack of loyalty program or repeat-guest behavior features, but it does not directly state that Cloudbeds lacks these features."
+    },
+    {
+      "finding_id": "finding_27",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The interface of Cloudbeds can be simple to understand, but some owners find it not intuitive enough for their needs.",
+      "evidence_ids": [
+        "evidence_45",
+        "evidence_46"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence only mentions that the interface is simple to understand, but it does not directly state that it is not intuitive enough for owners' needs."
+    },
+    {
+      "finding_id": "finding_28",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Some owners praise Cloudbeds for its reliability and user-friendly platform.",
+      "evidence_ids": [
+        "evidence_45"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence directly states that Cloudbeds is reliable and user-friendly."
+    },
+    {
+      "finding_id": "finding_29",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Cloudbeds has 32 million bookings across 180 countries.",
+      "evidence_ids": [
+        "evidence_41"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence directly states that Cloudbeds has 32 million bookings across 180 countries."
+    },
+    {
+      "finding_id": "finding_30",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Some users have reported difficulty finding availability or booking options on the platform.",
+      "evidence_ids": [
+        "evidence_55"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence only mentions that users have reported difficulty finding availability or booking options, but it does not directly state that this is a problem with the platform."
+    },
+    {
+      "finding_id": "finding_31",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some users have reported issues with the platform, such as \"insane issues\" and \"no issues like you described at all\".",
+      "evidence_ids": [
+        "evidence_53"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence_53 does not directly support the finding that some users have reported issues with the platform."
+    },
+    {
+      "finding_id": "finding_32",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some users have reported that the platform does not provide a reliable way to check availability or prices.",
+      "evidence_ids": [
+        "evidence_55",
+        "evidence_54"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence_55 and evidence_54 do not directly support the finding that the platform does not provide a reliable way to check availability or prices."
+    },
+    {
+      "finding_id": "finding_33",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The platform provides a \"Manager's Report\" that gives managers a single view of key operational and revenue metrics.",
+      "evidence_ids": [
+        "evidence_56"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is directly supported by the evidence_56, which describes the Manager's Report in detail."
+    },
+    {
+      "finding_id": "finding_34",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Cloudbeds analyzed 32 million bookings across 180 countries, finding dorm ADR fell 8.2% while OTA share rose to 73.7% globally.",
+      "evidence_ids": [
+        "evidence_52"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is directly supported by the evidence_52, which cites a specific analysis of 32 million bookings across 180 countries."
+    }
+  ],
+  "insights": [
+    "Cloudbeds' pricing tool is perceived as complex by some owners, which may hinder its adoption by small properties.",
+    "The platform's automation features are widely praised for saving time and reducing manual work, but some owners wish for more customization options for reports.",
+    "Cloudbeds is recognized as a top Hotel Management System and Channel Manager, but some owners have experienced issues with account credits and refunds."
+  ],
+  "coverage": [
+    {
+      "channel": "Google Maps / Google reviews",
+      "source_type": "maps",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Not readable automatically (login / JavaScript). Paste real reviews or captions with the `note` command."
+    },
+    {
+      "channel": "Instagram / Facebook",
+      "source_type": "social",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Not readable automatically (login / JavaScript). Paste real reviews or captions with the `note` command."
+    },
+    {
+      "channel": "Official website",
+      "source_type": "official",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Booking platforms (Booking.com, Hostelworld, Zostel, MakeMyTrip, Airbnb ...)",
+      "source_type": "booking",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Review sites (Tripadvisor, Zomato ...)",
+      "source_type": "review",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Forums (Reddit, Quora)",
+      "source_type": "forum",
+      "passages": 5,
+      "sources": 5,
+      "status": "snippet",
+      "note": "Search-engine snippets only (no full page text)"
+    },
+    {
+      "channel": "Blogs & articles",
+      "source_type": "web",
+      "passages": 51,
+      "sources": 18,
+      "status": "full",
+      "note": "Full text read"
+    },
+    {
+      "channel": "Notes you added by hand",
+      "source_type": "manual",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    }
+  ],
+  "report_path": "/Users/vanshikamahajan/Documents/personal-research-agent/research/reports/tool-cloudbeds-20261126-034919.md",
+  "title": "Cloudbeds"
+}

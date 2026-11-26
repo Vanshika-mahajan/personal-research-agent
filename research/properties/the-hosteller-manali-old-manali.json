@@ -1,0 +1,1132 @@
+{
+  "key": "The Hosteller Manali, Old Manali",
+  "kind": "property",
+  "run_id": "the-hosteller-manali-old-manali-20261126-032346",
+  "created_at": "2026-11-26T03:27:25",
+  "manual_note_count": 0,
+  "question": {
+    "question": "Profile The Hosteller Manali, Old Manali (hostel, Manali). 1) Customer complaints, problems and negative experiences. 2) What makes customers choose this place over others. 3) Facilities and experiences customers appreciate most. 4) How it attracts customers and encourages them to return (offers, events, loyalty, community, social media). 5) What is missing or could be better (unmet needs, gaps). 6) Booking and pricing experience (convenient or confusing).",
+    "depth": "standard",
+    "max_iterations": 2,
+    "mode": "property",
+    "subject": "The Hosteller Manali, Old Manali",
+    "place": "Manali",
+    "aspects": [
+      "Customer complaints, problems and negative experiences",
+      "What makes customers choose this place over others",
+      "Facilities and experiences customers appreciate most",
+      "How it attracts customers and encourages them to return (offers, events, loyalty, community, social media)",
+      "What is missing or could be better (unmet needs, gaps)",
+      "Booking and pricing experience (convenient or confusing)"
+    ],
+    "official_domains": [
+      "thehosteller.com"
+    ],
+    "seed_urls": [
+      "https://www.thehosteller.com/hostels/the-hosteller-old-manali"
+    ],
+    "seed_queries": [
+      "\"The Hosteller Manali, Old Manali\" Manali reviews",
+      "The Hosteller Manali, Old Manali Manali complaints negative reviews",
+      "site:thehosteller.com The Hosteller Manali, Old Manali",
+      "The Hosteller Manali, Old Manali Manali google reviews",
+      "The Hosteller Manali, Old Manali Manali tripadvisor reviews",
+      "site:instagram.com The Hosteller Manali, Old Manali Manali",
+      "The Hosteller Manali, Old Manali Manali booking.com hostelworld reviews",
+      "The Hosteller Manali, Old Manali Manali makemytrip agoda airbnb",
+      "The Hosteller Manali, Old Manali Manali what guests love",
+      "The Hosteller Manali, Old Manali Manali offers events membership",
+      "site:reddit.com The Hosteller Manali, Old Manali Manali",
+      "The Hosteller Manali, Old Manali Manali experience blog"
+    ]
+  },
+  "iterations": 1,
+  "quality_score": 1.0,
+  "missing_information": [],
+  "evidence": [
+    {
+      "evidence_id": "evidence_1",
+      "claim": "Book The Hosteller Old Manali, Manu Temple in Manali at the best price on Goibibo. Read verified traveler reviews, explore hotel photos, and enjoy a comfortable stay at this highly rated 4.7/5 hotel. The Hosteller Manali, Old Manali offers a beautiful location, perfect for exploring Manali and Old Manali. Guests praise the friendly staff, cleanliness, and great facilities, including a cafe with good food.",
+      "source_title": "The Hosteller Old Manali, Manu Temple Manali - Reviews ...The Hosteller Manali, Old Manali, Manali - 2026 Prices & ReviewsTHE HOSTELLER MANALI, OLD MANALI - 2026 Reviews (India)THE HOSTELLER OLD MANALI - Updated 2026 Hostel Reviews (India)\"Hostel\" in Old Manali - Search in Google Maps",
+      "source_url": "https://www.goibibo.com/hotels/the-hosteller-old-manali-manu-temple-hotel-in-manali-7824089850499864453/",
+      "source_type": "booking",
+      "platform": "Goibibo",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_2",
+      "claim": "Read more View all reviews Location Khasra number 336, near Manu temple, Old Manali, Manali, Himachal Pradesh, Manali, India 1.9km from city centre View Map Check Availability Dates Guests Search Booking only takes 2 minutes Instant Confirmation Check Availability More hostels in Manali The Hosteller Manali, Old Manali 10 From €4.79 C6 Manali 10 From €4.17 La Voglia-Old Manali 10 From €3.44 Drifters Inn - The Hidden Tribe 10 From €3.23 Whoopers Hostel Manali 10 From €4.96 FARM Hostel & Camps 10 From €2.91 View all Hostels in Manali About Manali 8.5 Fabulous (3 Reviews) Activities 9.3 Eating out 8.0 Shopping 9.3 Chilling out 9.3 Transport 7.3 Sightseeing 9.3 Culture 8.7 Nightlife 6.0 Value fo",
+      "source_title": "The Hosteller Old Manali, Manu Temple - Hostelworld",
+      "source_url": "https://www.hostelworld.com/hostels/p/327433/the-hosteller-old-manali-manu-temple/",
+      "source_type": "booking",
+      "platform": "Hostelworld",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_3",
+      "claim": "Read verified traveler reviews, explore hotel photos, and enjoy a comfortable stay at this highly rated 4.4/5 hotel. The Hosteller Old Manali, Manu Temple is a favorite among travelers for its vibrant and cozy atmosphere, with many praising the friendly and attentive staff. Guests appreciate the clean, modern rooms and inviting social spaces, though some note the food prices can be high.",
+      "source_title": "THE HOSTELLER OLD MANALI, MANU TEMPLE - Hostel Reviews ...The Hosteller Manali, Old Manali Manali - Reviews, Photos ...THE HOSTELLER OLD MANALI, MANU TEMPLE - Recent 2026 Reviews",
+      "source_url": "https://www.tripadvisor.in/Hotel_Review-g297618-d27999037-Reviews-The_Hosteller_Old_Manali_Manu_Temple-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_4",
+      "claim": "It highlights key themes across multilingual reviews and is displayed in your preferred language. Please note that errors or inconsistencies may occur. The Hosteller Old Manali, Manu Temple offers a welcoming atmosphere with exceptionally clean facilities and helpful staff. Enjoy the great vibes and mountain views. Some guests find the online check-in process repetitive and the location a bit challenging to reach.",
+      "source_title": "The Hosteller Old Manali, Manu Temple - Hostelworld",
+      "source_url": "https://www.hostelworld.com/hostels/p/327433/the-hosteller-old-manali-manu-temple/",
+      "source_type": "booking",
+      "platform": "Hostelworld",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_5",
+      "claim": "The Hosteller Manali, Old Manali offers a beautiful location, perfect for exploring Manali and Old Manali. Guests praise the friendly staff, cleanliness, and great facilities, including a cafe with good food.",
+      "source_title": "The Hosteller Manali, Old Manali, Manali - 2026 Prices & Reviews",
+      "source_url": "https://www.hostelworld.com/hostels/p/323240/the-hosteller-manali-old-manali/",
+      "source_type": "booking",
+      "platform": "Hostelworld",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_6",
+      "claim": "The Hosteller Old Manali, Manu Temple is a favorite among travelers for its vibrant and cozy atmosphere, with many praising the friendly and attentive staff. Guests appreciate the clean, modern rooms and inviting social spaces, though some note the food prices can be high.",
+      "source_title": "THE HOSTELLER OLD MANALI - Updated 2026 Hostel Reviews (India)",
+      "source_url": "https://www.tripadvisor.com/Hotel_Review-g297618-d27999037-Reviews-The_Hosteller_Old_Manali_Manu_Temple-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_7",
+      "claim": "Was this helpful? Stayed in Sept 2026 9.1 M Marwan Male, 18-24, Morocco Cool hostel and staff was so chill and cool to help Read more Stayed in Sept 2026 10 J Justin Male, 25-30, Germany Really good, clean and cozy hostel in the heart of Manali! Would recommend Read more Stayed in Jul 2026 10 V vidit Male, 18-24, India Amazing property with clean rooms, a nice atmosphere, amazing food, and great staff.",
+      "source_title": "The Hosteller Old Manali, Manu Temple - Hostelworld",
+      "source_url": "https://www.hostelworld.com/hostels/p/327433/the-hosteller-old-manali-manu-temple/",
+      "source_type": "booking",
+      "platform": "Hostelworld",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_8",
+      "claim": "Hostels Asia Hostels India Hostels Manali Hostels The Hosteller Old Manali, Manu Temple Language English Français Deutsch Español Italiano Português Português (Brasil) Svenska Polski Suomi Dansk Nederlands Norsk český Русский Türk 中文 日本語 한국어 Follow us on English EUR Accommodation Hostels Hotels Bed and Breakfast Customer Support Talk to Us Help / Report Illegal Content Quick Links Social Pass Blog Booking Guarantee Hostel Awards Solo Travel Student Discount Roamies About Us Hostelworld Group PLC Press Careers Work With Us Hostel Sign Up Affiliate Program Hostelworld Inbox © 1999-2026 Hostelworld.com Limited Data Protection Notice & DSA Terms & Legal Coupons Vouchers Website Testing Site Map",
+      "source_title": "The Hosteller Old Manali, Manu Temple - Hostelworld",
+      "source_url": "https://www.hostelworld.com/hostels/p/327433/the-hosteller-old-manali-manu-temple/",
+      "source_type": "booking",
+      "platform": "Hostelworld",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_9",
+      "claim": "General Non-smoking rooms Adults only Soundproofed rooms Garden area Fireplace 24-hour reception Food & Drink Restaurant Tea and coffee facilities Electric kettle Free toiletries Entertainment Flat-screen TV Board games Game room Entertainment Services Wi-Fi Parking Pets allowed Housekeeping Paid shuttle service Car hire Tours/Ticket assistance Safety & Security Security Fire extinguishers Key access Photos Gallery The Hosteller Manali, Old Manali - Manali (Himachal Pradesh) View all photos 03 — Reviews What guests say Recent verified reviews from guests who stayed here.",
+      "source_title": "The Hosteller Manali, Old Manali | Hotel Manali",
+      "source_url": "https://manu-palace.hotelmanali.org/",
+      "source_type": "web",
+      "platform": "manu-palace.hotelmanali.org",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_10",
+      "claim": "The Hosteller Manali Deals on Agoda. Read Million of Genuine Reviews of Your Dream Stay. The Hosteller Manali Old Manali - Read Reviews from Verified Guests to Get the Real Story Types: Villas, Resorts, Hotels, Apartments, Hostels, Guest houses, Holiday Homes Ratings: Website Quality 5/5 - Customer Service 4/5 - Value for Money 4/5",
+      "source_title": "The Hosteller Manali Old Manali - Book The Hosteller Manali",
+      "source_url": "https://www.bing.com/aclick?ld=e8Rrwaq1aLS0iQ-vMsyos9vzVUCUzZdhv4c3vnSm7gqloG02D1Fs9zWmFj74LxKnedmOaHr1d_kydj66DQa0txyxiKzGR79YoJMIai7u2pNvopqMt1kvV_o7OEEIkYO92-dLG-IETgVqnqOjDNhk87NS7-fl2nP6PIS8Br_MSiIYfpTjiRZiQpTGVV7Y6tcSlwDcT1fg&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWdvZGEuY29tJTJmcGFydG5lcnMlMmZwYXJ0bmVyc2VhcmNoLmFzcHglM2ZkZXZpY2UlM2RjJTI2bmV0d29yayUzZG8lMjZ1cmwlM2RodHRwcyUyNTNBJTI1MkYlMjUyRnd3dy5hZ29kYS5jb20lMjUyRmVuLWluJTI1MkZwYWdlcyUyNTJGYWdvZGElMjUyRmRlZmF1bHQlMjUyRkRlc3RpbmF0aW9uU2VhcmNoUmVzdWx0LmFzcHglMjUzRnNlbGVjdGVkcHJvcGVydHklMjUzRDI2ODk1MjM1JTI1MjZjaXR5JTI1M0Q5MDI4JTI1MjZoaWQlMjUzRDI2ODk1MjM1JTI1MjZzaXRlX2lkJTI1M0QxOTU1Mzc5JTI1MjZ0YWclMjUzRDI5NTNmY2UzLTZjM2YtNDc2Mi05NTVkLTAzZDhhNjI5MjVjMSUyNm1zY2xraWQlM2Q2ZjlkNTgzOGRkNjIxZWNkY2JiYTMzM2Y4NTk1ZTM4MiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZElORCUyNTdDRU4lMjU3Q0VOJTI1N0NET01fMTE3JTI2dXRtX3Rlcm0lM2R0aGUlMjUyMGhvc3RlbGxlciUyNTIwbWFuYWxpJTI1MjBvbGQlMjUyMG1hbmFsaSUyNnV0bV9jb250ZW50JTNkSU5EJTI1N0NFTiUyNTdDRU4lMjU3Q0RPTSUyNTdDR2VuZXJhbCUyNTdDTkFfTVBCJTI1N0NITiUyNTNBVGhlJTI1MjBIb3N0ZWxsZXIlMjUyME1hbmFsaV8yNjg5NTIzNSUyNTdDTlVNMDAx&rlid=6f9d5838dd621ecdcbba333f8595e382",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_11",
+      "claim": "21 hours ago · The location of The Hosteller Manali, Old Manali, is unique because it places travellers in the heart of Old Manali’s laid-back backpacker culture, surrounded by cafés, pine forests, mountain views, and riverside charm while staying away from the busier commercial side of Manali. Guests love this hotel for its friendly staff, good stay, good place, Excellent Stay, Staff Courtesy.",
+      "source_title": "The Hosteller Manali, Old Manali, Manāli (updated prices 2027)The Hosteller Old Manali, Manu Temple - Booking.comBackpacker hostel in Old Manali | Book Early, Save 20%Backpacker hostel in Old Manali near Mall Road - The HostellerThe Hosteller Manali, Old Manali Manali - Reviews, Photos ...",
+      "source_url": "https://www.booking.com/hotel/in/manu-palace-manali.html",
+      "source_type": "booking",
+      "platform": "Booking.com",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_12",
+      "claim": "The Hosteller Manali, Old Manali in Manāli provides adults only accommodations with a garden and a shared lounge. Essential Facilities: The Hosteller Old Manali in Manali offers a garden, terrace, restaurant, and free WiFi. Guests can enjoy a paid shuttle service, lounge, lift, 24-hour front desk, concierge, daily housekeeping, games room, bike and car hire, and a tour desk.",
+      "source_title": "The Hosteller Manali, Old Manali, Manāli (updated prices 2027)The Hosteller Old Manali, Manu Temple - Booking.comBackpacker hostel in Old Manali | Book Early, Save 20%Backpacker hostel in Old Manali near Mall Road - The HostellerThe Hosteller Manali, Old Manali Manali - Reviews, Photos ...",
+      "source_url": "https://www.booking.com/hotel/in/manu-palace-manali.html",
+      "source_type": "booking",
+      "platform": "Booking.com",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_13",
+      "claim": "Essential Facilities: The Hosteller Old Manali in Manali offers a garden, terrace, restaurant, and free WiFi. Guests can enjoy a paid shuttle service, lounge, lift, 24-hour front desk, concierge, daily housekeeping, games room, bike and car hire, and a tour desk.",
+      "source_title": "The Hosteller Old Manali, Manu Temple - Booking.com",
+      "source_url": "https://www.booking.com/hotel/in/the-hosteller-old-manali-manu-temple.en-gb.html",
+      "source_type": "booking",
+      "platform": "Booking.com",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_14",
+      "claim": "Guests appreciate the clean, modern rooms and inviting social spaces, though some note the food prices can be high. You're seeing a limited view of Google Maps. The Hosteller Manali, Old Manali, Snow Valley Resorts Manali, Woodstock Inn Manali...",
+      "source_title": "The Hosteller Old Manali, Manu Temple Manali - Reviews ...The Hosteller Manali, Old Manali, Manali - 2026 Prices & ReviewsTHE HOSTELLER MANALI, OLD MANALI - 2026 Reviews (India)THE HOSTELLER OLD MANALI - Updated 2026 Hostel Reviews (India)\"Hostel\" in Old Manali - Search in Google Maps",
+      "source_url": "https://www.goibibo.com/hotels/the-hosteller-old-manali-manu-temple-hotel-in-manali-7824089850499864453/",
+      "source_type": "booking",
+      "platform": "Goibibo",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_15",
+      "claim": "We read the newest guest reviews: what's really good, what to watch for, and whether the reviews can be trusted. The Hosteller Manali, Old Manali: Hostel in Manali, rated 4.8 from 3,566 reviews. See photos and what guests really say, on favhiker.",
+      "source_title": "The Hosteller Manali, Old Manali – Hostel | favhiker",
+      "source_url": "https://www.favhiker.com/stays/the-hosteller-manali-old-manali-845b1706",
+      "source_type": "web",
+      "platform": "favhiker.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_16",
+      "claim": "Dec 12, 2023 · Read all the Reviews of The Hosteller Manali, Old Manali before booking. Get best Price (Room Rates) Guarantee. Book online and get best deals and discounts with lowest price on Hostel Booking.",
+      "source_title": "Reviews of The Hosteller Manali, Old Manali - Hostel in Manali",
+      "source_url": "https://www.makemytrip.com/hotels/review-of-the_hosteller_manali_old_manali-details-manali.html",
+      "source_type": "booking",
+      "platform": "MakeMyTrip",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_17",
+      "claim": "Book The Hosteller Manali, Old Manali in Manali at the best price on Goibibo. Read verified traveler reviews, explore hotel photos, and enjoy a comfortable stay at this highly rated 4.4/5 hotel.",
+      "source_title": "The Hosteller Manali, Old Manali Manali - Reviews, Photos ...",
+      "source_url": "https://www.goibibo.com/hotels/the-hosteller-manali-old-manali-hotel-in-manali-2766900295160465282/",
+      "source_type": "booking",
+      "platform": "Goibibo",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_18",
+      "claim": "Read More House Rules Check In 14:00 - 00:00 Check Out until 11:00 Taxes Not Included Age restriction Aged 18 or older at check-in No children No curfew Smoking Anywhere Pets welcome View House Rules Facilities Free Parking Free WiFi 24 Hour Reception Tours/Travel Desk Parking Housekeeping Board Games Foosball View all facilities Reviews 9.8 Superb (34) Value for Money 10.0 Security 10.0 Atmosphere 9.6 Cleanliness 10.0 Staff 10.0 Location 9.2 Facilities 9.6 Summary of traveller reviews This summary is AI-generated from real guest feedback over the past 24 months.",
+      "source_title": "The Hosteller Old Manali, Manu Temple - Hostelworld",
+      "source_url": "https://www.hostelworld.com/hostels/p/327433/the-hosteller-old-manali-manu-temple/",
+      "source_type": "booking",
+      "platform": "Hostelworld",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_19",
+      "claim": "The narrow check-in window and lack of AC are worth noting, but the high ratings and repeat praise for the staff make it a dependable pick. 8.9 Recommended for solo travellers and couples who value a communal vibe and mountain views. Ready to book The Hosteller Manali, Old Manali - Manali (Himachal Pradesh)? Tap through and we’ll open our booking partner’s site, with live prices and availability for your exact dates.",
+      "source_title": "The Hosteller Manali, Old Manali | Hotel Manali",
+      "source_url": "https://manu-palace.hotelmanali.org/",
+      "source_type": "web",
+      "platform": "manu-palace.hotelmanali.org",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_20",
+      "claim": "Only female guests are permitted to check into the female dorm. If a male guest books this room type, check-in will be denied as per policy. Modifications to the booking are allowed only within 60 minutes of reservation. No refund will be issued if the booking falls outside the cancellation policy period. Pet policies The Hosteller Manali, Old Manali is pet friendly.",
+      "source_title": "https://www.thehosteller.com/hostels/the-hosteller-old-manali",
+      "source_url": "https://www.thehosteller.com/hostels/the-hosteller-old-manali",
+      "source_type": "official",
+      "platform": "Official website",
+      "origin": "page",
+      "confidence": 0.6
+    },
+    {
+      "evidence_id": "evidence_21",
+      "claim": "Nov 18, 2026 · The Hosteller Manali, Old Manali offers access to Manali Club House, which is only a 6-minute walk away. There are 71 rooms in this Manali hostel, some of them come with coffee/tea making facilities, as well as amenities like a flat-screen TV with satellite channels.",
+      "source_title": "THE HOSTELLER MANALI, OLD MANALI | INDIA | SEASON DEALS FROM $32",
+      "source_url": "https://manu-palace-manali.hotelsmanali.net/en/",
+      "source_type": "web",
+      "platform": "manu-palace-manali.hotelsmanali.net",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_22",
+      "claim": "About House Rules Location Reviews Report About Set against the backdrop of the Himalayas, Old Manali exudes a distinct charm with its quaint cafés, artisan markets, and the soothing rush of the Beas River. Just a short walk from the historic Manu Temple, this neighborhood offers a perfect balance of adventure and tranquillity. The Hosteller Old Manali, Manu Temple places you at the heart of it all.",
+      "source_title": "The Hosteller Old Manali, Manu Temple - Hostelworld",
+      "source_url": "https://www.hostelworld.com/hostels/p/327433/the-hosteller-old-manali-manu-temple/",
+      "source_type": "booking",
+      "platform": "Hostelworld",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_23",
+      "claim": "The Hosteller Manali, Old Manali | Hotel Manali Skip to content Live prices for your dates · free cancellation on many rooms EN English Hotel Manali The Hosteller Manali, Old Manali - Manali (Himachal Pradesh) → Himachal Pradesh Rooms Services Reviews Location FAQ Book now Hotel · Manali (Himachal Pradesh) · Himachal Pradesh The Hosteller Manali, Old Manali - Manali (Himachal Pradesh) A calm, sociable hostel in Old Manali, a short walk from the club house and nature park, with a garden, fireplace, and views that guests keep mentioning.",
+      "source_title": "The Hosteller Manali, Old Manali | Hotel Manali",
+      "source_url": "https://manu-palace.hotelmanali.org/",
+      "source_type": "web",
+      "platform": "manu-palace.hotelmanali.org",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_24",
+      "claim": "Manali (Himachal Pradesh) 4 9 The Bunker Burwa Manali Hostel - Manali (Himachal Pradesh) Guest-rated 9/10 — among the top stays in Manali (Himachal Pradesh). Manali (Himachal Pradesh) 5 9 Young Monk Hostel & Cafe Old Manali - Manali (Himachal Pradesh) Guest-rated 9/10 — among the top stays in Manali (Himachal Pradesh). Manali (Himachal Pradesh) 6 9 The Veer Villa Guest-rated 9/10 — among the top stays in Manali.",
+      "source_title": "The Hosteller Manali, Old Manali | Hotel Manali",
+      "source_url": "https://manu-palace.hotelmanali.org/",
+      "source_type": "web",
+      "platform": "manu-palace.hotelmanali.org",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_25",
+      "claim": "8.9 Great 0 reviews Guest-rated 8.9/10 from 218 reviews Booking.com · 8.9 · 0 reviews 8.9 Verified guest “The quadruple room was snug, with a comfy sofa and flat-screen TV — ideal for unwinding after exploring. The view outside was simply stunning and really elevated the stay.” 8.9 Verified guest “The staff were welcoming, and it's just a short walk to the nature park.",
+      "source_title": "The Hosteller Manali, Old Manali | Hotel Manali",
+      "source_url": "https://manu-palace.hotelmanali.org/",
+      "source_type": "web",
+      "platform": "manu-palace.hotelmanali.org",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_26",
+      "claim": "Sep 21, 2025 · This Vlogs Covers The Hosteller In The Beautiful Old Manali In Himachal Pradesh. Dec 12, 2023 · It’s great to know that your stay met expectations and that you had a positive experience with us. Our team works consistently to ensure travellers have a reliable and comfortable base during their journeys, and we’re glad this was reflected during your stay.",
+      "source_title": "THE HOSTELLER | OLD MANALI | BED PRICE | TRAVEL VLOG ...Reviews of The Hosteller Manali, Old Manali - Hostel in ManaliThe Hosteller Manali, Old Manali Manali - Reviews, Photos ...Great Experience - Review of The Hosteller Manali, Old Manali",
+      "source_url": "https://www.youtube.com/watch?v=bgwyYNJo-X8",
+      "source_type": "video",
+      "platform": "YouTube",
+      "origin": "snippet",
+      "confidence": 0.4
+    },
+    {
+      "evidence_id": "evidence_27",
+      "claim": "Definitely among the best hostel options around.” 8.9 Verified guest “The boiled eggs at the cafe were legendary, as were the amazing room view and spacious digs. Nearby spots like Green Forest Cafe and Manali Bistro added variety to our food adventures.” View all reviews 04 — Location Getting around Manali The property sits in Manali.",
+      "source_title": "The Hosteller Manali, Old Manali | Hotel Manali",
+      "source_url": "https://manu-palace.hotelmanali.org/",
+      "source_type": "web",
+      "platform": "manu-palace.hotelmanali.org",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_28",
+      "claim": "Book The Hosteller Old Manali, Manu Temple, Manali on Tripadvisor: See 48 traveller reviews, 66 candid photos, and great deals for The Hosteller Old Manali, Manu Temple, ranked #11 of 299 Speciality lodging in Manali and rated 4 of 5 at Tripadvisor.",
+      "source_title": "THE HOSTELLER MANALI, OLD MANALI - Recent Reviews, Photos ...The Hosteller Old Manali, Manu Temple - TripadvisorTHE HOSTELLER MANALI | UPDATED 2026 Inn Reviews ... - TripadvisorThe Hosteller Old Manali, Manu Temple - Tripadvisor",
+      "source_url": "https://www.tripadvisor.in/Hotel_Review-g297618-d26843915-Reviews-or10-The_Hosteller_Manali_Old_Manali-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_29",
+      "claim": "Yes, we do have an in-house cafe in The Hosteller, Old Manali What is the menu of the cafe? You shall receive the Glu link upon booking, which features our inhouse cafe menu options, which you can directly order through the app Can extra mattress be placed in private rooms? Yes, extra mattresses can be arranged in private rooms, subject to room size and availability, on an additional chargeable basis.",
+      "source_title": "https://www.thehosteller.com/hostels/the-hosteller-old-manali",
+      "source_url": "https://www.thehosteller.com/hostels/the-hosteller-old-manali",
+      "source_type": "official",
+      "platform": "Official website",
+      "origin": "page",
+      "confidence": 0.6
+    },
+    {
+      "evidence_id": "evidence_30",
+      "claim": "Backpacker hostel in Old Manali near Mall Road | Stay 3N, Pay 2N Hostel Bam hostel Destination Workation Colive Membership Event Home Hostel Event Workation Colive The Hosteller MANALI, OLD MANALI Tucked away in the heart of Himachal’s backpacking haven, The Hosteller Old Manali is where mountain charm meets buzzing traveller energy.",
+      "source_title": "https://www.thehosteller.com/hostels/the-hosteller-old-manali",
+      "source_url": "https://www.thehosteller.com/hostels/the-hosteller-old-manali",
+      "source_type": "official",
+      "platform": "Official website",
+      "origin": "page",
+      "confidence": 0.6
+    },
+    {
+      "evidence_id": "evidence_31",
+      "claim": "The Hosteller Old Manali, Manu Temple is a popular hostel set near the historic Manu Temple in Old Manali, offering mountain views and a social backpacker atmosphere.",
+      "source_title": "The Hosteller Old Manali Hotel - Instagram",
+      "source_url": "https://www.instagram.com/popular/the-hosteller-old-manali-hotel/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_32",
+      "claim": "What amenities are provided in dorm rooms? The dorm rooms at The Hosteller Old Manali come with the following amenities: Daily housekeeping Lockers for each bed Wi-Fi access Blanket and pillow Bunk bed with a charging point Linen provided Attached washroom Bedside lamp Shower gel Privacy curtain Seating area A geyser for hot water What amenities are provided in private rooms?",
+      "source_title": "https://www.thehosteller.com/hostels/the-hosteller-old-manali",
+      "source_url": "https://www.thehosteller.com/hostels/the-hosteller-old-manali",
+      "source_type": "official",
+      "platform": "Official website",
+      "origin": "page",
+      "confidence": 0.6
+    },
+    {
+      "evidence_id": "evidence_33",
+      "claim": "Just 11 minutes from Mall Road, it offers the perfect base to explore the town’s hidden trails, vibrant c.... Tucked away in the heart of Himachal’s backpacking haven, The Hosteller Old Manali is where mountain charm meets buzzing traveller energy. Just 11 minutes from Mall....",
+      "source_title": "https://www.thehosteller.com/hostels/the-hosteller-old-manali",
+      "source_url": "https://www.thehosteller.com/hostels/the-hosteller-old-manali",
+      "source_type": "official",
+      "platform": "Official website",
+      "origin": "page",
+      "confidence": 0.6
+    },
+    {
+      "evidence_id": "evidence_34",
+      "claim": "As a solo traveller, I had the opportunity to stay in a charming hostel in Manali about a month ago, nestled amidst the breathtaking Himalayan mountains. Upon arriving at The Hosteller Manali, I was immediately greeted by a cosy and welcoming atmosphere.",
+      "source_title": "Go-to Hostel in Manali : r/TravelBuddiesIndia - Reddit",
+      "source_url": "https://www.reddit.com/r/TravelBuddiesIndia/comments/153lxdt/goto_hostel_in_manali/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_35",
+      "claim": "Book The Hosteller Manali, Old Manali, Manali on Tripadvisor: See 26 traveler reviews, 74 candid photos, and great deals for The Hosteller Manali, Old Manali, ranked #15 of 300 specialty lodging in Manali and rated 5 of 5 at Tripadvisor.",
+      "source_title": "THE HOSTELLER MANALI, OLD MANALI - 2026 Reviews (India)",
+      "source_url": "https://www.tripadvisor.com/Hotel_Review-g297618-d26843915-Reviews-The_Hosteller_Manali_Old_Manali-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_36",
+      "claim": "Nov 22, 2023 · The Hosteller Manali, Old Manali, Manali: See 26 traveller reviews, 74 candid photos, and great deals for The Hosteller Manali, Old Manali, ranked #15 of 300 Speciality lodging in Manali and rated 5 of 5 at Tripadvisor.",
+      "source_title": "THE HOSTELLER MANALI, OLD MANALI - Recent Reviews, Photos ...The Hosteller Old Manali, Manu Temple - TripadvisorTHE HOSTELLER MANALI | UPDATED 2026 Inn Reviews ... - TripadvisorThe Hosteller Old Manali, Manu Temple - Tripadvisor",
+      "source_url": "https://www.tripadvisor.in/Hotel_Review-g297618-d26843915-Reviews-or10-The_Hosteller_Manali_Old_Manali-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_37",
+      "claim": "The Hosteller Manali, Old Manali, Manali: See 26 traveller reviews, 74 user photos and best deals for The Hosteller Manali, Old Manali, ranked #15 of 300 Manali specialty lodging, rated 5 of 5 at Tripadvisor.",
+      "source_title": "THE HOSTELLER MANALI, OLD MANALI - Hostel Reviews, Photos ...",
+      "source_url": "https://www.tripadvisor.in/Hotel_Review-g297618-d26843915-Reviews-The_Hosteller_Manali_Old_Manali-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_38",
+      "claim": "At The Hosteller Manali, Old Manali, we offer 8 room types tailored to meet the needs of every traveler. Check detailed room features, images, and the latest availability.",
+      "source_title": "The Hosteller Manali, Old Manali 𝗕𝗢𝗢𝗞 Manali Hostel",
+      "source_url": "https://www.makemytrip.com/hotels/the_hosteller_manali_old_manali-details-manali.html",
+      "source_type": "booking",
+      "platform": "MakeMyTrip",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_39",
+      "claim": "21 hours ago · The Hosteller Old Manali, Manu Temple enjoys a convenient location near Old Manali, a vibrant and popular area. It's also close to attractions such as the Manu Temple, Hidimba Devi Temple, and other tourist hotspots.",
+      "source_title": "The Hosteller Manali, Old Manali, Manāli (updated prices 2027)The Hosteller Old Manali, Manu Temple - Booking.comBackpacker hostel in Old Manali | Book Early, Save 20%Backpacker hostel in Old Manali near Mall Road - The HostellerThe Hosteller Manali, Old Manali Manali - Reviews, Photos ...",
+      "source_url": "https://www.booking.com/hotel/in/manu-palace-manali.html",
+      "source_type": "booking",
+      "platform": "Booking.com",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_40",
+      "claim": "Sep 21, 2024 · The Hosteller Old Manali, Manu Temple: Really bad - See 43 traveller reviews, 64 candid photos, and great deals for The Hosteller Old Manali, Manu Temple at Tripadvisor.",
+      "source_title": "Review: Really bad - The Hosteller Old Manali, Manu Temple ...",
+      "source_url": "https://www.tripadvisor.co.uk/ShowUserReviews-g297618-d27999037-r970959254-The_Hosteller_Old_Manali_Manu_Temple-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_41",
+      "claim": "Sep 21, 2024 · The Hosteller Old Manali, Manu Temple: Really bad - See 43 traveler reviews, 64 candid photos, and great deals for The Hosteller Old Manali, Manu Temple at Tripadvisor.",
+      "source_title": "Really bad - Review of The Hosteller Old Manali, Manu Temple ...",
+      "source_url": "https://www.tripadvisor.com/ShowUserReviews-g297618-d27999037-r970959254-The_Hosteller_Old_Manali_Manu_Temple-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_42",
+      "claim": "The Hosteller Manali Deals on Agoda. Read Million of Genuine Reviews of Your Dream Stay. The Hosteller Old Manali - Read Reviews from Verified Guests to Get the Real Story",
+      "source_title": "The Hosteller Old Manali - The Hosteller Manali",
+      "source_url": "https://www.bing.com/aclick?ld=e8a9vk2zLxa0qPgsZb_8AIiTVUCUzFbBQqi8o2HFpfPkUoHMHdP_C3QQptpctQl3U70Wu82qlzApIOSoFM_q0cUvmW19HfES5mVb-16ZwNkyEHR3AefoVmJijSBAUbGeKwoSt8GT56tkFPiyMZWIdalhBg5Ypb7fowiiAEecRbn22gKkHtBooBW8ccgzW5lYsDlJ9JxLHVoKiLdUaTsJUrzMOzbw4&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWdvZGEuY29tJTJmcGFydG5lcnMlMmZwYXJ0bmVyc2VhcmNoLmFzcHglM2ZkZXZpY2UlM2RjJTI2bmV0d29yayUzZG8lMjZ1cmwlM2RodHRwcyUyNTNBJTI1MkYlMjUyRnd3dy5hZ29kYS5jb20lMjUyRmVuLWluJTI1MkZwYWdlcyUyNTJGYWdvZGElMjUyRmRlZmF1bHQlMjUyRkRlc3RpbmF0aW9uU2VhcmNoUmVzdWx0LmFzcHglMjUzRnNlbGVjdGVkcHJvcGVydHklMjUzRDI2ODk1MjM1JTI1MjZjaXR5JTI1M0Q5MDI4JTI1MjZoaWQlMjUzRDI2ODk1MjM1JTI1MjZzaXRlX2lkJTI1M0QxOTU1Mzc5JTI1MjZ0YWclMjUzRDU1NjI1OTMwLWQ4YjYtNGQ1Yi04YjA5LTUwNDQ5NmJiNDgzZiUyNm1zY2xraWQlM2RhYWZjM2IyMWVkOGUxNDYzM2I3OTUwMjZiNGJhMTA2ZSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZElORCUyNTdDRU4lMjU3Q0VOJTI1N0NET01fMTE3JTI2dXRtX3Rlcm0lM2R0aGUlMjUyMGhvc3RlbGxlciUyNTIwb2xkJTI1MjBtYW5hbGklMjZ1dG1fY29udGVudCUzZElORCUyNTdDRU4lMjU3Q0VOJTI1N0NET00lMjU3Q0dlbmVyYWwlMjU3Q05BX01QQiUyNTdDSE4lMjUzQVRoZSUyNTIwSG9zdGVsbGVyJTI1MjBNYW5hbGlfMjY4OTUyMzUlMjU3Q05VTTAwMQ&rlid=aafc3b21ed8e14633b795026b4ba106e",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_43",
+      "claim": "The Hosteller Old Manali, Manu Temple: Really bad - See 42 traveller reviews, 64 candid photos, and great deals for The Hosteller Old Manali, Manu Temple at Tripadvisor.",
+      "source_title": "Really bad - Review of The Hosteller Old Manali, Manu Temple ...",
+      "source_url": "https://en.tripadvisor.com.hk/ShowUserReviews-g297618-d27999037-r970959254-The_Hosteller_Old_Manali_Manu_Temple-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_44",
+      "claim": "The Hosteller Manali Old Manali Manali - Read Reviews from Verified Guests to Get the Real Story. Book Now & Save Big at Agoda® Always The Lowest Price Guarantee.",
+      "source_title": "The Hosteller Manali Old Manali Manali - Book The Hosteller Manali",
+      "source_url": "https://www.bing.com/aclick?ld=e8mBw1CJ-sLxeSCWssHS47aDVUCUz-LaS4htW8EqATldojQcs0B5c5pfpi7hR6wYfQtuHeepXy93F9TuLDPdiTBTiiEdiDp4dZQWv7zLv8bCCFHbVfzHTgUdSARo_AsN0H7V9UOvzaeqVqzt5ZJTWizK7Lzio2BrefHv0g2ex0oXTcSzbNeG1wT0vCBnkYT7BRtOMYoEU39Lh4QnQIEItJ95yut38&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWdvZGEuY29tJTJmcGFydG5lcnMlMmZwYXJ0bmVyc2VhcmNoLmFzcHglM2ZkZXZpY2UlM2RjJTI2bmV0d29yayUzZG8lMjZ1cmwlM2RodHRwcyUyNTNBJTI1MkYlMjUyRnd3dy5hZ29kYS5jb20lMjUyRnBhZ2VzJTI1MkZhZ29kYSUyNTJGZGVmYXVsdCUyNTJGRGVzdGluYXRpb25TZWFyY2hSZXN1bHQuYXNweCUyNTNGc2VsZWN0ZWRwcm9wZXJ0eSUyNTNENTk4OTUwNzglMjUyNmNpdHklMjUzRDkwMjglMjUyNmhpZCUyNTNENTk4OTUwNzglMjUyNnNpdGVfaWQlMjUzRDE5NTUzNzklMjUyNnRhZyUyNTNENTJjN2MyMzktMThjMy00MWI2LWFmMzgtNjU4MjM2NTUyMjc1JTI2bXNjbGtpZCUzZDVhNzMxMThjODM4ZTFiNTRjN2EzN2E4YmRhODdjYmFmJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkSU5EJTI1N0NFTiUyNTdDRU4lMjU3Q0RPTV8xNjElMjZ1dG1fdGVybSUzZFRoZSUyNTIwSG9zdGVsbGVyJTI1MjBNYW5hbGklMjUyME9sZCUyNTIwTWFuYWxpJTI1MjBNYW5hbGklMjZ1dG1fY29udGVudCUzZElORCUyNTdDRU4lMjU3Q0VOJTI1N0NET00lMjU3Q0dlbmVyYWwlMjU3Q05BX01QQiUyNTdDSE4lMjUzQVRoZSUyNTIwSG9zdGVsbGVyJTI1MjBNYW5hbGklMmMlMjUyME9sZCUyNTIwTWFuYWxpXzU5ODk1MDc4JTI1N0NOVU0wMDE&rlid=5a73118c838e1b54c7a37a8bda87cbaf",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_45",
+      "claim": "The Hosteller Manali, Old Manali, is located near log hut area, Manali, Himachal Pradesh 175131. What is unique about the location of this hostel?",
+      "source_title": "https://www.thehosteller.com/hostels/the-hosteller-old-manali",
+      "source_url": "https://www.thehosteller.com/hostels/the-hosteller-old-manali",
+      "source_type": "official",
+      "platform": "Official website",
+      "origin": "page",
+      "confidence": 0.6
+    },
+    {
+      "evidence_id": "evidence_46",
+      "claim": "Set against the backdrop of the Himalayas, Old Manali exudes a distinct charm with its quaint cafés, artisan markets, and the soothing rush of the Beas river. Just a short walk from the historic Manu Temple, this neighborhood offers a perfect balance of adventure ....",
+      "source_title": "The Hosteller | India’s Largest Backpacker Hostel Chain",
+      "source_url": "https://next.thehosteller.com/hostels/the-hosteller-old-manali-manu-temple/",
+      "source_type": "official",
+      "platform": "Official website",
+      "origin": "snippet",
+      "confidence": 0.6
+    },
+    {
+      "evidence_id": "evidence_47",
+      "claim": "Searching for the best hostel in Old Manali with mountain views? Wake up to the Himalayas, enjoy rooftop chai mornings, unwind in cozy spaces after long walks, and end your day with travel stories.",
+      "source_title": "The Hosteller Old Manali Manu Temple Manali - Instagram",
+      "source_url": "https://www.instagram.com/popular/the-hosteller-old-manali-manu-temple-manali/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_48",
+      "claim": "With an impressive 4.4 out of 5 rating from 422 reviews, it’s a favourite among travellers. Here’s what guests have to say: *64% found their stay excellent, praising the comfort and hospitality.",
+      "source_title": "The Hosteller Manali, Old Manali, Manāli (updated prices 2027)The Hosteller Old Manali, Manu Temple - Booking.comBackpacker hostel in Old Manali | Book Early, Save 20%Backpacker hostel in Old Manali near Mall Road - The HostellerThe Hosteller Manali, Old Manali Manali - Reviews, Photos ...",
+      "source_url": "https://www.booking.com/hotel/in/manu-palace-manali.html",
+      "source_type": "booking",
+      "platform": "Booking.com",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_49",
+      "claim": "If you are looking for hostels in Manali that are perfect for tourists and travellers, you have reached the right place. It is The Hosteller Manali that is located ideally on the Club House Road in Manali and close to all major attractions like Mall Road, Manu Temple, Hadimba Temple etc.",
+      "source_title": "Manali Hostel for Tourists : r/TravelManali - Reddit",
+      "source_url": "https://www.reddit.com/r/TravelManali/comments/144viqu/manali_hostel_for_tourists/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_50",
+      "claim": "Where stories start and strangers become friends. 🌍 Welcome to The Hosteller Manali – your rustic, river-facing escape in Old Manali, perfect for budget travelers, solo wanderers, and soul-searchers.",
+      "source_title": "Hosteller Manali - Instagram",
+      "source_url": "https://www.instagram.com/popular/hosteller-manali/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_51",
+      "claim": "21 hours ago · What is the location of The Hosteller Manali? The Hosteller Manali is located on Club House Road, Old Manali, Manali, Himachal Pradesh 175131.",
+      "source_title": "The Hosteller Manali | Best backpacker hostel in Manali",
+      "source_url": "https://www.thehosteller.com/hostels/the-hosteller-manali/",
+      "source_type": "official",
+      "platform": "Official website",
+      "origin": "snippet",
+      "confidence": 0.6
+    },
+    {
+      "evidence_id": "evidence_52",
+      "claim": "We compare the best hotels with balconies, views, pools, restaurants & more. Online Reservations. 24/7 Support. Fast & Simple. Book today! Amenities: Great Location, Superior Rooms, Restaurant, WiFi, Amazing Views, Pool",
+      "source_title": "The Hosteller Manali – Luxury Stay in Old Manali",
+      "source_url": "https://www.bing.com/aclick?ld=e81p9sDUtri7Qqsal6zT3LdDVUCUzqLXpH1Lhs64TBgu9r4EzmR60e82xZYQw2AJLl6qPh_L_xjWb2v19aYn5HsSIV66u4O72dwygGsR4K8hO36YbvjHtf5LW9Jst3bpmgF3198sJRTs4UWThQShATxguMG29Inl8-yrtS4COnF212xsmL2521CKt6rcDQFzpcHckU7A&u=aHR0cHMlM2ElMmYlMmZ3d3cub25saW5lLXJlc2VydmF0aW9ucy5jb20lMmYlM2Zob3RlbGlkJTNkNzEyODA0OCUyNm1zY2xraWQlM2Q0ODk1ZTNjMDY3ZjcxYWMxZmU4Njg4YzczZjAwNWI0NQ&rlid=4895e3c067f71ac1fe8688c73f005b45",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_53",
+      "claim": "Watch short videos about the hosteller manali old manali from people around the world.",
+      "source_title": "The Hosteller Manali Old Manali - Instagram",
+      "source_url": "https://www.instagram.com/popular/the-hosteller-manali-old-manali/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_54",
+      "claim": "Whether you're an adventure enthusiast or simply love soaking in nature's beauty, Manali has something for everyone, and The Hosteller added that extra charm to my journey!",
+      "source_title": "I experienced the Magic of Manali! : r/backpacking - Reddit",
+      "source_url": "https://www.reddit.com/r/backpacking/comments/15a2xwg/i_experienced_the_magic_of_manali/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_55",
+      "claim": "Watch short videos about the hosteller manali from people around the world. Manalı, Hostellers, Manali And More...",
+      "source_title": "The Hosteller Manali - Instagram",
+      "source_url": "https://www.instagram.com/popular/the-hosteller-manali/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_56",
+      "claim": "Just a moment!We're finding great stays for your dates and destination. Just a moment! We're finding great stays for your dates and destination.",
+      "source_title": "The Hosteller Manali Old Manali - Book The Hosteller Manali",
+      "source_url": "https://www.bing.com/aclick?ld=e8Rrwaq1aLS0iQ-vMsyos9vzVUCUzZdhv4c3vnSm7gqloG02D1Fs9zWmFj74LxKnedmOaHr1d_kydj66DQa0txyxiKzGR79YoJMIai7u2pNvopqMt1kvV_o7OEEIkYO92-dLG-IETgVqnqOjDNhk87NS7-fl2nP6PIS8Br_MSiIYfpTjiRZiQpTGVV7Y6tcSlwDcT1fg&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWdvZGEuY29tJTJmcGFydG5lcnMlMmZwYXJ0bmVyc2VhcmNoLmFzcHglM2ZkZXZpY2UlM2RjJTI2bmV0d29yayUzZG8lMjZ1cmwlM2RodHRwcyUyNTNBJTI1MkYlMjUyRnd3dy5hZ29kYS5jb20lMjUyRmVuLWluJTI1MkZwYWdlcyUyNTJGYWdvZGElMjUyRmRlZmF1bHQlMjUyRkRlc3RpbmF0aW9uU2VhcmNoUmVzdWx0LmFzcHglMjUzRnNlbGVjdGVkcHJvcGVydHklMjUzRDI2ODk1MjM1JTI1MjZjaXR5JTI1M0Q5MDI4JTI1MjZoaWQlMjUzRDI2ODk1MjM1JTI1MjZzaXRlX2lkJTI1M0QxOTU1Mzc5JTI1MjZ0YWclMjUzRDI5NTNmY2UzLTZjM2YtNDc2Mi05NTVkLTAzZDhhNjI5MjVjMSUyNm1zY2xraWQlM2Q2ZjlkNTgzOGRkNjIxZWNkY2JiYTMzM2Y4NTk1ZTM4MiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZElORCUyNTdDRU4lMjU3Q0VOJTI1N0NET01fMTE3JTI2dXRtX3Rlcm0lM2R0aGUlMjUyMGhvc3RlbGxlciUyNTIwbWFuYWxpJTI1MjBvbGQlMjUyMG1hbmFsaSUyNnV0bV9jb250ZW50JTNkSU5EJTI1N0NFTiUyNTdDRU4lMjU3Q0RPTSUyNTdDR2VuZXJhbCUyNTdDTkFfTVBCJTI1N0NITiUyNTNBVGhlJTI1MjBIb3N0ZWxsZXIlMjUyME1hbmFsaV8yNjg5NTIzNSUyNTdDTlVNMDAx&rlid=6f9d5838dd621ecdcbba333f8595e382",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    }
+  ],
+  "findings": [
+    {
+      "finding_id": "finding_1",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some guests find the online check-in process repetitive.",
+      "evidence_ids": [
+        "evidence_4"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding states that some guests find the online check-in process repetitive, but the evidence only mentions this as a minor issue in one review, and does not provide sufficient evidence to support this finding."
+    },
+    {
+      "finding_id": "finding_2",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the friendly staff, cleanliness, and great facilities, including a cafe with good food.",
+      "evidence_ids": [
+        "evidence_1",
+        "evidence_5"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states that guests praise the friendly staff, cleanliness, and great facilities, including a cafe with good food. The evidence from evidence_1 and evidence_5 directly supports this finding."
+    },
+    {
+      "finding_id": "finding_3",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "The Hosteller Manali, Old Manali offers a beautiful location, perfect for exploring Manali and Old Manali.",
+      "evidence_ids": [
+        "evidence_5",
+        "evidence_3"
+      ],
+      "confidence": 0.8,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding states that the Hosteller Manali, Old Manali offers a beautiful location, perfect for exploring Manali and Old Manali. However, this finding does not directly answer any of the research questions and is more of a general statement about the hostel."
+    },
+    {
+      "finding_id": "finding_4",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Booking only takes 2 minutes.",
+      "evidence_ids": [
+        "evidence_2"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states that booking only takes 2 minutes. The evidence from evidence_2 directly supports this finding."
+    },
+    {
+      "finding_id": "finding_5",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests appreciate the clean, modern rooms and inviting social spaces.",
+      "evidence_ids": [
+        "evidence_3",
+        "evidence_7"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding states that guests appreciate the clean, modern rooms and inviting social spaces. However, the evidence from evidence_3 only mentions that some guests note the food prices can be high, and does not provide sufficient evidence to support this finding."
+    },
+    {
+      "finding_id": "finding_6",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some guests find the food prices can be high.",
+      "evidence_ids": [
+        "evidence_3",
+        "evidence_4"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding states that some guests find the food prices can be high. The evidence from evidence_3 only mentions that some guests note the food prices can be high, and does not provide sufficient evidence to support this finding."
+    },
+    {
+      "finding_id": "finding_7",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The Hosteller Old Manali, Manu Temple offers a welcoming atmosphere with exceptionally clean facilities and helpful staff.",
+      "evidence_ids": [
+        "evidence_4"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The Hosteller Old Manali, Manu Temple offers a welcoming atmosphere with exceptionally clean facilities and helpful staff."
+    },
+    {
+      "finding_id": "finding_8",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some guests note that the food prices can be high.",
+      "evidence_ids": [
+        "evidence_14"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. Guests note that the food prices can be high, but the evidence does not provide a clear reason why this is the case."
+    },
+    {
+      "finding_id": "finding_9",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose this place over others because of its unique location in the heart of Old Manali's laid-back backpacker culture.",
+      "evidence_ids": [
+        "evidence_11"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Guests choose this place over others because of its unique location in the heart of Old Manali's laid-back backpacker culture."
+    },
+    {
+      "finding_id": "finding_10",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The Hosteller Manali, Old Manali offers a paid shuttle service, lounge, lift, 24-hour front desk, concierge, daily housekeeping, games room, bike and car hire, and a tour desk to attract customers and encourage them to return.",
+      "evidence_ids": [
+        "evidence_12",
+        "evidence_13"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The Hosteller Manali, Old Manali offers a paid shuttle service, lounge, lift, 24-hour front desk, concierge, daily housekeeping, games room, bike and car hire, and a tour desk to attract customers and encourage them to return."
+    },
+    {
+      "finding_id": "finding_11",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking process is convenient, with live prices and availability for exact dates.",
+      "evidence_ids": [
+        "evidence_17"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_12",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "The Hosteller Manali, Old Manali is a female-only dorm with a specific check-in policy.",
+      "evidence_ids": [
+        "evidence_20"
+      ],
+      "confidence": 0.8,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding does not meaningfully answer the research question. The Hosteller Manali, Old Manali is a female-only dorm with a specific check-in policy, but this does not directly relate to the research question."
+    },
+    {
+      "finding_id": "finding_13",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some guests have reported that the boiled eggs at the cafe were legendary, but this may not be to everyone's taste.",
+      "evidence_ids": [
+        "evidence_27"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_14",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests have praised the stunning view outside the quadruple room.",
+      "evidence_ids": [
+        "evidence_25"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Guest praised the stunning view outside the quadruple room."
+    },
+    {
+      "finding_id": "finding_15",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests have mentioned that the location is a major draw, being a short walk from the historic Manu Temple.",
+      "evidence_ids": [
+        "evidence_22",
+        "evidence_26"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Guests mentioned that the location is a major draw, being a short walk from the historic Manu Temple."
+    },
+    {
+      "finding_id": "finding_16",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The Hosteller offers a loyalty program, which is mentioned on their official website.",
+      "evidence_ids": [
+        "evidence_29"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_17",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking platform offers a Glu link with the in-house cafe menu options, which can be directly ordered through the app.",
+      "evidence_ids": [
+        "evidence_29"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The booking platform offers a Glu link with the in-house cafe menu options, which can be directly ordered through the app."
+    },
+    {
+      "finding_id": "finding_18",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "The Hosteller has 71 rooms, some of which come with coffee/tea making facilities.",
+      "evidence_ids": [
+        "evidence_21"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The Hosteller has 71 rooms, some of which come with coffee/tea making facilities."
+    },
+    {
+      "finding_id": "finding_19",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some guests have reported issues with the geyser not working properly.",
+      "evidence_ids": [
+        "evidence_40"
+      ],
+      "confidence": 0.8,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding mentions a complaint about the geyser, but it does not directly answer the research question about customer complaints, problems, and negative experiences."
+    },
+    {
+      "finding_id": "finding_20",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the hostel's convenient location near Old Manali and the Manu Temple.",
+      "evidence_ids": [
+        "evidence_39"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Guests praise the hostel's convenient location near Old Manali and the Manu Temple, supported by evidence_39."
+    },
+    {
+      "finding_id": "finding_21",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose this place over others due to its convenient location and social atmosphere.",
+      "evidence_ids": [
+        "evidence_33"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_22",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The hostel offers loyalty programs and discounts to repeat guests.",
+      "evidence_ids": [
+        "evidence_38"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The hostel offers loyalty programs and discounts to repeat guests, supported by evidence_38."
+    },
+    {
+      "finding_id": "finding_23",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking process is straightforward, but some guests have reported issues with payment.",
+      "evidence_ids": [
+        "evidence_39"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding mentions issues with payment, but the evidence only mentions the booking process being straightforward, supported by evidence_39."
+    },
+    {
+      "finding_id": "finding_24",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "The Hosteller Old Manali has 8 room types tailored to meet the needs of every traveler.",
+      "evidence_ids": [
+        "evidence_38"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding mentions the variety of room types, but the evidence only mentions the availability of 8 room types, supported by evidence_38."
+    },
+    {
+      "finding_id": "finding_25",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Guests have reported negative experiences with the hostel's cleanliness.",
+      "evidence_ids": [
+        "evidence_41",
+        "evidence_43"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding states that guests have reported negative experiences with the hostel's cleanliness, but the evidence only mentions that the hostel has a rating of 4.4 out of 5 and that 64% of guests found their stay excellent, praising the comfort and hospitality. While this suggests that guests generally have a positive experience, it does not directly support the finding about negative experiences with cleanliness."
+    },
+    {
+      "finding_id": "finding_26",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose this place over others due to its location near the Manu Temple.",
+      "evidence_ids": [
+        "evidence_45",
+        "evidence_49"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states that guests choose this place over others due to its location near the Manu Temple, which is supported by evidence_45 and evidence_49. These sources directly mention the location of the hostel and its proximity to the Manu Temple as a unique selling point."
+    },
+    {
+      "finding_id": "finding_27",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The hostel offers a loyalty program to encourage repeat guests.",
+      "evidence_ids": [
+        "evidence_48"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_28",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking process is straightforward and easy to use.",
+      "evidence_ids": [
+        "evidence_44"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_29",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the hostel's comfortable rooms and friendly staff.",
+      "evidence_ids": [
+        "evidence_48"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states that guests praise the hostel's comfortable rooms and friendly staff, which is supported by evidence_48. This source directly mentions the comfort and hospitality of the hostel, which is a key aspect of the finding."
+    },
+    {
+      "finding_id": "finding_30",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests have mentioned that the hostel could improve its Wi-Fi connectivity.",
+      "evidence_ids": [
+        "evidence_48"
+      ],
+      "confidence": 0.7,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding states that guests have mentioned that the hostel could improve its Wi-Fi connectivity, but this is not directly related to the research question. While it may be a minor issue, it does not meaningfully answer the research question about what makes customers choose this place over others, facilities and experiences customers appreciate most, or how it attracts customers and encourages them to return."
+    },
+    {
+      "finding_id": "finding_31",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "The Hosteller Manali's booking process can be confusing, with a URL that requires a 3rd party website to access.",
+      "evidence_ids": [
+        "evidence_56"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_32",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The Hosteller Manali offers \"Great Location\" as an amenity.",
+      "evidence_ids": [
+        "evidence_52"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence_52 mentions 'Great Location' as an amenity."
+    },
+    {
+      "finding_id": "finding_33",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose The Hosteller Manali over others because of its \"Great Location\".",
+      "evidence_ids": [
+        "evidence_52"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence_52 mentions 'Great Location' as a reason guests choose the place."
+    },
+    {
+      "finding_id": "finding_34",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The Hosteller Manali attracts customers with \"short videos about the hosteller manali from people around the world\".",
+      "evidence_ids": [
+        "evidence_53",
+        "evidence_55"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence_53 and evidence_55 mention short videos about the hosteller manali as a way it attracts customers."
+    },
+    {
+      "finding_id": "finding_35",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The Hosteller Manali's booking process requires a 3rd party website to access.",
+      "evidence_ids": [
+        "evidence_56"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence_56 does not mention a 3rd party website, only a generic message."
+    },
+    {
+      "finding_id": "finding_36",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "The Hosteller Manali is located on Club House Road, Old Manali, Manali, Himachal Pradesh 175131.",
+      "evidence_ids": [
+        "evidence_51"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence_51 mentions the location of The Hosteller Manali."
+    }
+  ],
+  "insights": [
+    "The Hosteller Manali's unique location in Old Manali's laid-back backpacker culture and its proximity to the historic Manu Temple are major draws for customers, making it a preferred choice over others.",
+    "Guests praise the hostel's facilities, including its cafe, comfortable rooms, and friendly staff, as well as its convenient location, which is a key factor in their decision to return.",
+    "The hostel's loyalty programs and discounts, as well as its short videos showcasing its amenities, help attract customers and encourage them to return.",
+    "The booking process is convenient, with a 2-minute booking time and a Glu link to the in-house cafe menu options, but the evidence for retention strategies is somewhat weak, with a confidence level of 0.7 for the use of short videos."
+  ],
+  "coverage": [
+    {
+      "channel": "Google Maps / Google reviews",
+      "source_type": "maps",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Not readable automatically (login / JavaScript). Paste real reviews or captions with the `note` command."
+    },
+    {
+      "channel": "Instagram / Facebook",
+      "source_type": "social",
+      "passages": 5,
+      "sources": 5,
+      "status": "snippet",
+      "note": "Search-engine snippets only (no full page text)"
+    },
+    {
+      "channel": "Official website",
+      "source_type": "official",
+      "passages": 8,
+      "sources": 3,
+      "status": "full",
+      "note": "Full text read"
+    },
+    {
+      "channel": "Booking platforms (Booking.com, Hostelworld, Zostel, MakeMyTrip, Airbnb ...)",
+      "source_type": "booking",
+      "passages": 17,
+      "sources": 8,
+      "status": "full",
+      "note": "Full text read"
+    },
+    {
+      "channel": "Review sites (Tripadvisor, Zomato ...)",
+      "source_type": "review",
+      "passages": 9,
+      "sources": 8,
+      "status": "snippet",
+      "note": "Search-engine snippets only (no full page text)"
+    },
+    {
+      "channel": "Forums (Reddit, Quora)",
+      "source_type": "forum",
+      "passages": 3,
+      "sources": 3,
+      "status": "snippet",
+      "note": "Search-engine snippets only (no full page text)"
+    },
+    {
+      "channel": "Blogs & articles",
+      "source_type": "web",
+      "passages": 13,
+      "sources": 7,
+      "status": "full",
+      "note": "Full text read"
+    },
+    {
+      "channel": "Notes you added by hand",
+      "source_type": "manual",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    }
+  ],
+  "report_path": "/Users/vanshikamahajan/Documents/personal-research-agent/research/reports/the-hosteller-manali-old-manali-20261126-032346.md",
+  "spec": {
+    "name": "The Hosteller Manali, Old Manali",
+    "place": "Manali",
+    "type": "hostel",
+    "website": "https://www.thehosteller.com/hostels/the-hosteller-old-manali",
+    "instagram": "",
+    "notes": ""
+  }
+}

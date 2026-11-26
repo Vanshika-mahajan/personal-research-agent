@@ -1,0 +1,971 @@
+{
+  "key": "area-competitor-intelligence",
+  "kind": "topic",
+  "run_id": "area-competitor-intelligence-20261126-044646",
+  "created_at": "2026-11-26T04:51:02",
+  "manual_note_count": 0,
+  "question": {
+    "question": "How can a small property in Manali see what nearby hotels and hostels charge, and what offers do competitors run?",
+    "depth": "standard",
+    "max_iterations": 2,
+    "mode": "topic",
+    "subject": "Competitor intelligence - Manali",
+    "place": "",
+    "aspects": [
+      "What data or signals exist and how an owner can get them",
+      "A trend, event, price or fact relevant to the owner's decision",
+      "What is hard to find or missing"
+    ],
+    "official_domains": [],
+    "seed_urls": [],
+    "seed_queries": [
+      "Manali hostel price per night weekend vs weekday",
+      "Manali hotel rates compare nearby properties",
+      "Manali hostel offers discounts packages",
+      "how hotels track competitor rates small property rate shopper"
+    ]
+  },
+  "iterations": 1,
+  "quality_score": 1.0,
+  "missing_information": [],
+  "evidence": [
+    {
+      "evidence_id": "evidence_1",
+      "claim": "Like-for-Like Accuracy Compare the Right Rooms, Not Just the Right Hotels Match room type to room type Map your Deluxe to a competitor's Deluxe instead of comparing against their best available rate, so every comparison is accurate Compare prices based on length of stay Filter by length of stay to see rates for any particular length of stay, and spot your competitors’ patterns Graph or table, your choice Read the market as a side-by-side table or a visual graph that plots your recommended price against competitors and highlights peak demand periods Beyond Benchmarking Do More With Your Competitor Data Run pricing scenarios Model commissions, discounts, or gross pricing by applying a global m",
+      "source_title": "Hotel Rate Shopper - Daily Competitor Data in PriceLabs",
+      "source_url": "https://hotels.pricelabs.co/hotel-rate-shopper/",
+      "source_type": "web",
+      "platform": "hotels.pricelabs.co",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_2",
+      "claim": "Unlock up to 30% off with Member Rates and Private Deals. Filter searches by price, freebies and more to find your best hotels. Find your Manali hotel Showing prices for 28-29 Nov . Change dates to see more. ress, device identifiers etc., in order to improve your experience on the site, to analyse navigation, to offer and measure personalised advertising, and to facilitate sharing on social networks.",
+      "source_title": "Hotels in Manali - Compare hotels for free",
+      "source_url": "https://www.bing.com/aclick?ld=e8_KQ953EXl2YvG_dV85cVezVUCUzN40-dZQci8V641vR3S511A1HZ9g5IvVZfgf2lkjpbu5xFu7gVR4wuHrKUJpazelYAGKjlkLXKe_MRpMceSVUa2Pt4Pg7xhD90jcZjpGbfIK42nnNvC-cBJ0dUoygMAZTiR-9b8LnRNqRt24AC0BZLn2yEIiupYdjrLQW8QWm0Kg&u=aHR0cHMlM2ElMmYlMmZ3d3cua2F5YWsuY28uaW4lMmZzZW1pJTJmYmluZ2Fkc3NlYXJjaCUyZmhvdGVsX2Rlc3RpbmF0aW9uJTJmNDU3MTglMmZlbi5odG1sJTNmbXQlM2RlJTI2Ym10JTNkYmUlMjZvaWlkJTNkNzg0NzgwMTA0NjU3NjUlMjZhaWQlM2QxMjU1NjQyODY4NzI5NzU2JTI2YWRpZCUzZDc4NDc3ODU5NDczOTI3JTI2cGlkJTNkJTI2dGlkJTNka3dkLTc4NDc4MDEwNDY1NzY1JTNhbG9jLTkwJTI2ZCUzZGMlMjZuJTNkbyUyNmNtcGlkJTNkMzk2NjM4ODA5JTI2ay5hJTNkYmluZ2Fkc3NlYXJjaCUyNm1zY2xraWQlM2QxM2U3N2Y2YmZiMjExODFmOWY0YzE0NmM5N2E1NmQ1YSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZERlc3RpbmF0aW9uJTI1MjAtJTI1MjBJTiUyNTIwLSUyNTIwTWFuYWxpJTI1MjAtJTI1MjBDaXR5JTI1MjM0NTcxOCUyNnV0bV90ZXJtJTNkbWFuYWxpJTI1MjBob3RlbHMlMjUyMGNoZWFwJTI2dXRtX2NvbnRlbnQlM2RUJTI1M0RjaGVhcCUyNTIwLSUyNTIwUCUyNTNEaG90ZWxzJTI1MjAtJTI1MjBPJTI1M0ROb25lJTI1MjAtJTI1MjBEJTI1M0RDaXR5JTI1MjM0NTcxOF9NYW5hbGklMjUyMC0lMjUyMFMlMjUzRG5vbmU&rlid=13e77f6bfb21181f9f4c146c97a56d5a",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_3",
+      "claim": "Mar 20, 2026 · Find the best Manali budget accommodation, from hostels to mid-range stays. Get real prices, locations, and tips for affordable travel in 2026. Sep 24, 2026 · Manali has 9 affordable hostels for short or extended stays. Compare rates with our lowest price guarantee: book today and save.",
+      "source_title": "𝐁𝐮𝐝𝐠𝐞𝐭 𝐇𝐨𝐭𝐞𝐥𝐬 in Manali start @ Rs. 288 - Budget Hote...75 Manali Luxury Packages - Book Manali Packages at ₹6275The Madpackers Manali Hostel Promo Code - Discounts and CouponFlat 25% Off at Moustache Hostel | Manali NYE 2026Manali Budget Accommodation: Best Hostels, Stays & DealsHostel Deals in Manali, India - m.check-rates.com",
+      "source_url": "https://www.makemytrip.com/hotels/budget-hotels-in-manali.html",
+      "source_type": "booking",
+      "platform": "MakeMyTrip",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_4",
+      "claim": "ity OYO 8895 Hotel Pine Grove Manali, HP, India 7.8 ₹ 650+ View availability Cs Shhandella Hotel Manali, HP, India 6.0 ₹ 742+ View availability Hotel Hadimba Palace Manali, HP, India 7.6 ₹ 742+ View availability Forest View Retreat Manali, HP, India 8.4 ₹ 742+ View availability Company About Careers Mobile Blog How we work Contact Help/FAQ Press Affiliates Hotel owners Partners Advertise with us More Airline fees Airlines Low fare tips Security Get the KAYAK app ©2026 KAYAK Privacy Terms & Conditions We value your privacy KAYAK and its partners wish to use cookies or similar technologies to store and/or access information on and about your device and process personal data such as your IP add",
+      "source_title": "Hotels in Manali - Compare hotels for free",
+      "source_url": "https://www.bing.com/aclick?ld=e8_KQ953EXl2YvG_dV85cVezVUCUzN40-dZQci8V641vR3S511A1HZ9g5IvVZfgf2lkjpbu5xFu7gVR4wuHrKUJpazelYAGKjlkLXKe_MRpMceSVUa2Pt4Pg7xhD90jcZjpGbfIK42nnNvC-cBJ0dUoygMAZTiR-9b8LnRNqRt24AC0BZLn2yEIiupYdjrLQW8QWm0Kg&u=aHR0cHMlM2ElMmYlMmZ3d3cua2F5YWsuY28uaW4lMmZzZW1pJTJmYmluZ2Fkc3NlYXJjaCUyZmhvdGVsX2Rlc3RpbmF0aW9uJTJmNDU3MTglMmZlbi5odG1sJTNmbXQlM2RlJTI2Ym10JTNkYmUlMjZvaWlkJTNkNzg0NzgwMTA0NjU3NjUlMjZhaWQlM2QxMjU1NjQyODY4NzI5NzU2JTI2YWRpZCUzZDc4NDc3ODU5NDczOTI3JTI2cGlkJTNkJTI2dGlkJTNka3dkLTc4NDc4MDEwNDY1NzY1JTNhbG9jLTkwJTI2ZCUzZGMlMjZuJTNkbyUyNmNtcGlkJTNkMzk2NjM4ODA5JTI2ay5hJTNkYmluZ2Fkc3NlYXJjaCUyNm1zY2xraWQlM2QxM2U3N2Y2YmZiMjExODFmOWY0YzE0NmM5N2E1NmQ1YSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZERlc3RpbmF0aW9uJTI1MjAtJTI1MjBJTiUyNTIwLSUyNTIwTWFuYWxpJTI1MjAtJTI1MjBDaXR5JTI1MjM0NTcxOCUyNnV0bV90ZXJtJTNkbWFuYWxpJTI1MjBob3RlbHMlMjUyMGNoZWFwJTI2dXRtX2NvbnRlbnQlM2RUJTI1M0RjaGVhcCUyNTIwLSUyNTIwUCUyNTNEaG90ZWxzJTI1MjAtJTI1MjBPJTI1M0ROb25lJTI1MjAtJTI1MjBEJTI1M0RDaXR5JTI1MjM0NTcxOF9NYW5hbGklMjUyMC0lMjUyMFMlMjUzRG5vbmU&rlid=13e77f6bfb21181f9f4c146c97a56d5a",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_5",
+      "claim": "Start Your 30-day Free Trial Resources to Get You Started Learn how to build the most relevant comp sets and stay ahead of local trends. Market & Competition Hotel Competitive Set: How to Build a CompSet That Wins More Bookings Read more Market & Competition Dynamic Pricing Benchmarks for Hotels in 2026: Stay Competitive Read more Market & Competition How Do Local /Global Events Impact Hospitality & Hotel Bookings?",
+      "source_title": "Hotel Rate Shopper - Daily Competitor Data in PriceLabs",
+      "source_url": "https://hotels.pricelabs.co/hotel-rate-shopper/",
+      "source_type": "web",
+      "platform": "hotels.pricelabs.co",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_6",
+      "claim": "You see both current and upcoming rates, so you can plan ahead instead of only reacting to today. How do I choose which competitors to track? PriceLabs starts you with a smart, location-based comp set. From there, refine it with advanced filters (distance, star rating, reviews, type, price), pick competitors on a map, or copy a set across similar rooms. You can track up to 350 properties.",
+      "source_title": "Hotel Rate Shopper - Daily Competitor Data in PriceLabs",
+      "source_url": "https://hotels.pricelabs.co/hotel-rate-shopper/",
+      "source_type": "web",
+      "platform": "hotels.pricelabs.co",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_7",
+      "claim": "1 day ago · Get Amazing deals on Budget Hotels in Manali. Use coupon code & Get Upto 70% OFF instantly on Manali Hotels.Cheap hotels in Manali with tariff, amenities & all details. From budget stays to luxury holidays, find Manali Luxury packages that can be customised to suit your trip, with available deals and discounts.",
+      "source_title": "𝐁𝐮𝐝𝐠𝐞𝐭 𝐇𝐨𝐭𝐞𝐥𝐬 in Manali start @ Rs. 288 - Budget Hote...75 Manali Luxury Packages - Book Manali Packages at ₹6275The Madpackers Manali Hostel Promo Code - Discounts and CouponFlat 25% Off at Moustache Hostel | Manali NYE 2026Manali Budget Accommodation: Best Hostels, Stays & DealsHostel Deals in Manali, India - m.check-rates.com",
+      "source_url": "https://www.makemytrip.com/hotels/budget-hotels-in-manali.html",
+      "source_type": "booking",
+      "platform": "MakeMyTrip",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_8",
+      "claim": "Explore guest reviews and book the perfect hostel for your trip. Manali Hostels at incredible prices. Search, compare and book a Manali hostel online with Agoda. See photos, read candid reviews and find fun, adventurous hostels in Manali.",
+      "source_title": "Hostels in Manali 𝐁𝐨𝐨𝐤 𝐰𝐢𝐭𝐡 𝐅𝐑𝐄𝐄 𝐂𝐚𝐧𝐜𝐞𝐥𝐥𝐚𝐭𝐢...The Hostel Manali, Manali - 2026 Prices & ReviewsThe 10 best hostels in Manāli, India | Booking.comBest Hostels in Manali | Fun, Cheap & Comfortable ... - Agoda",
+      "source_url": "https://www.makemytrip.com/hotels/p-hostels-in-manali.html",
+      "source_type": "booking",
+      "platform": "MakeMyTrip",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_9",
+      "claim": "You'll find the range of prices for private rooms in hostels, guesthouses, and other budget hotels in Manali (per night) displayed below. This chart shows the overall range of hostel private room prices before taxes and fees.",
+      "source_title": "Manali Average Hostel Prices | Budget Your Trip",
+      "source_url": "https://www.budgetyourtrip.com/hostels/india/manali-1263967",
+      "source_type": "web",
+      "platform": "budgetyourtrip.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_10",
+      "claim": "Read about 18 Backpacker Hostels In Manali on Holidify. Get the latest deals & offers on the best stay options for your trip. Check availability, photos & prices and decide the best stay for your trip.",
+      "source_title": "18 Backpacker Hostels In Manali (2024) | Updated Deals ...",
+      "source_url": "https://www.holidify.com/hotel-collections/backpacker-hostels-in-manali",
+      "source_type": "web",
+      "platform": "holidify.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_11",
+      "claim": "Book Manali Hotels - Search, Compare and Save with trivago™! Find here Hotel Offers. Compare and Enjoy Saving with us!",
+      "source_title": "Manali Hotels - trivago™ Price Comparison",
+      "source_url": "https://www.bing.com/aclick?ld=e895jqBdPKWMnf3o49lbzxCDVUCUwvOYVykHQ2Lp9q5Y0Q2rY6vQidfOiKHNHRfnWRQJT4aSKvOzvJ9RXTEnZWmp_CblBwNel5se1-5j3h7azzxR3ktjc-V1bg33encD2rX11d2TLoJKCTkN-fDuPH5LX9oTpsAcmg3Ip7oLL084naoCX-1gVNRSKpFj1qNn10uo-lCA&u=aHR0cHMlM2ElMmYlMmZ3d3cudHJpdmFnby5pbiUyZmVuLUlOJTJmbG0lM2Z0aGVtZUlkJTNkMTIlMjZzZWFyY2glM2QyMDAtMTM2ODAxJTI2c2VtX2tleXdvcmQlM2Rob3RlbCUyNTIwYm9va2luZyUyNTIwaW4lMjUyMG1hbmFsaSUyNnNlbV9jcmVhdGl2ZWlkJTNkNzgyMDI5Nzk4NjA1NzclMjZzZW1fbWF0Y2h0eXBlJTNkYnAlMjZzZW1fbmV0d29yayUzZG8lMjZzZW1fZGV2aWNlJTNkYyUyNnNlbV9jYW1wYWlnbmlkJTNkMTgwODMxNjE4JTI2c2VtX2FkZ3JvdXBpZCUzZDMxMzU3MzE4OTYlMjZzZW1fdGFyZ2V0aWQlM2Rrd2QtNzYwMDQxMjMzMzg2NjUlM2Fsb2MtOTAlMjZjaXBjJTNkc2VtJTI2Y2lwJTNkOTEyOTAwMTM2MyUyNm1zY2xraWQlM2RjNjU2MDgyNjFjMDYxZDU1NDQ0YzYzMjE3MDgyZGJmNw&rlid=c65608261c061d55444c63217082dbf7",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_12",
+      "claim": "Change dates Recommended for you: trending hotels in Manali The Orchard Greens Resort - A Centrally Heated Property Manali, HP, India 8.5 ₹ 3,341+ View availability The Hosteller Kasol Kasol, HP, India 8.8 ₹ 2,320+ View availability Hotel Marina Heights Manali, HP, India 9.6 ₹ 835+ View availability Orchards House - The Hidden Tribe Manali, HP, India 9.2 ₹ 1,578+ View availability Hotel Devlok Himachal Swarg By Beas - Your Gateway to Heaven Manali, HP, India 9.5 ₹ 11,601+ View availability Tripli Hotels Stone House Cottage Manali, HP, India 8.8 ₹ 1,206+ View availability The Nush Stays Manali, HP, India ₹ 742+ View availability Moustache Manali Manali, HP, India 7.8 ₹ 3,434+ View availabilit",
+      "source_title": "Hotels in Manali - Compare hotels for free",
+      "source_url": "https://www.bing.com/aclick?ld=e8_KQ953EXl2YvG_dV85cVezVUCUzN40-dZQci8V641vR3S511A1HZ9g5IvVZfgf2lkjpbu5xFu7gVR4wuHrKUJpazelYAGKjlkLXKe_MRpMceSVUa2Pt4Pg7xhD90jcZjpGbfIK42nnNvC-cBJ0dUoygMAZTiR-9b8LnRNqRt24AC0BZLn2yEIiupYdjrLQW8QWm0Kg&u=aHR0cHMlM2ElMmYlMmZ3d3cua2F5YWsuY28uaW4lMmZzZW1pJTJmYmluZ2Fkc3NlYXJjaCUyZmhvdGVsX2Rlc3RpbmF0aW9uJTJmNDU3MTglMmZlbi5odG1sJTNmbXQlM2RlJTI2Ym10JTNkYmUlMjZvaWlkJTNkNzg0NzgwMTA0NjU3NjUlMjZhaWQlM2QxMjU1NjQyODY4NzI5NzU2JTI2YWRpZCUzZDc4NDc3ODU5NDczOTI3JTI2cGlkJTNkJTI2dGlkJTNka3dkLTc4NDc4MDEwNDY1NzY1JTNhbG9jLTkwJTI2ZCUzZGMlMjZuJTNkbyUyNmNtcGlkJTNkMzk2NjM4ODA5JTI2ay5hJTNkYmluZ2Fkc3NlYXJjaCUyNm1zY2xraWQlM2QxM2U3N2Y2YmZiMjExODFmOWY0YzE0NmM5N2E1NmQ1YSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZERlc3RpbmF0aW9uJTI1MjAtJTI1MjBJTiUyNTIwLSUyNTIwTWFuYWxpJTI1MjAtJTI1MjBDaXR5JTI1MjM0NTcxOCUyNnV0bV90ZXJtJTNkbWFuYWxpJTI1MjBob3RlbHMlMjUyMGNoZWFwJTI2dXRtX2NvbnRlbnQlM2RUJTI1M0RjaGVhcCUyNTIwLSUyNTIwUCUyNTNEaG90ZWxzJTI1MjAtJTI1MjBPJTI1M0ROb25lJTI1MjAtJTI1MjBEJTI1M0RDaXR5JTI1MjM0NTcxOF9NYW5hbGklMjUyMC0lMjUyMFMlMjUzRG5vbmU&rlid=13e77f6bfb21181f9f4c146c97a56d5a",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_13",
+      "claim": "Property Nightly Rate^ (INR) Manuallaya The Resort & Spa 8.8 9 Sunny Side, Chadiyari See Availability > Manuallaya The Resort & Spa 8.8 9 Sunny Side, Chadiyari See Availability > The Allure Grand - Riverside Resort & Spa 9.2 54 NH-3 , Manali Solang Highway Bahang , Manali Larisa Resort Manali 9.2 63 P.O Haripur Manali Naggar Road Span Resort & Spa, Manali - Biggest 5 Star Resort in Manali on Riverside 8.2 18 National Highway 3 P.O.",
+      "source_title": "Manali Hotels – Compare Nearby Rates",
+      "source_url": "https://www.bing.com/aclick?ld=e8OOWJIuADaRecSkbX8UlRlTVUCUwBZIqEpgmzjiPTatjZEIWuK3D1itRN1hkBlWrH_XWLmFYBPGgMiYC-kYaN3OtZqBCMJF3srx6FeUKjy1BuxFxCdEEqTjYPIGeFdMReaLYTOxnlH_OHXFlY2kaLUnX5E-vBkrN241Ej-B1J_q6WmSON9U0u90oOYZMLjYPmSGLlRQ&u=aHR0cHMlM2ElMmYlMmZ3d3cub25saW5lLXJlc2VydmF0aW9ucy5jb20lMmYlM2ZzdWJ1ZmklM2Q5NDQ2OSUyNmgxJTNkaG90ZWxzLWluLXBsYWNlLXJlZ2lvbi1jb3VudHJ5JTI2bXNjbGtpZCUzZDE0NzU1NGRhMzQ3MDExYzM4OGM3M2ZkZDU4ZjRlZTFk&rlid=147554da347011c388c73fdd58f4ee1d",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_14",
+      "claim": "Join Us Contact Us 022-48934191 +91 73038 04040 [email protected] Follow us on © Holidify Travels Pvt Ltd.- All Right Reserved Manali Packages Places To Visit Hotels How to Reach Best Time To Visit Map Photos Home Manali Hotels Backpacker Hostels In Manali 18 Backpacker Hostels In Manali Settled amidst the ravishing Himalayan resort town’s valleys, a voluptuous river, snow-laden mountains, trendy shopping and dining complexes and revered temples, backpackers’ hostels in Manali offer (Read More) budget-friendly staycations for groups and solo travellers without compromising on luxe amenities.",
+      "source_title": "18 Backpacker Hostels In Manali (2024) | Updated Deals ...",
+      "source_url": "https://www.holidify.com/hotel-collections/backpacker-hostels-in-manali",
+      "source_type": "web",
+      "platform": "holidify.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_15",
+      "claim": "Zostel Manali Old Manali 900 m from Hidimba Devi Temple # 3 in Backpacker Hostels In Manali 8.4 /10 (211 reviews) Experience a premium stay in all-glass Geodesic dome camps at a startling elevation of 2,600 metres (Read More) with splendid vistas of Dhauladhar Range and Manali Valley. Boasting of aromatic apple orchards and terraces, both of Zostel Manali’s 2 modern hotels are an ideal place for backpackers.",
+      "source_title": "18 Backpacker Hostels In Manali (2024) | Updated Deals ...",
+      "source_url": "https://www.holidify.com/hotel-collections/backpacker-hostels-in-manali",
+      "source_type": "web",
+      "platform": "holidify.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_16",
+      "claim": "Hostel with 4 room options ₹ 4,050 onwards View Deal > Manali Travel Packages Compare quotes from upto 3 travel agents for free 5 Nights / 6 Days Shimla Manali Tour Package Shimla(2N) → Manali(3N) Sold By: Country Tours And... (4.8 ) ₹16,000 /person Get Offers> 5 Nights / 6 Days Shimla Manali Tour Package Shimla(2N) → Manali(3N) Sold By: Country Tours And... (4.8 ) ₹16,000 /person Get Offers> 3 Nights / 4 Days Manali Tour Package by Volvo Manali(3N) Sold By: Country Tours And... (4.8 ) ₹11,500 /person Get Offers> 3 Nights / 4 Days Kullu Manali Volvo Tour Package Manali(3N) Sold By: Himalayan Seekers (4.9 ) ₹ 8,999 11% off ₹7,999 /person Get Offers> 4 Nights / 5 Days Manali 4N Tour in Volvo:",
+      "source_title": "18 Backpacker Hostels In Manali (2024) | Updated Deals ...",
+      "source_url": "https://www.holidify.com/hotel-collections/backpacker-hostels-in-manali",
+      "source_type": "web",
+      "platform": "holidify.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_17",
+      "claim": "Brostel Hadimba Temple Road 700 m from Hidimba Devi Temple Facilities: Wifi, Pets Allowed, Garden, Food Hostel with 4 room options ₹1,800 onwards View Deal > Browse Hotel Collections For Special Purposes Hotels in Manali for Honeymoon Pet Friendly Hotels In Manali Best Workations in Manali Honeymoon Resorts In Manali for a Romantic Stay FAQs on Backpacker Hostels In Manali What are the best Backpacker Hostels In Manali?",
+      "source_title": "18 Backpacker Hostels In Manali (2024) | Updated Deals ...",
+      "source_url": "https://www.holidify.com/hotel-collections/backpacker-hostels-in-manali",
+      "source_type": "web",
+      "platform": "holidify.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_18",
+      "claim": "arkup or markdown for more accurate comparisons Export your data Download your comp set's pricing data as a CSV for up to 366 days, ready for deeper analysis or easy sharing with your team Influence your prices Your comp set can directly influence PriceLabs' price recommendations Track Smarter, Starting Today Get your hours back. Wake up to fresh competitor rates instead of checking them yourself.",
+      "source_title": "Hotel Rate Shopper - Daily Competitor Data in PriceLabs",
+      "source_url": "https://hotels.pricelabs.co/hotel-rate-shopper/",
+      "source_type": "web",
+      "platform": "hotels.pricelabs.co",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_19",
+      "claim": "Manali is calling. Search, compare, and save on your hotel. ingdom (English) United States (English) Estados Unidos (Español) Uruguay (Español) Venezuela (Español) Vietnam (English) Việt Nam (Việt) Manali is calling. Search, compare, and save on your hotel. Wed 2/12 - Thu 3/12 2 guests, 1 room Search ...and more Compare 100s of travel sites at once to find the right place at the right price.",
+      "source_title": "Hotels in Manali - Compare hotels for free",
+      "source_url": "https://www.bing.com/aclick?ld=e8_KQ953EXl2YvG_dV85cVezVUCUzN40-dZQci8V641vR3S511A1HZ9g5IvVZfgf2lkjpbu5xFu7gVR4wuHrKUJpazelYAGKjlkLXKe_MRpMceSVUa2Pt4Pg7xhD90jcZjpGbfIK42nnNvC-cBJ0dUoygMAZTiR-9b8LnRNqRt24AC0BZLn2yEIiupYdjrLQW8QWm0Kg&u=aHR0cHMlM2ElMmYlMmZ3d3cua2F5YWsuY28uaW4lMmZzZW1pJTJmYmluZ2Fkc3NlYXJjaCUyZmhvdGVsX2Rlc3RpbmF0aW9uJTJmNDU3MTglMmZlbi5odG1sJTNmbXQlM2RlJTI2Ym10JTNkYmUlMjZvaWlkJTNkNzg0NzgwMTA0NjU3NjUlMjZhaWQlM2QxMjU1NjQyODY4NzI5NzU2JTI2YWRpZCUzZDc4NDc3ODU5NDczOTI3JTI2cGlkJTNkJTI2dGlkJTNka3dkLTc4NDc4MDEwNDY1NzY1JTNhbG9jLTkwJTI2ZCUzZGMlMjZuJTNkbyUyNmNtcGlkJTNkMzk2NjM4ODA5JTI2ay5hJTNkYmluZ2Fkc3NlYXJjaCUyNm1zY2xraWQlM2QxM2U3N2Y2YmZiMjExODFmOWY0YzE0NmM5N2E1NmQ1YSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZERlc3RpbmF0aW9uJTI1MjAtJTI1MjBJTiUyNTIwLSUyNTIwTWFuYWxpJTI1MjAtJTI1MjBDaXR5JTI1MjM0NTcxOCUyNnV0bV90ZXJtJTNkbWFuYWxpJTI1MjBob3RlbHMlMjUyMGNoZWFwJTI2dXRtX2NvbnRlbnQlM2RUJTI1M0RjaGVhcCUyNTIwLSUyNTIwUCUyNTNEaG90ZWxzJTI1MjAtJTI1MjBPJTI1M0ROb25lJTI1MjAtJTI1MjBEJTI1M0RDaXR5JTI1MjM0NTcxOF9NYW5hbGklMjUyMC0lMjUyMFMlMjUzRG5vbmU&rlid=13e77f6bfb21181f9f4c146c97a56d5a",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_20",
+      "claim": "1 day ago · Pick from 40 fully serviced Hostels in Manali. Enjoy a comfortable stay with free WiFi, air-conditioned rooms, free on-site parking, fully-equipped kitchen and all modern amenities. Stay at The Hostel Manali in Manali and meet global travellers. Best prices, real backpacker reviews, and free cancellation with Hostelworld. Find and book deals on the best hostels in Manāli, India!",
+      "source_title": "Hostels in Manali 𝐁𝐨𝐨𝐤 𝐰𝐢𝐭𝐡 𝐅𝐑𝐄𝐄 𝐂𝐚𝐧𝐜𝐞𝐥𝐥𝐚𝐭𝐢...The Hostel Manali, Manali - 2026 Prices & ReviewsThe 10 best hostels in Manāli, India | Booking.comBest Hostels in Manali | Fun, Cheap & Comfortable ... - Agoda",
+      "source_url": "https://www.makemytrip.com/hotels/p-hostels-in-manali.html",
+      "source_type": "booking",
+      "platform": "MakeMyTrip",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_21",
+      "claim": "Roamate Hostel, Old Manali Old Manali 800 m from Hidimba Devi Temple 9.2 (293 reviews) Facilities: Wifi, Bar, Pets Allowed, Garden, Food Hostel with 8 room options ₹1,999 onwards View Deal > 22. Zostel Old Manali, Goshal Road Old Manali 1.1 kms from Hidimba Devi Temple 9.3 (12 reviews) Facilities: Bar, Wifi, Garden, Food Hostel with 5 room options Enter dates to see price View Deal > 23.",
+      "source_title": "18 Backpacker Hostels In Manali (2024) | Updated Deals ...",
+      "source_url": "https://www.holidify.com/hotel-collections/backpacker-hostels-in-manali",
+      "source_type": "web",
+      "platform": "holidify.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_22",
+      "claim": "A clear read of your market every time you look Free, from day one Rate shopping is part of PriceLabs from the start, not a paid add-on you access later Comp Sets You Control Pick the Competitors That Matter Start with a ready-made comp set PriceLabs starts you off with a set of nearby hotels that look like yours, so you're never building from scratch.",
+      "source_title": "Hotel Rate Shopper - Daily Competitor Data in PriceLabs",
+      "source_url": "https://hotels.pricelabs.co/hotel-rate-shopper/",
+      "source_type": "web",
+      "platform": "hotels.pricelabs.co",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_23",
+      "claim": "Cheapest Hotels In Manali - Read Reviews from Verified Guests to Get the Real Story. Cheapest Hotels In Manali - Best Prices Guaranteed with Deals, Special Member Prices Accommodation Types, Spa Resorts, Budget Stays, Luxury Hotels and more Ratings: Website Quality 5/5 - Customer Service 4/5 - Value for Money 4/5",
+      "source_title": "Cheapest Hotels In Manali - Best Price Guarantee",
+      "source_url": "https://www.bing.com/aclick?ld=e8Kuw0MeSohLXgKlbEMLF09zVUCUyNLb_vxeA6LJ8yfILG5M0oJowJQp32_cj8tiR1PHcJIbC8XwT9GCTq9gE83Tll-tGziNxRiOfIyAIYNVAvm3-xAd81sOdwvTOGIcBebuRygcKNrr91ZKkiqmLqOSYq3P8pX2YTAUPWuJyeNpm-U1yF_IJoQG4OTqvTrSpDmnxVoA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWdvZGEuY29tJTJmcGFydG5lcnMlMmZwYXJ0bmVyc2VhcmNoLmFzcHglM2ZkZXZpY2UlM2RjJTI2bmV0d29yayUzZG8lMjZ1cmwlM2RodHRwcyUyNTNBJTI1MkYlMjUyRnd3dy5hZ29kYS5jb20lMjUyRmVuLWluJTI1MkZjaXR5JTI1MkZtYW5hbGktaW4uaHRtbCUyNTNGc2l0ZV9pZCUyNTNEMTk1NTM3OSUyNTI2dGFnJTI1M0RkNzcyZTYwNS0wM2Y3LTQ0N2MtODE2Zi02MDlhOTM0ZTU3OTYlMjZtc2Nsa2lkJTNkMDlmZjg3ZmE4MTVmMWJmM2FiYzllY2ZkZWRkYmZhNjElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RJTkQlMjU3Q0VOJTI1N0NFTiUyNTdDRE9NXzEyMyUyNnV0bV90ZXJtJTNkY2hlYXBlc3QlMjUyMGhvdGVscyUyNTIwaW4lMjUyMG1hbmFsaSUyNnV0bV9jb250ZW50JTNkSU5EJTI1N0NFTiUyNTdDRU4lMjU3Q0RPTSUyNTdDR2VuZXJhbCUyNTdDTE9XX01QQiUyNTdDQ0klMjUzQU1hbmFsaSUyY0luZGlhXzkwMjglMjU3Q05VTTAwMQ&rlid=09ff87fa815f1bf3abc9ecfdeddbfa61",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_24",
+      "claim": "Start Your 30-day Free Trial Instant insights. Free to use. No Credit Card. What Hoteliers Like You Are Saying Daniel Polo Boutique hotels, Spain We use this tool [Hotel Rate Shopper] for competitors, and it's very useful. … We know that if we've put the right competitors, the algorithm will give us a good price.",
+      "source_title": "Hotel Rate Shopper - Daily Competitor Data in PriceLabs",
+      "source_url": "https://hotels.pricelabs.co/hotel-rate-shopper/",
+      "source_type": "web",
+      "platform": "hotels.pricelabs.co",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_25",
+      "claim": "Plan, compare and save on your stay with KAYAK. Great value with even greater savings. Manali Hotels Cheap. Find your stay with easy booking and personalised search filters.",
+      "source_title": "Hotels in Manali - Compare hotels for free",
+      "source_url": "https://www.bing.com/aclick?ld=e8_KQ953EXl2YvG_dV85cVezVUCUzN40-dZQci8V641vR3S511A1HZ9g5IvVZfgf2lkjpbu5xFu7gVR4wuHrKUJpazelYAGKjlkLXKe_MRpMceSVUa2Pt4Pg7xhD90jcZjpGbfIK42nnNvC-cBJ0dUoygMAZTiR-9b8LnRNqRt24AC0BZLn2yEIiupYdjrLQW8QWm0Kg&u=aHR0cHMlM2ElMmYlMmZ3d3cua2F5YWsuY28uaW4lMmZzZW1pJTJmYmluZ2Fkc3NlYXJjaCUyZmhvdGVsX2Rlc3RpbmF0aW9uJTJmNDU3MTglMmZlbi5odG1sJTNmbXQlM2RlJTI2Ym10JTNkYmUlMjZvaWlkJTNkNzg0NzgwMTA0NjU3NjUlMjZhaWQlM2QxMjU1NjQyODY4NzI5NzU2JTI2YWRpZCUzZDc4NDc3ODU5NDczOTI3JTI2cGlkJTNkJTI2dGlkJTNka3dkLTc4NDc4MDEwNDY1NzY1JTNhbG9jLTkwJTI2ZCUzZGMlMjZuJTNkbyUyNmNtcGlkJTNkMzk2NjM4ODA5JTI2ay5hJTNkYmluZ2Fkc3NlYXJjaCUyNm1zY2xraWQlM2QxM2U3N2Y2YmZiMjExODFmOWY0YzE0NmM5N2E1NmQ1YSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZERlc3RpbmF0aW9uJTI1MjAtJTI1MjBJTiUyNTIwLSUyNTIwTWFuYWxpJTI1MjAtJTI1MjBDaXR5JTI1MjM0NTcxOCUyNnV0bV90ZXJtJTNkbWFuYWxpJTI1MjBob3RlbHMlMjUyMGNoZWFwJTI2dXRtX2NvbnRlbnQlM2RUJTI1M0RjaGVhcCUyNTIwLSUyNTIwUCUyNTNEaG90ZWxzJTI1MjAtJTI1MjBPJTI1M0ROb25lJTI1MjAtJTI1MjBEJTI1M0RDaXR5JTI1MjM0NTcxOF9NYW5hbGklMjUyMC0lMjUyMFMlMjUzRG5vbmU&rlid=13e77f6bfb21181f9f4c146c97a56d5a",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_26",
+      "claim": "Oct 15, 2026 · Compare hostel prices in Manali, India. On a typical date, the cheapest available dorm bed is around $2. Track 72 hostels and find cheaper dates to stay.",
+      "source_title": "Manali Hostel Prices — HostelHound",
+      "source_url": "https://hostelhound.com/city/manali",
+      "source_type": "web",
+      "platform": "hostelhound.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_27",
+      "claim": "Complete List of Cheap Student Hostels in Manali, India. With Dorms and Private Rooms. Short and Long-Term Options. BONUS: Price Comparison!",
+      "source_title": "Student Hostels in Manali 2026 (Prices & Long Stays)",
+      "source_url": "https://www.hostelz.com/hostels/India/Manali/hostels-for-students",
+      "source_type": "web",
+      "platform": "hostelz.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_28",
+      "claim": "Best Manali Hotels on Tripadvisor: Find 61,938 traveller reviews, 71,493 candid photos, and prices for hotels in Manali, India.",
+      "source_title": "𝗧𝗛𝗘 𝟭𝟬 𝗕𝗘𝗦𝗧 Hotels in Manali of 2026 (with Prices)",
+      "source_url": "https://www.tripadvisor.in/Hotels-g297618-Manali_Kullu_District_Himachal_Pradesh-Hotels.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_29",
+      "claim": "y Parbati Headquarters Kasol, HP, India 8.2 ₹ 835+ View availability Snow Valley Resorts Manali, HP, India 8.8 ₹ 4,269+ View availability Top-rated hotels in Manali Hidden Heaven Manali Manali, HP, India 10.0 ₹ 1,856+ View availability Hotel Sole Shine Manali - By Suraj Inn Manali, HP, India 10.0 ₹ 1,578+ View availability The Zima Resort Manali, HP, India 10.0 ₹ 6,125+ View availability Haven Seven14 Naggar, HP, India 9.8 ₹ 2,042+ View availability The Hideout - Hiraeth Manali, HP, India 9.7 ₹ 2,320+ View availability Affordable hotels in Manali Nomadic Den Manali Manali, HP, India 8.4 ₹ 650+ View availability The essence of mountains - מהות ההרים Manali, HP, India 7.6 ₹ 650+ View availabil",
+      "source_title": "Hotels in Manali - Compare hotels for free",
+      "source_url": "https://www.bing.com/aclick?ld=e8_KQ953EXl2YvG_dV85cVezVUCUzN40-dZQci8V641vR3S511A1HZ9g5IvVZfgf2lkjpbu5xFu7gVR4wuHrKUJpazelYAGKjlkLXKe_MRpMceSVUa2Pt4Pg7xhD90jcZjpGbfIK42nnNvC-cBJ0dUoygMAZTiR-9b8LnRNqRt24AC0BZLn2yEIiupYdjrLQW8QWm0Kg&u=aHR0cHMlM2ElMmYlMmZ3d3cua2F5YWsuY28uaW4lMmZzZW1pJTJmYmluZ2Fkc3NlYXJjaCUyZmhvdGVsX2Rlc3RpbmF0aW9uJTJmNDU3MTglMmZlbi5odG1sJTNmbXQlM2RlJTI2Ym10JTNkYmUlMjZvaWlkJTNkNzg0NzgwMTA0NjU3NjUlMjZhaWQlM2QxMjU1NjQyODY4NzI5NzU2JTI2YWRpZCUzZDc4NDc3ODU5NDczOTI3JTI2cGlkJTNkJTI2dGlkJTNka3dkLTc4NDc4MDEwNDY1NzY1JTNhbG9jLTkwJTI2ZCUzZGMlMjZuJTNkbyUyNmNtcGlkJTNkMzk2NjM4ODA5JTI2ay5hJTNkYmluZ2Fkc3NlYXJjaCUyNm1zY2xraWQlM2QxM2U3N2Y2YmZiMjExODFmOWY0YzE0NmM5N2E1NmQ1YSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZERlc3RpbmF0aW9uJTI1MjAtJTI1MjBJTiUyNTIwLSUyNTIwTWFuYWxpJTI1MjAtJTI1MjBDaXR5JTI1MjM0NTcxOCUyNnV0bV90ZXJtJTNkbWFuYWxpJTI1MjBob3RlbHMlMjUyMGNoZWFwJTI2dXRtX2NvbnRlbnQlM2RUJTI1M0RjaGVhcCUyNTIwLSUyNTIwUCUyNTNEaG90ZWxzJTI1MjAtJTI1MjBPJTI1M0ROb25lJTI1MjAtJTI1MjBEJTI1M0RDaXR5JTI1MjM0NTcxOF9NYW5hbGklMjUyMC0lMjUyMFMlMjUzRG5vbmU&rlid=13e77f6bfb21181f9f4c146c97a56d5a",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_30",
+      "claim": "Bahang, Tehsil Manali, District Kullu Palchan Hotel & Spa - A member of Radisson Individuals Retreats 8.1 14 VPO Palchan, Tehsil –Manali, Rohtang Highway, Manali, Himachal Pradesh-175103, India The Orchid Manali - a Boutique Hotel 8.3 89 Shuru, Naggar Road Welcomhotel By ITC Hotels, Hamsa Manali 8.7 126 Village Buruwa off-Road stay 8.9 7 Dragon Chawk OLD MANALI Bookmark Resorts, Manali 8.0 25 Log Huts Area Road The Himalayan 8.5 19 Hadimba Road Avasa Boutique Hotel Manali Simsa ground Apple Garden Aleo 7.3 13 Hotel Him Tendua by RED ROCK HOTELS Sukh Cafe Sukh Cafe Dragon Chowk, Manu Temple Road The GlampView Resort The GlampView Resort The GlampView Resort, badi parking, shanag village, mana",
+      "source_title": "Manali Hotels – Compare Nearby Rates",
+      "source_url": "https://www.bing.com/aclick?ld=e8OOWJIuADaRecSkbX8UlRlTVUCUwBZIqEpgmzjiPTatjZEIWuK3D1itRN1hkBlWrH_XWLmFYBPGgMiYC-kYaN3OtZqBCMJF3srx6FeUKjy1BuxFxCdEEqTjYPIGeFdMReaLYTOxnlH_OHXFlY2kaLUnX5E-vBkrN241Ej-B1J_q6WmSON9U0u90oOYZMLjYPmSGLlRQ&u=aHR0cHMlM2ElMmYlMmZ3d3cub25saW5lLXJlc2VydmF0aW9ucy5jb20lMmYlM2ZzdWJ1ZmklM2Q5NDQ2OSUyNmgxJTNkaG90ZWxzLWluLXBsYWNlLXJlZ2lvbi1jb3VudHJ5JTI2bXNjbGtpZCUzZDE0NzU1NGRhMzQ3MDExYzM4OGM3M2ZkZDU4ZjRlZTFk&rlid=147554da347011c388c73fdd58f4ee1d",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_31",
+      "claim": "Prini Teh, Manali, Distt kullu, Snow Valley Resorts & Spa Manali 8.3 30 Log Hut Area Abhilashi Residency & Spa - Centrally Heated & Air Cooled 9.2 7 Village Nassogi, PO Chhiyal Tehsil Manali Distt Kullu, HP Snow City's Montana Blues Resort Manali - Heated & Air-Cooled Stay 9.2 206 MDR 29 MDR29, Prini, Manali, Himachal Pradesh 175103 Bravia Hotel Manali Inn 7.6 14 Rangree, National Highway 21 The Orchard Greens Resort - A Centrally Heated Property 7.6 60 Log Huts Area Road Woodrock Luxury Boutique Hotel 7.7 53 Circuit House Road, Manali.",
+      "source_title": "Manali Hotels – Compare Nearby Rates",
+      "source_url": "https://www.bing.com/aclick?ld=e8OOWJIuADaRecSkbX8UlRlTVUCUwBZIqEpgmzjiPTatjZEIWuK3D1itRN1hkBlWrH_XWLmFYBPGgMiYC-kYaN3OtZqBCMJF3srx6FeUKjy1BuxFxCdEEqTjYPIGeFdMReaLYTOxnlH_OHXFlY2kaLUnX5E-vBkrN241Ej-B1J_q6WmSON9U0u90oOYZMLjYPmSGLlRQ&u=aHR0cHMlM2ElMmYlMmZ3d3cub25saW5lLXJlc2VydmF0aW9ucy5jb20lMmYlM2ZzdWJ1ZmklM2Q5NDQ2OSUyNmgxJTNkaG90ZWxzLWluLXBsYWNlLXJlZ2lvbi1jb3VudHJ5JTI2bXNjbGtpZCUzZDE0NzU1NGRhMzQ3MDExYzM4OGM3M2ZkZDU4ZjRlZTFk&rlid=147554da347011c388c73fdd58f4ee1d",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_32",
+      "claim": "anali - Best Property of Manali 2025-26 8.9 112 -near volvo Private bus stand, simsa chowk, kullu-manali highway, manali, pin code 175131 La Aero Resort Home in Snow Mountains 9.6 33 Nehru Kund, Manali Hill River Resort By West Western -Property of the Year 2024-25 - Central Heated & Air Cooled, Near Mall Road 8.8 41 Naggar Road The Wooden Chalet, Manali 9.8 7 Prini Hotel The Fortune Luxury Rooms Near Mall Road Manali By Vistas - Best Selling Centrally Heated Property 2025-26 9.1 39 near the mall road, manali, himachal pradesh, india, pin code 175131 The Kathguni House by StayVista - Luxury Cottage with Lawn 8.5 2 Old Manali-Shanag Road, Near La Plage Restaurant Vista Resort - Centrally Heat",
+      "source_title": "Manali Hotels – Compare Nearby Rates",
+      "source_url": "https://www.bing.com/aclick?ld=e8OOWJIuADaRecSkbX8UlRlTVUCUwBZIqEpgmzjiPTatjZEIWuK3D1itRN1hkBlWrH_XWLmFYBPGgMiYC-kYaN3OtZqBCMJF3srx6FeUKjy1BuxFxCdEEqTjYPIGeFdMReaLYTOxnlH_OHXFlY2kaLUnX5E-vBkrN241Ej-B1J_q6WmSON9U0u90oOYZMLjYPmSGLlRQ&u=aHR0cHMlM2ElMmYlMmZ3d3cub25saW5lLXJlc2VydmF0aW9ucy5jb20lMmYlM2ZzdWJ1ZmklM2Q5NDQ2OSUyNmgxJTNkaG90ZWxzLWluLXBsYWNlLXJlZ2lvbi1jb3VudHJ5JTI2bXNjbGtpZCUzZDE0NzU1NGRhMzQ3MDExYzM4OGM3M2ZkZDU4ZjRlZTFk&rlid=147554da347011c388c73fdd58f4ee1d",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_33",
+      "claim": "3, Hotel Sattva, Village Bhajogi, Gurudwara Road, Near The Mall Road, Siyal, Kullu, Manali, Himachal Pradesh Hotel Negi's Mayflower A heritage Since 1965 8.4 297 Clubhouse Road Club House Road, Manali-175131 More Manali Accommodation > Hotels, Holiday Rentals, Apartments (Booking.com) We are an independent hotel comparison website and is not the official website of any hotel.",
+      "source_title": "Manali Hotels – Compare Nearby Rates",
+      "source_url": "https://www.bing.com/aclick?ld=e8OOWJIuADaRecSkbX8UlRlTVUCUwBZIqEpgmzjiPTatjZEIWuK3D1itRN1hkBlWrH_XWLmFYBPGgMiYC-kYaN3OtZqBCMJF3srx6FeUKjy1BuxFxCdEEqTjYPIGeFdMReaLYTOxnlH_OHXFlY2kaLUnX5E-vBkrN241Ej-B1J_q6WmSON9U0u90oOYZMLjYPmSGLlRQ&u=aHR0cHMlM2ElMmYlMmZ3d3cub25saW5lLXJlc2VydmF0aW9ucy5jb20lMmYlM2ZzdWJ1ZmklM2Q5NDQ2OSUyNmgxJTNkaG90ZWxzLWluLXBsYWNlLXJlZ2lvbi1jb3VudHJ5JTI2bXNjbGtpZCUzZDE0NzU1NGRhMzQ3MDExYzM4OGM3M2ZkZDU4ZjRlZTFk&rlid=147554da347011c388c73fdd58f4ee1d",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_34",
+      "claim": "Check out the latest The Madpackers Manali Hostel Promo Code and discounts, find out what staycation packages include, discover the latest promotions & coupons, and ensure you don't miss out on booking low prices! 1 day ago · Celebrate NYE 2026 at Moustache Hostel Manali! Enjoy Flat 25% Off your mountain getaway and welcome 2027 in style. Book now to grab this exclusive deal!",
+      "source_title": "𝐁𝐮𝐝𝐠𝐞𝐭 𝐇𝐨𝐭𝐞𝐥𝐬 in Manali start @ Rs. 288 - Budget Hote...75 Manali Luxury Packages - Book Manali Packages at ₹6275The Madpackers Manali Hostel Promo Code - Discounts and CouponFlat 25% Off at Moustache Hostel | Manali NYE 2026Manali Budget Accommodation: Best Hostels, Stays & DealsHostel Deals in Manali, India - m.check-rates.com",
+      "source_url": "https://www.makemytrip.com/hotels/budget-hotels-in-manali.html",
+      "source_type": "booking",
+      "platform": "MakeMyTrip",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_35",
+      "claim": "We do not accept reservations or process payments directly. Bookings are completed through independent booking partners, including Booking.com. We may earn a commission when you book through our partner links. * Rooms Left refers to the number of rooms shown as remaining on Booking.com at the displayed rate. This does not represent the hotel's total room availability.",
+      "source_title": "Manali Hotels – Compare Nearby Rates",
+      "source_url": "https://www.bing.com/aclick?ld=e8OOWJIuADaRecSkbX8UlRlTVUCUwBZIqEpgmzjiPTatjZEIWuK3D1itRN1hkBlWrH_XWLmFYBPGgMiYC-kYaN3OtZqBCMJF3srx6FeUKjy1BuxFxCdEEqTjYPIGeFdMReaLYTOxnlH_OHXFlY2kaLUnX5E-vBkrN241Ej-B1J_q6WmSON9U0u90oOYZMLjYPmSGLlRQ&u=aHR0cHMlM2ElMmYlMmZ3d3cub25saW5lLXJlc2VydmF0aW9ucy5jb20lMmYlM2ZzdWJ1ZmklM2Q5NDQ2OSUyNmgxJTNkaG90ZWxzLWluLXBsYWNlLXJlZ2lvbi1jb3VudHJ5JTI2bXNjbGtpZCUzZDE0NzU1NGRhMzQ3MDExYzM4OGM3M2ZkZDU4ZjRlZTFk&rlid=147554da347011c388c73fdd58f4ee1d",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_36",
+      "claim": "From budget stays to luxury holidays, find Manali Luxury packages that can be customised to suit your trip, with available deals and discounts.",
+      "source_title": "75 Manali Luxury Packages - Book Manali Packages at ₹6275",
+      "source_url": "https://www.makemytrip.com/holidays-india/manali-luxury-packages.html",
+      "source_type": "booking",
+      "platform": "MakeMyTrip",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_37",
+      "claim": "Find and book deals on the best hostels in Manāli, India! Explore guest reviews and book the perfect hostel for your trip.",
+      "source_title": "The 10 best hostels in Manāli, India | Booking.com",
+      "source_url": "https://www.booking.com/hostels/city/in/manali.html",
+      "source_type": "booking",
+      "platform": "Booking.com",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_38",
+      "claim": "Compare prices & save money with Tripadvisor® (World's largest travel website). Detailed reviews and recent photos. Know what to expect before you book. Hidden Gems · Tours, Attractions + More · Easy price comparison · Amazing Experiences",
+      "source_title": "Top 10 Hotels (Manali) - The 10 Best Hotels in Manali",
+      "source_url": "https://www.bing.com/aclick?ld=e814qXk0jJo1itWBLjsZJGejVUCUyFjMCZiFI29KnFEUaLHfOX-oTQMwquQg5tsPrAt8j5EnKjZIuRazg19OUPzB88uDADWa311PGtV6CYVk28LE9MUSSL5vK_D-FT7YMJBUwlQs_JxWrNqVpo-TkrRjCrmVVc2ZMyvQWSWryPf_wLX6NPcUNYXx1bNNxQHbaC7boaMg&u=aHR0cHMlM2ElMmYlMmZ3d3cudHJpcGFkdmlzb3IuaW4lMmZTbWFydERlYWxzJTNmZ2VvJTNkMjk3NjE4JTI2bSUzZDE0NzQ4JTI2c3VwYmslM2QwJTI2c3VwYWMlM2QxODUwMDAwMzIlMjZzdXBjbSUzZDc1ODA0MzYwNyUyNnN1cGFnJTNkMTI2MzM0MDY0MzcwMzk4NyUyNnN1cHRpJTNka3dkLTc4OTU5MzE1MjIyMTYyJTNhbG9jLTkwJTI2c3VwYWklM2QlMjZzdXBkdiUzZGMlMjZzdXBudCUzZG8lMjZzdXBscCUzZDI2MDgzNyUyNnN1cGxpJTNkMTQ4NjM3JTI2bXNjbGtpZCUzZGY4YWY1ZGUzNWRmMTFkMjg3ZWU5MzZlNDMxNzUxNjli&rlid=f8af5de35df11d287ee936e43175169b",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_39",
+      "claim": "Aug 25, 2026 · Learn how hotel competitor rate shopping works, how to build a defensible comp set, and choose a rate shopper that turns competitor data into smarter pricing.",
+      "source_title": "How Hotel Competitor Rate Shopping Software Works (2027 ...",
+      "source_url": "https://rategain.com/blog/how-hotel-competitor-rate-shopping-software-works-2027-buying-guide/",
+      "source_type": "web",
+      "platform": "rategain.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_40",
+      "claim": "1 day ago · Celebrate NYE 2026 at Moustache Hostel Manali! Enjoy Flat 25% Off your mountain getaway and welcome 2027 in style. Book now to grab this exclusive deal!",
+      "source_title": "Flat 25% Off at Moustache Hostel | Manali NYE 2026",
+      "source_url": "https://moustachescapes.com/hostel/luxury-hostel/moustache-hostel-manali",
+      "source_type": "web",
+      "platform": "moustachescapes.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_41",
+      "claim": "Oct 12, 2026 · Discover how a rate shopper hotel tool tracks competitor prices, supports dynamic pricing, improves forecasting and helps hotels maximize revenue.",
+      "source_title": "Rate Shopper Hotel: Compare Rates and Boost Revenue | Mews",
+      "source_url": "https://www.mews.com/en/blog/hotel-rate-shopper",
+      "source_type": "web",
+      "platform": "mews.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_42",
+      "claim": "May 16, 2026 · Learn how hotel rate shopping tools track competitor pricing in real time and turn that data into smarter, faster rate decisions.",
+      "source_title": "Hotel Rate Shopping Tools: A Hotelier's Guide 2026",
+      "source_url": "https://www.roommaster.com/blog/hotel-rate-shopping-tool",
+      "source_type": "web",
+      "platform": "roommaster.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_43",
+      "claim": "Stay at The Hostel Manali in Manali and meet global travellers. Best prices, real backpacker reviews, and free cancellation with Hostelworld.",
+      "source_title": "The Hostel Manali, Manali - 2026 Prices & Reviews",
+      "source_url": "https://www.hostelworld.com/hostels/p/313946/the-hostel-manali/",
+      "source_type": "booking",
+      "platform": "Hostelworld",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_44",
+      "claim": "Mar 10, 2026 · Track competitor hotel prices in real time with rate shopper. Monitor LOS, discounts and availability to optimize pricing and stay ahead of the market with hotellab RMS.",
+      "source_title": "Hotel Rate Shopper | Competitor Pricing Tool – hotellab",
+      "source_url": "https://hotellab.io/product/rate-shopper/",
+      "source_type": "web",
+      "platform": "hotellab.io",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_45",
+      "claim": "Nov 4, 2025 · How to track and react to competitor hotel prices in real time: top rate-shopping tools, alert workflows & dynamic pricing rules to win share.",
+      "source_title": "How to Track Competitor Hotel Prices in Real Time (2026 Guide ...",
+      "source_url": "https://www.roommaster.com/blog/how-to-track-and-react-to-competitors-hotel-prices-in-real-time",
+      "source_type": "web",
+      "platform": "roommaster.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_46",
+      "claim": "Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is aaa9a232-309e-413c-85e3-ef79d3e24aa5 [Go Back]",
+      "source_title": "How Hotel Competitor Rate Shopping Software Works (2027 ...",
+      "source_url": "https://rategain.com/blog/how-hotel-competitor-rate-shopping-software-works-2027-buying-guide/",
+      "source_type": "web",
+      "platform": "rategain.com",
+      "origin": "page",
+      "confidence": 0.5
+    }
+  ],
+  "findings": [
+    {
+      "finding_id": "finding_1",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "PriceLabs starts you with a smart, location-based comp set, which can be refined with advanced filters.",
+      "evidence_ids": [
+        "evidence_6"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_2",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Booking on PriceLabs can be done with advanced filters, allowing users to refine their search.",
+      "evidence_ids": [
+        "evidence_6"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_3",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the availability of real prices, locations, and tips for affordable travel.",
+      "evidence_ids": [
+        "evidence_1"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Guests praise the availability of real prices, locations, and tips for affordable travel."
+    },
+    {
+      "finding_id": "finding_4",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "PriceLabs offers a 30-day free trial to help users get started.",
+      "evidence_ids": [
+        "evidence_5"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "PriceLabs offers a 30-day free trial to help users get started."
+    },
+    {
+      "finding_id": "finding_5",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests wish for more information about the properties they are comparing.",
+      "evidence_ids": [
+        "evidence_1"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_6",
+      "type": "TREND",
+      "category": "TREND",
+      "statement": "The number of affordable hostels in Manali is increasing, with 9 hostels available for short or extended stays.",
+      "evidence_ids": [
+        "evidence_3"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The number of affordable hostels in Manali is increasing, with 9 hostels available for short or extended stays."
+    },
+    {
+      "finding_id": "finding_7",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Booking on MakeMyTrip can be done with a user-friendly interface, allowing users to easily compare prices and find deals.",
+      "evidence_ids": [
+        "evidence_8"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_8",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "MakeMyTrip offers loyalty programs and discounts to encourage repeat bookings.",
+      "evidence_ids": [
+        "evidence_8"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence only mentions that MakeMyTrip offers loyalty programs and discounts, but it does not directly support the finding that booking on MakeMyTrip can be done with a user-friendly interface."
+    },
+    {
+      "finding_id": "finding_9",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Booking on the website requires a Bing search link, which can be confusing for users.",
+      "evidence_ids": [
+        "evidence_11",
+        "evidence_19"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_10",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the scenic views and comfortable rooms.",
+      "evidence_ids": [
+        "evidence_12",
+        "evidence_15"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_11",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The Hostel Manali offers free WiFi and a fully-equipped kitchen to retain guests.",
+      "evidence_ids": [
+        "evidence_20"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is directly supported by the evidence. The evidence states that The Hostel Manali offers free WiFi and a fully-equipped kitchen to retain guests."
+    },
+    {
+      "finding_id": "finding_12",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the friendly staff and welcoming atmosphere.",
+      "evidence_ids": [
+        "evidence_17"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_13",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "The average nightly rate for hotels in Manali is ₹3,341.",
+      "evidence_ids": [
+        "evidence_12"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The average nightly rate for hotels in Manali is ₹3,341, as stated in evidence_12."
+    },
+    {
+      "finding_id": "finding_14",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests wish for more options for booking and payment methods.",
+      "evidence_ids": [
+        "evidence_11",
+        "evidence_19"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "While guests wish for more options for booking and payment methods (finding_14), the evidence (evidence_11, evidence_19) does not directly support this finding. It only provides information on how to search for hotels and compare prices, but does not address the specific issue of booking and payment options."
+    },
+    {
+      "finding_id": "finding_15",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "There is no clear data or signal available for the owner to get information about what nearby hotels and hostels charge.",
+      "evidence_ids": [
+        "evidence_21",
+        "evidence_22"
+      ],
+      "confidence": 0.9,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "Finding_15 states that there is no clear data or signal available for the owner to get information about what nearby hotels and hostels charge. However, evidence_22 suggests that there is a tool available (PriceLabs) that provides a set of nearby hotels that look like yours, which could be considered a signal."
+    },
+    {
+      "finding_id": "finding_16",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Booking and paying for a stay at a hostel in Manali can be complicated, as some platforms require users to access competitor data before booking.",
+      "evidence_ids": [
+        "evidence_22",
+        "evidence_25"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "While booking and paying for a stay at a hostel in Manali can be complicated (finding_16), the evidence (evidence_22, evidence_25) does not directly support this finding. It only provides information on how to search for hotels and compare prices, but does not address the specific issue of booking and payment processes."
+    },
+    {
+      "finding_id": "finding_17",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the facilities and services offered by hostels in Manali, such as wifi, bar, pets allowed, and garden.",
+      "evidence_ids": [
+        "evidence_21",
+        "evidence_22",
+        "evidence_23"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Guests praise the facilities and services offered by hostels in Manali, such as wifi, bar, pets allowed, and garden, as stated in evidence_21 and evidence_23."
+    },
+    {
+      "finding_id": "finding_18",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "There is no clear data available on the offers and promotions run by nearby hotels and hostels.",
+      "evidence_ids": [
+        "evidence_21",
+        "evidence_22"
+      ],
+      "confidence": 0.8,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "Finding_18 states that there is no clear data available on the offers and promotions run by nearby hotels and hostels. However, evidence_22 suggests that there is a tool available (PriceLabs) that provides a set of nearby hotels that look like yours, which could be considered a signal, but it does not provide information on offers and promotions."
+    },
+    {
+      "finding_id": "finding_19",
+      "type": "TREND",
+      "category": "TREND",
+      "statement": "The number of visitors to Manali's hostels is expected to increase during the peak season, with a typical date seeing the cheapest available dorm bed around $2.",
+      "evidence_ids": [
+        "evidence_26",
+        "evidence_27"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The evidence directly supports the finding that the cheapest available dorm bed in Manali is around $2 on a typical date."
+    },
+    {
+      "finding_id": "finding_20",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the quality of the hotels in Manali, with many options available for different budgets and preferences.",
+      "evidence_ids": [
+        "evidence_28",
+        "evidence_29"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant as it mentions the quality of hotels in Manali, but the evidence does not directly support the claim that guests praise the quality of hotels."
+    },
+    {
+      "finding_id": "finding_21",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Bookings are completed through independent booking partners, including Booking.com, and may earn a commission when you book through their partner links.",
+      "evidence_ids": [
+        "evidence_35"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The evidence directly supports the finding that bookings are completed through independent booking partners, including Booking.com."
+    },
+    {
+      "finding_id": "finding_22",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The website URL for Manali Hotels – Compare Nearby Rates is https://www.bing.com/aclick, which may be confusing or hard to remember.",
+      "evidence_ids": [
+        "evidence_35",
+        "evidence_38"
+      ],
+      "confidence": 0.8,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding is not directly relevant to the research question as it mentions a confusing website URL, but it does not provide any useful information about hotel prices or offers."
+    },
+    {
+      "finding_id": "finding_23",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the hotel's location, with one reviewer stating 'near volvo Private bus stand, simsa chowk, kullu-manali highway, manali, pin code 175131'.",
+      "evidence_ids": [
+        "evidence_32"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The evidence directly supports the finding that guests praise the hotel's location."
+    },
+    {
+      "finding_id": "finding_24",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the hotel's amenities, with one reviewer stating 'Central Heated & Air Cooled'.",
+      "evidence_ids": [
+        "evidence_32"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The evidence directly supports the finding that guests praise the hotel's amenities."
+    },
+    {
+      "finding_id": "finding_25",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the hotel's services, with one reviewer stating 'Best Property of Manali 2025-26'.",
+      "evidence_ids": [
+        "evidence_32"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_26",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The hotel offers a loyalty program, with one reviewer stating 'Best Property of Manali 2025-26'.",
+      "evidence_ids": [
+        "evidence_32"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_27",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "The hotel is located in Manali, Himachal Pradesh, India.",
+      "evidence_ids": [
+        "evidence_32",
+        "evidence_33",
+        "evidence_34",
+        "evidence_35",
+        "evidence_36",
+        "evidence_38"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The hotel is indeed located in Manali, Himachal Pradesh, India, as stated in evidence_32, evidence_33, evidence_34, evidence_35, evidence_36, and evidence_38."
+    },
+    {
+      "finding_id": "finding_28",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests wish for more information about the hotel's rates and availability.",
+      "evidence_ids": [
+        "evidence_35",
+        "evidence_36"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "While guests wish for more information about the hotel's rates and availability, the evidence does not directly support this finding. Guests' wishes are mentioned in evidence_35 and evidence_36, but there is no direct evidence that the hotel is lacking in this regard."
+    },
+    {
+      "finding_id": "finding_29",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "There are various tools available to track competitor hotel prices in real time, such as Rate Shopper Hotel and Hotel Rate Shopping Tools.",
+      "evidence_ids": [
+        "evidence_41",
+        "evidence_42"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is supported by evidence_41 and evidence_42, which describe how rate shopper hotel tools track competitor prices in real time."
+    },
+    {
+      "finding_id": "finding_30",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Some booking platforms, like Hostelworld, provide free cancellation options.",
+      "evidence_ids": [
+        "evidence_43"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is supported by evidence_43, which mentions that some booking platforms, like Hostelworld, provide free cancellation options."
+    },
+    {
+      "finding_id": "finding_31",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Hotellab RMS offers a competitor pricing tool that can help hotels optimize pricing and stay ahead of the market.",
+      "evidence_ids": [
+        "evidence_44"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_32",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some guests may find it difficult to track competitor hotel prices in real time, as highlighted in the 2027 buying guide for rate competitor rate shopping software.",
+      "evidence_ids": [
+        "evidence_46"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant to the research question, but the evidence does not sufficiently support it. The evidence_46 is a rejected request, which does not provide direct support for the finding."
+    }
+  ],
+  "insights": [
+    "Guests praise the availability of real prices, locations, and tips for affordable travel.",
+    "The number of affordable hostels in Manali is increasing, with 9 hostels available for short or extended stays.",
+    "The average nightly rate for hotels in Manali is ₹3,341.",
+    "Some booking platforms, like Hostelworld, provide free cancellation options."
+  ],
+  "coverage": [
+    {
+      "channel": "Google Maps / Google reviews",
+      "source_type": "maps",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Not readable automatically (login / JavaScript). Paste real reviews or captions with the `note` command."
+    },
+    {
+      "channel": "Instagram / Facebook",
+      "source_type": "social",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Not readable automatically (login / JavaScript). Paste real reviews or captions with the `note` command."
+    },
+    {
+      "channel": "Official website",
+      "source_type": "official",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Booking platforms (Booking.com, Hostelworld, Zostel, MakeMyTrip, Airbnb ...)",
+      "source_type": "booking",
+      "passages": 8,
+      "sources": 5,
+      "status": "snippet",
+      "note": "Search-engine snippets only (no full page text)"
+    },
+    {
+      "channel": "Review sites (Tripadvisor, Zomato ...)",
+      "source_type": "review",
+      "passages": 1,
+      "sources": 1,
+      "status": "snippet",
+      "note": "Search-engine snippets only (no full page text)"
+    },
+    {
+      "channel": "Forums (Reddit, Quora)",
+      "source_type": "forum",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Blogs & articles",
+      "source_type": "web",
+      "passages": 37,
+      "sources": 16,
+      "status": "full",
+      "note": "Full text read"
+    },
+    {
+      "channel": "Notes you added by hand",
+      "source_type": "manual",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    }
+  ],
+  "report_path": "/Users/vanshikamahajan/Documents/personal-research-agent/research/reports/area-competitor-intelligence-20261126-044646.md",
+  "title": "Competitor intelligence - Manali"
+}

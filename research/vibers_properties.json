@@ -1,0 +1,33 @@
+{
+  "_comment": "OPTIONAL manual override - normally NOT needed, because the agent discovers properties itself (python -m app.main brief vibers --place Manali). This file is only used if you pass it: --properties research/vibers_properties.json . Edit freely; 3 hotels/hostels + 2 cafes. Check each is still operating before relying on it.",
+  "place": "Manali",
+  "properties": [
+    {
+      "name": "Zostel Old Manali",
+      "type": "hostel",
+      "website": "https://www.zostel.com"
+    },
+    {
+      "name": "The Hosteller Manali, Old Manali",
+      "type": "hostel",
+      "website": "https://www.thehosteller.com/hostels/the-hosteller-old-manali"
+    },
+    {
+      "name": "Johnson's Lodge",
+      "type": "hotel"
+    },
+    {
+      "name": "Cafe 1947",
+      "type": "cafe"
+    },
+    {
+      "name": "Dylan's Toasted & Roasted",
+      "type": "cafe"
+    }
+  ],
+  "owner_properties": [
+    "Zostel Old Manali",
+    "The Hosteller Manali, Old Manali",
+    "Johnson's Lodge"
+  ]
+}

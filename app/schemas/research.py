@@ -6,6 +6,12 @@ from pydantic import BaseModel, Field
 class ResearchQuestion(BaseModel):
     """
     Represents the user's original research question.
+
+    mode:
+        "general"   free-form question, queries are planned by the LLM
+        "property"  profile of one named hotel / hostel / café
+        "topic"     a themed question with hand-written queries
+                    (platform audit, market intelligence ...)
     """
 
     question: str = Field(..., min_length=1)
@@ -18,6 +24,28 @@ class ResearchQuestion(BaseModel):
         default=3,
         ge=1,
     )
+
+    mode: str = Field(default="general")
+
+    # The property / platform / tool being researched (property + topic modes).
+    subject: str = Field(default="")
+
+    place: str = Field(default="")
+
+    # What the user wants to learn. Findings that answer any of these count
+    # as relevant (otherwise the verifier would reject e.g. praise when the
+    # question is really "profile this venue").
+    aspects: List[str] = Field(default_factory=list)
+
+    # The property's own website domains, so we can tag them as "official".
+    official_domains: List[str] = Field(default_factory=list)
+
+    # Pages to read directly (official website, a menu, a blog the user found).
+    seed_urls: List[str] = Field(default_factory=list)
+
+    # Hand-written queries. When given, the LLM planner is skipped - more
+    # reliable with small local models.
+    seed_queries: List[str] = Field(default_factory=list)
 
 
 class ResearchQuery(BaseModel):

@@ -1,0 +1,331 @@
+{
+  "run_id": "johnson-s-lodge-20261126-032725",
+  "question": {
+    "question": "Profile Johnson's Lodge (hotel, Manali). 1) Customer complaints, problems and negative experiences. 2) What makes customers choose this place over others. 3) Facilities and experiences customers appreciate most. 4) How it attracts customers and encourages them to return (offers, events, loyalty, community, social media). 5) What is missing or could be better (unmet needs, gaps). 6) Booking and pricing experience (convenient or confusing).",
+    "depth": "standard",
+    "max_iterations": 2,
+    "mode": "property",
+    "subject": "Johnson's Lodge",
+    "place": "Manali",
+    "aspects": [
+      "Customer complaints, problems and negative experiences",
+      "What makes customers choose this place over others",
+      "Facilities and experiences customers appreciate most",
+      "How it attracts customers and encourages them to return (offers, events, loyalty, community, social media)",
+      "What is missing or could be better (unmet needs, gaps)",
+      "Booking and pricing experience (convenient or confusing)"
+    ],
+    "official_domains": [],
+    "seed_urls": [],
+    "seed_queries": [
+      "\"Johnson's Lodge\" Manali reviews",
+      "Johnson's Lodge Manali complaints negative reviews",
+      "Johnson's Lodge Manali google reviews",
+      "Johnson's Lodge Manali tripadvisor reviews",
+      "site:instagram.com Johnson's Lodge Manali",
+      "Johnson's Lodge Manali booking.com hostelworld reviews",
+      "Johnson's Lodge Manali makemytrip agoda airbnb",
+      "Johnson's Lodge Manali what guests love",
+      "Johnson's Lodge Manali offers events membership",
+      "site:reddit.com Johnson's Lodge Manali",
+      "Johnson's Lodge Manali experience blog"
+    ]
+  },
+  "queries": [
+    "\"Johnson's Lodge\" Manali reviews",
+    "Johnson's Lodge Manali complaints negative reviews",
+    "Johnson's Lodge Manali google reviews",
+    "Johnson's Lodge Manali tripadvisor reviews",
+    "site:instagram.com Johnson's Lodge Manali",
+    "Johnson's Lodge Manali booking.com hostelworld reviews",
+    "Johnson's Lodge Manali makemytrip agoda airbnb",
+    "Johnson's Lodge Manali what guests love",
+    "Johnson's Lodge Manali offers events membership",
+    "site:reddit.com Johnson's Lodge Manali",
+    "Johnson's Lodge Manali experience blog",
+    "What are the unmet needs or gaps in Johnson's Lodge Manali?",
+    "How does Johnson's Lodge Manali's pricing and booking process compare to its competitors?",
+    "What are the most common complaints and negative experiences of customers at Johnson's Lodge Manali?"
+  ],
+  "iterations": 2,
+  "quality_score": 0.95,
+  "quality_decision": "RESEARCH SUFFICIENT",
+  "missing_information": [],
+  "evidence": [
+    {
+      "evidence_id": "evidence_1",
+      "claim": "Very dirty and unhygienic rooms and common areas, bad quality of service, the chef seems to have a major attitude problem and no quality control and food always delayed. Everything was spotlessly clean, and you could see the attention to detail in every corner of the room. The décor created such a cozy and relaxing atmosphere, making it a perfect place to unwind after exploring Manali.",
+      "source_title": "JOHNSONS HOTEL - Recent Reviews, Photos 2026 - TripadvisorStay at Johnson’s Lodge and SPA Manali - Review of Johnson ...JOHNSON LODGE & SPA (Manali) - Recent Reviews, Photos, Rate ...JOHNSON LODGE MANALI - Prices & Hotel Reviews (India)Johnson Lodge Reviews - Priceline.comJOHNSON LODGE & SPA - UPDATED 2026 Hotel ... - Tripadvisor",
+      "source_url": "https://www.tripadvisor.co.uk/Hotel_Review-g297618-d4452777-Reviews-Johnsons_Hotel-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_2",
+      "claim": "Yes, Johnson Lodge Manali is popular with guests booking family stays. Ideally set in the center of Manāli, Johnson Lodge Manali has air-conditioned rooms with free WiFi, free private parking and room service. Is Johnsons a good place to stay in Manali? Neha Saxena This was the third time that i was staying at johnsons and it has not changed at all.",
+      "source_title": "Johnson Lodge & Spa from $58. Manali Hotel Deals & Reviews ...JOHNSON LODGE 𝗕𝗢𝗢𝗞 Manali Hotel - MakeMyTripJohnson Lodge & Spa vs Hotel Rajhans Manali | TripexpertHotel Johnson Lodge Manali, India - www.trivago.inJohnson Lodge | Manali 2026 UPDATED DEALS FROM ... - Agoda",
+      "source_url": "https://www.kayak.com/Manali-Hotels-Johnson-Lodge-Spa.351309.ksp",
+      "source_type": "web",
+      "platform": "kayak.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_3",
+      "claim": "Johnsons Hotel, Manali: See 59 traveller reviews, 103 candid photos, and great deals for Johnsons Hotel, ranked #59 of 348 B&Bs / inns in Manali and rated 4 of 5 at Tripadvisor. Johnson Lodge & Spa: Stay at Johnson’s Lodge and SPA Manali - See 9 traveler reviews, 109 candid photos, and great deals for Johnson Lodge & Spa at Tripadvisor.",
+      "source_title": "JOHNSONS HOTEL - Recent Reviews, Photos 2026 - TripadvisorStay at Johnson’s Lodge and SPA Manali - Review of Johnson ...JOHNSON LODGE & SPA (Manali) - Recent Reviews, Photos, Rate ...JOHNSON LODGE MANALI - Prices & Hotel Reviews (India)Johnson Lodge Reviews - Priceline.comJOHNSON LODGE & SPA - UPDATED 2026 Hotel ... - Tripadvisor",
+      "source_url": "https://www.tripadvisor.co.uk/Hotel_Review-g297618-d4452777-Reviews-Johnsons_Hotel-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_4",
+      "claim": "A special thank you to the team for helping deliver my clothes parcel—your support and kindness meant a lot and truly shows how much you care about your guests. Overall, a fantastic stay. I would highly recommend Johnson Lodge to anyone visiting Manali and would love to stay here again! Posted March 12, 2026 G Guest User Verified by 10 . 0 Took a lunch break at The Johnson's . The cuisine is delectable.",
+      "source_title": "Johnson Lodge & Spa (Manali) - Prices, Reviews & Deals 2026 ...Johnson Lodge & Spa from $58. Manali Hotel Deals & Reviews ...JOHNSON LODGE 𝗕𝗢𝗢𝗞 Manali Hotel - MakeMyTripJohnson Lodge & Spa vs Hotel Rajhans Manali | TripexpertHotel Johnson Lodge Manali, India - www.trivago.inJohnson Lodge | Manali 2026 UPDATED DEALS FROM ... - Agoda",
+      "source_url": "https://www.trip.com/hotels/manali-hotel-detail-776290/johnson-lodge-and-spa/",
+      "source_type": "web",
+      "platform": "trip.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_5",
+      "claim": "Ideally set in the center of Manāli, Johnson Lodge Manali has air-conditioned rooms with free WiFi, free private parking and room service. Is Johnsons a good place to stay in Manali? Neha Saxena This was the third time that i was staying at johnsons and it has not changed at all. It’s a beautiful place, close to mall road so accessibility is a plus.",
+      "source_title": "Johnson Lodge & Spa (Manali) - Prices, Reviews & Deals 2026 ...Johnson Lodge & Spa from $58. Manali Hotel Deals & Reviews ...JOHNSON LODGE 𝗕𝗢𝗢𝗞 Manali Hotel - MakeMyTripJohnson Lodge & Spa vs Hotel Rajhans Manali | TripexpertHotel Johnson Lodge Manali, India - www.trivago.inJohnson Lodge | Manali 2026 UPDATED DEALS FROM ... - Agoda",
+      "source_url": "https://www.trip.com/hotels/manali-hotel-detail-776290/johnson-lodge-and-spa/",
+      "source_type": "web",
+      "platform": "trip.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_6",
+      "claim": "Johnsons Hotel, Manali: See 59 traveller reviews, 103 user photos and best deals for Johnsons Hotel, ranked #59 of 348 Manali B&Bs / inns and rated 4 of 5 at Tripadvisor.",
+      "source_title": "JOHNSONS HOTEL (Manali) - Hotel Reviews & Photos - Tripadvisor",
+      "source_url": "https://www.tripadvisor.in/Hotel_Review-g297618-d4452777-Reviews-Johnsons_Hotel-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_7",
+      "claim": "Johnson Lodge & Spa, Manali: See 9 traveller reviews, 109 user photos and best deals for Johnson Lodge & Spa, ranked #125 of 349 Manali hotels, rated 4 of 5 at Tripadvisor. Book Johnson Lodge Manali, Manali on Tripadvisor: See traveler reviews, 5 candid photos, and great deals for Johnson Lodge Manali at Tripadvisor.",
+      "source_title": "JOHNSONS HOTEL - Recent Reviews, Photos 2026 - TripadvisorStay at Johnson’s Lodge and SPA Manali - Review of Johnson ...JOHNSON LODGE & SPA (Manali) - Recent Reviews, Photos, Rate ...JOHNSON LODGE MANALI - Prices & Hotel Reviews (India)Johnson Lodge Reviews - Priceline.comJOHNSON LODGE & SPA - UPDATED 2026 Hotel ... - Tripadvisor",
+      "source_url": "https://www.tripadvisor.co.uk/Hotel_Review-g297618-d4452777-Reviews-Johnsons_Hotel-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_8",
+      "claim": "Staff behaviour is good, and they know all types of languages too. Deliciously Baked, Generously Topped After reading a lot of positive reviews of the place, we decided to visit it, and we were NOT disappointed at all. Very good pizzas, nicely baked, with a sufficient amount of cheese and toppings. Sip & Sway Once you enter the Bar and Restaurant at Johnson's, the Vibes are awesome! The ambience and music are good.",
+      "source_title": "Johnson Lodge & Spa | Hotel in Manali near Mall Road",
+      "source_url": "https://www.johnsonlodge.co/",
+      "source_type": "web",
+      "platform": "johnsonlodge.co",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_9",
+      "claim": "Adjacent to the famous Johnson cafe, this place also has in-house Multi cuisine dining with bar. They have a SPA and a small garden. Rooms have good view, facing snow clad mountains. and have live music band playing every evening. We enjoyed their hospitality for 2 nights.",
+      "source_title": "Stay at Johnson’s Lodge and SPA Manali - Review of Johnson ...",
+      "source_url": "https://www.tripadvisor.in/ShowUserReviews-g297618-d1182853-r889893582-Johnson_Lodge_Spa-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_10",
+      "claim": "Follow our socials we organise regular events. To see whats happening follow our socials @johnsonscafemanali Scan for Location.",
+      "source_title": "Johnsons Hotel",
+      "source_url": "https://www.johnsonshotel.com/",
+      "source_type": "web",
+      "platform": "johnsonshotel.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_11",
+      "claim": "Here is a coffee cup from Howard Johnson’s Motor Lodge once located in Skokie, IL. They are still in business, but only a few Howard Johnson's are in the Chicagoland area.",
+      "source_title": "Here is a coffee cup from Howard Johnson’s Motor Lodge once ...",
+      "source_url": "https://www.reddit.com/r/chicago/comments/90vic3/here_is_a_coffee_cup_from_howard_johnsons_motor/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_12",
+      "claim": "The entire property is very well maintained and reflects a lot of care and effort from the team.",
+      "source_title": "JOHNSONS HOTEL - Recent Reviews, Photos 2026 - TripadvisorStay at Johnson’s Lodge and SPA Manali - Review of Johnson ...JOHNSON LODGE & SPA (Manali) - Recent Reviews, Photos, Rate ...JOHNSON LODGE MANALI - Prices & Hotel Reviews (India)Johnson Lodge Reviews - Priceline.comJOHNSON LODGE & SPA - UPDATED 2026 Hotel ... - Tripadvisor",
+      "source_url": "https://www.tripadvisor.co.uk/Hotel_Review-g297618-d4452777-Reviews-Johnsons_Hotel-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    }
+  ],
+  "findings": [
+    {
+      "finding_id": "finding_1",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Guests have reported very dirty and unhygienic rooms and common areas, bad quality of service, and the chef seems to have a major attitude problem.",
+      "evidence_ids": [
+        "evidence_1"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding mentions dirty and unhygienic rooms, but the evidence also states that everything was spotlessly clean and attention to detail was high."
+    },
+    {
+      "finding_id": "finding_2",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the décor, which creates a cozy and relaxing atmosphere, making it a perfect place to unwind after exploring Manali.",
+      "evidence_ids": [
+        "evidence_1"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question about what guests praise about the lodge."
+    },
+    {
+      "finding_id": "finding_3",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose Johnson's Lodge because of its central location, air-conditioned rooms with free WiFi, and free private parking.",
+      "evidence_ids": [
+        "evidence_2",
+        "evidence_5"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question about what makes customers choose this place over others."
+    },
+    {
+      "finding_id": "finding_4",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Guests return to Johnson's Lodge because of its loyalty program and regular events.",
+      "evidence_ids": [
+        "evidence_8",
+        "evidence_10"
+      ],
+      "confidence": 0.6,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question about how it attracts customers and encourages them to return."
+    },
+    {
+      "finding_id": "finding_5",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking process is convenient, with guests able to book rooms and pay online.",
+      "evidence_ids": [
+        "evidence_2",
+        "evidence_5"
+      ],
+      "confidence": 0.5,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding mentions guests wishing for better quality control, but the evidence also states that everything was spotlessly clean and attention to detail was high."
+    },
+    {
+      "finding_id": "finding_6",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests wish for better quality control and more attention to detail in the food service.",
+      "evidence_ids": [
+        "evidence_1",
+        "evidence_4"
+      ],
+      "confidence": 0.4,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding mentions guests wishing for better quality control, but the evidence also states that everything was spotlessly clean and attention to detail was high."
+    },
+    {
+      "finding_id": "finding_7",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "The hotel's location in Manali may not be ideal for all guests, as it is not directly in the city center.",
+      "evidence_ids": [
+        "evidence_12"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_8",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose Johnson's Lodge over others due to its well-maintained property and care from the team.",
+      "evidence_ids": [
+        "evidence_12"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence only mentions the property being well-maintained, but does not directly state that guests choose the hotel over others."
+    },
+    {
+      "finding_id": "finding_9",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The hotel's property is very well maintained and reflects a lot of care and effort from the team.",
+      "evidence_ids": [
+        "evidence_12"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is directly supported by the evidence, which states that the hotel's property is very well maintained and reflects a lot of care and effort from the team."
+    },
+    {
+      "finding_id": "finding_10",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The hotel offers a loyalty program to encourage repeat guests.",
+      "evidence_ids": [
+        "evidence_12"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_11",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking process is not explicitly mentioned in the evidence, but it is assumed to be convenient based on the hotel's positive reviews.",
+      "evidence_ids": [
+        "evidence_12"
+      ],
+      "confidence": 0.6,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding is not directly related to the research question, as the booking process is not explicitly mentioned in the evidence."
+    },
+    {
+      "finding_id": "finding_12",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests may wish for more amenities or services, such as a restaurant or spa facilities, to enhance their stay.",
+      "evidence_ids": [
+        "evidence_12"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    }
+  ],
+  "insights": [
+    "Guests appreciate the hotel's cozy atmosphere and well-maintained property.",
+    "Guests choose Johnson's Lodge due to its central location, air-conditioned rooms, and loyalty program.",
+    "The hotel's regular events and loyalty program are key drivers of customer retention."
+  ]
+}

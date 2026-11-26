@@ -1,19 +1,11 @@
-from app.graph.state import ResearchState
+"""
+Routing helpers.
 
+There used to be a second, different should_continue() here that returned
+"research" - a route the graph does not define. The one real implementation
+lives in nodes.py; this module just re-exports it so old imports keep working.
+"""
 
-def should_continue(state: ResearchState) -> str:
-    """
-    Decide where the graph goes after quality_check.
-    """
+from app.graph.nodes import should_continue  # noqa: F401
 
-    sources = state.get("sources", [])
-    iteration = state.get("iteration", 0)
-    max_iterations = state.get("max_iterations", 3)
-
-    if len(sources) >= 10:
-        return "insights"
-
-    if iteration >= max_iterations:
-        return "insights"
-
-    return "research"
+__all__ = ["should_continue"]

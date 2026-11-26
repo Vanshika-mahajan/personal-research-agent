@@ -1,6 +1,8 @@
 from pydantic import BaseModel, Field
 
+
 class SearchResult(BaseModel):
+    """One search hit, optionally enriched with the full page text."""
 
     title: str
 
@@ -9,7 +11,15 @@ class SearchResult(BaseModel):
     snippet: str
 
     source_type: str = "web"
-    
+
+    # Human readable channel, e.g. "Booking.com", "Instagram".
+    platform: str = ""
+
+    # Full page text when the page could be downloaded (else empty and the
+    # snippet is all we have).
+    content: str = ""
+
+
 class Source(BaseModel):
     title: str = Field(
         min_length=1,
@@ -23,7 +33,10 @@ class Source(BaseModel):
 
     source_type: str = Field(
         default="web",
-        description="Type of source, such as web, review, booking, or social.",
+        description=(
+            "Type of source: web, review, booking, social, maps, "
+            "forum, video, official or manual."
+        ),
     )
 
     credibility: float = Field(

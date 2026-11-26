@@ -1,0 +1,1017 @@
+{
+  "key": "platform-airbnb",
+  "kind": "topic",
+  "run_id": "platform-airbnb-20261126-034303",
+  "created_at": "2026-11-26T03:45:54",
+  "manual_note_count": 0,
+  "question": {
+    "question": "What do travellers and hosts find convenient, confusing or unnecessarily complicated about Airbnb in India?",
+    "depth": "standard",
+    "max_iterations": 2,
+    "mode": "topic",
+    "subject": "Airbnb (stays in India)",
+    "place": "",
+    "aspects": [
+      "Something convenient about booking or using the platform",
+      "Something confusing or unnecessarily complicated about booking, paying or cancelling",
+      "Fees, hidden charges or pricing surprises",
+      "What owners / hosts complain about"
+    ],
+    "official_domains": [],
+    "seed_urls": [],
+    "seed_queries": [
+      "Airbnb India booking cleaning fee service fee confusing complaints",
+      "Airbnb India host problems commission cancellation",
+      "Airbnb vs Booking.com convenience India travellers",
+      "site:reddit.com Airbnb India booking experience",
+      "Airbnb listing not as described India complaints"
+    ]
+  },
+  "iterations": 1,
+  "quality_score": 1.0,
+  "missing_information": [],
+  "evidence": [
+    {
+      "evidence_id": "evidence_1",
+      "claim": "Hosts cannot charge fees simply because a particular checkout chore was left undone; qualifying damage claims follow a separate process. Separately, Airbnb is moving home hosts towards a single service fee deducted from their payouts. Most hosts on that structure pay 15.5%. Under the split model, platform charges were divided between host and guest. The eventual guest price depends on how the host prices the stay.",
+      "source_title": "Why Airbnb Faces Backlash: Cleaning Fees, Housing Shortages ...",
+      "source_url": "https://openthemagazine.com/business/explained-why-is-airbnb-facing-a-backlash-from-guests-hosts-and-cities",
+      "source_type": "web",
+      "platform": "openthemagazine.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_2",
+      "claim": "Table of Contents Toggle How the Two Platforms Began Business Model: Home-Sharing Marketplace vs. Global Travel Platform Fees and Pricing: What Travelers Actually Pay Cancellation Policies: A More Nuanced Difference Inventory and Global Reach Financial Performance: Booking Holdings’ Larger Scale Leadership: Chesky vs. Fogel Which Platform Is Actually Better for Travelers? Airbnb vs.",
+      "source_title": "Airbnb vs Booking.com: Which Is Better for Travelers?",
+      "source_url": "https://thebrandhopper.com/lets-compare/airbnb-vs-booking-com-which-is-better-for-travelers/",
+      "source_type": "web",
+      "platform": "thebrandhopper.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_3",
+      "claim": "What is Airbnb, and who decides how a stay works? Airbnb connects guests with hosts offering rooms, apartments, houses and other accommodation. Hosts set prices and house rules within the platform’s policies and applicable local law. Airbnb handles the booking process and charges service fees. Open Magazine Latest Edition is Out Now!",
+      "source_title": "Why Airbnb Faces Backlash: Cleaning Fees, Housing Shortages ...",
+      "source_url": "https://openthemagazine.com/business/explained-why-is-airbnb-facing-a-backlash-from-guests-hosts-and-cities",
+      "source_type": "web",
+      "platform": "openthemagazine.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_4",
+      "claim": "Why Airbnb Faces Backlash: Cleaning Fees, Housing Shortages, and New Policies Explained Logo Go Ad-Free Home India World Politics Sports Business Quick Take Columns Entertainment Art & Culture Lifestyle Books Technology Open Avenues Archives Movies Cover Stories Features Health Digital Stories Logo Home India World Politics Entertainment Sports Logo NewsWrap Home Business EXPLAINED | Why Is Airbnb Facing a Backlash From Guests, Hosts and Cities?",
+      "source_title": "Why Airbnb Faces Backlash: Cleaning Fees, Housing Shortages ...",
+      "source_url": "https://openthemagazine.com/business/explained-why-is-airbnb-facing-a-backlash-from-guests-hosts-and-cities",
+      "source_type": "web",
+      "platform": "openthemagazine.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_5",
+      "claim": "The final price depends on the property, dates, room or accommodation type, taxes, service fees, cleaning or property charges, promotions and cancellation conditions. The most useful comparison is to check the same or equivalent property, dates and cancellation terms on both platforms and compare the final price. Q: Which company is bigger, Airbnb or Booking.com?",
+      "source_title": "Airbnb vs Booking.com: Which Is Better for Travelers?",
+      "source_url": "https://thebrandhopper.com/lets-compare/airbnb-vs-booking-com-which-is-better-for-travelers/",
+      "source_type": "web",
+      "platform": "thebrandhopper.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_6",
+      "claim": "Fees and Pricing: What Travelers Actually Pay Fee structures have been changing on both platforms, particularly Airbnb. Airbnb is currently transitioning home hosts toward a single service-fee structure . Under the single-fee model, the entire Airbnb service fee is deducted from the host’s payout rather than being split between the host and guest.",
+      "source_title": "Airbnb vs Booking.com: Which Is Better for Travelers?",
+      "source_url": "https://thebrandhopper.com/lets-compare/airbnb-vs-booking-com-which-is-better-for-travelers/",
+      "source_type": "web",
+      "platform": "thebrandhopper.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_7",
+      "claim": "Airbnb announced in July 2026 that hosts using property-management or channel-management software who had not already moved to the single-fee model would switch on October 13, 2026. Airbnb vs Booking.com fee comparison chart Booking.com operates primarily through commission and merchant arrangements with accommodation partners.",
+      "source_title": "Airbnb vs Booking.com: Which Is Better for Travelers?",
+      "source_url": "https://thebrandhopper.com/lets-compare/airbnb-vs-booking-com-which-is-better-for-travelers/",
+      "source_type": "web",
+      "platform": "thebrandhopper.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_8",
+      "claim": "Mar 20, 2024 · Booking.com often wins for last-minute bookings, while Airbnb may require more advance planning. Cleaning fees on Airbnb can be significantly higher and less transparent than on Booking.com. Safety requires diligence on both sites. Check reviews, platform protections, and consider travel insurance.",
+      "source_title": "Booking.com vs. Airbnb for Traveler’s: Which Site is Best?",
+      "source_url": "https://thetraveltinker.com/accommodation/booking-com-vs-airbnb/",
+      "source_type": "web",
+      "platform": "thetraveltinker.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_9",
+      "claim": "Travelers may still encounter taxes, property-specific charges, resort fees, cleaning fees or other costs on either platform, depending on the property and destination. Consequently, the most meaningful comparison is the final price and cancellation terms for the specific booking.",
+      "source_title": "Airbnb vs Booking.com: Which Is Better for Travelers?",
+      "source_url": "https://thebrandhopper.com/lets-compare/airbnb-vs-booking-com-which-is-better-for-travelers/",
+      "source_type": "web",
+      "platform": "thebrandhopper.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_10",
+      "claim": "Hosts generally cannot ask guests to wash and put away dishes, strip beds or start laundry. Sign up for Open Magazine's ad-free experience Enjoy uninterrupted access to premium content and insights. Go Ad-Free The change has divided guests and hosts in the US and UK. Travellers question paying a cleaning fee while doing household work. Some hosts fear extra cleaning costs and delays before the next guests arrive.",
+      "source_title": "Why Airbnb Faces Backlash: Cleaning Fees, Housing Shortages ...",
+      "source_url": "https://openthemagazine.com/business/explained-why-is-airbnb-facing-a-backlash-from-guests-hosts-and-cities",
+      "source_type": "web",
+      "platform": "openthemagazine.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_11",
+      "claim": "How-to • Host Cancel a reservation as a host There are times when you may need to cancel a stay, service or experience that guests have already booked. Here’s how to cancel reservations the right way. How-to • Host Cancelling a reservation as a host without adverse consequences If hosts have a valid reason, they can cancel a reservation without incurring cancellation fees or other consequences from cancelling.",
+      "source_title": "Cancellations - Airbnb Help Centre",
+      "source_url": "https://www.airbnb.co.in/help/topic/1461",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_12",
+      "claim": "Related topics How reservations work Changes as a home host Guest refunds and reimbursements Issues with a reservation Messaging your guests Site Footer Support Help Centre Get help with a safety issue AirCover Anti-discrimination Disability support Cancellation options Report neighbourhood concern Hosting Airbnb your home Airbnb your hotel Airbnb your experience Airbnb your service AirCover for Hosts Hosting resources Community Centre Hosting responsibly Join a free hosting class Find a co‑host Refer a host Airbnb 2026 Summer Release Newsroom Careers Investors Airbnb.org emergency stays Footer section English (IN) ₹ INR © 2026 Airbnb, Inc. · Privacy · · Terms · · Company details English (IN",
+      "source_title": "Cancellations - Airbnb Help Centre",
+      "source_url": "https://www.airbnb.co.in/help/topic/1461",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_13",
+      "claim": "May 24, 2026 · When a guest cancels, Airbnb charges the host nothing: the cancellation policy on your listing decides how much the guest gets back and how much you keep, which we price in which Airbnb cancellation policy pays hosts. The table below separates the two. After it, the post works the math at each tier, lists what is in and out of the fee base, covers the long-stay exception, and prices the ...",
+      "source_title": "Airbnb Host Cancellation Fee 2026: If You Cancel a Guest",
+      "source_url": "https://www.bookwithhaven.com/blog/airbnb-host-cancellation-fees-what-it-actually-costs-to-cancel-a-guest",
+      "source_type": "web",
+      "platform": "bookwithhaven.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_14",
+      "claim": "Booking.com began with hotel reservations and has developed into one of the world’s largest online travel platforms, with millions of hotels, homes, apartments and other places to stay. Here’s a fact-checked, financially grounded comparison of how Airbnb and Booking.com compare today — from their origins and business models to fees, cancellation policies, inventory, financial performance and leadership.",
+      "source_title": "Airbnb vs Booking.com: Which Is Better for Travelers?",
+      "source_url": "https://thebrandhopper.com/lets-compare/airbnb-vs-booking-com-which-is-better-for-travelers/",
+      "source_type": "web",
+      "platform": "thebrandhopper.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_15",
+      "claim": "In Tokyo’s Toshima ward, Airbnb has warned hosts that tighter restrictions on eligible operating dates take effect on December 16, including for existing listings covered by the rules. That can affect whether a property is available for particular dates. Brazil’s Superior Court of Justice ruled in May that the short-stay use at issue required approval from two-thirds of condominium owners.",
+      "source_title": "Why Airbnb Faces Backlash: Cleaning Fees, Housing Shortages ...",
+      "source_url": "https://openthemagazine.com/business/explained-why-is-airbnb-facing-a-backlash-from-guests-hosts-and-cities",
+      "source_type": "web",
+      "platform": "openthemagazine.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_16",
+      "claim": "If the host cancels a reservation that has multiple guest bookings, such as multiple spots booked on a walking tour, then the cancellation fee will be based on the total booking value of all guest reservations made for the cancelled date(s) and time(s). Cancellation fees are typically withheld from the host’s next payout(s) as provided in the Payments Terms of Service .",
+      "source_title": "Host Cancellation Policy for Services and Experiences - Airbnb",
+      "source_url": "https://www.airbnb.co.in/help/article/2039",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_17",
+      "claim": "Authorities are using licensing requirements, limits on operating dates and approval from other property owners. Spain imposed a €64 million fine in December 2025 over licensing and advertising infringements. Airbnb disputes the penalty. Its August 2026 financial filing says it arranged a €70 million guarantee in May to suspend enforcement during the court proceedings.",
+      "source_title": "Why Airbnb Faces Backlash: Cleaning Fees, Housing Shortages ...",
+      "source_url": "https://openthemagazine.com/business/explained-why-is-airbnb-facing-a-backlash-from-guests-hosts-and-cities",
+      "source_type": "web",
+      "platform": "openthemagazine.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_18",
+      "claim": "The host will be required to provide documentation or other evidence to Airbnb to verify that they are cancelling for a valid reason. We will determine whether to waive any fees and other consequences after evaluating the available evidence. In general, the host will not receive a payout for the cancelled reservation, even if we waive fees or other consequences.",
+      "source_title": "Host Cancellation Policy for Services and Experiences - Airbnb",
+      "source_url": "https://www.airbnb.co.in/help/article/2039",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_19",
+      "claim": "The fees and other consequences set out in this Policy are intended to reflect the costs and other impacts of these cancellations on guests, the broader host community and Airbnb. We will waive the fees and, in some cases, the other consequences if the host cancels because of a Major Disruptive Event or certain valid reasons beyond the host’s control.",
+      "source_title": "Host Cancellation Policy for Services and Experiences - Airbnb",
+      "source_url": "https://www.airbnb.co.in/help/article/2039",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_20",
+      "claim": "This Policy sets out the host’s responsibility to honour confirmed service or experience reservations on Airbnb. If a host cancels a confirmed service or experience reservation, or is found to be responsible for a cancellation under this Policy, Airbnb may impose fees and other consequences.",
+      "source_title": "Host Cancellation Policy for Services and Experiences - Airbnb",
+      "source_url": "https://www.airbnb.co.in/help/article/2039",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_21",
+      "claim": "There are times when you may need to cancel a stay, service or experience that guests have already booked. Here’s how to cancel reservations the right way. If hosts have a valid reason, they can cancel a reservation without incurring cancellation fees or other consequences from cancelling.",
+      "source_title": "Cancellations - Airbnb Help Centre",
+      "source_url": "https://www.airbnb.co.in/help/topic/1461",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_22",
+      "claim": "Oct 28, 2026 · What Airbnb, Booking.com and your own booking website really cost a homestay in India in 2026, what each one gives you, and how to mix them sensibly.",
+      "source_title": "Airbnb vs Booking.com vs Direct Booking: India 2026",
+      "source_url": "https://sitesplaced.com/blog/airbnb-vs-booking-com-vs-direct-booking-india",
+      "source_type": "web",
+      "platform": "sitesplaced.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_23",
+      "claim": "Jun 23, 2026 · Comparing Booking.com and Airbnb on price, comfort, safety, flexibility and local rules so you can match the right platform to your travel style.",
+      "source_title": "Booking.com vs Airbnb: Which Fits Your Travel Style Best?",
+      "source_url": "https://www.thetraveler.org/booking-com-vs-airbnb-which-fits-your-travel-style-best/",
+      "source_type": "web",
+      "platform": "thetraveler.org",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_24",
+      "claim": "Home All topics Your reservations as a home host Cancellations Cancellations Community policy Major Disruptive Events Policy Find details on how cancellations are handled when unforeseen events beyond your control arise after booking and make it impracticable or illegal to complete your reservation. Community policy • Home host Host Cancellation Policy for homes Please read our Host Cancellation Policy for homes.",
+      "source_title": "Cancellations - Airbnb Help Centre",
+      "source_url": "https://www.airbnb.co.in/help/topic/1461",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_25",
+      "claim": "In this article Cancellation fees Other consequences Situations in which fees may be waived When a host may be found responsible for a cancellation Other things to consider Cancellation fees If a host cancels a confirmed reservation or is found to be responsible for a cancellation under this Policy, we may charge a cancellation fee of 20% of the booking value of the cancelled service or experience.",
+      "source_title": "Host Cancellation Policy for Services and Experiences - Airbnb",
+      "source_url": "https://www.airbnb.co.in/help/article/2039",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_26",
+      "claim": "When a host may be found responsible for a cancellation A host of a service or experience may be responsible for a cancellation when it occurs because the execution of the service or experience differs substantially from how it was described at the time of booking. In these cases, the host may be subject to the fees and other adverse consequences laid out in this Policy, regardless of who initiates the cancellation.",
+      "source_title": "Host Cancellation Policy for Services and Experiences - Airbnb",
+      "source_url": "https://www.airbnb.co.in/help/article/2039",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_27",
+      "claim": "I know India is a huge place with hundreds of diverse cultures and people but I don’t know what part they come from so just looking for pretty generic things if there are any. Airbnb works much better in tourist heavy areas like Goa and not so much in offbeat destinations like Gokarna. It's unfortunate, but a lot of people prefer to use Oyo instead of Airbnb. Should I rent or rent a house on Airbnb?",
+      "source_title": "Airbnb @Darjeeling, India. A nice cozy experience up in the ...How has your Airbnb experience been in Delhi? : r/delhi - RedditHosting peoples from India for the first time : r/AirBnB - RedditAirbnb hosts of India - How profitable is it to Rent your ...",
+      "source_url": "https://www.reddit.com/r/digitalnomad/comments/sjllik/airbnb_darjeeling_india_a_nice_cozy_experience_up/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_28",
+      "claim": "If you want rental money without any work then obviously go for a long term rental. If you have some spare time or have a delegation framework then airbnb is definitely much more lucrative than a long term rental. Interesting! Have all the guests you've hosted so far been good? Can you make a lot of money on Airbnb? It really depends on the location of your property and it's offering vs pricing.",
+      "source_title": "Airbnb @Darjeeling, India. A nice cozy experience up in the ...How has your Airbnb experience been in Delhi? : r/delhi - RedditHosting peoples from India for the first time : r/AirBnB - RedditAirbnb hosts of India - How profitable is it to Rent your ...",
+      "source_url": "https://www.reddit.com/r/digitalnomad/comments/sjllik/airbnb_darjeeling_india_a_nice_cozy_experience_up/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_29",
+      "claim": "Airbnb also has an insurance cover plus an escrow system to safeguard both the owner as well as the guest in terms of theft/ unruly behaviour. There is also a public review system where the owner as well as the guest rate each other after a trip. Is Airbnb better than a long term rental? Airbnb has a pretty exhaustive list for what a good host should do.",
+      "source_title": "Airbnb @Darjeeling, India. A nice cozy experience up in the ...How has your Airbnb experience been in Delhi? : r/delhi - RedditHosting peoples from India for the first time : r/AirBnB - RedditAirbnb hosts of India - How profitable is it to Rent your ...",
+      "source_url": "https://www.reddit.com/r/digitalnomad/comments/sjllik/airbnb_darjeeling_india_a_nice_cozy_experience_up/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_30",
+      "claim": "Rules • Home host Cancellation policy for home hosts in Germany If you’re a home host in Germany, you should review your local laws and confirm that your cancellation policy is in compliance. ) ₹ INR © 2026 Airbnb, Inc. · Privacy · · Terms · · Company details © 2026 Airbnb, Inc. · Privacy · · Terms · · Company details English (IN) ₹ INR",
+      "source_title": "Cancellations - Airbnb Help Centre",
+      "source_url": "https://www.airbnb.co.in/help/topic/1461",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_31",
+      "claim": "For any reservations made before 21 April 2025, the cleaning fee will be returned in full if you cancel before check-in. Did this help? Related articles How-to • Home host Add cleaning fees to home listings Cleaning fees help hosts account for extra expenses they have getting their listing ready before guests arrive or depart.",
+      "source_title": "Cleaning fees - Airbnb Help Centre",
+      "source_url": "https://www.airbnb.co.in/help/article/2812",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_32",
+      "claim": "So we paid 14.8k INR for three nights - this was via Airbnb for 4 people and then I extended my stay for the whole apartment at 2k per night. In talks with the host for a longer stay pricing Are they safer than hotels? Planning to book one soon. Are the Airbnb listings around 2k safe? Please share your experiences. Thanks!!",
+      "source_title": "Airbnb @Darjeeling, India. A nice cozy experience up in the ...How has your Airbnb experience been in Delhi? : r/delhi - RedditHosting peoples from India for the first time : r/AirBnB - RedditAirbnb hosts of India - How profitable is it to Rent your ...",
+      "source_url": "https://www.reddit.com/r/digitalnomad/comments/sjllik/airbnb_darjeeling_india_a_nice_cozy_experience_up/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_33",
+      "claim": "Put in dates when you search! When you do, taxes and fees are included. Since cleaning fees are per-trip, and prices are different on each day, without dates, the system can't calculate the fees. A $100 cleaning fee is $50/night for a 2-night stay, but only $10/night for a 10-night stay.",
+      "source_title": "Cleaning & service fees are ruining Airbnb. : r/AirBnB - Reddit",
+      "source_url": "https://www.reddit.com/r/AirBnB/comments/ogyz7c/cleaning_service_fees_are_ruining_airbnb/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_34",
+      "claim": "Home All topics Payments and pricing Pricing and fees Cleaning fees How-to • Guest Cleaning fees Who doesn’t like arriving at a clean and tidy space? A cleaning fee is a one-off charge that’s set by the host for cleaning a home. The cleaning fee is part of the total price .",
+      "source_title": "Cleaning fees - Airbnb Help Centre",
+      "source_url": "https://www.airbnb.co.in/help/article/2812",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_35",
+      "claim": "Definitely recommend airbnb as long as you have some basic things covered from your end. Airbnb has a pretty exhaustive list for what a good host should do. If you want rental money without any work then obviously go for a long term rental.",
+      "source_title": "AirBnB hosts of India. How has your experience been?",
+      "source_url": "https://www.reddit.com/r/india/comments/7y929e/airbnb_hosts_of_india_how_has_your_experience_been/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_36",
+      "claim": "Oct 23, 2026 · However, Airbnb guests have for years complained that, on top of being forced to carry out onerous household chores while on vacation, many Airbnb property hosts charge extravagant cleaning...",
+      "source_title": "Airbnb sets down rules to stop hosts from forcing guests to ...",
+      "source_url": "https://www.thehindu.com/sci-tech/technology/airbnb-sets-down-rules-to-stop-hosts-from-forcing-guests-to-clean-homes/article71615386.ece",
+      "source_type": "web",
+      "platform": "thehindu.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_37",
+      "claim": "4 days ago · While Airbnb offers a more personalized experience, Booking.com provides convenience and reliability. Your choice depends on whether you prioritize unique stays or comprehensive travel services.",
+      "source_title": "Airbnb vs Booking.com: Best Choice 2026",
+      "source_url": "https://www.whisperingtravel.com/blog/airbnb-vs-booking-com-which-one-is-better",
+      "source_type": "web",
+      "platform": "whisperingtravel.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_38",
+      "claim": "Dec 2, 2024 · The Delhi State Consumer Disputes Redressal Commission bench of Justice Sangita Dhingra Sehgal (President) and Ms. Pinki (Judicial Member) held Airbnb India Private Ltd. liable for...",
+      "source_title": "Delhi State Commission Holds Airbnb India liable For ...",
+      "source_url": "https://www.livelaw.in/consumer-cases/delhi-state-commission-holds-airbnb-india-liable-for-cancellation-of-confirmed-booking-276928",
+      "source_type": "web",
+      "platform": "livelaw.in",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_39",
+      "claim": "The Resolution Center makes it easy for hosts and guests to request or send money to one another for things related to an Airbnb home, service, or experience.",
+      "source_title": "Request or send money in the Resolution Center - Airbnb",
+      "source_url": "https://www.airbnb.com/help/article/3591",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_40",
+      "claim": "Airbnb vs Booking.com: Best Choice 2026 Newsletter",
+      "source_title": "Airbnb vs Booking.com: Best Choice 2026",
+      "source_url": "https://www.whisperingtravel.com/blog/airbnb-vs-booking-com-which-one-is-better",
+      "source_type": "web",
+      "platform": "whisperingtravel.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_41",
+      "claim": "If you cancel during the free cancellation period (if applicable) for your reservation, the full cleaning fee will be returned as part of your refund. If you cancel outside of the free cancellation period for your reservation, the cleaning fee is considered part of the nightly price and any refund of the cleaning fee will be based on the host’s cancellation policy.",
+      "source_title": "Cleaning fees - Airbnb Help Centre",
+      "source_url": "https://www.airbnb.co.in/help/article/2812",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_42",
+      "claim": "Airbnb: Holiday Rentals, Cabins, Beach Houses, Unique Homes & Experiences Help Centre Search Suggestions will show after typing in the search input. Use the up and down arrows to review. Use enter to select. If the selection is a phrase, that phrase will be submitted to search. If the suggestion is a link, the browser will navigate to that page.",
+      "source_title": "Cleaning fees - Airbnb Help Centre",
+      "source_url": "https://www.airbnb.co.in/help/article/2812",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_43",
+      "claim": "How-to • Home host Understanding the extended cancellation option Protect your earnings while giving guests flexibility with an extended cancellation option. How-to • Home host Opt out of offering an extended cancellation option Some home listings automatically offer an extended cancellation option, but hosts can opt out if they choose.",
+      "source_title": "Cancellations - Airbnb Help Centre",
+      "source_url": "https://www.airbnb.co.in/help/topic/1461",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_44",
+      "claim": "The hospitality industry in India is arguably among the best in the world, offering guests unmatched care, assistance, and respect. When Indians move abroad, they often expect the same high standards of hospitality.",
+      "source_title": "Growing Indian Community on Airbnb - Challenging to Satisfy",
+      "source_url": "https://www.reddit.com/r/AirBnBHosts/comments/1dihw53/growing_indian_community_on_airbnb_challenging_to/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_45",
+      "claim": "Fyi, I personally don't stay anywhere with a rating less than 4.8 on Airbnb. Anything below that is usually not that great, but obviously it depends on the city and your personal circumstances.",
+      "source_title": "Are cheap Airbnbs worth it? : r/india - Reddit",
+      "source_url": "https://www.reddit.com/r/india/comments/xi6q8b/are_cheap_airbnbs_worth_it/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_46",
+      "claim": "Are they safer than hotels? Planning to book one soon. Are the Airbnb listings around 2k safe? Please share your experiences. Thanks!!",
+      "source_title": "How has your Airbnb experience been in Delhi? : r/delhi - Reddit",
+      "source_url": "https://www.reddit.com/r/delhi/comments/13or62a/how_has_your_airbnb_experience_been_in_delhi/",
+      "source_type": "forum",
+      "platform": "Reddit",
+      "origin": "snippet",
+      "confidence": 0.55
+    },
+    {
+      "evidence_id": "evidence_47",
+      "claim": "Dec 1, 2025 · Our research shows that if your listing has a cleaning fee, guests will hold it to a higher standard of cleanliness, and that can lead to more scrutiny when they review their stay. If you choose to add a cleaning fee, it raises the total price of a stay and is visible to guests as a separate charge at checkout.",
+      "source_title": "Everything you need to know about cleaning fees - Airbnb",
+      "source_url": "https://www.airbnb.co.in/resources/hosting-homes/a/everything-you-need-to-know-about-cleaning-fees-470",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_48",
+      "claim": "22 hours ago · Vacation rental platforms make a strong case over standard hotels, connecting travelers with everything from beachfront condos to cozy mountain cabins. You'll usually get more space and privacy - and often better value - than a comparable hotel.",
+      "source_title": "Booking.com vs Airbnb for November 2026 | Best Vacation ...",
+      "source_url": "https://www.topconsumerreviews.com/best-vacation-rental-sites/compare/booking-com-vs-airbnb.php",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_49",
+      "claim": "For any reservations booked prior to April 21, 2025, the cleaning fee will be returned in full if you cancel before check-in. Did this help? A cleaning fee is a one-time fee for cleaning the space you stay in. This fee is set by the host.",
+      "source_title": "Cleaning fees - Airbnb Help Center",
+      "source_url": "https://www.airbnb.com/help/article/2812",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_50",
+      "claim": "The cleaning fee is part of the total price. If you cancel during the free cancellation period (if applicable) for your reservation, the full cleaning fee will be returned as part of your refund.",
+      "source_title": "Cleaning fees - Airbnb Help Centre",
+      "source_url": "https://www.airbnb.co.in/help/article/2812",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_51",
+      "claim": "If a host cancels a reservation or another Reservation Issue disrupts a guest’s stay, the host will receive no payout or will have their payout reduced by the amount refunded to their guest.",
+      "source_title": "Rebooking and refund policy for homes - Airbnb Help Center",
+      "source_url": "https://www.airbnb.com/help/article/2868",
+      "source_type": "booking",
+      "platform": "Airbnb",
+      "origin": "snippet",
+      "confidence": 0.65
+    }
+  ],
+  "findings": [
+    {
+      "finding_id": "finding_1",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Hosts cannot charge fees simply because a particular checkout chore was left undone; qualifying damage claims follow a separate process.",
+      "evidence_ids": [
+        "evidence_1"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding states hosts cannot charge fees simply because a particular checkout chore was left undone, but the evidence only mentions a separate process for qualifying damage claims and the transition to a single service-fee structure. The finding does not directly answer the research question about convenience, confusion, or complications."
+    },
+    {
+      "finding_id": "finding_2",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some hosts fear extra cleaning costs and delays before the next guests arrive.",
+      "evidence_ids": [
+        "evidence_10"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states some hosts fear extra cleaning costs and delays before the next guests arrive, and the evidence directly supports this claim (evidence_10). The finding directly answers the research question about what hosts find confusing or unnecessarily complicated about Airbnb."
+    },
+    {
+      "finding_id": "finding_3",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The final price depends on the property, dates, room or accommodation type, taxes, service fees, cleaning or property charges, promotions and cancellation conditions.",
+      "evidence_ids": [
+        "evidence_5",
+        "evidence_9"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states the final price depends on various factors, and the evidence directly supports this claim (evidence_5, evidence_9). The finding directly answers the research question about the complexity of pricing on Airbnb."
+    },
+    {
+      "finding_id": "finding_4",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Cleaning fees on Airbnb can be significantly higher and less transparent than on Booking.com.",
+      "evidence_ids": [
+        "evidence_8"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states cleaning fees on Airbnb can be significantly higher and less transparent than on Booking.com, and the evidence directly supports this claim (evidence_8). The finding directly answers the research question about fees and pricing on Airbnb."
+    },
+    {
+      "finding_id": "finding_5",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Airbnb is transitioning home hosts toward a single service-fee structure.",
+      "evidence_ids": [
+        "evidence_6",
+        "evidence_7"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states Airbnb is transitioning home hosts toward a single service-fee structure, and the evidence directly supports this claim (evidence_6, evidence_7). The finding directly answers the research question about changes in Airbnb's fee structure."
+    },
+    {
+      "finding_id": "finding_6",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Booking.com operates primarily through commission and merchant arrangements with accommodation partners.",
+      "evidence_ids": [
+        "evidence_7"
+      ],
+      "confidence": 0.8,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding states Booking.com operates primarily through commission and merchant arrangements with accommodation partners, which is not directly related to the research question about what travellers and hosts find convenient, confusing or unnecessarily complicated about Airbnb in India."
+    },
+    {
+      "finding_id": "finding_7",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Airbnb hosts may find the cancellation policy confusing, as it depends on the type of reservation and the host's specific policy.",
+      "evidence_ids": [
+        "evidence_13",
+        "evidence_16"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_8",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some hosts complain that Airbnb's cancellation policy can be unfair, as it may result in them losing money if a guest cancels at the last minute.",
+      "evidence_ids": [
+        "evidence_17",
+        "evidence_19"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Some hosts complain that Airbnb's cancellation policy can be unfair, as it may result in them losing money if a guest cancels at the last minute. Evidence_17 and Evidence_19 support this finding."
+    },
+    {
+      "finding_id": "finding_9",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Airbnb's cancellation policy can be complicated, as it requires hosts to provide documentation or evidence to verify that they are cancelling for a valid reason.",
+      "evidence_ids": [
+        "evidence_18",
+        "evidence_20"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "While Evidence_18 states that hosts must provide documentation to verify a valid reason for cancellation, it does not directly support the finding that the policy is complicated. However, it is relevant to the research question as it highlights a potential issue with the policy."
+    },
+    {
+      "finding_id": "finding_10",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Some guests praise Airbnb's flexibility in terms of cancellation policies, as it allows hosts to adjust their policies to suit their specific needs.",
+      "evidence_ids": [
+        "evidence_11",
+        "evidence_12"
+      ],
+      "confidence": 0.6,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Some guests praise Airbnb's flexibility in terms of cancellation policies, as it allows hosts to adjust their policies to suit their specific needs. Evidence_11 and Evidence_12 support this finding."
+    },
+    {
+      "finding_id": "finding_11",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Cancellation fees may be waived if a host has a valid reason for cancelling a reservation.",
+      "evidence_ids": [
+        "evidence_21",
+        "evidence_25"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Cancellation fees may be waived if a host has a valid reason for cancelling a reservation. Evidence_21 and Evidence_25 support this finding."
+    },
+    {
+      "finding_id": "finding_12",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The cancellation process can be complex, with multiple steps and potential consequences for both hosts and guests.",
+      "evidence_ids": [
+        "evidence_21",
+        "evidence_26"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "While Evidence_21 and Evidence_26 discuss the complexity of the cancellation process, they do not directly support the finding that the process is complex. However, it is relevant to the research question as it highlights a potential issue with the platform."
+    },
+    {
+      "finding_id": "finding_13",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Airbnb offers an insurance cover to safeguard both hosts and guests.",
+      "evidence_ids": [
+        "evidence_29"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_14",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The platform has a public review system where hosts and guests rate each other after a trip.",
+      "evidence_ids": [
+        "evidence_29"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_15",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some guests prefer to use Oyo instead of Airbnb, especially in offbeat destinations.",
+      "evidence_ids": [
+        "evidence_27"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_16",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The platform's pricing and fees can be confusing, with hidden charges and unexpected costs.",
+      "evidence_ids": [
+        "evidence_22",
+        "evidence_28"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_17",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some hosts may be responsible for cancellation fees if they cancel a confirmed reservation.",
+      "evidence_ids": [
+        "evidence_25",
+        "evidence_26"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Some hosts may be responsible for cancellation fees if they cancel a confirmed reservation. Evidence_25 and Evidence_26 support this finding."
+    },
+    {
+      "finding_id": "finding_18",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The platform's cancellation policy can be complex and may lead to confusion for both hosts and guests.",
+      "evidence_ids": [
+        "evidence_21",
+        "evidence_24"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The platform's cancellation policy can be complex and may lead to confusion for both hosts and guests. Evidence_21 and Evidence_24 support this finding."
+    },
+    {
+      "finding_id": "finding_19",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Without dates, the system can't calculate the fees, leading to confusion for guests.",
+      "evidence_ids": [
+        "evidence_33"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Finding is relevant, but evidence does not sufficiently support the claim that the system can't calculate fees without dates."
+    },
+    {
+      "finding_id": "finding_20",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some hosts charge extravagant cleaning fees, forcing guests to carry out onerous household chores.",
+      "evidence_ids": [
+        "evidence_36"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence supports finding that hosts charge extravagant cleaning fees, forcing guests to carry out onerous household chores."
+    },
+    {
+      "finding_id": "finding_21",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The Resolution Center makes it easy for hosts and guests to request or send money to one another.",
+      "evidence_ids": [
+        "evidence_39"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Finding is not relevant to the user's research question, as it only describes a feature of the Resolution Center."
+    },
+    {
+      "finding_id": "finding_22",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The cleaning fee is part of the total price, which can be confusing for guests.",
+      "evidence_ids": [
+        "evidence_34"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence supports finding that the cleaning fee is part of the total price, which can be confusing for guests."
+    },
+    {
+      "finding_id": "finding_23",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "The Delhi State Consumer Disputes Redressal Commission held Airbnb India liable for cancellation of confirmed bookings.",
+      "evidence_ids": [
+        "evidence_38"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence supports finding that Airbnb India was held liable for cancellation of confirmed bookings."
+    },
+    {
+      "finding_id": "finding_24",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The search input on Airbnb's Help Centre will show suggestions after typing, but guests may find it confusing to use the up and down arrows to review and select.",
+      "evidence_ids": [
+        "evidence_42"
+      ],
+      "confidence": 0.9,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "Finding is relevant to the user's research question, but it does not directly answer any of the aspects (convenience, confusion, fees, etc.)."
+    },
+    {
+      "finding_id": "finding_25",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Guests may find the lack of clear information about cleaning fees and cancellation policies confusing and frustrating.",
+      "evidence_ids": [
+        "evidence_41",
+        "evidence_43"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding states that guests find the lack of clear information about cleaning fees and cancellation policies confusing and frustrating. However, evidence_41 and evidence_43 provide information about the free cancellation period and the host's cancellation policy, which may not directly support the finding. Evidence_47 also mentions that guests will hold the host's listing to a higher standard of cleanliness if a cleaning fee is added, but this does not directly address the lack of clear information about cleaning fees and cancellation policies."
+    },
+    {
+      "finding_id": "finding_26",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the unique and diverse range of listings available on Airbnb, including beachfront condos and cozy mountain cabins.",
+      "evidence_ids": [
+        "evidence_48"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states that guests praise the unique and diverse range of listings available on Airbnb, including beachfront condos and cozy mountain cabins. Evidence_48 directly supports this finding, stating that vacation rental platforms make a strong case over standard hotels, connecting travelers with everything from beachfront condos to cozy mountain cabins."
+    },
+    {
+      "finding_id": "finding_27",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The extended cancellation option may be confusing for guests who are not familiar with it.",
+      "evidence_ids": [
+        "evidence_43"
+      ],
+      "confidence": 0.6,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding states that the extended cancellation option may be confusing for guests who are not familiar with it. However, this finding does not directly address any of the aspects mentioned in the research question (convenience, confusion, fees, etc.)."
+    },
+    {
+      "finding_id": "finding_28",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "The cleaning fee is a one-time fee set by the host and is part of the total price.",
+      "evidence_ids": [
+        "evidence_47",
+        "evidence_49"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states that the cleaning fee is a one-time fee set by the host and is part of the total price. Evidence_47 and evidence_49 directly support this finding, stating that the cleaning fee is a one-time fee for cleaning the space and is set by the host."
+    },
+    {
+      "finding_id": "finding_29",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "If a host cancels a reservation or another Reservation Issue disrupts a guest’s stay, the host will receive no payout or will have their payout reduced by the amount refunded to their guest.",
+      "evidence_ids": [
+        "evidence_51"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states that if a host cancels a reservation or another Reservation Issue disrupts a guest’s stay, the host will receive no payout or will have their payout reduced by the amount refunded to their guest. Evidence_51 directly supports this finding, stating that if a host cancels a reservation or another Reservation Issue disrupts a guest’s stay, the host will receive no payout or will have their payout reduced by the amount refunded to their guest."
+    },
+    {
+      "finding_id": "finding_30",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Hosts may experience financial losses due to cancellations or disruptions, which can be a significant concern for their business.",
+      "evidence_ids": [
+        "evidence_51"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding states that hosts may experience financial losses due to cancellations or disruptions, which can be a significant concern for their business. However, evidence_51 only mentions that the host will receive no payout or will have their payout reduced by the amount refunded to their guest, but does not provide information about the financial losses experienced by hosts. Evidence_51 does not directly support this finding."
+    },
+    {
+      "finding_id": "finding_31",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The Rebooking and refund policy for homes on Airbnb can be confusing for hosts and guests, as it outlines specific rules and procedures for cancellations and refunds.",
+      "evidence_ids": [
+        "evidence_51"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence only mentions the payout policy, but does not directly address the confusion caused by the rebooking and refund policy."
+    },
+    {
+      "finding_id": "finding_32",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The lack of clear communication about cancellation policies and refunds can lead to confusion and frustration for both hosts and guests.",
+      "evidence_ids": [
+        "evidence_51"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question by highlighting a lack of clear communication about cancellation policies and refunds, which can lead to confusion and frustration for both hosts and guests."
+    }
+  ],
+  "insights": [
+    "Airbnb's cancellation policy can be complex and may lead to confusion for both hosts and guests.",
+    "Some hosts charge extravagant cleaning fees, forcing guests to carry out onerous household chores.",
+    "The platform's pricing structure can be confusing, with multiple fees and charges that depend on the property, dates, and room type."
+  ],
+  "coverage": [
+    {
+      "channel": "Google Maps / Google reviews",
+      "source_type": "maps",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Not readable automatically (login / JavaScript). Paste real reviews or captions with the `note` command."
+    },
+    {
+      "channel": "Instagram / Facebook",
+      "source_type": "social",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Not readable automatically (login / JavaScript). Paste real reviews or captions with the `note` command."
+    },
+    {
+      "channel": "Official website",
+      "source_type": "official",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Booking platforms (Booking.com, Hostelworld, Zostel, MakeMyTrip, Airbnb ...)",
+      "source_type": "booking",
+      "passages": 22,
+      "sources": 8,
+      "status": "full",
+      "note": "Full text read"
+    },
+    {
+      "channel": "Review sites (Tripadvisor, Zomato ...)",
+      "source_type": "review",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Forums (Reddit, Quora)",
+      "source_type": "forum",
+      "passages": 9,
+      "sources": 6,
+      "status": "snippet",
+      "note": "Search-engine snippets only (no full page text)"
+    },
+    {
+      "channel": "Blogs & articles",
+      "source_type": "web",
+      "passages": 20,
+      "sources": 9,
+      "status": "full",
+      "note": "Full text read"
+    },
+    {
+      "channel": "Notes you added by hand",
+      "source_type": "manual",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    }
+  ],
+  "report_path": "/Users/vanshikamahajan/Documents/personal-research-agent/research/reports/platform-airbnb-20261126-034303.md",
+  "title": "Airbnb (stays in India)"
+}

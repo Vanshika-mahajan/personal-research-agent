@@ -1,0 +1,635 @@
+{
+  "place": "Manali",
+  "created_at": "2026-11-26T03:56:37",
+  "params": {
+    "stays": 3,
+    "cafes": 2,
+    "min_sites": 3,
+    "min_reviews": 50,
+    "allow_thin": false,
+    "probe": true
+  },
+  "notes": [
+    "Only 2 of the 3 requested stays had enough visible material (at least 3 independent sources and 50+ reviews, or 5+ sources). The list was not padded. Lower --min-reviews / --min-sources, use --allow-thin, or add notes yourself with the `note` command.",
+    "27 of 50 searches failed (usually rate limiting); results may be incomplete. Re-run with --rediscover after a few minutes.",
+    "Edited by hand: stopped studying Bravia Hotel Manali Inn, Manāli.",
+    "Edited by hand: added Cafe Amigos."
+  ],
+  "stays": {
+    "requested": 3,
+    "selected": [
+      {
+        "name": "Sterling Manali",
+        "key": "sterling",
+        "kind": "stay",
+        "type": "hotel",
+        "score": 49.8,
+        "components": {
+          "reach": 12.0,
+          "volume": 30.1,
+          "rating": 7.7,
+          "history": 0.0
+        },
+        "sites": [
+          "Goibibo",
+          "MakeMyTrip",
+          "Tripadvisor",
+          "trip.com"
+        ],
+        "site_count": 4,
+        "total_reviews": 1516,
+        "avg_rating_5": 4.0,
+        "platforms": {
+          "Tripadvisor": {
+            "reviews": 1516,
+            "rating": "4/5",
+            "url": "https://www.tripadvisor.com/Hotel_Review-g11901504-d736079-Reviews-Sterling_Manali-Prini_Manali_Tehsil_Kullu_District_Himachal_Pradesh.html"
+          },
+          "Goibibo": {
+            "reviews": null,
+            "rating": "4.2/5",
+            "url": "https://www.goibibo.com/hotels/sterling-manali-hotel-in-manali-4879740492413485522/"
+          }
+        },
+        "earliest_year": null,
+        "age_years": null,
+        "thin": false,
+        "evidence_urls": [
+          "https://www.tripadvisor.com/Hotel_Review-g11901504-d736079-Reviews-Sterling_Manali-Prini_Manali_Tehsil_Kullu_District_Himachal_Pradesh.html",
+          "https://www.tripadvisor.in/Hotel_Review-g11901504-d736079-Reviews-Sterling_Manali-Prini_Manali_Tehsil_Kullu_District_Himachal_Pradesh.html",
+          "https://www.tripadvisor.co.uk/Hotel_Review-g11901504-d736079-Reviews-Sterling_Manali-Prini_Manali_Tehsil_Kullu_District_Himachal_Pradesh.html",
+          "https://www.makemytrip.com/hotels/review-of-sterling_manali-details-manali.html",
+          "https://www.tripadvisor.com/ShowUserReviews-g11901504-d736079-r881275065-Sterling_Manali-Prini_Manali_Tehsil_Kullu_District_Himachal_Pradesh.html",
+          "https://www.goibibo.com/hotels/sterling-manali-hotel-in-manali-4879740492413485522/",
+          "https://www.trip.com/hotels/manali-hotel-detail-3064588/sterling-manali/review.html"
+        ]
+      },
+      {
+        "name": "Bravia Hotel Manali Inn, Manāli",
+        "key": "bravia inn man li",
+        "kind": "stay",
+        "type": "hotel",
+        "score": 31.7,
+        "components": {
+          "reach": 18.0,
+          "volume": 9.9,
+          "rating": 3.8,
+          "history": 0.0
+        },
+        "sites": [
+          "Booking.com",
+          "Tripadvisor",
+          "airpaz.com",
+          "hotels21.com",
+          "skyscanner.co.in",
+          "skyscanner.com"
+        ],
+        "site_count": 6,
+        "total_reviews": 10,
+        "avg_rating_5": 3.0,
+        "platforms": {
+          "Tripadvisor": {
+            "reviews": 10,
+            "rating": "3/5",
+            "url": "https://www.tripadvisor.in/Hotel_Review-g297618-d27728398-Reviews-Moustache_Manali-Manali_Kullu_District_Himachal_Pradesh.html"
+          }
+        },
+        "earliest_year": null,
+        "age_years": null,
+        "thin": false,
+        "evidence_urls": [
+          "https://www.booking.com/hotel/in/the-manali-inn.html",
+          "https://www.skyscanner.com/hotels/india/manali-hotels/bravia-hotel-manali-inn/ht-117556743",
+          "https://www.skyscanner.co.in/hotels/india/manali-hotels/bravia-hotel-manali-inn/ht-117556743",
+          "https://www.booking.com/hotel/in/the-manali-inn.tl.html",
+          "https://www.tripadvisor.in/Hotel_Review-g297618-d27728398-Reviews-Moustache_Manali-Manali_Kullu_District_Himachal_Pradesh.html",
+          "https://www.airpaz.com/en/hotel/The-Manali-Inn.94272",
+          "https://www.hotels21.com/india/manali/the-manali-inn"
+        ]
+      }
+    ],
+    "reserves": [],
+    "rejected": [
+      {
+        "name": "Hotel Manali Palace",
+        "score": 43.9,
+        "site_count": 2,
+        "total_reviews": 1564,
+        "reason": "only 2 independent source(s) mention it (need 3)"
+      },
+      {
+        "name": "The Himalayan",
+        "score": 41.2,
+        "site_count": 2,
+        "total_reviews": 804,
+        "reason": "only 2 independent source(s) mention it (need 3)"
+      },
+      {
+        "name": "Asha Cottage",
+        "score": 25.8,
+        "site_count": 4,
+        "total_reviews": 0,
+        "reason": "no review count visible and fewer than 5 sources"
+      },
+      {
+        "name": "Aleo",
+        "score": 9.0,
+        "site_count": 3,
+        "total_reviews": 0,
+        "reason": "no platform listing or visible review count found (may not be a reviewable venue)"
+      },
+      {
+        "name": "Snow Line",
+        "score": 3.0,
+        "site_count": 1,
+        "total_reviews": 0,
+        "reason": "only 1 independent source(s) mention it (need 3)"
+      },
+      {
+        "name": "Welcomhotel By ITC Hotels, Hamsa Manali, Manāli",
+        "score": 3.0,
+        "site_count": 1,
+        "total_reviews": 0,
+        "reason": "only 1 independent source(s) mention it (need 3)"
+      },
+      {
+        "name": "Bros Hostel & Yaara Cafe",
+        "score": 3.0,
+        "site_count": 1,
+        "total_reviews": 0,
+        "reason": "no platform listing or visible review count found (may not be a reviewable venue)"
+      },
+      {
+        "name": "Clouds Valley",
+        "score": 3.0,
+        "site_count": 1,
+        "total_reviews": 0,
+        "reason": "not checked (ranked too low on first pass)"
+      },
+      {
+        "name": "Crest Manali River View",
+        "score": 3.0,
+        "site_count": 1,
+        "total_reviews": 0,
+        "reason": "not checked (ranked too low on first pass)"
+      },
+      {
+        "name": "December 2026",
+        "score": 3.0,
+        "site_count": 1,
+        "total_reviews": 0,
+        "reason": "not checked (ranked too low on first pass)"
+      },
+      {
+        "name": "Discover",
+        "score": 3.0,
+        "site_count": 1,
+        "total_reviews": 0,
+        "reason": "not checked (ranked too low on first pass)"
+      },
+      {
+        "name": "Dormigo",
+        "score": 3.0,
+        "site_count": 1,
+        "total_reviews": 0,
+        "reason": "not checked (ranked too low on first pass)"
+      },
+      {
+        "name": "Family Hotels",
+        "score": 3.0,
+        "site_count": 1,
+        "total_reviews": 0,
+        "reason": "not checked (ranked too low on first pass)"
+      },
+      {
+        "name": "Featured Hotels in Old Manali",
+        "score": 3.0,
+        "site_count": 1,
+        "total_reviews": 0,
+        "reason": "not checked (ranked too low on first pass)"
+      },
+      {
+        "name": "Firefly Hostel",
+        "score": 3.0,
+        "site_count": 1,
+        "total_reviews": 0,
+        "reason": "not checked (ranked too low on first pass)"
+      }
+    ],
+    "qualified": 2,
+    "shortfall": 1,
+    "final": [
+      "Sterling Manali"
+    ]
+  },
+  "cafes": {
+    "requested": 2,
+    "selected": [
+      {
+        "name": "Johnson's Cafe",
+        "key": "johnsons",
+        "kind": "cafe",
+        "type": "cafe",
+        "score": 76.3,
+        "components": {
+          "reach": 21.0,
+          "volume": 29.6,
+          "rating": 10.7,
+          "history": 15.0
+        },
+        "sites": [
+          "Google Maps",
+          "Tripadvisor",
+          "Zomato",
+          "district.in",
+          "holidify.com",
+          "travelcoffee.in",
+          "traveltriangle.com"
+        ],
+        "site_count": 7,
+        "total_reviews": 1340,
+        "avg_rating_5": 4.2,
+        "platforms": {
+          "Tripadvisor": {
+            "reviews": 670,
+            "rating": "4.2/5",
+            "url": "https://www.tripadvisor.in/Restaurant_Review-g297618-d2303879-Reviews-The_Johnson_s_Cafe-Manali_Kullu_District_Himachal_Pradesh.html"
+          },
+          "Zomato": {
+            "reviews": 670,
+            "rating": "4.2/5",
+            "url": "https://www.zomato.com/manali/the-johnsons-cafe-old-manali/reviews"
+          }
+        },
+        "earliest_year": 1997,
+        "age_years": 29,
+        "thin": false,
+        "evidence_urls": [
+          "https://travelcoffee.in/blog/best-cafes-in-manali",
+          "https://traveltriangle.com/blog/best-cafes-in-manali/",
+          "https://www.holidify.com/pages/cafes-in-manali-493.html",
+          "https://www.tripadvisor.com/Restaurant_Review-g297618-d2303879-Reviews-The_Johnson_s_Cafe-Manali_Kullu_District_Himachal_Pradesh.html",
+          "https://www.zomato.com/manali/the-johnsons-cafe-old-manali/reviews",
+          "https://www.tripadvisor.in/Restaurant_Review-g297618-d2303879-Reviews-The_Johnson_s_Cafe-Manali_Kullu_District_Himachal_Pradesh.html",
+          "https://www.zomato.com/manali/the-johnsons-cafe-old-manali",
+          "https://www.district.in/dining/manali/the-johnsons-cafe-old-manali"
+        ]
+      },
+      {
+        "name": "Cafe 1947",
+        "key": "1947",
+        "kind": "cafe",
+        "type": "cafe",
+        "score": 68.3,
+        "components": {
+          "reach": 21.0,
+          "volume": 35.0,
+          "rating": 12.3,
+          "history": 0.0
+        },
+        "sites": [
+          "JustDial",
+          "Tripadvisor",
+          "Zomato",
+          "holidify.com",
+          "restaurant-guru.in",
+          "travelcoffee.in",
+          "traveltriangle.com"
+        ],
+        "site_count": 7,
+        "total_reviews": 11837,
+        "avg_rating_5": 4.3,
+        "platforms": {
+          "Tripadvisor": {
+            "reviews": 11837,
+            "rating": "4.3/5",
+            "url": "https://www.tripadvisor.in/Restaurant_Review-g297618-d2304729-Reviews-Cafe_1947-Manali_Kullu_District_Himachal_Pradesh.html"
+          },
+          "Zomato": {
+            "reviews": null,
+            "rating": "4.3/5",
+            "url": "https://www.zomato.com/manali/cafe-1947-tibetan-colony"
+          }
+        },
+        "earliest_year": null,
+        "age_years": null,
+        "thin": false,
+        "evidence_urls": [
+          "https://travelcoffee.in/blog/best-cafes-in-manali",
+          "https://traveltriangle.com/blog/best-cafes-in-manali/",
+          "https://www.holidify.com/pages/cafes-in-manali-493.html",
+          "https://www.tripadvisor.in/Restaurant_Review-g297618-d2304729-Reviews-Cafe_1947-Manali_Kullu_District_Himachal_Pradesh.html",
+          "https://www.tripadvisor.com/Restaurant_Review-g297618-d2304729-Reviews-Cafe_1947-Manali_Kullu_District_Himachal_Pradesh.html",
+          "https://restaurant-guru.in/Cafe-1947-Manali",
+          "https://www.zomato.com/manali/cafe-1947-tibetan-colony",
+          "https://www.tripadvisor.ca/Restaurant_Review-g297618-d2304729-Reviews-Cafe_1947-Manali_Kullu_District_Himachal_Pradesh.html"
+        ]
+      }
+    ],
+    "reserves": [
+      {
+        "name": "Cafe Amigos",
+        "key": "amigos",
+        "kind": "cafe",
+        "type": "cafe",
+        "score": 61.6,
+        "components": {
+          "reach": 21.0,
+          "volume": 28.4,
+          "rating": 12.2,
+          "history": 0.0
+        },
+        "sites": [
+          "Tripadvisor",
+          "Zomato",
+          "holidify.com",
+          "restaurant-guru.in",
+          "travelcoffee.in",
+          "traveltriangle.com",
+          "wanderlog.com"
+        ],
+        "site_count": 7,
+        "total_reviews": 1005,
+        "avg_rating_5": 4.3,
+        "platforms": {
+          "Tripadvisor": {
+            "reviews": 1005,
+            "rating": "4.3/5",
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g297618-d1198775-Reviews-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html"
+          }
+        },
+        "earliest_year": null,
+        "age_years": null,
+        "thin": false,
+        "evidence_urls": [
+          "https://travelcoffee.in/blog/best-cafes-in-manali",
+          "https://traveltriangle.com/blog/best-cafes-in-manali/",
+          "https://www.holidify.com/pages/cafes-in-manali-493.html",
+          "https://wanderlog.com/list/geoCategory/18591/best-coffee-shops-and-best-cafes-in-manali",
+          "https://wanderlog.com/list/geoCategory/17009/best-coffee-shops-and-best-cafes-in-manali-tehsil",
+          "https://www.tripadvisor.com/Restaurant_Review-g297618-d1198775-Reviews-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html",
+          "https://www.tripadvisor.in/Restaurant_Review-g297618-d1198775-Reviews-Cafe_Amigos-Manali_Kullu_District_Himachal_Pradesh.html",
+          "https://restaurant-guru.in/Cafe-Amigos-Manali"
+        ]
+      },
+      {
+        "name": "4 Dylan's Toasted & Roasted Coffee House",
+        "key": "dylans toasted roasted coffee house",
+        "kind": "cafe",
+        "type": "cafe",
+        "score": 55.3,
+        "components": {
+          "reach": 21.0,
+          "volume": 23.1,
+          "rating": 11.2,
+          "history": 0.0
+        },
+        "sites": [
+          "Facebook",
+          "Tripadvisor",
+          "Zomato",
+          "holidify.com",
+          "restaurant-guru.in",
+          "traveltriangle.com",
+          "wanderlog.com"
+        ],
+        "site_count": 7,
+        "total_reviews": 276,
+        "avg_rating_5": 4.25,
+        "platforms": {
+          "Tripadvisor": {
+            "reviews": 138,
+            "rating": "4.2/5",
+            "url": "https://www.tripadvisor.in/Restaurant_Review-g297618-d1198804-Reviews-Dylan_s_Toasted_Roasted_Coffee_House-Manali_Kullu_District_Himachal_Pradesh.html"
+          },
+          "Zomato": {
+            "reviews": 138,
+            "rating": "4.3/5",
+            "url": "https://www.zomato.com/manali/dylans-old-manali"
+          }
+        },
+        "earliest_year": null,
+        "age_years": null,
+        "thin": false,
+        "evidence_urls": [
+          "https://traveltriangle.com/blog/best-cafes-in-manali/",
+          "https://www.holidify.com/pages/cafes-in-manali-493.html",
+          "https://wanderlog.com/list/geoCategory/18591/best-coffee-shops-and-best-cafes-in-manali",
+          "https://wanderlog.com/list/geoCategory/17009/best-coffee-shops-and-best-cafes-in-manali-tehsil",
+          "https://www.facebook.com/Dylans-Toasted-Roasted-Coffee-House-176585235715215/",
+          "https://www.tripadvisor.in/Restaurant_Review-g297618-d1198804-Reviews-Dylan_s_Toasted_Roasted_Coffee_House-Manali_Kullu_District_Himachal_Pradesh.html",
+          "https://www.tripadvisor.in/Restaurant_Review-g297618-d1198804-Reviews-or30-Dylan_s_Toasted_Roasted_Coffee_House-Manali_Kullu_District_Himachal_Pradesh.html",
+          "https://www.tripadvisor.co.uk/Restaurant_Review-g297618-d1198804-Reviews-or15-Dylan_s_Toasted_Roasted_Coffee_House-Manali_Kullu_District_Himachal_Pradesh.html"
+        ]
+      },
+      {
+        "name": "Drifter's Cafe",
+        "key": "drifters",
+        "kind": "cafe",
+        "type": "cafe",
+        "score": 52.1,
+        "components": {
+          "reach": 15.0,
+          "volume": 25.1,
+          "rating": 12.0,
+          "history": 0.0
+        },
+        "sites": [
+          "Tripadvisor",
+          "Zomato",
+          "holidify.com",
+          "travelcoffee.in",
+          "traveltriangle.com"
+        ],
+        "site_count": 5,
+        "total_reviews": 445,
+        "avg_rating_5": 4.3,
+        "platforms": {
+          "Tripadvisor": {
+            "reviews": 445,
+            "rating": "4.3/5",
+            "url": "https://www.tripadvisor.ca/ShowUserReviews-g297618-d2439544-r661570032-Drifters_Cafe-Manali_Kullu_District_Himachal_Pradesh.html"
+          }
+        },
+        "earliest_year": null,
+        "age_years": null,
+        "thin": false,
+        "evidence_urls": [
+          "https://travelcoffee.in/blog/best-cafes-in-manali",
+          "https://traveltriangle.com/blog/best-cafes-in-manali/",
+          "https://www.holidify.com/pages/cafes-in-manali-493.html",
+          "https://www.tripadvisor.com/Hotel_Review-g297618-d1509587-Reviews-Drifters_Cafe_Bar_Inn_by_The_Hidden_Tribe-Manali_Kullu_District_Himachal_Pradesh.html",
+          "https://www.tripadvisor.com/Restaurant_Review-g297618-d2439544-Reviews-or90-Drifters_Cafe-Manali_Kullu_District_Himachal_Pradesh.html",
+          "https://www.tripadvisor.in/Restaurant_Review-g297618-d2439544-Reviews-Drifters_Cafe_Bar_Inn_by_The_Hidden_Tribe-Manali_Kullu_District_Himachal_Pradesh.html",
+          "https://www.tripadvisor.in/Hotel_Review-g297618-d1509587-Reviews-Drifters_Cafe_Bar_Inn_by_The_Hidden_Tribe-Manali_Kullu_District_Himachal_Pradesh.html",
+          "https://www.tripadvisor.co.uk/Restaurant_Review-g297618-d2439544-Reviews-or90-Drifters_Cafe-Manali_Kullu_District_Himachal_Pradesh.html"
+        ]
+      },
+      {
+        "name": "Rasta Cafe",
+        "key": "rasta",
+        "kind": "cafe",
+        "type": "cafe",
+        "score": 50.9,
+        "components": {
+          "reach": 21.0,
+          "volume": 25.1,
+          "rating": 4.8,
+          "history": 0.0
+        },
+        "sites": [
+          "MouthShut",
+          "Tripadvisor",
+          "Zomato",
+          "holidify.com",
+          "restaurant-guru.in",
+          "traveltriangle.com",
+          "wanderlog.com"
+        ],
+        "site_count": 7,
+        "total_reviews": 447,
+        "avg_rating_5": 3.8,
+        "platforms": {
+          "Tripadvisor": {
+            "reviews": 447,
+            "rating": "3.8/5",
+            "url": "https://www.tripadvisor.com/Restaurant_Review-g11901506-d13942565-Reviews-Rasta_Cafe-Vashisht_Manali_Tehsil_Kullu_District_Himachal_Pradesh.html"
+          }
+        },
+        "earliest_year": null,
+        "age_years": null,
+        "thin": false,
+        "evidence_urls": [
+          "https://traveltriangle.com/blog/best-cafes-in-manali/",
+          "https://www.holidify.com/pages/cafes-in-manali-493.html",
+          "https://wanderlog.com/list/geoCategory/17009/best-coffee-shops-and-best-cafes-in-manali-tehsil",
+          "https://restaurant-guru.in/Rasta-Cafe-Manali",
+          "https://www.tripadvisor.com/Restaurant_Review-g11901506-d13942565-Reviews-Rasta_Cafe-Vashisht_Manali_Tehsil_Kullu_District_Himachal_Pradesh.html",
+          "https://www.mouthshut.com/product-reviews/rasta-cafe-tibetan-colony-manali-reviews-925937744",
+          "https://www.tripadvisor.com/ShowUserReviews-g11901506-d13942565-r846186073-Rasta_Cafe-Vashisht_Manali_Tehsil_Kullu_District_Himachal_Pradesh.html",
+          "https://wanderlog.com/place/details/1324986/rasta-cafe-manali"
+        ]
+      }
+    ],
+    "rejected": [
+      {
+        "name": "Cafe Amigos",
+        "score": 61.6,
+        "site_count": 7,
+        "total_reviews": 1005,
+        "reason": "eligible, ranked below the top picks (kept as a reserve)"
+      },
+      {
+        "name": "4 Dylan's Toasted & Roasted Coffee House",
+        "score": 55.3,
+        "site_count": 7,
+        "total_reviews": 276,
+        "reason": "eligible, ranked below the top picks (kept as a reserve)"
+      },
+      {
+        "name": "Drifter's Cafe",
+        "score": 52.1,
+        "site_count": 5,
+        "total_reviews": 445,
+        "reason": "eligible, ranked below the top picks (kept as a reserve)"
+      },
+      {
+        "name": "Rasta Cafe",
+        "score": 50.9,
+        "site_count": 7,
+        "total_reviews": 447,
+        "reason": "eligible, ranked below the top picks (kept as a reserve)"
+      },
+      {
+        "name": "Sunshine Cafe",
+        "score": 48.3,
+        "site_count": 6,
+        "total_reviews": 101,
+        "reason": "eligible but ranked below the reserves"
+      },
+      {
+        "name": "Fat Plate Cafe",
+        "score": 9.0,
+        "site_count": 3,
+        "total_reviews": 0,
+        "reason": "no platform listing or visible review count found (may not be a reviewable venue)"
+      },
+      {
+        "name": "The Lazy Dog Lounge",
+        "score": 9.0,
+        "site_count": 3,
+        "total_reviews": 0,
+        "reason": "does not look like a cafe (no cafe/coffee/bakery wording seen)"
+      },
+      {
+        "name": "Born Free Cafe",
+        "score": 6.0,
+        "site_count": 2,
+        "total_reviews": 0,
+        "reason": "not checked (ranked too low on first pass)"
+      },
+      {
+        "name": "Cafe Meraki",
+        "score": 6.0,
+        "site_count": 2,
+        "total_reviews": 0,
+        "reason": "not checked (ranked too low on first pass)"
+      },
+      {
+        "name": "Casa Bella Vista",
+        "score": 6.0,
+        "site_count": 2,
+        "total_reviews": 0,
+        "reason": "does not look like a cafe (no cafe/coffee/bakery wording seen)"
+      },
+      {
+        "name": "Kilta Cafe",
+        "score": 6.0,
+        "site_count": 2,
+        "total_reviews": 0,
+        "reason": "not checked (ranked too low on first pass)"
+      },
+      {
+        "name": "Martins",
+        "score": 6.0,
+        "site_count": 2,
+        "total_reviews": 0,
+        "reason": "does not look like a cafe (no cafe/coffee/bakery wording seen)"
+      },
+      {
+        "name": "15 Dana Coffee House and German Bakery",
+        "score": 6.0,
+        "site_count": 2,
+        "total_reviews": 0,
+        "reason": "not checked (ranked too low on first pass)"
+      },
+      {
+        "name": "28 Mingma's Coffee Shop & Cafe",
+        "score": 6.0,
+        "site_count": 2,
+        "total_reviews": 0,
+        "reason": "not checked (ranked too low on first pass)"
+      },
+      {
+        "name": "5 Rocky's Cafe",
+        "score": 6.0,
+        "site_count": 2,
+        "total_reviews": 0,
+        "reason": "not checked (ranked too low on first pass)"
+      }
+    ],
+    "qualified": 2,
+    "shortfall": 0,
+    "final": [
+      "Johnson's Cafe",
+      "Cafe 1947",
+      "Cafe Amigos"
+    ]
+  },
+  "search_stats": {
+    "queries": 50,
+    "results": 163,
+    "failed_queries": 27
+  },
+  "profiling_changes": []
+}

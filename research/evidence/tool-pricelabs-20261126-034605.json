@@ -1,0 +1,398 @@
+{
+  "run_id": "tool-pricelabs-20261126-034605",
+  "question": {
+    "question": "What intelligence does PriceLabs give hotel and hostel owners, and what do small independent owners find missing or too complex?",
+    "depth": "standard",
+    "max_iterations": 2,
+    "mode": "topic",
+    "subject": "PriceLabs",
+    "place": "",
+    "aspects": [
+      "A feature or kind of intelligence the tool provides",
+      "Pricing or cost of the tool",
+      "What owners say is missing, too complex or not suited to small properties"
+    ],
+    "official_domains": [],
+    "seed_urls": [],
+    "seed_queries": [
+      "PriceLabs features dynamic pricing hotels demand",
+      "PriceLabs market dashboard competitor rates neighbourhood data",
+      "PriceLabs review small hotel owners pros cons",
+      "site:reddit.com PriceLabs hotel owners experience"
+    ]
+  },
+  "queries": [
+    "PriceLabs features dynamic pricing hotels demand",
+    "PriceLabs market dashboard competitor rates neighbourhood data",
+    "PriceLabs review small hotel owners pros cons",
+    "site:reddit.com PriceLabs hotel owners experience"
+  ],
+  "iterations": 1,
+  "quality_score": 1.0,
+  "quality_decision": "RESEARCH SUFFICIENT",
+  "missing_information": [],
+  "evidence": [
+    {
+      "evidence_id": "evidence_1",
+      "claim": "market, not just last year’s numbers See Booking Curves OWNER-READY REPORTING Show Owners the Story, Not a Spreadsheet Hand owners something they trust Branded PDF reports with your logo and colors — the kind you can put in front of an owner or your team without reformatting a thing Keep everyone in the loop on autopilot Weekly summary emails land on their own, so owners and teammates always know what changed and why — without you pulling the numbers Explore AI Insights WORKS WITH YOUR PRICING Built to Work With Your Pricing Build a Comp Set once, use it everywhere When you price with PriceLabs, the Comp Sets you build here flow straight into Dynamic Pricing and Portfolio Analytics — no rebu",
+      "source_title": "Market Dashboards - PriceLabs",
+      "source_url": "https://hello.pricelabs.co/market-dashboards/",
+      "source_type": "web",
+      "platform": "hello.pricelabs.co",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_2",
+      "claim": "Yes, the Market Dashboard includes 8 KPIs, including Annual Revenue. Consider using PriceLabs’ Revenue Estimator Pro tool for detailed investment and revenue estimation. What are Comp Sets? Why do I need to create them? Comp Sets, or Competitive Sets, are groups of properties similar to yours in location, size, and amenities, which you can customize by filters and property features.",
+      "source_title": "Market Dashboards - PriceLabs",
+      "source_url": "https://hello.pricelabs.co/market-dashboards/",
+      "source_type": "web",
+      "platform": "hello.pricelabs.co",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_3",
+      "claim": "6 days ago · This review covers what PriceLabs actually does, how the algorithm works, what the key settings mean, and the honest answer to whether it’s worth the cost for your situation. Oct 21, 2026 · Is PriceLab the right Pricing Optimization solution for you? Explore 11 verified user reviews from people in industries like yours to make a confident choice.",
+      "source_title": "PriceLabs Reviews 2026. Verified Reviews, Pros & Cons | CapterraRead Customer Service Reviews of pricelabs.co - TrustpilotPriceLabs Review – Pros, Cons & Features 2026PriceLabs Review: Is It Worth It for Airbnb Hosts? (2026)PriceLab Reviews 2026. Verified Reviews, Pros & Cons | Capterra",
+      "source_url": "https://www.capterra.com/p/158348/PriceLabs/reviews/",
+      "source_type": "web",
+      "platform": "capterra.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_4",
+      "claim": "Read verified PriceLabs reviews to see real user feedback on pricing accuracy, portfolio analytics, support, and usability for a balanced view of pros and cons. 6 days ago · This review covers what PriceLabs actually does, how the algorithm works, what the key settings mean, and the honest answer to whether it’s worth the cost for your situation.",
+      "source_title": "PriceLabs Reviews November 2026: Details, Pricing ... - G2PriceLabs Reviews 2026. Verified Reviews, Pros & Cons | CapterraRead Customer Service Reviews of pricelabs.co - TrustpilotPriceLabs Review – Pros, Cons & Features 2026PriceLabs Review: Is It Worth It for Airbnb Hosts? (2026)PriceLab Reviews 2026. Verified Reviews, Pros & Cons | Capterra",
+      "source_url": "https://www.g2.com/products/pricelabs/reviews",
+      "source_type": "web",
+      "platform": "g2.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_5",
+      "claim": "PriceLabs Dynamic Pricing is a market pricing tool that focuses on optimizing nightly rates in real time based on demand, seasonality, and local events. While the Market Dashboard aids in strategic decision-making with a broader market view, Dynamic Pricing ensures daily rate adjustments for maximum revenue. Together, they offer a complete solution for managing and maximizing vacation rental revenue and performance.",
+      "source_title": "Market Dashboards - PriceLabs",
+      "source_url": "https://hello.pricelabs.co/market-dashboards/",
+      "source_type": "web",
+      "platform": "hello.pricelabs.co",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_6",
+      "claim": "You get one Market Dashboard free — no credit card required — when you add a listing to PriceLabs Dynamic Pricing. From there, you can add more dashboards or larger markets on a paid plan whenever you need them. Where does the data in the Market Dashboards come from? We collect publicly available short-term and mid-term vacation rental data from Airbnb and Vrbo, which is updated daily.",
+      "source_title": "Market Dashboards - PriceLabs",
+      "source_url": "https://hello.pricelabs.co/market-dashboards/",
+      "source_type": "web",
+      "platform": "hello.pricelabs.co",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_7",
+      "claim": "Learn how to use the PriceLabs Neighborhood Data feature to view local price and occupancy data and develop a competitive pricing strategy for your listing.",
+      "source_title": "Listing Neighborhood Data - Help Center",
+      "source_url": "https://help.pricelabs.co/portal/en/kb/articles/listing-market-data",
+      "source_type": "web",
+      "platform": "help.pricelabs.co",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_8",
+      "claim": "From Market View to Decision in Minutes 10,000 Listings per dashboard 200+ Ready-to-view markets 150+ Countries covered 40+ Comp set filters Trusted by Operators and Hosts Who Need to Be Right Mike Chen Property manager & realtor We use Market Dashboards, and it has a tool where it will show us the list of top-performing properties in the specific area code or specific resort that we want to compare.",
+      "source_title": "Market Dashboards - PriceLabs",
+      "source_url": "https://hello.pricelabs.co/market-dashboards/",
+      "source_type": "web",
+      "platform": "hello.pricelabs.co",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_9",
+      "claim": "While it doesn’t include direct booking data, it captures direct bookings by tracking OTA availability. Do PriceLabs Market Dashboards provide Airbnb statistics? Yes, PriceLabs Market Dashboards provide comprehensive Airbnb market data, with reports functioning like an Airbnb market analyzer. Are there pre-built dashboards for popular cities or markets? How do I access them? Yes. Simply search for your location.",
+      "source_title": "Market Dashboards - PriceLabs",
+      "source_url": "https://hello.pricelabs.co/market-dashboards/",
+      "source_type": "web",
+      "platform": "hello.pricelabs.co",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_10",
+      "claim": "Explore 250 verified user reviews from people in industries like yours to make a confident choice. Nov 7, 2026 · PriceLabs is a powerful revenue management & dynamic pricing platform for hospitality accommodations. Vacation rentals, hotels, aparthotels, RVs, and campgrounds use PriceLabs to optimize revenue, save valuable time, and access the latest market data.",
+      "source_title": "PriceLabs Reviews November 2026: Details, Pricing ... - G2PriceLabs Reviews 2026. Verified Reviews, Pros & Cons | CapterraRead Customer Service Reviews of pricelabs.co - TrustpilotPriceLabs Review – Pros, Cons & Features 2026PriceLabs Review: Is It Worth It for Airbnb Hosts? (2026)PriceLab Reviews 2026. Verified Reviews, Pros & Cons | Capterra",
+      "source_url": "https://www.g2.com/products/pricelabs/reviews",
+      "source_type": "web",
+      "platform": "g2.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_11",
+      "claim": "Nov 17, 2026 · PriceLabs is a powerful revenue management & dynamic pricing platform for hospitality accommodations. Vacation rentals, hotels, aparthotels, RVs, and campgrounds use PriceLabs to optimize revenue, save valuable time and access the latest market data. Jun 3, 2026 · Is PriceLabs the right Revenue Management solution for you?",
+      "source_title": "PriceLabs Reviews November 2026: Details, Pricing ... - G2PriceLabs Reviews 2026. Verified Reviews, Pros & Cons | CapterraRead Customer Service Reviews of pricelabs.co - TrustpilotPriceLabs Review – Pros, Cons & Features 2026PriceLabs Review: Is It Worth It for Airbnb Hosts? (2026)PriceLab Reviews 2026. Verified Reviews, Pros & Cons | Capterra",
+      "source_url": "https://www.g2.com/products/pricelabs/reviews",
+      "source_type": "web",
+      "platform": "g2.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_12",
+      "claim": "Vacation rentals, hotels, aparthotels, RVs, and campgrounds use PriceLabs to optimize revenue, save valuable time, and access the latest market data. Read verified PriceLabs reviews to see real user feedback on pricing accuracy, portfolio analytics, support, and usability for a balanced view of pros and cons.",
+      "source_title": "PriceLabs Reviews 2026. Verified Reviews, Pros & Cons | CapterraRead Customer Service Reviews of pricelabs.co - TrustpilotPriceLabs Review – Pros, Cons & Features 2026PriceLabs Review: Is It Worth It for Airbnb Hosts? (2026)PriceLab Reviews 2026. Verified Reviews, Pros & Cons | Capterra",
+      "source_url": "https://www.capterra.com/p/158348/PriceLabs/reviews/",
+      "source_type": "web",
+      "platform": "capterra.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_13",
+      "claim": "Jun 3, 2026 · Is PriceLabs the right Revenue Management solution for you? Explore 250 verified user reviews from people in industries like yours to make a confident choice. Nov 7, 2026 · PriceLabs is a powerful revenue management & dynamic pricing platform for hospitality accommodations.",
+      "source_title": "PriceLabs Reviews 2026. Verified Reviews, Pros & Cons | CapterraRead Customer Service Reviews of pricelabs.co - TrustpilotPriceLabs Review – Pros, Cons & Features 2026PriceLabs Review: Is It Worth It for Airbnb Hosts? (2026)PriceLab Reviews 2026. Verified Reviews, Pros & Cons | Capterra",
+      "source_url": "https://www.capterra.com/p/158348/PriceLabs/reviews/",
+      "source_type": "web",
+      "platform": "capterra.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_14",
+      "claim": "Nov 7, 2026 · PriceLabs is a powerful revenue management & dynamic pricing platform for hospitality accommodations. Vacation rentals, hotels, aparthotels, RVs, and campgrounds use PriceLabs to optimize revenue, save valuable time, and access the latest market data.",
+      "source_title": "Read Customer Service Reviews of pricelabs.co - TrustpilotPriceLabs Review – Pros, Cons & Features 2026PriceLabs Review: Is It Worth It for Airbnb Hosts? (2026)PriceLab Reviews 2026. Verified Reviews, Pros & Cons | Capterra",
+      "source_url": "https://www.trustpilot.com/review/pricelabs.co",
+      "source_type": "review",
+      "platform": "Trustpilot",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_15",
+      "claim": "Provides a neighborhood-level market snapshot for a specific listing, including base-price context and nearby market conditions. Returns structured JSON suited for integration-style analysis.",
+      "source_title": "Market Insights | PriceLabs | Documentation",
+      "source_url": "https://developers.pricelabs.co/mcp/tools/market-insights",
+      "source_type": "web",
+      "platform": "developers.pricelabs.co",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_16",
+      "claim": "PriceLabs’ Market Dashboards are automated, personalized tools for short- and mid-term rental (STR and MTR) operators, providing actionable insights into market trends and performance metrics.",
+      "source_title": "PriceLabs | Market Dashboard | Knowledge Base",
+      "source_url": "https://help.pricelabs.co/portal/en/kb/pricelabs/market-dashboards/market-dashboard",
+      "source_type": "web",
+      "platform": "help.pricelabs.co",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_17",
+      "claim": "Oct 21, 2026 · Is PriceLab the right Pricing Optimization solution for you? Explore 11 verified user reviews from people in industries like yours to make a confident choice.",
+      "source_title": "PriceLabs Reviews November 2026: Details, Pricing ... - G2PriceLabs Reviews 2026. Verified Reviews, Pros & Cons | CapterraRead Customer Service Reviews of pricelabs.co - TrustpilotPriceLabs Review – Pros, Cons & Features 2026PriceLabs Review: Is It Worth It for Airbnb Hosts? (2026)PriceLab Reviews 2026. Verified Reviews, Pros & Cons | Capterra",
+      "source_url": "https://www.g2.com/products/pricelabs/reviews",
+      "source_type": "web",
+      "platform": "g2.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_18",
+      "claim": "Get actionable market insights with PriceLabs' market dashboard. Track vacation rental trends, analyze competitor data, and make data-driven decisions.",
+      "source_title": "Market Dashboard: Vacation Rental Data - PriceLabs Tool",
+      "source_url": "https://hello.pricelabs.co/category/market-dashboard/",
+      "source_type": "web",
+      "platform": "hello.pricelabs.co",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_19",
+      "claim": "Each source comes back with the sub-options it needs — bedroom buckets for `NL`, the account's Market Dashboard reports for `MD` — and a source that is not available says why, so you can tell \"no Market Dashboards on this account\" apart from \"Competitor Listings needs at least 20 listings\".",
+      "source_title": "developers.pricelabs.co",
+      "source_url": "https://developers.pricelabs.co/mcp/tools/market-insights.md",
+      "source_type": "web",
+      "platform": "developers.pricelabs.co",
+      "origin": "snippet",
+      "confidence": 0.5
+    }
+  ],
+  "findings": [
+    {
+      "finding_id": "finding_1",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some owners find the tool too complex, especially for small properties.",
+      "evidence_ids": [
+        "evidence_3",
+        "evidence_4"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence mentions that the tool is too complex, but it does not explicitly state that it is too complex for small properties."
+    },
+    {
+      "finding_id": "finding_2",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some owners wish for more detailed investment and revenue estimation tools.",
+      "evidence_ids": [
+        "evidence_2"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence mentions that the tool includes a revenue estimator, but it does not explicitly state that it is too complex or missing for small properties."
+    },
+    {
+      "finding_id": "finding_3",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The tool requires owners to pull the numbers themselves, without being able to reformat the reports.",
+      "evidence_ids": [
+        "evidence_1"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence mentions that the tool requires owners to pull the numbers themselves, but it does not explicitly state that it is too complex."
+    },
+    {
+      "finding_id": "finding_4",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The tool provides branded PDF reports with the owner's logo and colors.",
+      "evidence_ids": [
+        "evidence_1"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is directly supported by the evidence, which mentions that the tool provides branded PDF reports with the owner's logo and colors."
+    },
+    {
+      "finding_id": "finding_5",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The tool provides weekly summary emails to keep owners and teammates informed.",
+      "evidence_ids": [
+        "evidence_1"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is directly supported by the evidence, which mentions that the tool provides weekly summary emails to keep owners and teammates informed."
+    },
+    {
+      "finding_id": "finding_6",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "The tool collects publicly available short-term and mid-term vacation rental data from Airbnb and Vrbo.",
+      "evidence_ids": [
+        "evidence_6"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is directly supported by the evidence, which mentions that the tool collects publicly available short-term and mid-term vacation rental data from Airbnb and Vrbo."
+    },
+    {
+      "finding_id": "finding_7",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some small independent owners find that PriceLabs is too complex and difficult to use.",
+      "evidence_ids": [
+        "evidence_11",
+        "evidence_17"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The finding is about the complexity of PriceLabs, but the evidence only talks about the platform's capabilities."
+    },
+    {
+      "finding_id": "finding_8",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some owners wish for a more user-friendly interface and easier integration with other tools.",
+      "evidence_ids": [
+        "evidence_11",
+        "evidence_19"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The finding is about the user-friendliness of PriceLabs, but the evidence only talks about the platform's capabilities."
+    },
+    {
+      "finding_id": "finding_9",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Some owners find that the booking process can be confusing and difficult to navigate.",
+      "evidence_ids": [
+        "evidence_11",
+        "evidence_17"
+      ],
+      "confidence": 0.5,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The finding is about the booking process, but the evidence only talks about the platform's capabilities."
+    },
+    {
+      "finding_id": "finding_10",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "PriceLabs provides a powerful revenue management & dynamic pricing platform for hospitality accommodations.",
+      "evidence_ids": [
+        "evidence_11",
+        "evidence_15"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence directly supports the finding and it answers the research question about the intelligence PriceLabs provides."
+    },
+    {
+      "finding_id": "finding_11",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "PriceLabs offers a neighborhood-level market snapshot for a specific listing, including base-price context and nearby market conditions.",
+      "evidence_ids": [
+        "evidence_15",
+        "evidence_16"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence directly supports the finding and it answers the research question about the intelligence PriceLabs provides."
+    },
+    {
+      "finding_id": "finding_12",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "PriceLabs offers a Market Dashboard that provides actionable insights into market trends and performance metrics.",
+      "evidence_ids": [
+        "evidence_16",
+        "evidence_18"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Evidence directly supports the finding and it answers the research question about the intelligence PriceLabs provides."
+    },
+    {
+      "finding_id": "finding_13",
+      "type": "PRICING",
+      "category": "PRICING",
+      "statement": "The pricing of PriceLabs is not explicitly stated in the available evidence.",
+      "evidence_ids": [
+        "evidence_11",
+        "evidence_17"
+      ],
+      "confidence": 0.4,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The pricing of PriceLabs is not explicitly stated in the available evidence."
+    }
+  ],
+  "insights": [
+    "PriceLabs provides branded PDF reports and weekly summary emails to keep owners informed, indicating a focus on retention and communication.",
+    "The tool offers a powerful revenue management and dynamic pricing platform, as well as a Market Dashboard with actionable insights, suggesting a strong focus on revenue growth and market analysis.",
+    "While the tool collects publicly available data from Airbnb and Vrbo, the confidence in this finding is high (1.0), indicating a solid foundation for data collection.",
+    "The lack of confidence in the retention finding (0.7) suggests that while the tool offers weekly summary emails, the impact on retention may be limited."
+  ]
+}

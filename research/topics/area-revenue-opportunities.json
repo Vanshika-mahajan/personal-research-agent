@@ -1,0 +1,1267 @@
+{
+  "key": "area-revenue-opportunities",
+  "kind": "topic",
+  "run_id": "area-revenue-opportunities-20261126-045102",
+  "created_at": "2026-11-26T04:56:18",
+  "manual_note_count": 0,
+  "question": {
+    "question": "What extra services and add-on revenue do hostels and small hotels in Manali or similar mountain destinations offer?",
+    "depth": "standard",
+    "max_iterations": 2,
+    "mode": "topic",
+    "subject": "Revenue opportunities - Manali",
+    "place": "",
+    "aspects": [
+      "What data or signals exist and how an owner can get them",
+      "A trend, event, price or fact relevant to the owner's decision",
+      "What is hard to find or missing"
+    ],
+    "official_domains": [],
+    "seed_urls": [],
+    "seed_queries": [
+      "hostel ancillary revenue ideas add-on services",
+      "Manali hostel activities rentals treks cafe workshops revenue",
+      "small hotel upsell ideas guests pay for",
+      "hostel events bonfire workshops revenue community"
+    ]
+  },
+  "iterations": 1,
+  "quality_score": 1.0,
+  "missing_information": [],
+  "evidence": [
+    {
+      "evidence_id": "evidence_1",
+      "claim": "Additional Services Look at all the services a hotel offers: do you find your guests asking for similar services? You’ll notice that customers at all hostels often request the same services; however, each has its way of handling them.",
+      "source_title": "Ancillary Revenue for Hostels - HostelTrends",
+      "source_url": "https://www.hosteltrends.com/article/ancillary-revenue-for-hostels",
+      "source_type": "web",
+      "platform": "hosteltrends.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_2",
+      "claim": "FreeGuides Pty Ltd · Sydney, Australia hello@freeguides.com Add as a preferred source on Google Product Digital compendium Eli, the AI receptionist Self-guided walking tours Events & excursions Bookable activities PMS integration & online check-in Guest group chat Analytics Plans and pricing Who it’s for Hotels Hostels Apartments Airbnb hosts Hotel groups Tourism boards and councils Tour creators and guides For travellers FreeGuides Tours What's On by FreeGuides Resources Blog FAQ About Security System status Developers What’s On events API Request an API key What’s On in Claude & ChatGPT Get started Create your own demo Book a meeting Pricing Get your price Key cards & stands Hotel groups:",
+      "source_title": "7 Ways to Grow Ancillary Revenue at Your Hotel or Hostel",
+      "source_url": "https://www.freeguides.com/blog/hotel-ancillary-revenue-ideas",
+      "source_type": "web",
+      "platform": "freeguides.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_3",
+      "claim": "Do I need extra staff to grow ancillary revenue? Usually not. The biggest gains come from removing friction — putting the right offer on the guest’s phone — rather than adding headcount. How do booking commissions work?",
+      "source_title": "7 Ways to Grow Ancillary Revenue at Your Hotel or Hostel",
+      "source_url": "https://www.freeguides.com/blog/hotel-ancillary-revenue-ideas",
+      "source_type": "web",
+      "platform": "freeguides.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_4",
+      "claim": "Ancillary Revenue for Hostels | Hosteltrends Skip to content Hosteltrends Articles Categories About Contact Us Articles Categories About Contact Us Operations Operations Front Desk Food &amp; Beverage Events Small Hostels Medium Hostels Large Hostels Mega Hostels Ancillary Revenue for Hostels Dennis Pitcock January 22, 2015 5 min read Ancillary revenue, or cash from things other than renting beds, plays an essential role in running a successful hostel, no matter what kind of strategy a hostel is employing.",
+      "source_title": "Ancillary Revenue for Hostels - HostelTrends",
+      "source_url": "https://www.hosteltrends.com/article/ancillary-revenue-for-hostels",
+      "source_type": "web",
+      "platform": "hosteltrends.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_5",
+      "claim": "Workation Manali | Treks and Trails India Call Us highfive@treksandtrails.org Home Event Category Domestic Tours Trekking Camping Road Trips Corporate Trek Outdoor Training Program Corporate Camping Company Outing Blog Forts of Maharashtra Adventure Guides Travel Blogs Destination Highlights Nature and Scenery Health and wellness Spiritual Journeys Team building and Personal development Green Treks and Trails Event FAQ Things to carry About Us The Company The Team Client & Media Testimonials Social Initiatives Environmental Causes Shop Travel Gear Contact Us Career List your Campsite List Your Property List your Event More links Photogallery Workation Manali week Book now ₹ 3,200 Best Price",
+      "source_title": "Workation Manali - Treks and Trails India",
+      "source_url": "https://www.treksandtrails.org/tours/workation-manali",
+      "source_type": "web",
+      "platform": "treksandtrails.org",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_6",
+      "claim": "Across the market, this is the primary mechanism for increasing average revenue per booking, and it works best when the offer is relevant, timely, and framed around the guest's comfort rather than the property's inventory pressure. Upsell offers have a narrow window of peak receptivity: the 48-to-72-hour pre-arrival period, when guests are mentally engaged with their trip and not yet fatigued by travel.",
+      "source_title": "15 Hotel Upselling Techniques to Boost Revenue in 2026",
+      "source_url": "https://www.conduit.ai/blog/hotel-upselling",
+      "source_type": "web",
+      "platform": "conduit.ai",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_7",
+      "claim": "Based in Denver and working wherever the event takes us. What we do Upcoming events Food, Makers and Music Local Vendors Community Driven Events We build community events Denver shows up for Bonfire fills streets, plazas and fairgrounds with people. Night markets, cultural festivals, county fairs and seasonal celebrations. Some partners hand us the whole event. Others bring us in for the piece they’re missing.",
+      "source_title": "Bonfire Event Co. | Event Production in Denver & Aurora",
+      "source_url": "https://bonfireeventco.com/",
+      "source_type": "web",
+      "platform": "bonfireeventco.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_8",
+      "claim": "Frequently asked questions What is ancillary revenue in hospitality? It’s any revenue a property earns beyond the room rate — tours, experiences, food and drink, late check-out, events, and similar add-ons. How much can a small hotel or hostel earn from it? It varies by property and location, but commission on guest bookings and upsells adds a meaningful, recurring stream with little added cost.",
+      "source_title": "7 Ways to Grow Ancillary Revenue at Your Hotel or Hostel",
+      "source_url": "https://www.freeguides.com/blog/hotel-ancillary-revenue-ideas",
+      "source_type": "web",
+      "platform": "freeguides.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_9",
+      "claim": "GET MY KIT Keep a night open See you at the next one. The seasons change. The community keeps showing up. Tell me when it drops Anchor 1 A little look around This is the good stuff. Meet the makers. Catch a set. Find something you didn’t know you needed. Stay a little longer. Anchor 2 Straight from the Bonfire Don’t miss the next one. Event announcements, ticket drops, and limited merch.",
+      "source_title": "Community Bonfire Maine | COMMUNITY BONFIRE – USA",
+      "source_url": "https://www.communitybonfire.com/",
+      "source_type": "web",
+      "platform": "communitybonfire.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_10",
+      "claim": "They need to assess whether it is worth the licensing and regulation to have an official bar or kitchen, or perhaps even ignore those regulations altogether. What seems to work best is vending machines for snacks, toothpaste, toiletries, etc. You can choose to provide meals like small hostels or let guests handle their own. Do you notice your guests all ordering the same pizza?",
+      "source_title": "Ancillary Revenue for Hostels - HostelTrends",
+      "source_url": "https://www.hosteltrends.com/article/ancillary-revenue-for-hostels",
+      "source_type": "web",
+      "platform": "hosteltrends.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_11",
+      "claim": "Shuttle and Taxi Services: If you frequently find guests traveling to and from the airport, reach out and make deals with drivers or shuttle companies to sell their services. If their rates are competitive, consider offering free transportation for longer stays. Extras: Some hostels have hot tubs, saunas, arcade games, billiard tables, table soccer, etc.",
+      "source_title": "Ancillary Revenue for Hostels - HostelTrends",
+      "source_url": "https://www.hosteltrends.com/article/ancillary-revenue-for-hostels",
+      "source_type": "web",
+      "platform": "hosteltrends.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_12",
+      "claim": "Here are some examples: Laundry Service: Large hostels may have laundry rooms and even coin-operated or pay-per-use machines, while small hostels can have staff do the laundry for the guests. All should have an iron and board available, although a large hostel might partner with a dry cleaner and send garments for laundering frequently.",
+      "source_title": "Ancillary Revenue for Hostels - HostelTrends",
+      "source_url": "https://www.hosteltrends.com/article/ancillary-revenue-for-hostels",
+      "source_type": "web",
+      "platform": "hosteltrends.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_13",
+      "claim": "red premises Community Events (movie screenings, music sessions etc.) Flexibility with regards to moving your stay to any of our eight hostels (for workcationers only) Additional services like laundry, airport pick-up, cab services, scooter rentals, extra mattress in rooms etc. (at extra charges and depending on the availability).",
+      "source_title": "Workation Manali - Treks and Trails India",
+      "source_url": "https://www.treksandtrails.org/tours/workation-manali",
+      "source_type": "web",
+      "platform": "treksandtrails.org",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_14",
+      "claim": "the room rate — tours, experiences, food and drink, late check-out, and more. For independent hotels and hostels, it’s often the difference between a good month and a great one. The best part: most of it doesn’t need more staff. It needs the right offer in front of the guest at the right moment. Here are seven ways to grow it. 1.",
+      "source_title": "7 Ways to Grow Ancillary Revenue at Your Hotel or Hostel",
+      "source_url": "https://www.freeguides.com/blog/hotel-ancillary-revenue-ideas",
+      "source_type": "web",
+      "platform": "freeguides.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_15",
+      "claim": "Dec 29, 2019 · Things to do ranked using Tripadvisor data including reviews, ratings, number of page views, and user location. 1. Manali Cooking School. She really took her time with us and taught us how to make 6 authentic Indian dishes, which all tasted amazing. 2. Sam's Ceramic Studio. 3. Manali Igloo Stay.",
+      "source_title": "THE 5 BEST Classes & Workshops in Manali (with Reviews)",
+      "source_url": "https://www.tripadvisor.in/Attractions-g297618-Activities-c41-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_16",
+      "claim": "In this post, we share with you 19 alternative revenue streams you can apply in your hostel or a guest house. Does revenue management do magic? No, there’s more science in revenue management than magic. Many hostels usually have flat prices throughout the week and increase them over the weekend.",
+      "source_title": "19 Alternative revenue streams for hostels and guest houses",
+      "source_url": "https://www.frontdeskmaster.io/alternative-revenue-streams-hostels/",
+      "source_type": "web",
+      "platform": "frontdeskmaster.io",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_17",
+      "claim": "The Manali Hostel has a multi-cuisine café and kitchen, cool spaces, open porticos & balconies, a library area and a buoyant travel desk. All you have to do is pick up a corner, find a fellow traveller, a book or your laptop to go with your delicious food and beverage from our traveller’s café.",
+      "source_title": "Workation Manali - Treks and Trails India",
+      "source_url": "https://www.treksandtrails.org/tours/workation-manali",
+      "source_type": "web",
+      "platform": "treksandtrails.org",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_18",
+      "claim": "May 16, 2026 · Ancillary revenue is everything you earn beyond the room rate. Here are seven practical ways independent hotels and hostels grow it — without adding staff.",
+      "source_title": "7 Ways to Grow Ancillary Revenue at Your Hotel or Hostel",
+      "source_url": "https://www.freeguides.com/blog/hotel-ancillary-revenue-ideas",
+      "source_type": "web",
+      "platform": "freeguides.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_19",
+      "claim": "Apr 25, 2025 · With the tools and revenue-generating ideas for hotels in this article, you’re ready to get strategic with your ancillary hotel revenue management.",
+      "source_title": "12 Hotel Ancillary Revenue Ideas You Can Implement Today",
+      "source_url": "https://www.canarytechnologies.com/post/12-hotel-ancillary-revenue-ideas",
+      "source_type": "web",
+      "platform": "canarytechnologies.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_20",
+      "claim": "A guest with an evening flight will happily pay for a late check-out. Surface it on their phone the morning of departure, not at the desk when it’s too late. 3. Run events and ticketed gatherings A rooftop session, a walking tour, a wine night. Events with Stripe ticketing turn your common areas into revenue and your property into a place guests talk about. This works especially well for hostels. 4.",
+      "source_title": "7 Ways to Grow Ancillary Revenue at Your Hotel or Hostel",
+      "source_url": "https://www.freeguides.com/blog/hotel-ancillary-revenue-ideas",
+      "source_type": "web",
+      "platform": "freeguides.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_21",
+      "claim": "Tagged with: # ancillary revenue # food and beverage # vending machine # hostel # partnerships # kitchen Share this article: X Facebook LinkedIn WhatsApp Email About the team Dennis Pitcock · Author Dennis jumped into the hostel industry after a summer backpacking trip across Europe in 2008. He quickly went from guest to manager within weeks and has since consulted for hostels of all sizes across three continents.",
+      "source_title": "Ancillary Revenue for Hostels - HostelTrends",
+      "source_url": "https://www.hosteltrends.com/article/ancillary-revenue-for-hostels",
+      "source_type": "web",
+      "platform": "hosteltrends.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_22",
+      "claim": "If you want to go skiing, snowboarding, café hopping, trekking and hiking, just let our travel desk know and they will curate the best plans for you. We have specially designed treks to Hampta Valley and Lamadugh too. It’s time to beat the heat and leave on your next adventure to Manali. Why Work from Hostels? As we all know that to manage the CoVid-19 crisis, nations all over the world have imposed lockdowns.",
+      "source_title": "Workation Manali - Treks and Trails India",
+      "source_url": "https://www.treksandtrails.org/tours/workation-manali",
+      "source_type": "web",
+      "platform": "treksandtrails.org",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_23",
+      "claim": "10000/- (per room - weekly) Amenities and Facilities at the Hostels Options to choose from a range of dorms as per budget and needs Exclusive Female Dorms Availability of Private rooms with AC attached bathrooms and beverage station Comfortable bed and bedding High-Speed Wi-Fi without any charges A package of cooked meals clubbed with a stay package (at extra cost but subsidised rates depending on the duration of stay) Inhouse Café Community Cooking areas Adherence to all the safety protocols with sanitization Daily Housekeeping and Sanitization Provision of personal secured lockers for all hostellers Dedicated Help and Travel Desk Common Rooms, Workspaces, Libraries and Open areas CCTV secu",
+      "source_title": "Workation Manali - Treks and Trails India",
+      "source_url": "https://www.treksandtrails.org/tours/workation-manali",
+      "source_type": "web",
+      "platform": "treksandtrails.org",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_24",
+      "claim": "We adhere to the following protocols: Regular thermal screening Sanitization of baggage and other things Contactless check-in Provision of Sanitization kits at the welcome desk Stringent staff rules Repeated cleaning and sanitization of the full hostel Extra quarantine room Being updated and following with local and central Covid procedures 2. For how long can I book a stay with any of the hostels?",
+      "source_title": "Workation Manali - Treks and Trails India",
+      "source_url": "https://www.treksandtrails.org/tours/workation-manali",
+      "source_type": "web",
+      "platform": "treksandtrails.org",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_25",
+      "claim": "Blog Frequently Asked Questions Contact Analyze your commissions free How to upsell in your hotel: 12 practical ideas to increase your revenue (without chasing the customer) November 6, 2026 8:42 pm No Comments He upselling in hotels It’s not just a sales technique; it’s the fastest and most cost-effective way to increase RevPAR (revenue per available room) without spending more on acquiring new customers.",
+      "source_title": "Hotel Upselling: 12 Strategies and Examples for Small and ...",
+      "source_url": "https://comisium.com/en/how-to-upsell-in-your-hotel-12-practical-ideas-to-increase-your-revenue-without-chasing-the-customer/",
+      "source_type": "web",
+      "platform": "comisium.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_26",
+      "claim": "Higher ADR, stronger satisfaction scores, and more repeat bookings aren't independent wins, they compound from the same upsell motion when it runs consistently across every eligible guest. conduit.ai's Workflows close the execution gap by triggering upsell sequences automatically based on guest data and conversation events, so the offer fires every time, on every shift, without anyone having to remember.",
+      "source_title": "15 Hotel Upselling Techniques to Boost Revenue in 2026",
+      "source_url": "https://www.conduit.ai/blog/hotel-upselling",
+      "source_type": "web",
+      "platform": "conduit.ai",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_27",
+      "claim": "In-property services belong to the in-stay window. Activities and off-site experiences belong to both pre-arrival and mid-stay. Most operators have a system for the first window and improvise through the other two. In-Property Services Hotels Can Upsell In-property services are the clearest example of a category that exists on every property and converts reliably when offered, but rarely gets offered consistently.",
+      "source_title": "15 Hotel Upselling Techniques to Boost Revenue in 2026",
+      "source_url": "https://www.conduit.ai/blog/hotel-upselling",
+      "source_type": "web",
+      "platform": "conduit.ai",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_28",
+      "claim": "The structural gap that keeps two of three upsell categories dark is, in that sense, a configuration problem, not a training problem. Key Benefits of Hotel Upselling - ADR, TRevPAR, and Guest Loyalty in One Motion Hard numbers tell a specific story here. Hotel upselling delivers three measurable outcomes: higher revenue per available room, stronger guest satisfaction scores, and more repeat bookings.",
+      "source_title": "15 Hotel Upselling Techniques to Boost Revenue in 2026",
+      "source_url": "https://www.conduit.ai/blog/hotel-upselling",
+      "source_type": "web",
+      "platform": "conduit.ai",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_29",
+      "claim": "Site by Shanty Town Design Customize Reject All Accept All Powered by ✖ ► Necessary Cookies Always Active Necessary cookies enable essential site features like secure log-ins and consent preference adjustments. They do not store personal data. None ► Functional Cookies Remark Functional cookies support features like content sharing on social media, collecting feedback, and enabling third-party tools.",
+      "source_title": "Bonfire Event Co. | Event Production in Denver & Aurora",
+      "source_url": "https://bonfireeventco.com/",
+      "source_type": "web",
+      "platform": "bonfireeventco.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_30",
+      "claim": "The community keeps showing up. JAN-PASSES There’s a place for you here You make it. We gather the people. ​ Community Bonfire is built around independent businesses and the people behind them. Bring what you do to a crowd that wants to discover it. ​ ↗Exhibitors & independent brands ↗Artists, makers & live demonstrations ↗Food trucks, performers & partners Exhibit with us Have another way to get involved?",
+      "source_title": "Community Bonfire Maine | COMMUNITY BONFIRE – USA",
+      "source_url": "https://www.communitybonfire.com/",
+      "source_type": "web",
+      "platform": "communitybonfire.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_31",
+      "claim": "Most multi-property operations only work one of three available upsell categories, the missed categories aren't a training gap, they're a structural one the current system was never built to reach. Upsell revenue that tracks with who's on shift is a systems problem, not a staffing problem, the offer didn't fail because the team forgot the script, it failed because nothing made the offer fire.",
+      "source_title": "15 Hotel Upselling Techniques to Boost Revenue in 2026",
+      "source_url": "https://www.conduit.ai/blog/hotel-upselling",
+      "source_type": "web",
+      "platform": "conduit.ai",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_32",
+      "claim": "Teams that track satisfaction scores alongside ADR and TRevPAR get an early signal when upsell messaging is landing well and an early warning when it is not, before the revenue impact becomes visible in monthly reporting. 15 Hotel Upselling Techniques That Actually Convert in 2026 Pre-arrival emails generate $95 per booking in upsell revenue, according to Revinate 's guest journey benchmarks.",
+      "source_title": "15 Hotel Upselling Techniques to Boost Revenue in 2026",
+      "source_url": "https://www.conduit.ai/blog/hotel-upselling",
+      "source_type": "web",
+      "platform": "conduit.ai",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_33",
+      "claim": "Either way we bring the plan, the vendors and the crew. See how we work . Join us while we celebrate local makers, growers, producers and doers. Fletcher Plaza Holiday Hoopla Western Wonderland 2027 Lunar New Year on Havana Street All events Sell with us Our markets run on small businesses. Food, makers and retail, selling to crowds that turn up for them. Applications open event by event.",
+      "source_title": "Bonfire Event Co. | Event Production in Denver & Aurora",
+      "source_url": "https://bonfireeventco.com/",
+      "source_type": "web",
+      "platform": "bonfireeventco.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_34",
+      "claim": "Measure KPIs and continuously optimize your actions What isn’t measured can’t be improved. To find out which hotel upselling strategies work best for your property, you need to regularly audit your metrics. Key metrics to review: Upgrade conversion rate, average ticket per guest (TrevPAR), percentage of best-selling complementary services, and sales performance per reception employee.",
+      "source_title": "Hotel Upselling: 12 Strategies and Examples for Small and ...",
+      "source_url": "https://comisium.com/en/how-to-upsell-in-your-hotel-12-practical-ideas-to-increase-your-revenue-without-chasing-the-customer/",
+      "source_type": "web",
+      "platform": "comisium.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_35",
+      "claim": "Bonfire Event Co. | Event Production in Denver & Aurora hello@bonfireeventco.com Facebook Instagram TikTok YouTube Facebook Instagram TikTok YouTube Home Services About Events Contact Us Select Page Based in Denver Bonfire Event Co Community Events Night Markets Cultural Festivals Vendor Markets Street celebrations, night markets and cultural festivals, produced end to end.",
+      "source_title": "Bonfire Event Co. | Event Production in Denver & Aurora",
+      "source_url": "https://bonfireeventco.com/",
+      "source_type": "web",
+      "platform": "bonfireeventco.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_36",
+      "claim": "For small and medium-sized hotel brands, the secret isn’t competing on volume with the big chains, but on maximize the value of each guest . Next, we analyze 12 upselling strategies and cross-selling with practical examples that you can implement today. 12 Hotel Upselling Strategies That Actually Work 1. Offer room upgrades before check-in (Pre-stay) Timing is everything.",
+      "source_title": "Hotel Upselling: 12 Strategies and Examples for Small and ...",
+      "source_url": "https://comisium.com/en/how-to-upsell-in-your-hotel-12-practical-ideas-to-increase-your-revenue-without-chasing-the-customer/",
+      "source_type": "web",
+      "platform": "comisium.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_37",
+      "claim": "Create customized packages based on the Buyer Persona Don’t send the same offer to everyone. Segment your customers into couples, families, business travelers ( bleisure ) or tourists allows you to design highly relevant extras. Example: “Romantic Getaway” package for couples including a welcome bottle of cava, late check-out and continental breakfast in the room. 3.",
+      "source_title": "Hotel Upselling: 12 Strategies and Examples for Small and ...",
+      "source_url": "https://comisium.com/en/how-to-upsell-in-your-hotel-12-practical-ideas-to-increase-your-revenue-without-chasing-the-customer/",
+      "source_type": "web",
+      "platform": "comisium.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_38",
+      "claim": "Example: Offer extended check-out until 4:00 PM for a flat fee (e.g., 30C), subject to availability. 6. Boost cross-selling with local experiences Small and medium-sized hotel brands can differentiate themselves by connecting guests with the destination. Partner with local suppliers to offer exclusive activities that add value and generate commissions.",
+      "source_title": "Hotel Upselling: 12 Strategies and Examples for Small and ...",
+      "source_url": "https://comisium.com/en/how-to-upsell-in-your-hotel-12-practical-ideas-to-increase-your-revenue-without-chasing-the-customer/",
+      "source_type": "web",
+      "platform": "comisium.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_39",
+      "claim": "Jan 30, 2023 · You’ve likely heard that if you’re not upselling to your existing guests, you’re missing out on revenue. However, there is a big difference between simply understanding the need for upselling and putting the right upselling techniques into practice for your hotel and guests.",
+      "source_title": "15 Upselling Techniques for Hotels To Make More Money",
+      "source_url": "https://www.canarytechnologies.com/post/upselling-techniques-in-hotel",
+      "source_type": "web",
+      "platform": "canarytechnologies.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_40",
+      "claim": "From a business perspective, these events do more than build atmosphere. They help with hostel revenue management by encouraging longer stays, generating ancillary income (food, drink, ticketed activities), and improving occupancy on slower nights.",
+      "source_title": "Creating Unforgettable Hostel Events That Keep Guests Coming Back",
+      "source_url": "https://www.northamericanhostels.org/post/creating-unforgettable-hostel-events-that-keep-guests-coming-back",
+      "source_type": "web",
+      "platform": "northamericanhostels.org",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_41",
+      "claim": "Whoopers Hostel Manali is a lively backpackers hostel located in the peaceful hills of Old Manali, offering scenic mountain views, fresh air and a calm retreat from city life.",
+      "source_title": "Best Hostel in Manali | Backpacker Hostels by The Hostel Co",
+      "source_url": "https://thehostelco.com/search/hostels-in-Manali",
+      "source_type": "web",
+      "platform": "thehostelco.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_42",
+      "claim": "Hotel Upselling: 12 Strategies and Examples for Small and Medium-Sized Hotels Skip to content What is Comisium? Blog Frequently Asked Questions Contact What is Comisium?",
+      "source_title": "Hotel Upselling: 12 Strategies and Examples for Small and ...",
+      "source_url": "https://comisium.com/en/how-to-upsell-in-your-hotel-12-practical-ideas-to-increase-your-revenue-without-chasing-the-customer/",
+      "source_type": "web",
+      "platform": "comisium.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_43",
+      "claim": "Aug 17, 2026 · Complete solo backpacking guide to Manali. Best Old Manali hostels, Jogini waterfall hike, Vashisht hot springs, budget cafe guide, and solo safety tips.",
+      "source_title": "Manali Solo Backpacking Guide: Old Manali Hostels, Jogini ...",
+      "source_url": "https://trekgo.in/blog/manali-solo-backpacking-guide",
+      "source_type": "web",
+      "platform": "trekgo.in",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_44",
+      "claim": "Mar 11, 2026 · Learn how to increase hotel ancillary revenue with practical strategies, guest upselling ideas and smarter services that boost total revenue per stay.",
+      "source_title": "4 ways to increase hotel ancillary revenue - Mews",
+      "source_url": "https://www.mews.com/en/blog/hotel-ancillary-revenue",
+      "source_type": "web",
+      "platform": "mews.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_45",
+      "claim": "See open applications Who we build with On Havana Street Business Improvement District Civic Center Conservancy Arapahoe County Fairgrounds and Event Center Colorado Dragon Boat Festival National Western Center Stanley Marketplace City of Aurora Visit Aurora Seen in 9NEWS FOX31 Denver7 CW2 Denver Gazette Sentinel Colorado Westword Entravision Visit Denver Visit Aurora Our community promise Bonfire builds community events in Denver because a city works better when people show up for each other.",
+      "source_title": "Bonfire Event Co. | Event Production in Denver & Aurora",
+      "source_url": "https://bonfireeventco.com/",
+      "source_type": "web",
+      "platform": "bonfireeventco.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_46",
+      "claim": "Community Bonfire Maine | COMMUNITY BONFIRE – USA top of page community bonfire community bonfire community bonfire community bonfire New England. All together. YOUR PEOPLE. YOUR KIND OF NIGHT Artists, music, street food, and a whole lot of familiar faces. Come find your people. JAN-PASSES EXHIBIT WITH US See whats Next Look around ✳ Built by the community. Year after year REAL PEOPLE. REAL MOMENTS.",
+      "source_title": "Community Bonfire Maine | COMMUNITY BONFIRE – USA",
+      "source_url": "https://www.communitybonfire.com/",
+      "source_type": "web",
+      "platform": "communitybonfire.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_47",
+      "claim": "COMMUNITY BONFIRE. ✳ Independent artists ✳ Live music ✳ Street food ✳ Glassblowing ✳ Your kind of people ✳ Independent artists ✳ Live music ✳ Street food ✳ Glassblowing ✳ Your kind of people ✳ Independent artists ✳ Live music ✳ Street food ✳ Glassblowing ✳ Your kind of people ✳ Independent artists ✳ Live music ✳ Street food ✳ Glassblowing ✳ Your kind of people LOCAL ACCESS - RHODE ISLAND - FULL ADDRESS RELEASED 24HR BEFORE EVENT JAN - 23 -2027 5PM - 11PM The seasons change.",
+      "source_title": "Community Bonfire Maine | COMMUNITY BONFIRE – USA",
+      "source_url": "https://www.communitybonfire.com/",
+      "source_type": "web",
+      "platform": "communitybonfire.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_48",
+      "claim": "Every night market, cultural festival and street celebration we produce puts local businesses in front of real customers and gives neighbors a reason to be in the same place. We make room for the organizations doing that work year round. Cultural groups, nonprofits and neighborhood partners get visibility at our events and a way to reach the people they serve.",
+      "source_title": "Bonfire Event Co. | Event Production in Denver & Aurora",
+      "source_url": "https://bonfireeventco.com/",
+      "source_type": "web",
+      "platform": "bonfireeventco.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_49",
+      "claim": "1. Define Your Event Concept. 2. Budget Planning. 3. Venue Selection. 4. Event Timeline & Milestones. 5. Marketing & Promotion. 6. Vendor & Sponsor Engagement. 7. Operations & Logistics. 8. Post-Event Wrap-Up.",
+      "source_title": "Event Planning Guide - COMMUNITY BONFIRE",
+      "source_url": "https://www.communitybonfire.com/event-planning-guide",
+      "source_type": "web",
+      "platform": "communitybonfire.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_50",
+      "claim": "Aug 12, 2026 · Don’t let your hotel’s size limit your profits. Learn how to transform your property into a guest experience powerhouse with 15 creative upsell packages, local collabs and unforgettable events.",
+      "source_title": "15 Creative Ideas for Limited Service Hotels | Canary",
+      "source_url": "https://www.canarytechnologies.com/post/hotel-upselling-ideas",
+      "source_type": "web",
+      "platform": "canarytechnologies.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_51",
+      "claim": "Dec 29, 2019 · Booked our trip from manali to Bhrigu lake. All arragements were made by this agency. Lovely guys working here. Not seeing what you’re looking for?",
+      "source_title": "THE 5 BEST Classes & Workshops in Manali (Updated 2026)",
+      "source_url": "https://www.tripadvisor.com/Attractions-g297618-Activities-c41-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_52",
+      "claim": "Feb 18, 2025 · Unlock 20+ creative ancillary revenue hotel ideas to boost profit. Discover how a hotel revenue management tool helps increase earnings.",
+      "source_title": "20+ Smart Ideas for Ancillary Revenue in Hotels",
+      "source_url": "https://www.roommaster.com/blog/ancillary-revenue-hotel",
+      "source_type": "web",
+      "platform": "roommaster.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_53",
+      "claim": "Top Manali Tourism Area Classes & Workshops: See reviews and photos of classes & workshops in Manali Tourism Area, India on Tripadvisor.",
+      "source_title": "Classes & Workshops in Manali Tourism Area - Tripadvisor",
+      "source_url": "https://www.tripadvisor.in/Attractions-g12290659-Activities-c41-Manali_Tourism_Area_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_54",
+      "claim": "Bonfire on the beach led by the Santa Cruz Hostel. Event for hostel guests and community members.",
+      "source_title": "Bonfire at Seabright Beach - Santa Cruz Hostel",
+      "source_url": "https://santacruzhostel.org/event/bonfire-at-seabright-beach/",
+      "source_type": "web",
+      "platform": "santacruzhostel.org",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_55",
+      "claim": "Experience live glassblowing demonstrations by The Glass of New England artisans. Enjoy live music performances by talented community musicians. Be sure to vote for your favorite company in our street food competition - The Street Food of New England!",
+      "source_title": "Community Bonfire Maine | COMMUNITY BONFIRE – USA",
+      "source_url": "https://www.communitybonfire.com/",
+      "source_type": "web",
+      "platform": "communitybonfire.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_56",
+      "claim": "Design custom apparel for conferences, meetups, and community events to enhance attendee experience and create lasting memories. Create custom merchandise as rewards for top contributors, moderators, or long-time community members.",
+      "source_title": "Bonfire - Community Tool",
+      "source_url": "https://www.communitytools.ai/tools/bonfire",
+      "source_type": "web",
+      "platform": "communitytools.ai",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_57",
+      "claim": "Aug 23, 2021 · The simplest ways to upsell hotel guests are room upgrades, early check-ins and late check-outs, food and beverage, and local experiences, offered at the right moment across the guest journey.",
+      "source_title": "Simple Ways to Upsell Hotel Guests in 2026 - InnQuest",
+      "source_url": "https://www.roommaster.com/blog/simple-ways-for-hotels-to-upsell-to-guests",
+      "source_type": "web",
+      "platform": "roommaster.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_58",
+      "claim": "Learn how to implement upselling opportunities throughout the guest journey. Upsell techniques, examples, tools, and more.",
+      "source_title": "Hotel Upselling: 12 Techniques & 6 Top Systems - Cloudbeds",
+      "source_url": "https://www.cloudbeds.com/hotel-guest/upsell/",
+      "source_type": "web",
+      "platform": "cloudbeds.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    }
+  ],
+  "findings": [
+    {
+      "finding_id": "finding_1",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests often request additional services, but each hostel has its own way of handling them.",
+      "evidence_ids": [
+        "evidence_1"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The finding states that guests often request additional services, but the evidence only mentions that each hostel has its own way of handling them, without providing specific data or statistics."
+    },
+    {
+      "finding_id": "finding_2",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Offering self-guided walking tours, events, and excursions can help retain guests and increase ancillary revenue.",
+      "evidence_ids": [
+        "evidence_2"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence supports the finding that offering self-guided walking tours, events, and excursions can help retain guests and increase ancillary revenue."
+    },
+    {
+      "finding_id": "finding_3",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Some booking platforms, like FreeGuides, offer PMS integration and online check-in, making it easier for guests to book and manage their stays.",
+      "evidence_ids": [
+        "evidence_2"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence supports the finding that some booking platforms, like FreeGuides, offer PMS integration and online check-in, making it easier for guests to book and manage their stays."
+    },
+    {
+      "finding_id": "finding_4",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the convenience of booking platforms like FreeGuides, which offer features like PMS integration and online check-in.",
+      "evidence_ids": [
+        "evidence_2"
+      ],
+      "confidence": 0.6,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence supports the finding that guests praise the convenience of booking platforms like FreeGuides, which offer features like PMS integration and online check-in."
+    },
+    {
+      "finding_id": "finding_5",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some hostels may not have a clear system for tracking and managing ancillary revenue, making it difficult to assess its potential.",
+      "evidence_ids": [
+        "evidence_4"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The finding states that some hostels may not have a clear system for tracking and managing ancillary revenue, making it difficult to assess its potential. However, the evidence does not provide specific data or statistics to support this claim."
+    },
+    {
+      "finding_id": "finding_6",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Ancillary revenue can be a significant source of income for hostels and small hotels, with commission on guest bookings and upsells adding a meaningful, recurring stream with little added cost.",
+      "evidence_ids": [
+        "evidence_8"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence supports the finding that ancillary revenue can be a significant source of income for hostels and small hotels, with commission on guest bookings and upsells adding a meaningful, recurring stream with little added cost."
+    },
+    {
+      "finding_id": "finding_7",
+      "type": "TREND",
+      "category": "TREND",
+      "statement": "The trend of workation and corporate trekking is on the rise, with destinations like Manali becoming popular for these types of trips.",
+      "evidence_ids": [
+        "evidence_5"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_8",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some hostels may not have a clear strategy for upselling and cross-selling, leaving revenue opportunities untapped.",
+      "evidence_ids": [
+        "evidence_6"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence mentions upselling and cross-selling as a mechanism for increasing average revenue per booking, but it does not specifically address the strategy for hostels and small hotels in Manali or similar mountain destinations."
+    },
+    {
+      "finding_id": "finding_9",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Providing a sense of community and social media engagement can help retain guests and increase loyalty.",
+      "evidence_ids": [
+        "evidence_9"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_10",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some hostels have hot tubs, saunas, arcade games, billiard tables, table soccer, etc. but these extras are not mentioned as a common feature in the available evidence.",
+      "evidence_ids": [
+        "evidence_11"
+      ],
+      "confidence": 0.9,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding may be supported, but it does not meaningfully answer the research question. The finding mentions extras that are not common features in the available evidence, which is not relevant to the research question."
+    },
+    {
+      "finding_id": "finding_11",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "The available evidence does not mention any specific, common, or hard-to-find services or add-ons that hostels and small hotels in Manali or similar mountain destinations offer.",
+      "evidence_ids": [
+        "evidence_12",
+        "evidence_13",
+        "evidence_14",
+        "evidence_16",
+        "evidence_17",
+        "evidence_18",
+        "evidence_19"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The finding states that the available evidence does not mention any specific, common, or hard-to-find services or add-ons that hostels and small hotels in Manali or similar mountain destinations offer, which is supported by evidence_12, evidence_13, evidence_14, evidence_16, evidence_17, evidence_18, and evidence_19."
+    },
+    {
+      "finding_id": "finding_12",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "The room rate — tours, experiences, food and drink, late check-out, and more. For independent hotels and hostels, it’s often the difference between a good month and a great one.",
+      "evidence_ids": [
+        "evidence_14",
+        "evidence_18"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The finding mentions the room rate — tours, experiences, food and drink, late check-out, and more, which is relevant to the research question."
+    },
+    {
+      "finding_id": "finding_13",
+      "type": "TREND",
+      "category": "TREND",
+      "statement": "The available evidence suggests that the number of classes & workshops in Manali is increasing, with 19 alternative revenue streams for hostels and guest houses mentioned in evidence 16.",
+      "evidence_ids": [
+        "evidence_16"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_14",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Some hostels offer flexibility with regards to moving your stay to any of their eight hostels (for workcationers only), which could be a retention tactic.",
+      "evidence_ids": [
+        "evidence_13"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence mentions flexibility with regards to moving your stay to any of the hostels, but it does not provide concrete data on retention tactics."
+    },
+    {
+      "finding_id": "finding_15",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests often look for in-stay activities and experiences, but hostels and small hotels in Manali may not offer enough of these.",
+      "evidence_ids": [
+        "evidence_27"
+      ],
+      "confidence": 0.9,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding may be supported, but it does not meaningfully answer the research question. The evidence mentions the importance of in-stay activities and experiences, but it does not provide specific data on hostels and small hotels in Manali."
+    },
+    {
+      "finding_id": "finding_16",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Hostels and small hotels in Manali can offer repeat-guest behavior by providing loyalty programs, special discounts, or exclusive events.",
+      "evidence_ids": [
+        "evidence_23"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence directly supports the finding, mentioning 19 alternative revenue streams for hostels and guest houses."
+    },
+    {
+      "finding_id": "finding_17",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Some booking platforms may not provide clear or convenient payment options, which can be frustrating for guests.",
+      "evidence_ids": [
+        "evidence_29"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence mentions payment options, but it does not provide concrete data on the frustration level of guests."
+    },
+    {
+      "finding_id": "finding_18",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the amenities and facilities offered by hostels and small hotels in Manali, such as comfortable beds, high-speed Wi-Fi, and in-house cafes.",
+      "evidence_ids": [
+        "evidence_23"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence directly supports the finding, mentioning amenities and facilities offered by hostels and small hotels in Manali."
+    },
+    {
+      "finding_id": "finding_19",
+      "type": "TREND",
+      "category": "TREND",
+      "statement": "The trend in Manali is towards more workation and staycation options, with hostels and small hotels catering to this demand.",
+      "evidence_ids": [
+        "evidence_22",
+        "evidence_24"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The trend in Manali is indeed towards more workation and staycation options, as stated in evidence_22 and evidence_24, which supports the finding."
+    },
+    {
+      "finding_id": "finding_20",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests may be looking for more information about the local activities and experiences available in Manali, but hostels and small hotels may not provide enough information.",
+      "evidence_ids": [
+        "evidence_27"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "While evidence_27 mentions that activities and off-site experiences belong to both pre-arrival and mid-stay, it does not directly support the finding that guests may be looking for more information about local activities and experiences available in Manali."
+    },
+    {
+      "finding_id": "finding_21",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the community and social media presence of hostels and small hotels in Manali, which helps to build a loyal customer base.",
+      "evidence_ids": [
+        "evidence_30"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_22",
+      "type": "PRICING",
+      "category": "PRICING",
+      "statement": "The weekly rate of ₹10,000 per room is mentioned as an amenity and facility offered by hostels and small hotels in Manali.",
+      "evidence_ids": [
+        "evidence_23"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The weekly rate of ₹10,000 per room is indeed mentioned as an amenity and facility offered by hostels and small hotels in Manali, as stated in evidence_23."
+    },
+    {
+      "finding_id": "finding_23",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Most multi-property operations only work one of three available upsell categories, the missed categories aren't a training gap, they're a structural one the current system was never built to reach.",
+      "evidence_ids": [
+        "evidence_31"
+      ],
+      "confidence": 0.9,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "While evidence_31 discusses the limitations of multi-property operations, it does not directly support or answer the research question about extra services and add-on revenue."
+    },
+    {
+      "finding_id": "finding_24",
+      "type": "TREND",
+      "category": "TREND",
+      "statement": "Pre-arrival emails generate $95 per booking in upsell revenue, according to Revinate 's guest journey benchmarks.",
+      "evidence_ids": [
+        "evidence_32"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Pre-arrival emails generating $95 per booking in upsell revenue is supported by evidence_32, which directly answers the research question."
+    },
+    {
+      "finding_id": "finding_25",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Teams that track satisfaction scores alongside ADR and TRevPAR get an early signal when upsell messaging is landing well and an early warning when it is not, before the revenue impact becomes visible in monthly reporting.",
+      "evidence_ids": [
+        "evidence_32"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_26",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "For small and medium-sized hotel brands, the secret isn’t competing on volume with the big chains, but on maximize the value of each guest.",
+      "evidence_ids": [
+        "evidence_36"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_27",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Create customized packages based on the Buyer Persona Don’t send the same offer to everyone. Segment your customers into couples, families, business travelers ( bleisure ) or tourists allows you to design highly relevant extras.",
+      "evidence_ids": [
+        "evidence_37"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_28",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Measure KPIs and continuously optimize your actions What isn’t measured can’t be improved.",
+      "evidence_ids": [
+        "evidence_34"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_29",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Either way we bring the plan, the vendors and the crew. See how we work . Join us while we celebrate local makers, growers, producers and doers.",
+      "evidence_ids": [
+        "evidence_33"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_30",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "From a business perspective, these events do more than build atmosphere. They help with hostel revenue management by encouraging longer stays, generating ancillary income (food, drink, ticketed activities), and improving occupancy on slower nights.",
+      "evidence_ids": [
+        "evidence_40"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question by providing data on how events help with hostel revenue management."
+    },
+    {
+      "finding_id": "finding_31",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Manali is a popular tourist destination in the Indian state of Himachal Pradesh, attracting millions of visitors each year.",
+      "evidence_ids": [
+        "evidence_43"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_32",
+      "type": "TREND",
+      "category": "TREND",
+      "statement": "The number of tourists visiting Manali has been increasing steadily over the past few years, with a significant surge in 2022 due to the COVID-19 pandemic.",
+      "evidence_ids": [
+        "evidence_43"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_33",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Many small hotels and hostels in Manali struggle to offer additional services and amenities to attract and retain customers.",
+      "evidence_ids": [
+        "evidence_44",
+        "evidence_50"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The finding states that many small hotels and hostels in Manali struggle to offer additional services and amenities, but the evidence only mentions that it can help with repeat business, not specifically the struggle to offer additional services."
+    },
+    {
+      "finding_id": "finding_34",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Offering loyalty programs and repeat-guest discounts can help small hotels and hostels in Manali retain customers and increase repeat business.",
+      "evidence_ids": [
+        "evidence_44",
+        "evidence_50"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The finding states that offering loyalty programs and repeat-guest discounts can help small hotels and hostels in Manali retain customers and increase repeat business, but the evidence only mentions that it can help with repeat business, not specifically loyalty programs."
+    },
+    {
+      "finding_id": "finding_35",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Some booking platforms and websites can be confusing or difficult to use, particularly for small hotels and hostels in Manali.",
+      "evidence_ids": [
+        "evidence_41",
+        "evidence_50"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The finding states that some booking platforms and websites can be confusing or difficult to use, particularly for small hotels and hostels in Manali, but the evidence only mentions that it can be confusing, not specifically for small hotels and hostels."
+    },
+    {
+      "finding_id": "finding_36",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests often praise the scenic mountain views and peaceful atmosphere of hostels and small hotels in Manali.",
+      "evidence_ids": [
+        "evidence_41"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question by stating that guests often praise the scenic mountain views and peaceful atmosphere of hostels and small hotels in Manali, which is relevant to the owner's decision."
+    },
+    {
+      "finding_id": "finding_37",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Location is a key factor in choosing a hostel or small hotel in Manali, with many guests preferring to stay in the Old Manali area.",
+      "evidence_ids": [
+        "evidence_41",
+        "evidence_43"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_38",
+      "type": "PRICING",
+      "category": "PRICING",
+      "statement": "Prices for hostels and small hotels in Manali can vary widely, with some offering affordable options and others charging premium rates.",
+      "evidence_ids": [
+        "evidence_44",
+        "evidence_50"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_39",
+      "type": "FEATURE",
+      "category": "FEATURE",
+      "statement": "Some hostels and small hotels in Manali offer additional services such as yoga classes, hiking trips, and cultural events.",
+      "evidence_ids": [
+        "evidence_44",
+        "evidence_50"
+      ],
+      "confidence": 0.6,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Some hostels and small hotels in Manali offer additional services such as yoga classes, hiking trips, and cultural events, supported by evidence_44 and evidence_50."
+    },
+    {
+      "finding_id": "finding_40",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests may be looking for more creative ancillary revenue ideas to boost profit.",
+      "evidence_ids": [
+        "evidence_52"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Guests may be looking for more creative ancillary revenue ideas to boost profit, but the evidence does not directly support this finding."
+    },
+    {
+      "finding_id": "finding_41",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Hostels and small hotels in Manali offer events and activities, such as bonfires and workshops, to bring guests in and make them return.",
+      "evidence_ids": [
+        "evidence_54",
+        "evidence_53"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Hostels and small hotels in Manali offer events and activities, such as bonfires and workshops, to bring guests in and make them return, supported by evidence_54 and evidence_53."
+    },
+    {
+      "finding_id": "finding_42",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Booking and payment processes may be complicated or confusing for some guests.",
+      "evidence_ids": [
+        "evidence_51"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Booking and payment processes may be complicated or confusing for some guests, but the evidence does not directly support this finding."
+    },
+    {
+      "finding_id": "finding_43",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the friendly and helpful staff at hostels and small hotels in Manali.",
+      "evidence_ids": [
+        "evidence_51"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Guests praise the friendly and helpful staff at hostels and small hotels in Manali, but the finding does not directly answer the research question about extra services and add-on revenue."
+    },
+    {
+      "finding_id": "finding_44",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Reviews and recommendations from previous guests are a key factor in choosing a hostel or small hotel in Manali.",
+      "evidence_ids": [
+        "evidence_53"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Reviews and recommendations from previous guests are a key factor in choosing a hostel or small hotel in Manali, as stated in evidence_53."
+    },
+    {
+      "finding_id": "finding_45",
+      "type": "PRICING",
+      "category": "PRICING",
+      "statement": "The price of accommodations in Manali may be relatively affordable compared to other mountain destinations.",
+      "evidence_ids": [
+        "evidence_52"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_46",
+      "type": "FEATURE",
+      "category": "FEATURE",
+      "statement": "Some hostels and small hotels in Manali offer live glassblowing demonstrations and street food competitions.",
+      "evidence_ids": [
+        "evidence_55"
+      ],
+      "confidence": 0.9,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding about live glassblowing demonstrations and street food competitions is not directly related to the research question about extra services and add-on revenue."
+    },
+    {
+      "finding_id": "finding_47",
+      "type": "TREND",
+      "category": "TREND",
+      "statement": "The number of tourists visiting Manali is expected to increase in the coming years due to its popularity as a destination.",
+      "evidence_ids": [
+        "evidence_53"
+      ],
+      "confidence": 0.8,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding about the expected increase in tourists visiting Manali is not directly related to the research question about extra services and add-on revenue."
+    }
+  ],
+  "insights": [
+    "Hostels and small hotels in Manali offer various services and add-ons to increase ancillary revenue, such as self-guided walking tours, events, and excursions, as well as loyalty programs and special discounts to retain guests.",
+    "The availability of booking platforms with PMS integration and online check-in, like FreeGuides, can enhance the booking experience and increase revenue.",
+    "Ancillary revenue can be a significant source of income for hostels and small hotels in Manali, with commission on guest bookings and upsells adding a meaningful, recurring stream with little added cost."
+  ],
+  "coverage": [
+    {
+      "channel": "Google Maps / Google reviews",
+      "source_type": "maps",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Not readable automatically (login / JavaScript). Paste real reviews or captions with the `note` command."
+    },
+    {
+      "channel": "Instagram / Facebook",
+      "source_type": "social",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Not readable automatically (login / JavaScript). Paste real reviews or captions with the `note` command."
+    },
+    {
+      "channel": "Official website",
+      "source_type": "official",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Booking platforms (Booking.com, Hostelworld, Zostel, MakeMyTrip, Airbnb ...)",
+      "source_type": "booking",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Review sites (Tripadvisor, Zomato ...)",
+      "source_type": "review",
+      "passages": 3,
+      "sources": 3,
+      "status": "snippet",
+      "note": "Search-engine snippets only (no full page text)"
+    },
+    {
+      "channel": "Forums (Reddit, Quora)",
+      "source_type": "forum",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Blogs & articles",
+      "source_type": "web",
+      "passages": 55,
+      "sources": 21,
+      "status": "full",
+      "note": "Full text read"
+    },
+    {
+      "channel": "Notes you added by hand",
+      "source_type": "manual",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    }
+  ],
+  "report_path": "/Users/vanshikamahajan/Documents/personal-research-agent/research/reports/area-revenue-opportunities-20261126-045102.md",
+  "title": "Revenue opportunities - Manali"
+}

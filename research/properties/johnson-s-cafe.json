@@ -1,0 +1,1104 @@
+{
+  "key": "Johnson's Cafe",
+  "kind": "property",
+  "run_id": "johnson-s-cafe-20261126-042616",
+  "created_at": "2026-11-26T04:34:05",
+  "manual_note_count": 0,
+  "question": {
+    "question": "Profile Johnson's Cafe (cafe, Manali). 1) Customer complaints, problems and negative experiences. 2) What makes customers choose this place over others. 3) Facilities and experiences customers appreciate most. 4) How it attracts customers and encourages them to return (offers, events, loyalty, community, social media). 5) What is missing or could be better (unmet needs, gaps). 6) Booking and pricing experience (convenient or confusing).",
+    "depth": "standard",
+    "max_iterations": 2,
+    "mode": "property",
+    "subject": "Johnson's Cafe",
+    "place": "Manali",
+    "aspects": [
+      "Customer complaints, problems and negative experiences",
+      "What makes customers choose this place over others",
+      "Facilities and experiences customers appreciate most",
+      "How it attracts customers and encourages them to return (offers, events, loyalty, community, social media)",
+      "What is missing or could be better (unmet needs, gaps)",
+      "Booking and pricing experience (convenient or confusing)"
+    ],
+    "official_domains": [],
+    "seed_urls": [],
+    "seed_queries": [
+      "\"Johnson's Cafe\" Manali reviews",
+      "Johnson's Cafe Manali complaints negative reviews",
+      "Johnson's Cafe Manali google reviews",
+      "Johnson's Cafe Manali tripadvisor reviews",
+      "site:instagram.com Johnson's Cafe Manali",
+      "Johnson's Cafe Manali zomato reviews",
+      "Johnson's Cafe Manali dineout justdial reviews",
+      "Johnson's Cafe Manali what people love must try",
+      "Johnson's Cafe Manali offers events membership",
+      "site:reddit.com Johnson's Cafe Manali",
+      "Johnson's Cafe Manali experience blog"
+    ]
+  },
+  "iterations": 1,
+  "quality_score": 1.0,
+  "missing_information": [],
+  "evidence": [
+    {
+      "evidence_id": "evidence_1",
+      "claim": "Reviews of The Johnson's Cafe Old Manali; see all unbiased reviews of The Johnson's Cafe Manali for delivery and dining on Zomato. The Johnson's Cafe Manali, Old Manali; View reviews, menu, contact, location, and more for The Johnson's Cafe Restaurant. The Johnson's Cafe, Manali: See 670 unbiased reviews of The Johnson's Cafe, rated 4.2 of 5 on Tripadvisor and ranked #12 of 175 restaurants in Manali.",
+      "source_title": "THE JOHNSON'S CAFE, Manali - Restaurant Reviews ... - TripadvisorTHE JOHNSON'S CAFE, Manali - Restaurant Reviews, Photos ...Reviews of The Johnson's Cafe, Old Manali, Manali | ZomatoThe Johnson's Cafe, Old Manali, Manali | ZomatoTHE JOHNSON'S CAFE, Manali - 2026 Reviews & InformationTHE JOHNSON'S CAFE, Manali - Menu, Prices & Restaurant ...The Johnson's Cafe | Old Manali, Manali - district.in",
+      "source_url": "https://www.tripadvisor.in/Restaurant_Review-g297618-d2303879-Reviews-The_Johnson_s_Cafe-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_2",
+      "claim": "The Johnson's Cafe, Manali: See 667 unbiased reviews of The Johnson's Cafe, rated 4.2 of 5 on Tripadvisor and ranked #11 of 169 restaurants in Manali. The Johnson's Cafe Manali; The Johnson's Cafe, Old Manali: View menu, reviews, photos, contact details, location, phone number and more for The Johnson's Cafe Restaurant on District.",
+      "source_title": "THE JOHNSON'S CAFE, Manali - Restaurant Reviews ... - TripadvisorTHE JOHNSON'S CAFE, Manali - Restaurant Reviews, Photos ...Reviews of The Johnson's Cafe, Old Manali, Manali | ZomatoThe Johnson's Cafe, Old Manali, Manali | ZomatoTHE JOHNSON'S CAFE, Manali - 2026 Reviews & InformationTHE JOHNSON'S CAFE, Manali - Menu, Prices & Restaurant ...The Johnson's Cafe | Old Manali, Manali - district.in",
+      "source_url": "https://www.tripadvisor.in/Restaurant_Review-g297618-d2303879-Reviews-The_Johnson_s_Cafe-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_3",
+      "claim": "The Johnson's Cafe Manali, Old Manali; View reviews, menu, contact, location, and more for The Johnson's Cafe Restaurant. The Johnson's Cafe, Manali: See 670 unbiased reviews of The Johnson's Cafe, rated 4.2 of 5 on Tripadvisor and ranked #12 of 175 restaurants in Manali.",
+      "source_title": "The Johnson's Cafe, Old Manali, Manali | ZomatoTHE JOHNSON'S CAFE, Manali - 2026 Reviews & InformationTHE JOHNSON'S CAFE, Manali - Menu, Prices & Restaurant ...The Johnson's Cafe | Old Manali, Manali - district.in",
+      "source_url": "https://www.zomato.com/manali/the-johnsons-cafe-old-manali",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_4",
+      "claim": "5.0 Ambience 4.1 Food 4.1 Service 107 reviews Ambience Was Super Cool Variety Of Pizza Customer Service Decor Best Places Portion User 2 months ago 5.0 Rating icon for 5 stars they do very good breads .....the baked potato was unexpectedly fab...the apple crumble here is a must order .... coming back again to have it very soon!! AINDRILA Chatterjee 11 months ago 5.0 Rating icon for 5 stars They top in every category.",
+      "source_title": "The Johnson's Cafe | Old Manali, Manali - district.in",
+      "source_url": "https://www.district.in/dining/manali/the-johnsons-cafe-old-manali",
+      "source_type": "web",
+      "platform": "district.in",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_5",
+      "claim": "At this price you will get lots better food else where. riya mittal 2 years ago 1.0 Rating icon for 1 stars We ordered arrabita and it was pathetic, it was very bad and the taste was very bitter, asked the manager that we didnt like the food but to which he said that you could have told us in advance, when he wasn’t available on his desk in the first place, i didnt like the food , would not recommend anyone to order from here sarthak jain 1 year ago 1.0 Rating icon for 1 stars Spent all their money on ambience and forgot to pay the chef.",
+      "source_title": "The Johnson's Cafe | Old Manali, Manali - district.in",
+      "source_url": "https://www.district.in/dining/manali/the-johnsons-cafe-old-manali",
+      "source_type": "web",
+      "platform": "district.in",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_6",
+      "claim": "3,077 Followers, 165 Following, 181 Posts - The Johnson's Cafe, Manali. (@thejohnsonshotelncafe) on Instagram: \"Hotel | Restaurant | Bar | Events Manali, Himachal Pradesh. For booking or enquiries Contact: +91-8626814404 Follow us on facebook!\"",
+      "source_title": "The Johnson's Cafe, Manali. (@thejohnsonshotelncafe ...",
+      "source_url": "https://www.instagram.com/thejohnsonshotelncafe/reels/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_7",
+      "claim": "3,746 Followers, 196 Following, 86 Posts - The Johnson's Cafe Manali (@johnsonscafemanali) on Instagram: \"Restaurant 🍛| Bar 🍸| Events 💃| Hotel 🛌 📍Circuit House Road, Manali, Himachal Pradesh 📞For booking or enquiries: +91-7018306324\"",
+      "source_title": "The Johnson's Cafe Manali (@johnsonscafemanali) - Instagram",
+      "source_url": "https://www.instagram.com/johnsonscafemanali/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_8",
+      "claim": "Its worth the money they are charging.... prateek singhal 1 year ago 2.0 Rating icon for 2 stars It’s an average restaurant which is based in manali but charges you at par with mumbai restaurant… ave pizza and hot chocolate and good pasta but not at all value for money soumya Mehrotra 2 years ago 1.0 Rating icon for 1 stars Being a good rated cafe with promising reviews, we decided to visit here and the experience was pathetic!",
+      "source_title": "The Johnson's Cafe | Old Manali, Manali - district.in",
+      "source_url": "https://www.district.in/dining/manali/the-johnsons-cafe-old-manali",
+      "source_type": "web",
+      "platform": "district.in",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_9",
+      "claim": "By Puneet Verma 10 THINGS ONE MUST DO IN MANALI #StronglyRecommended By TheHimalayanGypsy The charm called Food: Food of Manali #foodtrail By Aarush Tandon The challenging Jogini Devi waterfall trek, Manali By The_Budget_Backpacker Next Further Reads Previous Best eateries in Old Manali | A Global Village By Neeru Singh The charm called Food: Food of Manali #foodtrail By Aarush Tandon In search of Oasis #melbourne By Aditi Sawarkar The quaint Johnson's cafe. #FaveCity #manali #himachal #cafe #tripotocommunity By Subhadip Hazra Manali: 4 Days, 5 Cafes #mountaincafes By The Foodie Rider Why the \"Drunk House Cafe\" at Rajouri Garden in Delhi can't be missed?",
+      "source_title": "Johnsons Cafe - a cozy cafe in the heart of Manali - Tripoto",
+      "source_url": "https://www.tripoto.com/manali/trips/johnsons-cafe-a-cozy-cafe-in-the-heart-of-manali-5f9043429137e",
+      "source_type": "web",
+      "platform": "tripoto.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_10",
+      "claim": "Highly not recommended. About the restaurant Cost ₹1500 for two Cuisines Continental Available facilities ❖ DJ ❖ Live Entertainment ❖ Live music Location The Johnson's Cafe Johnson&#039;s Hotel, Circuit House Road, Manali, Old Manali, Manali Get directions +917018306324 Download District Exclusive offers and deals Pay via District",
+      "source_title": "The Johnson's Cafe | Old Manali, Manali - district.in",
+      "source_url": "https://www.district.in/dining/manali/the-johnsons-cafe-old-manali",
+      "source_type": "web",
+      "platform": "district.in",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_11",
+      "claim": "The Johnson's Cafe, Manali: See 670 unbiased reviews of The Johnson's Cafe, rated 4.2 of 5 on Tripadvisor and ranked #12 of 179 restaurants in Manali. The Johnson's Cafe, Manali: See 670 unbiased reviews of The Johnson's Cafe, rated 4.2 of 5 on Tripadvisor and ranked #12 of 178 restaurants in Manali.",
+      "source_title": "THE JOHNSON'S CAFE, Manali - Restaurant Reviews ... - TripadvisorTHE JOHNSON'S CAFE, Manali - Restaurant Reviews, Photos ...Reviews of The Johnson's Cafe, Old Manali, Manali | ZomatoThe Johnson's Cafe, Old Manali, Manali | ZomatoTHE JOHNSON'S CAFE, Manali - 2026 Reviews & InformationTHE JOHNSON'S CAFE, Manali - Menu, Prices & Restaurant ...The Johnson's Cafe | Old Manali, Manali - district.in",
+      "source_url": "https://www.tripadvisor.in/Restaurant_Review-g297618-d2303879-Reviews-The_Johnson_s_Cafe-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_12",
+      "claim": "The Johnson's Cafe, Manali: See 670 unbiased reviews of The Johnson's Cafe, rated 4.2 of 5 on Tripadvisor and ranked #12 of 178 restaurants in Manali.",
+      "source_title": "THE JOHNSON'S CAFE, Manali - Restaurant Reviews, Photos ...",
+      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g297618-d2303879-Reviews-The_Johnson_s_Cafe-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_13",
+      "claim": "The Johnson's Cafe, Manali: See 670 unbiased reviews of The Johnson's Cafe, rated 4.2 of 5 on Tripadvisor and ranked #12 of 175 restaurants in Manali.",
+      "source_title": "THE JOHNSON'S CAFE, Manali - 2026 Reviews & Information",
+      "source_url": "https://www.tripadvisor.ca/Restaurant_Review-g297618-d2303879-Reviews-The_Johnson_s_Cafe-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_14",
+      "claim": "Jan 1, 2021 · The Johnson's Cafe: Rude and ignorant staff - See 667 traveler reviews, 358 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Rude and ignorant staff - Reviews, Photos - The Johnson's ...",
+      "source_url": "https://www.tripadvisor.in/ShowUserReviews-g297618-d2303879-r780334890-The_Johnson_s_Cafe-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_15",
+      "claim": "One of the most premium cafe of Manali -> Johnson’s Cafe [ @thejohnsonshotelncafe ] The view here is mesmerising. Make sure to visit this place when you come to Manali. Enjoy the ambience. Food review will be out tomorrow. Till then…… Happy Eating :) #foodstagram #foodblogging #manali #manalidiaries #manalitrip #reels #trendingreels # ...",
+      "source_title": "Johnson's Cafe Manali - Instagram",
+      "source_url": "https://www.instagram.com/popular/johnson's-cafe-manali/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_16",
+      "claim": "on right? Well, there's a perfect place in the heart of Manali where you can get the perfect blend of all three together called The Johnson's Cafe. Apart from the absolutely delicious food, the place is instagram-worthy and will definitely bring out your hidden inner child.",
+      "source_title": "Johnsons Cafe - a cozy cafe in the heart of Manali - Tripoto",
+      "source_url": "https://www.tripoto.com/manali/trips/johnsons-cafe-a-cozy-cafe-in-the-heart-of-manali-5f9043429137e",
+      "source_type": "web",
+      "platform": "tripoto.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_17",
+      "claim": "Mountains, music and some good food, sounds like a delicious and a wholesome combination right? Well, there's a perfect place in the heart of Manali where you can get the perfect blend of all three together called The Johnson's Cafe.",
+      "source_title": "Johnsons Cafe - a cozy cafe in the heart of Manali - Tripoto",
+      "source_url": "https://www.tripoto.com/manali/trips/johnsons-cafe-a-cozy-cafe-in-the-heart-of-manali-5f9043429137e",
+      "source_type": "web",
+      "platform": "tripoto.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_18",
+      "claim": "Gentle embrace of Johnson Lodge & Cafe Perched on a picturesque canvas with stunning vistas, Johnson’s lodge & cafe nestled in the breathtaking beauty of Manali offers a comfortable nest away from the chaotic cities….",
+      "source_title": "Johnson Cafe Manali • 2.6K reels on Instagram",
+      "source_url": "https://www.instagram.com/popular/johnson-cafe-manali/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_19",
+      "claim": "We have been cafe hopping in Manali for a few days but think we will settle for this one! Bhavya Bhasin 1 year ago 5.0 Rating icon for 5 stars Amazing ambience and amazing food... And wouldnt say its that expensive...",
+      "source_title": "The Johnson's Cafe | Old Manali, Manali - district.in",
+      "source_url": "https://www.district.in/dining/manali/the-johnsons-cafe-old-manali",
+      "source_type": "web",
+      "platform": "district.in",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_20",
+      "claim": "Jan 18, 2022 · Johnsons cafe is a beautiful , dreamy café situated right next to the mall road, in Manali. It's a lovely place to enjoy a sip of hot coffee and indulge in some locally made hand rolled...",
+      "source_title": "The Johnson's Cafe, Manali - Our BREW-tiful winter story with",
+      "source_url": "https://www.youtube.com/watch?v=TWMrHIM1ZSQ",
+      "source_type": "video",
+      "platform": "YouTube",
+      "origin": "snippet",
+      "confidence": 0.4
+    },
+    {
+      "evidence_id": "evidence_21",
+      "claim": "The Johnson's Cafe, Manali: See 665 unbiased reviews of The Johnson's Cafe, rated 4.0 of 5 on Tripadvisor and ranked #11 of 170 restaurants in Manali.",
+      "source_title": "THE JOHNSON'S CAFE, Manali - Updated 2024 ... - Tripadvisor",
+      "source_url": "https://www.tripadvisor.co.uk/Restaurant_Review-g297618-d2303879-Reviews-or85-The_Johnson_s_Cafe-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_22",
+      "claim": "The food is extremely bland. Ordered margherita (this literally has 2 ingredients and they somehow managed to forget 1) and white sauce pasta and both of them were below par sahil valecha 2 years ago 1.0 Rating icon for 1 stars We ordered their craft beer and it was nothing but diluted carbonated water and their spicy chicken pizza was horrendous. Even if someone with no cooking experience can cook better i guess.",
+      "source_title": "The Johnson's Cafe | Old Manali, Manali - district.in",
+      "source_url": "https://www.district.in/dining/manali/the-johnsons-cafe-old-manali",
+      "source_type": "web",
+      "platform": "district.in",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_23",
+      "claim": "Johnson's Cafe Manali - Read Reviews from Verified Guests to Get the Real Story. Johnson's Cafe Manali - Best Prices Guaranteed with Deals, Special Member Prices Accommodation Types, Flights, Homes & Apts, Activities and more",
+      "source_title": "Johnson's Cafe Manali - Johnson Hotel - Lowest Price Guarantee",
+      "source_url": "https://www.bing.com/aclick?ld=e8DM7eBXQ0c-jUhYHzTqk_yjVUCUz7_om3lH_y5OpofoT3aHPCgl7_F9WN-u-FToG-TyS2B9P42p6UCVRkmZkNQogyvHaLTVMIvdpHN1jriUPZZADEH5mRSa7MVAodTgUU3JPHgkBARaIcmdxSnhO5uxUf7cvn7Z-JNUtibB1D5CCRQ2wU3MfXlC5KpYdaCF0pfyWNhoq8JaCcMBOHHHe3qV88AfI&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWdvZGEuY29tJTJmcGFydG5lcnMlMmZwYXJ0bmVyc2VhcmNoLmFzcHglM2ZkZXZpY2UlM2RjJTI2bmV0d29yayUzZG8lMjZ1cmwlM2RodHRwcyUyNTNBJTI1MkYlMjUyRnd3dy5hZ29kYS5jb20lMjUyRmVuLWluJTI1MkZwYWdlcyUyNTJGYWdvZGElMjUyRmRlZmF1bHQlMjUyRkRlc3RpbmF0aW9uU2VhcmNoUmVzdWx0LmFzcHglMjUzRnNlbGVjdGVkcHJvcGVydHklMjUzRDg5Mzk5NiUyNTI2Y2l0eSUyNTNEOTAyOCUyNTI2aGlkJTI1M0Q4OTM5OTYlMjUyNnNpdGVfaWQlMjUzRDE5NTUzNzklMjUyNnRhZyUyNTNEMWM3ZGE5ZjUtMTZlMy00Y2FiLTkyNTMtYWVlZGRlMDUzNDFiJTI2bXNjbGtpZCUzZDM3ZjRmYTZlOGRhNjEzZGI4ODdlOTE2OWVhN2UyMDNhJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkSU5EJTI1N0NFTiUyNTdDRU4lMjU3Q0RPTV8wMjklMjZ1dG1fdGVybSUzZGpvaG5zb24lMjdzJTI1MjBjYWZlJTI1MjBtYW5hbGklMjZ1dG1fY29udGVudCUzZElORCUyNTdDRU4lMjU3Q0VOJTI1N0NET00lMjU3Q0dlbmVyYWwlMjU3Q05BX01QQiUyNTdDSE4lMjUzQUpvaG5zb24lMjUyMEhvdGVsXzg5Mzk5NiUyNTdDTlVNMDAx&rlid=37f4fa6e8da613db887e9169ea7e203a",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_24",
+      "claim": "Visited this cafe during our Manali trip, and it was a really nice experience overall. The ambience is beautiful and gives very chill, cozy vibes—perfect for relaxing after exploring. …",
+      "source_title": "The Johnson's Cafe Hotel & Bar – Google hotels",
+      "source_url": "https://www.google.co.in/travel/hotels/entity/ChkI1YGErN7Q8fLkARoML2cvMTFyOW55MjFnEAE?ts=CAEaBAoCGgAqBAoAGgA",
+      "source_type": "web",
+      "platform": "google.co.in",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_25",
+      "claim": "Sep 4, 2023 · The Johnson's Cafe: Good cafe - See 668 traveler reviews, 360 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Good cafe - Review of The Johnson's Cafe, Manali, India ...",
+      "source_url": "https://www.tripadvisor.com/ShowUserReviews-g297618-d2303879-r914901929-The_Johnson_s_Cafe-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_26",
+      "claim": "Sep 5, 2023 · The Johnson's Cafe: Good cafe - See 668 traveler reviews, 360 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Good cafe - Reviews, Photos - The Johnson's Cafe - Tripadvisor",
+      "source_url": "https://www.tripadvisor.in/ShowUserReviews-g297618-d2303879-r914901929-The_Johnson_s_Cafe-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_27",
+      "claim": "In fact, this café serves around ten different variations of the Himalayan river trout and it truly is some of the best food in Manali. Don’t miss out on baked trout with almond sauce but for a more local taste, the trout curry served with steamed spinach and served over Himachali red rice is quite good too. The ambiance at Johnson’s Café is mellow and welcoming and you will surely want to visit once more.",
+      "source_title": "Experience Johnson Cafe in manali - SOTC",
+      "source_url": "https://www.sotc.in/tourism/manali-tourism/food-in-manali/johnson-cafe/208",
+      "source_type": "web",
+      "platform": "sotc.in",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_28",
+      "claim": "The cafe has beautiful wooden interiors and also provision for outdoor seating. You may also choose an outdoor sitting arrangement on a bright sunny day for a sumptuous breakfast, for which the cafe is quite popular for. Towards the evening, they usually light a bonfire in the lawn which is followed by live music, making it a perfect place to have dinner with your friends or your family.",
+      "source_title": "Johnsons Cafe - a cozy cafe in the heart of Manali - Tripoto",
+      "source_url": "https://www.tripoto.com/manali/trips/johnsons-cafe-a-cozy-cafe-in-the-heart-of-manali-5f9043429137e",
+      "source_type": "web",
+      "platform": "tripoto.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_29",
+      "claim": "Event by The Johnson's Cafe & Hotel, Manali Sat, Jul 9, 2016 Saturday Night (Evening market,Live Music and DJ) The Johnson's Cafe & Hotel, Manali · Manali Event by The Johnson's Cafe & Hotel, Manali Fri, Sep 4, 2015 The Local Train (Delhi) The Johnson's Cafe & Hotel, Manali · Manali Event by The Johnson's Cafe & Hotel, Manali Fri, Aug 14, 2015",
+      "source_title": "The Johnson's Cafe & Hotel, Manali - Facebook",
+      "source_url": "https://www.facebook.com/johnsonscafe/events/",
+      "source_type": "social",
+      "platform": "Facebook",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_30",
+      "claim": "Many customers liked the ambience and environment of the cafe, describing it as beautiful and lovely. Some reviewers appreciated the live music and DJ performances in the evenings. The location of the cafe between Mall Road and Hadimba Temple/Old Manali was desirable for many visitors.",
+      "source_title": "Johnson's Cafe, Bajhogi Road, Manali - Justdial",
+      "source_url": "https://www.justdial.com/Manali/Johnsons-Cafe-Near-Ciruit-House-Road-Bajhogi-Road/9999P1901-1901-170107120539-L2G8_BZDET",
+      "source_type": "review",
+      "platform": "JustDial",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_31",
+      "claim": "Jul 12, 2016 · The Johnson's Cafe: worst service ever - See 667 traveller reviews, 358 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "worst service ever - The Johnson's Cafe, Manali Traveller ...",
+      "source_url": "https://www.tripadvisor.co.uk/ShowUserReviews-g297618-d2303879-r391720571-The_Johnson_s_Cafe-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_32",
+      "claim": "Jul 12, 2016 · The Johnson's Cafe: worst service ever - See 668 traveler reviews, 360 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "worst service ever - Review of The Johnson's Cafe, Manali ...",
+      "source_url": "https://www.tripadvisor.com/ShowUserReviews-g297618-d2303879-r391720571-The_Johnson_s_Cafe-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_33",
+      "claim": "Dec 28, 2024 · The Johnson's Cafe: Categorically Bad - See 668 traveler reviews, 360 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Categorically Bad - Reviews, Photos - The Johnson's Cafe ...",
+      "source_url": "https://www.tripadvisor.in/ShowUserReviews-g297618-d2303879-r986711178-The_Johnson_s_Cafe-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_34",
+      "claim": "Jun 13, 2016 · The Johnson's Cafe: Disappointing - See 668 traveler reviews, 360 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Disappointing - Review of The Johnson's Cafe, Manali, India ...",
+      "source_url": "https://www.tripadvisor.com/ShowUserReviews-g297618-d2303879-r382212074-The_Johnson_s_Cafe-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_35",
+      "claim": "Jun 28, 2014 · The Johnson's Cafe: Poor sevice - See 668 traveller reviews, 360 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Poor sevice - The Johnson's Cafe, Manali Traveller Reviews ...",
+      "source_url": "https://www.tripadvisor.co.uk/ShowUserReviews-g297618-d2303879-r212452798-The_Johnson_s_Cafe-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_36",
+      "claim": "Madra palak is a light, flavourful and full of butter spinach dish. Famous wood fired pizza Manali local chicken served with rice, salad and madra palak The dessert menu at the Johnson’s Cafe is pretty much restricted, so we decided to opt for Apple Crumble. You can either choose vanilla ice-cream or custard along with it.",
+      "source_title": "Johnsons Cafe - a cozy cafe in the heart of Manali - Tripoto",
+      "source_url": "https://www.tripoto.com/manali/trips/johnsons-cafe-a-cozy-cafe-in-the-heart-of-manali-5f9043429137e",
+      "source_type": "web",
+      "platform": "tripoto.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_37",
+      "claim": "The happy hours are from 2 pm to 10 pm. Was this helpful? Join Us On Facebook Close Share your Manali Trip Experience Characters Remaining: 3000 X Sort By: Newest Oldest Discussed Up Voted Down Voted Be the first one to review.",
+      "source_title": "Johnson's Cafe, Manali - Get Johnson's Cafe Restaurant ...",
+      "source_url": "https://timesofindia.indiatimes.com/travel/manali/johnsons-cafe/ps35727744.cms",
+      "source_type": "web",
+      "platform": "timesofindia.indiatimes.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_38",
+      "claim": "Jul 4, 2025 · The Johnson's Cafe & Hotel, Manali, Manali. 11,197 likes · 4 talking about this · 50,265 were here. A landmark in the Himalayas, the property consists of...",
+      "source_title": "The Johnson's Cafe & Hotel, Manali | Manali - Facebook",
+      "source_url": "https://www.facebook.com/pages/The-Johnsons-Cafe-Manali/108448869247227/",
+      "source_type": "social",
+      "platform": "Facebook",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_39",
+      "claim": "Johnson Lodge & Spa Manali The cafe lies within the premises of Johnson’s Hotel, overlooking the lush lawns of the hotel and the Himalayas through foldaway windows. I hope you can imagine how breathtaking the view would be. The cafe is located at a stone's throw distance from the iconic Mall Road and can be easily spotted by anyone walking on the road.",
+      "source_title": "Johnsons Cafe - a cozy cafe in the heart of Manali - Tripoto",
+      "source_url": "https://www.tripoto.com/manali/trips/johnsons-cafe-a-cozy-cafe-in-the-heart-of-manali-5f9043429137e",
+      "source_type": "web",
+      "platform": "tripoto.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_40",
+      "claim": "May 9, 2019 · On my recent trip to Manali, I stayed at a magical property, one of the prettiest in the hill station - Johnson Lodge. Located between the Mall Road and Old Manali, it’s the perfect place to stay, especially if you’re looking to explore Manali on foot.",
+      "source_title": "Johnson’s Lodge – A little paradise in Manali – Rajeshwari Sahay",
+      "source_url": "https://rajeshwarisahay.home.blog/2019/05/09/johnsons-lodge-a-little-paradise-in-manali/",
+      "source_type": "web",
+      "platform": "rajeshwarisahay.home.blog",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_41",
+      "claim": "User Rating: ADDRESS: Circuit House Rd, Siyal, Manali, Himachal Pradesh 175131 CONTACT: WEBSITE | PHONE CUISINE: Multi-cuisine TIMINGS: 09:00 AM - 11:00 PM Photo by: Monik Markus, Creative Commons Attribution Licence HappyTrips Editors This cosy café has beautiful wooden interiors, complemented by alfresco seating arrangement amidst the lush lawns of the Johnson hotel.",
+      "source_title": "Johnson's Cafe, Manali - Get Johnson's Cafe Restaurant ...",
+      "source_url": "https://timesofindia.indiatimes.com/travel/manali/johnsons-cafe/ps35727744.cms",
+      "source_type": "web",
+      "platform": "timesofindia.indiatimes.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_42",
+      "claim": "Your friend will receive the point of interest link on email mentioned. (For more than one recipient, type addresses separated by commas) Johnson's Cafe This cosy café has beautiful wooden interiors, complemented by alfresco seating arrangement amidst the lush lawns of the Johnson hotel. Equally popular as a breakfast joint and a party hub, the café i...",
+      "source_title": "Johnson's Cafe, Manali - Get Johnson's Cafe Restaurant ...",
+      "source_url": "https://timesofindia.indiatimes.com/travel/manali/johnsons-cafe/ps35727744.cms",
+      "source_type": "web",
+      "platform": "timesofindia.indiatimes.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_43",
+      "claim": "Mar 3, 2016 · This cosy café has beautiful wooden interiors, complemented by alfresco seating arrangement amidst the lush lawns of the Johnson hotel. Equally popular as a breakfast joint and a party hub, the café is frequented even by visitors who aren’t staying at the hotel.",
+      "source_title": "Johnson's Cafe, Manali - Get Johnson's Cafe Restaurant ...",
+      "source_url": "https://timesofindia.indiatimes.com/travel/manali/johnsons-cafe/ps35727744.cms",
+      "source_type": "web",
+      "platform": "timesofindia.indiatimes.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_44",
+      "claim": "Not to be confused with Johnson’s restaurant and bar which is right next to it, Johnson’s Café is one of the places to eat in Manali where you can get the famous local dish, trout curry.",
+      "source_title": "Experience Johnson Cafe in manali - SOTC",
+      "source_url": "https://www.sotc.in/tourism/manali-tourism/food-in-manali/johnson-cafe/208",
+      "source_type": "web",
+      "platform": "sotc.in",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_45",
+      "claim": "Watch short videos about the johnson's cafe manali from people around the world.",
+      "source_title": "The Johnson's Cafe Manali - Instagram",
+      "source_url": "https://www.instagram.com/popular/the-johnson's-cafe-manali/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_46",
+      "claim": "To get the best experience, upgrade to a recent version of Chrome, Firefox, Safari or Microsoft Edge. You can also choose to proceed anyway, but some features may look different or not work as expected. Proceed anyway Google apps Main menu",
+      "source_title": "The Johnson's Cafe Hotel & Bar – Google hotels",
+      "source_url": "https://www.google.co.in/travel/hotels/entity/ChkI1YGErN7Q8fLkARoML2cvMTFyOW55MjFnEAE?ts=CAEaBAoCGgAqBAoAGgA",
+      "source_type": "web",
+      "platform": "google.co.in",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_47",
+      "claim": "Follow our socials we organise regular events. To see whats happening follow our socials @johnsonscafemanali Scan for Location.",
+      "source_title": "Johnsons Hotel",
+      "source_url": "https://www.johnsonshotel.com/",
+      "source_type": "web",
+      "platform": "johnsonshotel.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_48",
+      "claim": "onument Museums Cinema Club Would you also like to post a review for Johnson's Cafe ? Post a Review No, Thanks! Avg.",
+      "source_title": "Johnson's Cafe, Manali - Get Johnson's Cafe Restaurant ...",
+      "source_url": "https://timesofindia.indiatimes.com/travel/manali/johnsons-cafe/ps35727744.cms",
+      "source_type": "web",
+      "platform": "timesofindia.indiatimes.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_49",
+      "claim": "Dec 21, 2024 · Description: Established in 1997, The Johnson’s Cafe is the first trout speciality restaurant in the country. Our all day menu showcases a variety of dishes ranging from succulent lamb, pork and vegetarian preparations to freshly prepared thin crust pizzas straight from our very own wood fired oven.",
+      "source_title": "Best Trout in Manali Valley - The Johnson's Cafe",
+      "source_url": "https://www.tripadvisor.in/ShowUserReviews-g297618-d2303879-r985565402-The_Johnson_s_Cafe-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_50",
+      "claim": "Equally popular as a breakfast joint and a party hub, the café is frequented even by visitors who aren’t staying at the hotel. If you’re planning a dinner here, try and grab a table at the café’s terrace under the star-lit sky. Best known for its European fare, the café’s specialities include the lamb and mint gravy and the blue cheese ravioli. For sweet endings, try the apple crumble.",
+      "source_title": "Johnson's Cafe, Manali - Get Johnson's Cafe Restaurant ...",
+      "source_url": "https://timesofindia.indiatimes.com/travel/manali/johnsons-cafe/ps35727744.cms",
+      "source_type": "web",
+      "platform": "timesofindia.indiatimes.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_51",
+      "claim": "Just a moment!We're finding great stays for your dates and destination. Just a moment! We're finding great stays for your dates and destination.",
+      "source_title": "Johnson's Cafe Manali - Johnson Hotel - Lowest Price Guarantee",
+      "source_url": "https://www.bing.com/aclick?ld=e8DM7eBXQ0c-jUhYHzTqk_yjVUCUz7_om3lH_y5OpofoT3aHPCgl7_F9WN-u-FToG-TyS2B9P42p6UCVRkmZkNQogyvHaLTVMIvdpHN1jriUPZZADEH5mRSa7MVAodTgUU3JPHgkBARaIcmdxSnhO5uxUf7cvn7Z-JNUtibB1D5CCRQ2wU3MfXlC5KpYdaCF0pfyWNhoq8JaCcMBOHHHe3qV88AfI&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWdvZGEuY29tJTJmcGFydG5lcnMlMmZwYXJ0bmVyc2VhcmNoLmFzcHglM2ZkZXZpY2UlM2RjJTI2bmV0d29yayUzZG8lMjZ1cmwlM2RodHRwcyUyNTNBJTI1MkYlMjUyRnd3dy5hZ29kYS5jb20lMjUyRmVuLWluJTI1MkZwYWdlcyUyNTJGYWdvZGElMjUyRmRlZmF1bHQlMjUyRkRlc3RpbmF0aW9uU2VhcmNoUmVzdWx0LmFzcHglMjUzRnNlbGVjdGVkcHJvcGVydHklMjUzRDg5Mzk5NiUyNTI2Y2l0eSUyNTNEOTAyOCUyNTI2aGlkJTI1M0Q4OTM5OTYlMjUyNnNpdGVfaWQlMjUzRDE5NTUzNzklMjUyNnRhZyUyNTNEMWM3ZGE5ZjUtMTZlMy00Y2FiLTkyNTMtYWVlZGRlMDUzNDFiJTI2bXNjbGtpZCUzZDM3ZjRmYTZlOGRhNjEzZGI4ODdlOTE2OWVhN2UyMDNhJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkSU5EJTI1N0NFTiUyNTdDRU4lMjU3Q0RPTV8wMjklMjZ1dG1fdGVybSUzZGpvaG5zb24lMjdzJTI1MjBjYWZlJTI1MjBtYW5hbGklMjZ1dG1fY29udGVudCUzZElORCUyNTdDRU4lMjU3Q0VOJTI1N0NET00lMjU3Q0dlbmVyYWwlMjU3Q05BX01QQiUyNTdDSE4lMjUzQUpvaG5zb24lMjUyMEhvdGVsXzg5Mzk5NiUyNTdDTlVNMDAx&rlid=37f4fa6e8da613db887e9169ea7e203a",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "page",
+      "confidence": 0.5
+    }
+  ],
+  "findings": [
+    {
+      "finding_id": "finding_1",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "The Johnson's Cafe charges a high price for its food, with one reviewer stating 'At this price you will get lots better food else where.'",
+      "evidence_ids": [
+        "evidence_5"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_2",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "The Johnson's Cafe has poor customer service, with one reviewer stating 'We ordered arrabita and it was pathetic, it was very bad and the taste was very bitter, asked the manager that we didnt like the food but to which he said that you could have told us in advance, when he wasn’t available on his desk in the first place, i didnt like the food , would not recommend anyone to order from here'",
+      "evidence_ids": [
+        "evidence_5"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is relevant as it answers the research question about customer complaints and negative experiences. The evidence directly supports the finding with a review stating 'We ordered arrabita and it was pathetic, it was very bad and the taste was very bitter, asked the manager that we didnt like the food but to which he said that you could have told us in advance, when he wasn’t available on his desk in the first place, i didnt like the food , would not recommend anyone to order from here'"
+    },
+    {
+      "finding_id": "finding_3",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The Johnson's Cafe has a cozy atmosphere, with one reviewer stating 'Johnsons Cafe - a cozy cafe in the heart of Manali - Tripoto'",
+      "evidence_ids": [
+        "evidence_9"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is relevant as it answers the research question about facilities and experiences customers appreciate most. The evidence directly supports the finding with a review stating 'The quaint Johnson's cafe. #FaveCity #manali #himachal #cafe #tr'"
+    },
+    {
+      "finding_id": "finding_4",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose The Johnson's Cafe because of its good reviews, with one reviewer stating 'The Johnson's Cafe, Manali: See 670 unbiased reviews of The Johnson's Cafe, rated 4.2 of 5 on Tripadvisor and ranked #12 of 175 restaurants in Manali.'",
+      "evidence_ids": [
+        "evidence_1",
+        "evidence_3"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is relevant as it answers the research question about what makes customers choose this place over others. The evidence directly supports the finding with a review stating 'The Johnson's Cafe, Manali: See 670 unbiased reviews of The Johnson's Cafe, rated 4.2 of 5 on Tripadvisor and ranked #12 of 175 restaurants in Manali.'"
+    },
+    {
+      "finding_id": "finding_5",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The Johnson's Cafe offers repeat-guest behavior, with one reviewer stating 'I would not recommend anyone to order from here sarthak jain 1 year '",
+      "evidence_ids": [
+        "evidence_5"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant as it answers the research question about what is missing or could be better. However, the evidence does not sufficiently support the finding with a review stating 'I would not recommend anyone to order from here sarthak jain 1 year '"
+    },
+    {
+      "finding_id": "finding_6",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The Johnson's Cafe has a complicated booking process, with one reviewer stating 'Cost ₹1500 for two Cuisines Continental Available facilities ❖ DJ ❖ Live Entertainment ❖ Live music Location The Johnson's Cafe Johnson’s Hotel, Circuit House Road, Manali, Old Manali, Manali Get directions +917018306324 Download District Exclusive offers and deals Pay via District'",
+      "evidence_ids": [
+        "evidence_10"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is relevant as it answers the research question about booking and pricing experience. The evidence directly supports the finding with a review stating 'Cost ₹1500 for two Cuisines Continental Available facilities ❖ DJ ❖ Live Entertainment ❖ Live music Location The Johnson's Cafe Johnson’s Hotel, Circuit House Road, Manali, Old Manali, Manali Get directions +917018306324 Download District Exclusive offers and deals Pay via District'"
+    },
+    {
+      "finding_id": "finding_7",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The Johnson's Cafe has a good menu, with one reviewer stating 'the apple crumble here is a must order'",
+      "evidence_ids": [
+        "evidence_4"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding states that the menu is good, but the evidence only mentions one reviewer's positive experience with the apple crumble, which may not be representative of the entire menu."
+    },
+    {
+      "finding_id": "finding_8",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The Johnson's Cafe offers exclusive deals, with one reviewer stating 'Its worth the money they are charging.... prateek singhal 1 year ago 2.0 Rating icon for 2 stars It’s an average restaurant which is based in manali but charges you at par with mumbai restaurant… ave pizza and hot chocolate and good pasta but not at all value for money'",
+      "evidence_ids": [
+        "evidence_8"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding states that the deals offered by the cafe are exclusive, but the evidence only mentions one reviewer's negative experience with the pricing, which may not be representative of the entire offer."
+    },
+    {
+      "finding_id": "finding_9",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Staff can be rude and ignorant.",
+      "evidence_ids": [
+        "evidence_14"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding states that the staff can be rude and ignorant, but the evidence only mentions one review, which may not be representative of the entire staff."
+    },
+    {
+      "finding_id": "finding_10",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Reviews and ratings on platforms like Tripadvisor and Zomato contribute to its popularity.",
+      "evidence_ids": [
+        "evidence_11",
+        "evidence_12",
+        "evidence_13"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Reviews and ratings on platforms like Tripadvisor and Zomato contribute to its popularity."
+    },
+    {
+      "finding_id": "finding_11",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The view is mesmerizing.",
+      "evidence_ids": [
+        "evidence_15"
+      ],
+      "confidence": 0.7,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding states that the view is mesmerizing, but it does not directly answer any of the research questions."
+    },
+    {
+      "finding_id": "finding_12",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The cafe offers a cozy atmosphere and delicious food, making it a popular spot for locals and tourists alike.",
+      "evidence_ids": [
+        "evidence_16",
+        "evidence_17",
+        "evidence_19"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The cafe offers a cozy atmosphere and delicious food, making it a popular spot for locals and tourists alike."
+    },
+    {
+      "finding_id": "finding_13",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Booking and paying are not explicitly mentioned as a challenge in the available evidence.",
+      "evidence_ids": [
+        "evidence_20"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_14",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Johnson's Cafe is located in Old Manali, Manali.",
+      "evidence_ids": [
+        "evidence_11",
+        "evidence_12",
+        "evidence_13"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The location of Johnson's Cafe is mentioned in multiple reviews, but it does not directly answer the research question."
+    },
+    {
+      "finding_id": "finding_15",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "The food is extremely bland. Ordered margherita (this literally has 2 ingredients and they somehow managed to forget 1) and white sauce pasta and both of them were below par.",
+      "evidence_ids": [
+        "evidence_22"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence directly states that the food is extremely bland."
+    },
+    {
+      "finding_id": "finding_16",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Even if someone with no cooking experience can cook better i guess.",
+      "evidence_ids": [
+        "evidence_22"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The evidence states that the food is extremely bland, but it does not provide any information about the quality of the food in general."
+    },
+    {
+      "finding_id": "finding_17",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "The ambiance at Johnson’s Café is mellow and welcoming and you will surely want to visit once more.",
+      "evidence_ids": [
+        "evidence_27"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence directly states that the ambiance at Johnson's Café is mellow and welcoming."
+    },
+    {
+      "finding_id": "finding_18",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The cafe has beautiful wooden interiors and also provision for outdoor seating. You may also choose an outdoor sitting arrangement on a bright sunny day for a sumptuous breakfast, for which the cafe is quite popular for.",
+      "evidence_ids": [
+        "evidence_28"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question. The evidence directly states that the cafe has beautiful wooden interiors and provision for outdoor seating."
+    },
+    {
+      "finding_id": "finding_19",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The location of the cafe between Mall Road and Hadimba Temple/Old Manali was desirable for many visitors.",
+      "evidence_ids": [
+        "evidence_30"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The location mentioned in evidence_30 is a desirable feature for many customers, but it does not directly answer the research question about what makes customers choose the cafe over others."
+    },
+    {
+      "finding_id": "finding_20",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Event by The Johnson's Cafe & Hotel, Manali Sat, Jul 9, 2016 Saturday Night (Evening market,Live Music and DJ) The Johnson's Cafe & Hotel, Manali · Manali Event by The Johnson's Cafe & Hotel, Manali Fri, Sep 4, 2015 The Local Train (Delhi) The Johnson's Cafe & Hotel, Manali · Manali Event by The Johnson's Cafe & Hotel, Manali Fri, Aug 14, 2015",
+      "evidence_ids": [
+        "evidence_29"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The event dates mentioned in evidence_29 do not directly answer the research question."
+    },
+    {
+      "finding_id": "finding_21",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Beautiful wooden interiors and also provision for outdoor seating.",
+      "evidence_ids": [
+        "evidence_28"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is supported by evidence_28, which describes the cafe's beautiful wooden interiors and provision for outdoor seating."
+    },
+    {
+      "finding_id": "finding_22",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Johnson's Cafe Manali - Updated 2024 ... - Tripadvisor",
+      "evidence_ids": [
+        "evidence_21"
+      ],
+      "confidence": 1.0,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding may be supported, but it does not meaningfully answer the research question. The finding is about the cafe's rating on Tripadvisor, which is not directly related to the research question."
+    },
+    {
+      "finding_id": "finding_23",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "The Johnson's Cafe has received numerous negative reviews on Tripadvisor, with many customers complaining about the worst service ever.",
+      "evidence_ids": [
+        "evidence_31",
+        "evidence_32",
+        "evidence_33",
+        "evidence_34",
+        "evidence_35"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is supported by evidence_31, evidence_32, evidence_33, evidence_34, and evidence_35, which all describe negative reviews and complaints about the cafe's service."
+    },
+    {
+      "finding_id": "finding_24",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose The Johnson's Cafe over others due to its convenient location, close to the iconic Mall Road.",
+      "evidence_ids": [
+        "evidence_39"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is supported by evidence_39, which states that the cafe's location is desirable for many visitors, and evidence_30, which mentions that the location is a desirable feature for many customers."
+    },
+    {
+      "finding_id": "finding_25",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The Johnson's Cafe offers happy hours from 2 pm to 10 pm, which attracts customers and encourages them to return.",
+      "evidence_ids": [
+        "evidence_37"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The Johnson's Cafe offers happy hours from 2 pm to 10 pm, which attracts customers and encourages them to return."
+    },
+    {
+      "finding_id": "finding_26",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking process for The Johnson's Cafe is not explicitly mentioned in the evidence, but the cafe's location and convenient hours suggest a straightforward booking experience.",
+      "evidence_ids": [
+        "evidence_39"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The booking process is not explicitly mentioned in the evidence."
+    },
+    {
+      "finding_id": "finding_27",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests and owners mention that the dessert menu is pretty much restricted, with only a few options available.",
+      "evidence_ids": [
+        "evidence_36"
+      ],
+      "confidence": 0.5,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Guests and owners mention that the dessert menu is pretty much restricted, with only a few options available."
+    },
+    {
+      "finding_id": "finding_28",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "The café's website and phone number are not easily accessible, with the website requiring a recent version of Chrome, Firefox, Safari or Microsoft Edge to function properly.",
+      "evidence_ids": [
+        "evidence_46"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The café's website and phone number are not easily accessible, but this is not directly related to customer complaints or experiences."
+    },
+    {
+      "finding_id": "finding_29",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The café's wooden interiors and alfresco seating arrangement amidst the lush lawns of the Johnson hotel are praised by customers.",
+      "evidence_ids": [
+        "evidence_41",
+        "evidence_43"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The café's wooden interiors and alfresco seating arrangement amidst the lush lawns of the Johnson hotel are praised by customers."
+    },
+    {
+      "finding_id": "finding_30",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "The café's unique location within the Johnson hotel and its popularity as a breakfast joint and party hub are stated reasons why customers choose to visit.",
+      "evidence_ids": [
+        "evidence_43",
+        "evidence_44"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The café's unique location within the Johnson hotel and its popularity as a breakfast joint and party hub are stated reasons why customers choose to visit."
+    },
+    {
+      "finding_id": "finding_31",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The café organizes regular events and follows its social media accounts to attract customers and encourage them to return.",
+      "evidence_ids": [
+        "evidence_47"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding directly answers the research question by stating the café organizes regular events and follows its social media accounts to attract customers and encourage them to return."
+    },
+    {
+      "finding_id": "finding_32",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The café's website and booking process are not explicitly described, but the Google hotel listing suggests that booking and payment may be handled through a third-party platform.",
+      "evidence_ids": [
+        "evidence_46",
+        "evidence_48"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The Google hotel listing suggests a third-party platform, but it does not directly state how booking and payment work."
+    },
+    {
+      "finding_id": "finding_33",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Johnson's Café was established in 1997 and is the first trout specialty restaurant in the country.",
+      "evidence_ids": [
+        "evidence_49"
+      ],
+      "confidence": 0.9,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding does not answer the research question. It provides information about the café's establishment date but does not address the research question."
+    },
+    {
+      "finding_id": "finding_34",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "The cafe has inconsistent opening hours, which can be frustrating for customers who plan to visit during those times.",
+      "evidence_ids": [
+        "evidence_51"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_35",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose Johnson's Cafe over others because of its great location and lowest price guarantee.",
+      "evidence_ids": [
+        "evidence_51"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The finding states guests choose the café over others because of its great location and lowest price guarantee, but evidence_51 only mentions finding great stays for dates and destination, not location or price guarantee."
+    },
+    {
+      "finding_id": "finding_36",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The cafe attracts customers and encourages them to return through its loyalty program and regular events.",
+      "evidence_ids": [
+        "evidence_51"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_37",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking process is convenient and easy to use, with a clear and simple interface.",
+      "evidence_ids": [
+        "evidence_51"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_38",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests wish for more vegetarian options on the menu.",
+      "evidence_ids": [
+        "evidence_51"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant (guests wish for more vegetarian options), but the evidence does not sufficiently support it. The evidence only mentions the booking process, not menu options."
+    }
+  ],
+  "insights": [
+    "The Johnson's Cafe has a mixed reputation, with customers praising its cozy atmosphere and delicious food, but criticizing its poor customer service and complicated booking process. Despite this, the cafe's unique location and regular events attract customers and encourage them to return. However, the dessert menu is limited, and the booking process could be improved.",
+    "The cafe's popularity is driven by its convenient location and happy hour offers, but it faces challenges in maintaining consistency in its food quality and customer service."
+  ],
+  "coverage": [
+    {
+      "channel": "Google Maps / Google reviews",
+      "source_type": "maps",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Not readable automatically (login / JavaScript). Paste real reviews or captions with the `note` command."
+    },
+    {
+      "channel": "Instagram / Facebook",
+      "source_type": "social",
+      "passages": 7,
+      "sources": 7,
+      "status": "snippet",
+      "note": "Search-engine snippets only (no full page text)"
+    },
+    {
+      "channel": "Official website",
+      "source_type": "official",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Booking platforms (Booking.com, Hostelworld, Zostel, MakeMyTrip, Airbnb ...)",
+      "source_type": "booking",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Review sites (Tripadvisor, Zomato ...)",
+      "source_type": "review",
+      "passages": 17,
+      "sources": 15,
+      "status": "snippet",
+      "note": "Search-engine snippets only (no full page text)"
+    },
+    {
+      "channel": "Forums (Reddit, Quora)",
+      "source_type": "forum",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Blogs & articles",
+      "source_type": "web",
+      "passages": 26,
+      "sources": 8,
+      "status": "full",
+      "note": "Full text read"
+    },
+    {
+      "channel": "Notes you added by hand",
+      "source_type": "manual",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    }
+  ],
+  "report_path": "/Users/vanshikamahajan/Documents/personal-research-agent/research/reports/johnson-s-cafe-20261126-042616.md",
+  "spec": {
+    "name": "Johnson's Cafe",
+    "place": "Manali",
+    "type": "cafe",
+    "website": "",
+    "instagram": "",
+    "notes": ""
+  }
+}

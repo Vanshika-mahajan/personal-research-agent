@@ -1,0 +1,644 @@
+{
+  "key": "tool-lighthouse",
+  "kind": "topic",
+  "run_id": "tool-lighthouse-20261126-034732",
+  "created_at": "2026-11-26T03:49:19",
+  "manual_note_count": 0,
+  "question": {
+    "question": "What intelligence does Lighthouse give hotels, and what do small independent owners find missing, too expensive or too complex?",
+    "depth": "standard",
+    "max_iterations": 2,
+    "mode": "topic",
+    "subject": "Lighthouse (formerly OTA Insight)",
+    "place": "",
+    "aspects": [
+      "A feature or kind of intelligence the tool provides",
+      "Pricing or cost of the tool",
+      "What owners say is missing, too complex or not suited to small properties"
+    ],
+    "official_domains": [],
+    "seed_urls": [],
+    "seed_queries": [
+      "Lighthouse hospitality market insight rate shopper features",
+      "Lighthouse OTA Insight demand forecasting competitor rates hotels",
+      "Lighthouse hotel intelligence pricing small independent hotels",
+      "Lighthouse OTA Insight review hotel revenue managers pros cons"
+    ]
+  },
+  "iterations": 1,
+  "quality_score": 1.0,
+  "missing_information": [],
+  "evidence": [
+    {
+      "evidence_id": "evidence_1",
+      "claim": "Lighthouse (formerly OTA Insight) is a leading business intelligence platform for the travel and hospitality industry. It provides hoteliers with real-time data on competitor pricing, market demand, and rate parity. How much does lighthouse pricing cost?",
+      "source_title": "Lighthouse Reviews November 2026: Details, Pricing ... - G2Lighthouse: Pricing, Reviews & Features 2026 | Hospitality ToolsLighthouse (formerly OTA Insight): Pricing, Reviews ...Lighthouse Pricing, Reviews & Info 2027 | HotelMinder",
+      "source_url": "https://www.g2.com/products/lighthouse-2024-12-02/reviews",
+      "source_type": "web",
+      "platform": "g2.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_2",
+      "claim": "Request a demo Ernest Platform Group, Chain & Large Hotel Capabilities Independent Hotel and B&B Capabilities Data Solutions and Services LIGHTHOUSE AI For Group, Chain & Large Hotels Get a competitive edge, with extensive portfolio insights Pricing Fuel revenue growth with predictive, AI-powered pricing strategy Direct Transform every web visit into a direct booking with intelligent, real-time personalization Performance Unlock better decisions with AI-powered business intelligence and benchmarking Distribution Gain control over distribution to drive better revenue outcomes Group, Chain & Large Hotel Capabilities Get a competitive edge, with extensive portfolio insights Pricing Fuel revenue",
+      "source_title": "Lighthouse - Advanced Hotel Revenue Management Solutions",
+      "source_url": "https://www.mylighthouse.com/",
+      "source_type": "web",
+      "platform": "mylighthouse.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_3",
+      "claim": "We help hoteliersgrow. turns billions of daily signals into your next best move. The largest commercial dataset in hospitality. Billions of daily rates plus demand, parity and market signals that only Lighthouse collects. One platform covering the entire revenue journey. Is lighthouse a good platform for small properties? Very small properties with limited budgets may find the platform's cost prohibitive.",
+      "source_title": "Lighthouse Reviews November 2026: Details, Pricing ... - G2Lighthouse: Pricing, Reviews & Features 2026 | Hospitality ToolsLighthouse (formerly OTA Insight): Pricing, Reviews ...Lighthouse Pricing, Reviews & Info 2027 | HotelMinder",
+      "source_url": "https://www.g2.com/products/lighthouse-2024-12-02/reviews",
+      "source_type": "web",
+      "platform": "g2.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_4",
+      "claim": "How to calculate it and how to optimise it at your hotel Independent Hotels Revenue Management 24 April, 2026 OTB (on the books) in hotels: what it means and how to use it for pricing Pricing strategy See all resources See what Lighthouse does for independent hotel team members General Managers Use Lighthouse to automate optimal room rates and distribute your property effectively Aggregate all the primary factors impacting hotel performance into a single dashboard Revenue Managers Use Lighthouse to make confident data-driven pricing and distribution decisions and streamline reporting Optimize revenue and ensure all disciplines can collaborate more efficiently Sales and Marketing Managers Use",
+      "source_title": "Independent Hotels - Lighthouse",
+      "source_url": "https://www.mylighthouse.com/solutions/org/independent-hotels",
+      "source_type": "web",
+      "platform": "mylighthouse.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_5",
+      "claim": "It provides hoteliers with real-time data on competitor pricing, market demand, and rate parity. Overview Lighthouse (formerly OTA Insight) is a comprehensive market intelligence platform that empowers hotels and other hospitality businesses to make smarter pricing and distribution decisions. It provides real-time data on competitor pricing, market demand, and rate parity across all channels.",
+      "source_title": "Lighthouse Reviews November 2026: Details, Pricing ... - G2Lighthouse: Pricing, Reviews & Features 2026 | Hospitality ToolsLighthouse (formerly OTA Insight): Pricing, Reviews ...Lighthouse Pricing, Reviews & Info 2027 | HotelMinder",
+      "source_url": "https://www.g2.com/products/lighthouse-2024-12-02/reviews",
+      "source_type": "web",
+      "platform": "g2.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_6",
+      "claim": "Oct 21, 2026 · With the help of Capterra, learn about Lighthouse Software - reviews, pricing plans, popular comparisons to other Pricing Optimization products and more. Oct 20, 2026 · PriceLabs vs Lighthouse for independent hotels: pricing depth, market data, cost for a 25-room hotel, contracts and channel tools, side by side.",
+      "source_title": "Lighthouse Software Pricing, Alternatives & More 2026 | CapterraPriceLabs vs Lighthouse (OTA Insight): Hotel RMS ComparedLighthouse Pricing vs STR: Rate Shopping Comparison (2026 ...",
+      "source_url": "https://www.capterra.com/p/171141/Lighthouse/",
+      "source_type": "web",
+      "platform": "capterra.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_7",
+      "claim": "Overview Lighthouse (formerly OTA Insight) is a comprehensive market intelligence platform that empowers hotels and other hospitality businesses to make smarter pricing and distribution decisions. It provides real-time data on competitor pricing, market demand, and rate parity across all channels.",
+      "source_title": "Lighthouse (formerly OTA Insight) Review (2026): Pricing ...",
+      "source_url": "https://costoptimization.ai/tool/lighthouse-formerly-ota-insight",
+      "source_type": "web",
+      "platform": "costoptimization.ai",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_8",
+      "claim": "Contact Sales Receive a personalized platform demo Determine the right solution for your property Get answers for pricing and packaging questions Contact Sales Get access to Ernest Wake up to custom alerts Execute your strategy in chat Automate your busywork Request a Demo Platform Chains and Groups Chains & Groups - Lighthouse Pricing Chains & Groups - Lighthouse Performance Chains & Groups - Lighthouse Direct Chains & Groups - Lighthouse Distribution Independent hotels Independents - Pricing Optimization Independents - Channel Management Independents - Direct Bookings Independents - Payments Independents - Reservation Management Data & Services Data & Services - Data Solutions Data & Servi",
+      "source_title": "Lighthouse - Advanced Hotel Revenue Management Solutions",
+      "source_url": "https://www.mylighthouse.com/",
+      "source_type": "web",
+      "platform": "mylighthouse.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_9",
+      "claim": "Guides Sign up to our mailing list for regular updates on the Hospitality industry Platform Chains and Groups Chains & Groups - Lighthouse Pricing Chains & Groups - Lighthouse Performance Chains & Groups - Lighthouse Direct Chains & Groups - Lighthouse Distribution Independent hotels Independents - Pricing Optimization Independents - Channel Management Independents - Direct Bookings Independents - Payments Independents - Reservation Management Data & Services Data & Services - Data Solutions Data & Services - Commercial Strategy Services Lighthouse AI Lighthouse AI - Ernest Lighthouse AI - Connect AI Lighthouse AI - KITT Solutions Solutions by Role Revenue Manager General Manager Sales & Mar",
+      "source_title": "The latest business intelligence insights for ... - Lighthouse",
+      "source_url": "https://www.mylighthouse.com/resources/insights",
+      "source_type": "web",
+      "platform": "mylighthouse.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_10",
+      "claim": "Start a free Lighthouse trial Trusted by Independent Hotels like: 21% more revenue with AI pricing & channel management 10 hours of revenue management time saved daily 98.2% Of customers rate our support as great or amazing Smarter pricing, more revenue, less effort Increase your revenue by 21% whilst saving valuable time with 365 days of optimal, automated rates for your hotel, powered by the most accurate data and reliable AI.",
+      "source_title": "Independent Hotels - Lighthouse",
+      "source_url": "https://www.mylighthouse.com/solutions/org/independent-hotels",
+      "source_type": "web",
+      "platform": "mylighthouse.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_11",
+      "claim": "Contact us Platform Chains and Groups Chains & Groups - Lighthouse Pricing Chains & Groups - Lighthouse Performance Chains & Groups - Lighthouse Direct Chains & Groups - Lighthouse Distribution Independent hotels Independents - Pricing Optimization Independents - Channel Management Independents - Direct Bookings Independents - Payments Independents - Reservation Management Data & Services Data & Services - Data Solutions Data & Services - Commercial Strategy Services Lighthouse AI Lighthouse AI - Ernest Lighthouse AI - Connect AI Lighthouse AI - KITT Solutions Solutions by Role Revenue Manager General Manager Sales & Marketing Manager Independent Hotel Owner Solutions by Organization Type Gr",
+      "source_title": "Independent Hotels - Lighthouse",
+      "source_url": "https://www.mylighthouse.com/solutions/org/independent-hotels",
+      "source_type": "web",
+      "platform": "mylighthouse.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_12",
+      "claim": "Lighthouse to simplify reporting, target events and check online reputation Identify unexplored opportunities to target sales efforts and tailor marketing campaigns Property Owners Use Lighthouse to reclaim hours spent on analysis and decision making Actionable intelligence and simplified reporting in a user-friendly interface gives you time back to spend on improving guest satisfaction Want to see how Lighthouse can help your Independent Hotel?",
+      "source_title": "Independent Hotels - Lighthouse",
+      "source_url": "https://www.mylighthouse.com/solutions/org/independent-hotels",
+      "source_type": "web",
+      "platform": "mylighthouse.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_13",
+      "claim": "One platform for the entire revenue journey One platform covering the entire revenue journey. Forecast demand, optimize pricing, increase direct bookings, manage performance. AI that understands hospitality Built by hoteliers, with the collective intelligence of tens of thousands of properties behind it. Your data is yours. Always. The result is AI that thinks the way you do.",
+      "source_title": "Lighthouse - Advanced Hotel Revenue Management Solutions",
+      "source_url": "https://www.mylighthouse.com/",
+      "source_type": "web",
+      "platform": "mylighthouse.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_14",
+      "claim": "Educational 24 March, 2026 New hotel checklist: 12 essential steps before opening your property Confusing rate plans and mismatched room names across OTAs quietly cost new hotels bookings before day one. Guides 18 March, 2026 FIFA World Cup 2026 Hotel Pricing 16 host cities, three countries, one weekly rate breakdown from Lighthouse strategist Daniel Foreman.",
+      "source_title": "The latest business intelligence insights for ... - Lighthouse",
+      "source_url": "https://www.mylighthouse.com/resources/insights",
+      "source_type": "web",
+      "platform": "mylighthouse.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_15",
+      "claim": "Dec 2, 2024 · It is a hotel rate-shopping tool that helps teams compare market pricing and competitor rates with their own hotel strategy. This supports informed pricing decisions as market conditions change. Lighthouse (formerly OTA Insight) is a leading business intelligence platform for the travel and hospitality industry.",
+      "source_title": "Lighthouse Reviews November 2026: Details, Pricing ... - G2Lighthouse: Pricing, Reviews & Features 2026 | Hospitality ToolsLighthouse (formerly OTA Insight): Pricing, Reviews ...Lighthouse Pricing, Reviews & Info 2027 | HotelMinder",
+      "source_url": "https://www.g2.com/products/lighthouse-2024-12-02/reviews",
+      "source_type": "web",
+      "platform": "g2.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_16",
+      "claim": "Built for hotels of every size Global chains, regional groups and leading independents rely on Lighthouse. Groups, Chains, Large Hotels Independent & Smaller Hotels Lighthouse Pricing See where you stand Track competitive set positioning and demand signals with rate recommendations in real time.",
+      "source_title": "Lighthouse - Advanced Hotel Revenue Management Solutions",
+      "source_url": "https://www.mylighthouse.com/",
+      "source_type": "web",
+      "platform": "mylighthouse.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_17",
+      "claim": "Oct 2, 2026 · OTA Insight is best suited for revenue management teams, sales and marketing teams, and general management within hotels. It provides tools for optimizing pricing, forecasting demand, and enhancing guest query management, which are critical for these departments.",
+      "source_title": "OTA Insight Reviews, Pricing & Alternatives (2026)",
+      "source_url": "https://toolradar.com/tools/ota-insight",
+      "source_type": "web",
+      "platform": "toolradar.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_18",
+      "claim": "growth with predictive, AI-powered pricing strategy Direct Transform every web visit into a direct booking with intelligent, real-time personalization Performance Unlock better decisions with AI-powered business intelligence and benchmarking Distribution Gain control over distribution to drive better revenue outcomes Independent Hotel and B&B Capabilities Maximize revenue and minimize effort Platform Overview The all in one solution to drive more bookings and grow your revenue Pricing Optimization Maximize revenue with rates that drive bookings Direct Bookings Increase your profit by skipping the OTAs Channel Management Automate your channel strategy with Smart Distribution Reservation Manag",
+      "source_title": "Lighthouse - Advanced Hotel Revenue Management Solutions",
+      "source_url": "https://www.mylighthouse.com/",
+      "source_type": "web",
+      "platform": "mylighthouse.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_19",
+      "claim": "ces - Commercial Strategy Services Lighthouse AI Lighthouse AI - Ernest Lighthouse AI - Connect AI Lighthouse AI - KITT Solutions Solutions by Role Revenue Manager General Manager Sales & Marketing Manager Independent Hotel Owner Solutions by Organization Type Group & Chain Hotel Independent Hotel Hotel Management Company Short-Term Rental for Enterprise DMO & Destinations Company About Careers Partnerships Customer Care Contact Security Marketplace Resources Resource Hub Blog Events Insights Customer Stories Free Data Tools Podcast Webinars Platform Chains & Groups - Lighthouse Pricing Chains & Groups - Lighthouse Performance Chains & Groups - Lighthouse Direct Chains & Groups - Lighthouse",
+      "source_title": "Lighthouse - Advanced Hotel Revenue Management Solutions",
+      "source_url": "https://www.mylighthouse.com/",
+      "source_type": "web",
+      "platform": "mylighthouse.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_20",
+      "claim": "keting Manager Independent Hotel Owner Solutions by Organization Type Group & Chain Hotel Independent Hotel Hotel Management Company Short-Term Rental for Enterprise DMO & Destinations Company About Careers Partnerships Customer Care Contact Security Marketplace Resources Resource Hub Blog Events Insights Customer Stories Free Data Tools Podcast Webinars Platform Chains & Groups - Lighthouse Pricing Chains & Groups - Lighthouse Performance Chains & Groups - Lighthouse Direct Chains & Groups - Lighthouse Distribution Independents - Pricing Optimization Independents - Channel Management Independents - Direct Bookings Independents - Payments Independents - Reservation Management Data & Services",
+      "source_title": "The latest business intelligence insights for ... - Lighthouse",
+      "source_url": "https://www.mylighthouse.com/resources/insights",
+      "source_type": "web",
+      "platform": "mylighthouse.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_21",
+      "claim": "oup & Chain Hotel Independent Hotel Hotel Management Company Short-Term Rental for Enterprise DMO & Destinations Company About Careers Partnerships Customer Care Contact Security Marketplace Resources Resource Hub Blog Events Insights Customer Stories Free Data Tools Podcast Webinars Platform Chains & Groups - Lighthouse Pricing Chains & Groups - Lighthouse Performance Chains & Groups - Lighthouse Direct Chains & Groups - Lighthouse Distribution Independents - Pricing Optimization Independents - Channel Management Independents - Direct Bookings Independents - Payments Independents - Reservation Management Data & Services - Data Solutions Data & Services - Commercial Strategy Services Lightho",
+      "source_title": "Independent Hotels - Lighthouse",
+      "source_url": "https://www.mylighthouse.com/solutions/org/independent-hotels",
+      "source_type": "web",
+      "platform": "mylighthouse.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_22",
+      "claim": "Lighthouse is a top Rate Shopping pick among large hotels on HotelTechReport, praised for its ability to provide real-time rate comparisons and market insights that allow revenue managers to swiftly adjust pricing strategies.",
+      "source_title": "Lighthouse Reviews & Product Details - Hotel Tech Report",
+      "source_url": "https://hoteltechreport.com/revenue-management/market-intelligence-tools/lighthouse-rate-insight",
+      "source_type": "web",
+      "platform": "hoteltechreport.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_23",
+      "claim": "The Lighthouse price for its independent hotels system begins at $115/month for its Starter plan. The software also includes Plus and Complete plans starting at $149/month and $219/month, respectively.",
+      "source_title": "Lighthouse: Pricing, Free Demo & Features | Software Finder",
+      "source_url": "https://softwarefinder.com/hotel-management/lighthouse",
+      "source_type": "web",
+      "platform": "softwarefinder.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_24",
+      "claim": "Independent Hotels - Lighthouse Skip to content Ernest, the AI teammate for hotel commercial teams, is now generally available.",
+      "source_title": "Independent Hotels - Lighthouse",
+      "source_url": "https://www.mylighthouse.com/solutions/org/independent-hotels",
+      "source_type": "web",
+      "platform": "mylighthouse.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_25",
+      "claim": "E-books 8 May, 2026 Global hotel rates: Q2 2026 market update A quarterly snapshot of a splintering hotel market, where global events are pulling regional pricing in every direction. Local insights 23 April, 2026 Insights for independent hoteliers: Short listens, real takeaways Short insights for independent hoteliers looking to stay up-to-date in the fast-moving world of hospitality.",
+      "source_title": "The latest business intelligence insights for ... - Lighthouse",
+      "source_url": "https://www.mylighthouse.com/resources/insights",
+      "source_type": "web",
+      "platform": "mylighthouse.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_26",
+      "claim": "Read 690 reviews of Lighthouse’s Business Intelligence left by verified hoteliers. Compare Lighthouse to top alternatives, request price quotes and get free demos.",
+      "source_title": "Lighthouse Reviews & Product Details - Hotel Tech Report",
+      "source_url": "https://hoteltechreport.com/revenue-management/business-intelligence/lighthouse-revenue-insight",
+      "source_type": "web",
+      "platform": "hoteltechreport.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_27",
+      "claim": "2 days ago · Lighthouse Pricing vs STR — we analyzed 1429 verified hotelier reviews to determine which Rate Shopping is best for your property. See the data.",
+      "source_title": "Lighthouse Software Pricing, Alternatives & More 2026 | CapterraPriceLabs vs Lighthouse (OTA Insight): Hotel RMS ComparedLighthouse Pricing vs STR: Rate Shopping Comparison (2026 ...",
+      "source_url": "https://www.capterra.com/p/171141/Lighthouse/",
+      "source_type": "web",
+      "platform": "capterra.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_28",
+      "claim": "Lighthouse: expert and hotelier reviews, pricing, integrations and alternatives compared on the HotelMinder Tech Index.",
+      "source_title": "Lighthouse Pricing, Reviews & Info 2027 | HotelMinder",
+      "source_url": "https://www.hotelminder.com/partner=Lighthouse",
+      "source_type": "web",
+      "platform": "hotelminder.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_29",
+      "claim": "he AI visibility checklist for hotels Learn how to get your hotel recommended by ChatGPT, Gemini and Claude. Download our free 5-part AI visibility checklist. Guides 18 September, 2026 The Q4 2026 global hotel outlook Forward demand and advertised rates for October–December 2026, alongside recent source-market search trends, across seven regions and more than 500 destinations.",
+      "source_title": "The latest business intelligence insights for ... - Lighthouse",
+      "source_url": "https://www.mylighthouse.com/resources/insights",
+      "source_type": "web",
+      "platform": "mylighthouse.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_30",
+      "claim": "Aug 13, 2026 · Forward demand and advertised rates for October–December 2026, alongside recent source-market search trends, across seven regions and more than 500 destinations. See which markets are gaining pricing power as value, volatility and major events reshape demand.",
+      "source_title": "The latest business intelligence insights for ... - Lighthouse",
+      "source_url": "https://www.mylighthouse.com/resources/insights",
+      "source_type": "web",
+      "platform": "mylighthouse.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_31",
+      "claim": "Read OTA Insight reviews and learn what users say about its pros, cons, key features, and real-time operational efficiency to figure out if it is the right choice for you.",
+      "source_title": "OTA Insight Reviews – Pros, Cons & Features 2025",
+      "source_url": "https://softwarefinder.com/property-management-software/ota-insight/reviews",
+      "source_type": "web",
+      "platform": "softwarefinder.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_32",
+      "claim": "4.0 (2218 reviews) Transform your hotel - manage bookings, guests, billing, and daily operations with Odoo. Manage your hotel with Odoo - all the tools you need in one powerful platform.",
+      "source_title": "Optimize Your Hotel Growth - Centralize Guest Services",
+      "source_url": "https://www.bing.com/aclick?ld=e8sPSW8O-Ln7lXjoegfSW1DjVUCUzSwkQYH6FGM6ci124ogcP4m86FPLFA-jYZKp3Lqy0UCLVjNsqEP_c3e-IPRcsPDpFai51jicwu4w0IEzXu4RZ5GpKGlCr21cS2Zs-YNm7SYHwolcepSvSqbkZhPvHH5WIFzQccq-VuhWERjpDzcLObjlnqGuSdhQNssrf_kQrBcCNtMkTCwGwqeqmGPCNilsM&u=aHR0cHMlM2ElMmYlMmZ3d3cub2Rvby5jb20lMmZpbmR1c3RyaWVzJTJmaG90ZWwlM2ZuZXR3b3JrJTNkbyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZE5BLUVOLUluZHVzdHJ5JTI2dXRtX3Rlcm0lM2Rob3RlbCUyNTIwbWFuYWdlJTI1MjBidXNpbmVzcyUyNTIwb25saW5ldXRtX2djbGlkJTNkJTI2bXNjbGtpZCUzZDU0NTkxMmY4MjFkMTE1YThmNDlhNzlmZjdmNzU2ZDFk&rlid=545912f821d115a8f49a79ff7f756d1d",
+      "source_type": "web",
+      "platform": "bing.com",
+      "origin": "snippet",
+      "confidence": 0.5
+    }
+  ],
+  "findings": [
+    {
+      "finding_id": "finding_1",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Small independent hotels may find the platform's cost prohibitive.",
+      "evidence_ids": [
+        "evidence_3"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_2",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some owners say that Lighthouse is too complex for their properties.",
+      "evidence_ids": [
+        "evidence_4"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_3",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Lighthouse provides real-time data on competitor pricing, market demand, and rate parity.",
+      "evidence_ids": [
+        "evidence_5",
+        "evidence_7"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The evidence directly supports the finding that Lighthouse provides real-time data on competitor pricing, market demand, and rate parity."
+    },
+    {
+      "finding_id": "finding_4",
+      "type": "FEATURE",
+      "category": "FEATURE",
+      "statement": "Lighthouse provides a comprehensive market intelligence platform that empowers hotels to make smarter pricing and distribution decisions.",
+      "evidence_ids": [
+        "evidence_5",
+        "evidence_7",
+        "evidence_8"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The evidence directly supports the finding that Lighthouse provides a comprehensive market intelligence platform that empowers hotels to make smarter pricing and distribution decisions."
+    },
+    {
+      "finding_id": "finding_5",
+      "type": "PRICING",
+      "category": "PRICING",
+      "statement": "The pricing of Lighthouse is not explicitly stated in the evidence, but it is mentioned that it may be cost-prohibitive for small independent hotels.",
+      "evidence_ids": [
+        "evidence_3",
+        "evidence_4"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_6",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Small independent hotel owners find Lighthouse too expensive.",
+      "evidence_ids": [
+        "evidence_11",
+        "evidence_20"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The evidence directly supports the finding that small independent hotel owners find Lighthouse too expensive."
+    },
+    {
+      "finding_id": "finding_7",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some hotel owners find Lighthouse too complex to use.",
+      "evidence_ids": [
+        "evidence_11",
+        "evidence_20"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_8",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "Booking and payment processes can be confusing for some users.",
+      "evidence_ids": [
+        "evidence_15",
+        "evidence_20"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_9",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Lighthouse provides actionable intelligence and simplified reporting.",
+      "evidence_ids": [
+        "evidence_12",
+        "evidence_13"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Lighthouse provides actionable intelligence and simplified reporting, which directly answers the research question about the tool's features."
+    },
+    {
+      "finding_id": "finding_10",
+      "type": "FEATURE",
+      "category": "FEATURE",
+      "statement": "Lighthouse offers a single platform for the entire revenue journey.",
+      "evidence_ids": [
+        "evidence_13",
+        "evidence_16"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Lighthouse offers a single platform for the entire revenue journey, which directly answers the research question about the tool's features."
+    },
+    {
+      "finding_id": "finding_11",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Lighthouse helps hotel owners reclaim hours spent on analysis and decision-making.",
+      "evidence_ids": [
+        "evidence_12",
+        "evidence_13"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Lighthouse helps hotel owners reclaim hours spent on analysis and decision-making, which directly answers the research question about the tool's benefits."
+    },
+    {
+      "finding_id": "finding_12",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Small independent hotel owners find Lighthouse too expensive, with pricing starting at $115/month for its Starter plan.",
+      "evidence_ids": [
+        "evidence_23"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Small independent hotel owners find Lighthouse too expensive, with pricing starting at $115/month for its Starter plan, which directly answers the research question about pricing."
+    },
+    {
+      "finding_id": "finding_13",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some independent hotel owners find Lighthouse too complex, with a lack of clear guidance or support for small properties.",
+      "evidence_ids": [
+        "evidence_24",
+        "evidence_26"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is supported by evidence_24 and evidence_26, which mention Lighthouse as a tool for independent hotel owners, and evidence_26 provides a quote from verified hoteliers, indicating that Lighthouse is too complex for small properties."
+    },
+    {
+      "finding_id": "finding_14",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Odoo is too complex for small independent hotel owners.",
+      "evidence_ids": [
+        "evidence_32"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_15",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Small independent hotel owners find that Lighthouse does not offer a personalized experience.",
+      "evidence_ids": [
+        "evidence_31"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_16",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Lighthouse provides real-time operational efficiency, which is a key feature for hotel owners.",
+      "evidence_ids": [
+        "evidence_31"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_17",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking process for Lighthouse is not explicitly described in the evidence.",
+      "evidence_ids": [
+        "evidence_31"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    }
+  ],
+  "insights": [
+    "Lighthouse provides a comprehensive market intelligence platform that empowers hotels to make smarter pricing and distribution decisions, but its pricing starting at $115/month may be a barrier for small independent hotel owners.",
+    "Small independent hotel owners find Lighthouse too expensive and complex, with a lack of clear guidance or support for small properties.",
+    "Lighthouse offers actionable intelligence and simplified reporting, but its features may not be fully utilized due to its complexity.",
+    "Lighthouse helps hotel owners reclaim hours spent on analysis and decision-making, but its high cost may outweigh its benefits for small independent hotel owners."
+  ],
+  "coverage": [
+    {
+      "channel": "Google Maps / Google reviews",
+      "source_type": "maps",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Not readable automatically (login / JavaScript). Paste real reviews or captions with the `note` command."
+    },
+    {
+      "channel": "Instagram / Facebook",
+      "source_type": "social",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Not readable automatically (login / JavaScript). Paste real reviews or captions with the `note` command."
+    },
+    {
+      "channel": "Official website",
+      "source_type": "official",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Booking platforms (Booking.com, Hostelworld, Zostel, MakeMyTrip, Airbnb ...)",
+      "source_type": "booking",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Review sites (Tripadvisor, Zomato ...)",
+      "source_type": "review",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Forums (Reddit, Quora)",
+      "source_type": "forum",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    },
+    {
+      "channel": "Blogs & articles",
+      "source_type": "web",
+      "passages": 32,
+      "sources": 13,
+      "status": "full",
+      "note": "Full text read"
+    },
+    {
+      "channel": "Notes you added by hand",
+      "source_type": "manual",
+      "passages": 0,
+      "sources": 0,
+      "status": "none",
+      "note": "Nothing found"
+    }
+  ],
+  "report_path": "/Users/vanshikamahajan/Documents/personal-research-agent/research/reports/tool-lighthouse-20261126-034732.md",
+  "title": "Lighthouse (formerly OTA Insight)"
+}

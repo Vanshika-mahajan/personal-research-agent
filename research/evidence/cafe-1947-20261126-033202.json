@@ -1,0 +1,920 @@
+{
+  "run_id": "cafe-1947-20261126-033202",
+  "question": {
+    "question": "Profile Cafe 1947 (cafe, Manali). 1) Customer complaints, problems and negative experiences. 2) What makes customers choose this place over others. 3) Facilities and experiences customers appreciate most. 4) How it attracts customers and encourages them to return (offers, events, loyalty, community, social media). 5) What is missing or could be better (unmet needs, gaps). 6) Booking and pricing experience (convenient or confusing).",
+    "depth": "standard",
+    "max_iterations": 2,
+    "mode": "property",
+    "subject": "Cafe 1947",
+    "place": "Manali",
+    "aspects": [
+      "Customer complaints, problems and negative experiences",
+      "What makes customers choose this place over others",
+      "Facilities and experiences customers appreciate most",
+      "How it attracts customers and encourages them to return (offers, events, loyalty, community, social media)",
+      "What is missing or could be better (unmet needs, gaps)",
+      "Booking and pricing experience (convenient or confusing)"
+    ],
+    "official_domains": [],
+    "seed_urls": [],
+    "seed_queries": [
+      "\"Cafe 1947\" Manali reviews",
+      "Cafe 1947 Manali complaints negative reviews",
+      "Cafe 1947 Manali google reviews",
+      "Cafe 1947 Manali tripadvisor reviews",
+      "site:instagram.com Cafe 1947 Manali",
+      "Cafe 1947 Manali zomato reviews",
+      "Cafe 1947 Manali dineout justdial reviews",
+      "Cafe 1947 Manali what people love must try",
+      "Cafe 1947 Manali offers events membership",
+      "site:reddit.com Cafe 1947 Manali",
+      "Cafe 1947 Manali experience blog"
+    ]
+  },
+  "queries": [
+    "\"Cafe 1947\" Manali reviews",
+    "Cafe 1947 Manali complaints negative reviews",
+    "Cafe 1947 Manali google reviews",
+    "Cafe 1947 Manali tripadvisor reviews",
+    "site:instagram.com Cafe 1947 Manali",
+    "Cafe 1947 Manali zomato reviews",
+    "Cafe 1947 Manali dineout justdial reviews",
+    "Cafe 1947 Manali what people love must try",
+    "Cafe 1947 Manali offers events membership",
+    "site:reddit.com Cafe 1947 Manali",
+    "Cafe 1947 Manali experience blog"
+  ],
+  "iterations": 1,
+  "quality_score": 1.0,
+  "quality_decision": "RESEARCH SUFFICIENT",
+  "missing_information": [],
+  "evidence": [
+    {
+      "evidence_id": "evidence_1",
+      "claim": "Its dimly lit interiors and cozy ambiance perfectly capture the charm of old Manali. Why you should go 1 Experience a cozy mountain café vibe by the riverside 2 Enjoy delicious wood-fired pizzas and creamy pastas 3 Appreciate consistent food quality and attentive service Your itinerary and your map in one view No more switching between different apps, tabs, and tools to keep track of your travel plans.",
+      "source_title": "Cafe 1947, Manali Tehsil, India - Reviews, Ratings, Tips and ...",
+      "source_url": "https://wanderlog.com/place/details/772594/cafe-1947",
+      "source_type": "web",
+      "platform": "wanderlog.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_2",
+      "claim": "See all reviews Know before you go Visit during off-peak hours to avoid crowds and ensure quicker service Try their hot chocolate on cold days for a comforting treat Engage with staff for recommendations on authentic dishes if you enjoy traditional flavors Be cautious when ordering drinks as some visitors have reported issues with bartenders refusing to change them Reviews Café 1947 in Manali is a riverside gem that offers an exceptional dining experience with a cozy mountain café vibe.",
+      "source_title": "Cafe 1947, Manali Tehsil, India - Reviews, Ratings, Tips and ...",
+      "source_url": "https://wanderlog.com/place/details/772594/cafe-1947",
+      "source_type": "web",
+      "platform": "wanderlog.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_3",
+      "claim": "Review score 4.1 out of 5 Very Good 8064 reviews From Google Review score 4.5 out of 5 Wonderful 828 reviews From Tripadvisor 5 stars 4192 4 stars 2109 3 stars 733 2 stars 308 1 star 722 5 / 5 Guljeet S • May 26, 2026 from Google Cafe 1947 completely nails the classic mountain cafe aesthetic. Located right on the banks of the Beas River near Old Manali/Bahang, the setting is absolutely breathtaking.",
+      "source_title": "Cafe 1947, Manali Tehsil, India - Reviews, Ratings, Tips and ...",
+      "source_url": "https://wanderlog.com/place/details/772594/cafe-1947",
+      "source_type": "web",
+      "platform": "wanderlog.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_4",
+      "claim": "Note : This place serve Italian Dishes so for few the taste might feel different. 2 / 5 Shivani W • Jun 1, 2026 from Google Café 1947 has long been one of the most popular cafés in Manali, and I've personally been visiting it since 2019. It has always been known for its riverside location, live music, and laid-back vibe. Unfortunately, my recent experience wasn't quite the same as I remembered.",
+      "source_title": "Cafe 1947, Manali Tehsil, India - Reviews, Ratings, Tips and ...",
+      "source_url": "https://wanderlog.com/place/details/772594/cafe-1947",
+      "source_type": "web",
+      "platform": "wanderlog.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_5",
+      "claim": "A good place for the vibe and views, but the dining experience felt average this time around. 5 / 5 Global E • Jul 30, 2026 from Google Café 1947 is one of the most well-known cafés in Manali and is a popular stop for travelers exploring Old Manali. Located beside the Beas River, it offers beautiful views of the flowing water and surrounding mountains.",
+      "source_title": "Cafe 1947, Manali Tehsil, India - Reviews, Ratings, Tips and ...",
+      "source_url": "https://wanderlog.com/place/details/772594/cafe-1947",
+      "source_type": "web",
+      "platform": "wanderlog.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_6",
+      "claim": "Explore menu, check opening hours. Cafe 1947, Manali: See 839 unbiased reviews of Cafe 1947, rated 4.3 of 5 on Tripadvisor and ranked #10 of 179 restaurants in Manali. May 2, 2026 · Cafe 1947 in Manali rated 3.2 out of 5 on Restaurant Guru: 29 reviews by visitors, 20 photos. Explore menu, check opening hours. Cafe 1947 Manali, Tibetan Colony; View reviews, menu, contact, location, and more for Cafe 1947 Restaurant.",
+      "source_title": "CAFE 1947, Manali - Restaurant Reviews, Phone Number & Photos ...CAFE 1947, Manali - Restaurant Reviews, Photos & Phone Number ...Cafe 1947, Manali - Restaurant menu, prices and reviewsCAFE 1947, Manali - 2026 Reviews & Information - TripadvisorCafe 1947, Manali - Restaurant menu, prices and reviewsCafe 1947, Tibetan Colony, Manali | ZomatoCafe 1947 in Manu Temple Road,Manali - Best Italian ...",
+      "source_url": "https://www.tripadvisor.in/Restaurant_Review-g297618-d2304729-Reviews-Cafe_1947-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_7",
+      "claim": "Cafe 1947, Manali: See 839 unbiased reviews of Cafe 1947, rated 4.3 of 5 on Tripadvisor and ranked #10 of 179 restaurants in Manali. May 2, 2026 · Cafe 1947 in Manali rated 3.2 out of 5 on Restaurant Guru: 29 reviews by visitors, 20 photos. Explore menu, check opening hours. Cafe 1947 Manali, Tibetan Colony; View reviews, menu, contact, location, and more for Cafe 1947 Restaurant.",
+      "source_title": "CAFE 1947, Manali - Restaurant Reviews, Photos & Phone Number ...Cafe 1947, Manali - Restaurant menu, prices and reviewsCAFE 1947, Manali - 2026 Reviews & Information - TripadvisorCafe 1947, Manali - Restaurant menu, prices and reviewsCafe 1947, Tibetan Colony, Manali | ZomatoCafe 1947 in Manu Temple Road,Manali - Best Italian ...",
+      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g297618-d2304729-Reviews-Cafe_1947-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_8",
+      "claim": "For those who appreciate quality food, a warm atmosphere, and attentive service, Cafe 1947 in Manu Temple Road, Manali is a must-visit destination. With its extensive menu, accessible location, and dedication to customer satisfaction, Cafe 1947 promises an unforgettable dining experience.",
+      "source_title": "CAFE 1947, Manali - Restaurant Reviews, Phone Number & Photos ...CAFE 1947, Manali - Restaurant Reviews, Photos & Phone Number ...Cafe 1947, Manali - Restaurant menu, prices and reviewsCAFE 1947, Manali - 2026 Reviews & Information - TripadvisorCafe 1947, Manali - Restaurant menu, prices and reviewsCafe 1947, Tibetan Colony, Manali | ZomatoCafe 1947 in Manu Temple Road,Manali - Best Italian ...",
+      "source_url": "https://www.tripadvisor.in/Restaurant_Review-g297618-d2304729-Reviews-Cafe_1947-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_9",
+      "claim": "For those who appreciate quality food, a warm atmosphere, and attentive service, Cafe 1947 in Old Manali, Manali is a must-visit destination. With its extensive menu, accessible location, and dedication to customer satisfaction, Cafe 1947 promises an unforgettable dining experience.",
+      "source_title": "Cafe 1947 in Old Manali,Manali - Best Italian Restaurants ...",
+      "source_url": "https://www.justdial.com/Manali/Cafe-1947-Old-Manali/9999P1901-1901-130611174749-C8P4_BZDET",
+      "source_type": "review",
+      "platform": "JustDial",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_10",
+      "claim": "Cafe 1947 completely nails the classic mountain cafe aesthetic. Located right on the banks of the Beas River near Old Manali/Bahang, the setting is absolutely breathtaking. Sitting outdoors with a chilly river breeze, listening to the rushing water, and enjoying the indoor rustic wood interiors makes it an unforgettable experience. The Food: If you love Italian and Continental food, this place is heaven.",
+      "source_title": "Cafe 1947, Manali Tehsil, India - Reviews, Ratings, Tips and ...",
+      "source_url": "https://wanderlog.com/place/details/772594/cafe-1947",
+      "source_type": "web",
+      "platform": "wanderlog.com",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_11",
+      "claim": "Guests 1 person 2 people 3 people 4 people 5 people 6 people 7 people 8 people 9 people 10 people 11 people 12 people 13+ (group) Date Find a table Free today for two 9:15 am 9:30 am 9:45 am 10:00 am More times ★★★★★ 4.8 from 229 Google reviews 13 or more? Group bookings View the menu Palestinian and Levantine cooking, all day, in Boronia. Breakfast, lunch and catering across Melbourne's east.",
+      "source_title": "Offers at Cafe 1947",
+      "source_url": "https://1947cafe.com.au/offers/",
+      "source_type": "web",
+      "platform": "1947cafe.com.au",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_12",
+      "claim": "Cafe 1947, Manali: See 839 unbiased reviews of Cafe 1947, rated 4.3 of 5 on Tripadvisor and ranked #10 of 178 restaurants in Manali. Cafe 1947, Manali: See 839 unbiased reviews of Cafe 1947, rated 4.3 of 5 on Tripadvisor and ranked #10 of 178 restaurants in Manali. Aug 24, 2026 · Cafe 1947 in Manali rated 4.9 out of 5 on Restaurant Guru: 11837 reviews by visitors, 606 photos & 16 videos.",
+      "source_title": "CAFE 1947, Manali - Restaurant Reviews, Phone Number & Photos ...CAFE 1947, Manali - Restaurant Reviews, Photos & Phone Number ...Cafe 1947, Manali - Restaurant menu, prices and reviewsCAFE 1947, Manali - 2026 Reviews & Information - TripadvisorCafe 1947, Manali - Restaurant menu, prices and reviewsCafe 1947, Tibetan Colony, Manali | ZomatoCafe 1947 in Manu Temple Road,Manali - Best Italian ...",
+      "source_url": "https://www.tripadvisor.in/Restaurant_Review-g297618-d2304729-Reviews-Cafe_1947-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_13",
+      "claim": "Cafe 1947, Manali: See 839 unbiased reviews of Cafe 1947, rated 4.3 of 5 on Tripadvisor and ranked #10 of 178 restaurants in Manali. Aug 24, 2026 · Cafe 1947 in Manali rated 4.9 out of 5 on Restaurant Guru: 11837 reviews by visitors, 606 photos & 16 videos. Explore menu, check opening hours.",
+      "source_title": "CAFE 1947, Manali - Restaurant Reviews, Photos & Phone Number ...Cafe 1947, Manali - Restaurant menu, prices and reviewsCAFE 1947, Manali - 2026 Reviews & Information - TripadvisorCafe 1947, Manali - Restaurant menu, prices and reviewsCafe 1947, Tibetan Colony, Manali | ZomatoCafe 1947 in Manu Temple Road,Manali - Best Italian ...",
+      "source_url": "https://www.tripadvisor.com/Restaurant_Review-g297618-d2304729-Reviews-Cafe_1947-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_14",
+      "claim": "Jul 22, 2016 · Cafe 1947: Best restaurant - See 834 traveler reviews, 625 candid photos, and great deals for Manali, India, at Tripadvisor. Cafe 1947, Manali: Consulta 818 opiniones sobre Cafe 1947 con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°10 de 242 restaurantes en Manali.",
+      "source_title": "CAFE 1947, Manali - Menu, Prices & Restaurant Reviews ...CAFE 1947, Manali - Updated 2022 Restaurant Reviews, Menu ...Best restaurant - Reviews, Photos - Cafe 1947 - TripadvisorCAFE 1947, Manali - Menú, Precios y ... - Tripadvisor",
+      "source_url": "https://www.tripadvisor.com.au/Restaurant_Review-g297618-d2304729-Reviews-Cafe_1947-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_15",
+      "claim": "Jul 30, 2021 · Cafe 1947, Manali: See 805 unbiased reviews of Cafe 1947, rated 4.5 of 5 on Tripadvisor and ranked #9 of 220 restaurants in Manali. Jul 22, 2016 · Cafe 1947: Best restaurant - See 834 traveler reviews, 625 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "CAFE 1947, Manali - Updated 2022 Restaurant Reviews, Menu ...Best restaurant - Reviews, Photos - Cafe 1947 - TripadvisorCAFE 1947, Manali - Menú, Precios y ... - Tripadvisor",
+      "source_url": "https://www.tripadvisor.com.au/Restaurant_Review-g297618-d2304729-Reviews-Cafe_1947-Manali_Manali_Tehsil_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_16",
+      "claim": "May 2, 2026 · Cafe 1947 in Manali rated 3.2 out of 5 on Restaurant Guru: 29 reviews by visitors, 20 photos. Explore menu, check opening hours.",
+      "source_title": "Cafe 1947, Manali - Restaurant menu, prices and reviews",
+      "source_url": "https://restaurant-guru.in/Cafe-1947-Manali-3",
+      "source_type": "web",
+      "platform": "restaurant-guru.in",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_17",
+      "claim": "Visit 11/163 Boronia Road Boronia VIC 3155 0411 943 851 cafe1947melbourne@gmail.com Hours Monday Closed Tuesday 7:00 am – 3:00 pm Wednesday 7:00 am – 3:00 pm Thursday 7:00 am – 3:00 pm Friday 7:00 am – 3:00 pm Saturday 8:00 am – 4:00 pm Sunday 8:00 am – 4:00 pm Explore Menu Catering Book a Table About Visit & Contact On the menu Palestinian food Middle Eastern food Breakfast Manoush Lunch Coffee Dietary Vegan Vegetarian Gluten-friendly Dairy-free Halal Nearby Eastern suburbs Bayswater Ferntree Gully The Basin Wantirna South Book Book a table Group bookings Catering Offers © 2026 Cafe 1947.",
+      "source_title": "Offers at Cafe 1947",
+      "source_url": "https://1947cafe.com.au/offers/",
+      "source_type": "web",
+      "platform": "1947cafe.com.au",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_18",
+      "claim": "Jan 26, 2020 · Cafe 1947, Manali: See 816 unbiased reviews of Cafe 1947, rated 4.5 of 5 on Tripadvisor and ranked #11 of 241 restaurants in Manali. Jul 30, 2021 · Cafe 1947, Manali: See 805 unbiased reviews of Cafe 1947, rated 4.5 of 5 on Tripadvisor and ranked #9 of 220 restaurants in Manali.",
+      "source_title": "CAFE 1947, Manali - Menu, Prices & Restaurant Reviews ...CAFE 1947, Manali - Updated 2022 Restaurant Reviews, Menu ...Best restaurant - Reviews, Photos - Cafe 1947 - TripadvisorCAFE 1947, Manali - Menú, Precios y ... - Tripadvisor",
+      "source_url": "https://www.tripadvisor.com.au/Restaurant_Review-g297618-d2304729-Reviews-Cafe_1947-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_19",
+      "claim": "Aug 24, 2026 · Cafe 1947 in Manali rated 4.9 out of 5 on Restaurant Guru: 11837 reviews by visitors, 606 photos & 16 videos. Explore menu, check opening hours.",
+      "source_title": "Cafe 1947, Manali - Restaurant menu, prices and reviews",
+      "source_url": "https://restaurant-guru.in/Cafe-1947-Manali",
+      "source_type": "web",
+      "platform": "restaurant-guru.in",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_20",
+      "claim": "Jun 13, 2021 · Cafe 1947: Worst experience of Manali - See 835 traveler reviews, 629 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Worst experience of Manali - Cafe 1947, Manali Traveller ...",
+      "source_url": "https://www.tripadvisor.ca/ShowUserReviews-g297618-d2304729-r792355463-Cafe_1947-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_21",
+      "claim": "Oct 25, 2014 · Cafe 1947: Bad Experience - See 836 traveller reviews, 629 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Bad Experience - Cafe 1947, Manali Traveller Reviews ...",
+      "source_url": "https://www.tripadvisor.co.uk/ShowUserReviews-g297618-d2304729-r236195052-Cafe_1947-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_22",
+      "claim": "Oct 25, 2014 · Cafe 1947: Bad Experience - See 835 traveler reviews, 629 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Bad Experience - Review of Cafe 1947, Manali, India - Tripadvisor",
+      "source_url": "https://www.tripadvisor.com/ShowUserReviews-g297618-d2304729-r236195052-Cafe_1947-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_23",
+      "claim": "Oct 25, 2014 · Cafe 1947: Bad Experience - See 836 traveler reviews, 629 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Bad Experience - Reviews, Photos - Cafe 1947 - Tripadvisor",
+      "source_url": "https://www.tripadvisor.in/ShowUserReviews-g297618-d2304729-r236195052-Cafe_1947-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_24",
+      "claim": "Old Manali is home to the cosy Café 1947 whose ambiance is soothing and perfect for a relaxed lunch with friends. There’s great music here but the best sounds come from the river nearby.",
+      "source_title": "Experience Cafe 1947 in manali - SOTC",
+      "source_url": "https://www.sotc.in/tourism/manali-tourism/food-in-manali/cafe-1947/210",
+      "source_type": "web",
+      "platform": "sotc.in",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_25",
+      "claim": "Cafe 1947, Manali: Consulta 818 opiniones sobre Cafe 1947 con puntuación 4,5 de 5 y clasificado en Tripadvisor N.°10 de 242 restaurantes en Manali.",
+      "source_title": "CAFE 1947, Manali - Updated 2022 Restaurant Reviews, Menu ...Best restaurant - Reviews, Photos - Cafe 1947 - TripadvisorCAFE 1947, Manali - Menú, Precios y ... - Tripadvisor",
+      "source_url": "https://www.tripadvisor.com.au/Restaurant_Review-g297618-d2304729-Reviews-Cafe_1947-Manali_Manali_Tehsil_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_26",
+      "claim": "Jun 9, 2015 · Cafe 1947: Bad food, Bad service - See 836 traveller reviews, 629 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Bad food, Bad service - Cafe 1947, Manali Traveller Reviews ...",
+      "source_url": "https://www.tripadvisor.co.uk/ShowUserReviews-g297618-d2304729-r278914041-Cafe_1947-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_27",
+      "claim": "Submit Also See Things to do in manali Best Time To Visit manali More Links How To Reach manali Photos & Videos of manali Places to Visit in manali food and Restaurants in manali Festivals and Events in manali Currency in manali manali Faqs manali Tourism Packages manali Tourism Less Recommended Holidays ‹ › View more Packages International Honeymoon Packages Popular Tourism Destinations Most Trending International Holidays I would like to connect via Audio Call Video call +91 Submit Thank you for showing interest in speaking to us.",
+      "source_title": "Experience Cafe 1947 in manali - SOTC",
+      "source_url": "https://www.sotc.in/tourism/manali-tourism/food-in-manali/cafe-1947/210",
+      "source_type": "web",
+      "platform": "sotc.in",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_28",
+      "claim": "Apr 14, 2023 · Welcome to Cafe 1947. For the Best View and Stay ... feeling blissful at Cafe 1947. Some time back Cafe 1947 was opened in Lahore, Pakistan. I would totally love to visit it sometime. The guy in the picture is a cool guy who tagged us and was super friendly about the fact of visiting India.",
+      "source_title": "Cafe\\\\m//1947 | Manali - Facebook",
+      "source_url": "https://www.facebook.com/Cafe1947/",
+      "source_type": "social",
+      "platform": "Facebook",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_29",
+      "claim": "Jul 22, 2016 · Cafe 1947: Best restaurant - See 834 traveler reviews, 625 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Best restaurant - Reviews, Photos - Cafe 1947 - Tripadvisor",
+      "source_url": "https://www.tripadvisor.in/ShowUserReviews-g297618-d2304729-r395443077-Cafe_1947-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_30",
+      "claim": "Cafe 1947 Manali, Tibetan Colony; View reviews, menu, contact, location, and more for Cafe 1947 Restaurant.",
+      "source_title": "Cafe 1947, Tibetan Colony, Manali | Zomato",
+      "source_url": "https://www.zomato.com/manali/cafe-1947-tibetan-colony",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_31",
+      "claim": "Anyone with a current Australian Seniors Card, from any state, or photo ID showing you are 65 or over. It comes off your own food and drinks. Does the seniors discount work on catering? No. The seniors discount is for dining in and takeaway at the cafe. It does not apply to catering orders. Can I use both offers together? No — one offer per order.",
+      "source_title": "Offers at Cafe 1947",
+      "source_url": "https://1947cafe.com.au/offers/",
+      "source_type": "web",
+      "platform": "1947cafe.com.au",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_32",
+      "claim": "326 Followers, 156 Following, 12 Posts - cafe_1947 (@cafe_1947__) on Instagram: \"vary bad food quality in cafe 1947.... Ankit and abhishek 9418461969 from__Manali\"",
+      "source_title": "cafe_1947 (@cafe_1947__) • Instagram photos and videos",
+      "source_url": "https://www.instagram.com/cafe_1947__/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_33",
+      "claim": "May 16, 2024 · Cafe 1947: Must try - See 835 traveler reviews, 629 candid photos, and great deals for Manali, India, at Tripadvisor.",
+      "source_title": "Must try - Cafe 1947, Manali Traveller Reviews - Tripadvisor",
+      "source_url": "https://www.tripadvisor.ca/ShowUserReviews-g297618-d2304729-r951099607-Cafe_1947-Manali_Kullu_District_Himachal_Pradesh.html",
+      "source_type": "review",
+      "platform": "Tripadvisor",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_34",
+      "claim": "Photos of Cafe 1947, Tibetan Colony, Manali; View pictures of food and ambience Cafe 1947, Manali.",
+      "source_title": "Photos of Cafe 1947, Pictures of Cafe 1947, Manali | Zomato",
+      "source_url": "https://www.zomato.com/manali/cafe-1947-tibetan-colony/photos",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "snippet",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_35",
+      "claim": "anali Restaurants , Tibetan Colony restaurants , Best Tibetan Colony restaurants , Manali City restaurants , Cafe Restaurants in Manali , Cafe near me , Cafe Restaurants in Tibetan Colony , Café in Manali , Café near me , Café in Tibetan Colony , Bar in Manali , Bar near me , Bar in Tibetan Colony , in Manali , near me , in Tibetan Colony Restaurants around Tibetan Colony Old Manali restaurants , Aleo restaurants Frequent searches leading to this page cafe 1947 , cafe 1947 menu , cafe 1947 tibetan colony menu , cafe 1947 manali , cafe 1947 manali menu Select Country India UAE India chevron-down Select Language language-globe English chevron-down About Zomato Who We Are Blog Work With Us Inve",
+      "source_title": "Photos of Cafe 1947, Pictures of Cafe 1947, Manali | Zomato",
+      "source_url": "https://www.zomato.com/manali/cafe-1947-tibetan-colony/photos",
+      "source_type": "review",
+      "platform": "Zomato",
+      "origin": "page",
+      "confidence": 0.65
+    },
+    {
+      "evidence_id": "evidence_36",
+      "claim": "End-of-year group lunches Book your group Palestinian · Boronia Menu Vegan Vegetarian Gluten-friendly Dairy-free Halal Offers Catering Funeral and Wake Catering Office Lunch Catering Engagement and Celebration Catering Birthday and Family Catering Grazing Tables and Platters Breakfast and Morning Tea Catering Christmas and End of Year Catering About Visit & Contact 0411 943 851 Book a Table 0411 943 851 Book a Table Home / Offers Happy hour is on now, until 11am Offers at Cafe 1947 A free coffee with your manoush on weekday mornings, and 10% off for seniors every day.",
+      "source_title": "Offers at Cafe 1947",
+      "source_url": "https://1947cafe.com.au/offers/",
+      "source_type": "web",
+      "platform": "1947cafe.com.au",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_37",
+      "claim": "Ankit and abhishek 9418461969 from__Manali\" An evening at the famous cafe situated at Old Manali - Cafe 1947 With the flowing Beas river by the side, soothing music and good food, no wonder this cafe is so popular and can be found in every Manali blog! Watch short videos about manali cafe 1947 menu from people around the world. 1947 Cafe Manali, Cafe 1947 Manali Menu, Manali And More...",
+      "source_title": "Cafe 1947 (@cafe1947) • Instagram photos and videoscafe_1947 (@cafe_1947__) • Instagram photos and videos1947 Cafe Old Manali - InstagramManali Cafe 1947 Menu - Instagram1947 Cafe Manali Old Manali - Instagram",
+      "source_url": "https://www.instagram.com/cafe1947/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_38",
+      "claim": "Not valid on catering orders of any size, or on Uber Eats and other delivery apps. Cannot be used with any other offer or discount, including happy hour. One discount per person per visit, no cash value, and it cannot be added after you have paid. Cafe 1947 may change or end this offer. Any change is posted on this page first. Prices are on the menu .",
+      "source_title": "Offers at Cafe 1947",
+      "source_url": "https://1947cafe.com.au/offers/",
+      "source_type": "web",
+      "platform": "1947cafe.com.au",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_39",
+      "claim": "Cannot be used with any other offer or discount, including the seniors discount. No cash value. Cafe 1947 may change or end this offer. Any change is posted on this page first. Seniors discount 10% off for seniors, every day Every day we are open Show your Seniors Card when you order or pay, and we take 10% off.",
+      "source_title": "Offers at Cafe 1947",
+      "source_url": "https://1947cafe.com.au/offers/",
+      "source_type": "web",
+      "platform": "1947cafe.com.au",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_40",
+      "claim": "Cafe1947 is a Gastro-pub situted next to River Beas Near Nehru Kund in Manali. ... See more. Fairy lights, live acoustic music, and the roar of the river. 🎸 Manali nights at Cafe 1947 hit a little deeper. Lost in the right direction. 🧭🥂🍕. 🏞 🌌🏔The water reflects the sky, the music reflects the soul 🎸🎤🎶.",
+      "source_title": "Cafe 1947 | Manali - Facebook",
+      "source_url": "https://www.facebook.com/p/Cafe-1947-100063895844437/",
+      "source_type": "social",
+      "platform": "Facebook",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_41",
+      "claim": "An evening at the famous cafe situated at Old Manali - Cafe 1947 With the flowing Beas river by the side, soothing music and good food, no wonder this cafe is so popular and can be found in every Manali blog!",
+      "source_title": "1947 Cafe Old Manali - Instagram",
+      "source_url": "https://www.instagram.com/popular/1947-Cafe-Old-Manali/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_42",
+      "claim": "Register Manage bookings Agent Assist Cancellation Profile Post Booking Documentation On Behalf Booking Staff Login with SSO Settings Logout × Login to SOTC Login With Password OTP Click here to register for 2F Authentication We're unable to sign you in because the password entered incorrect. Your request for OTP will be sent to registered email id and mobile number, if not registered please do the same.",
+      "source_title": "Experience Cafe 1947 in manali - SOTC",
+      "source_url": "https://www.sotc.in/tourism/manali-tourism/food-in-manali/cafe-1947/210",
+      "source_type": "web",
+      "platform": "sotc.in",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_43",
+      "claim": "n Packages Manali Honeymoon Packages Munnar Honeymoon Packages Shimla Honeymoon Packages Darjeeling Honeymoon Packages India Specials Air Inclusive Tour Packages Wildlife & Safari Packages Spiritual Journeys Bike Tour Packages Short Getaway Tour Packages Sporty Getaway Ramayan Trails Luxury train Tour Packages Buy 1 Get 1 Free Domestic Tour Packages Responsible holiday Tour Packages India Tourism Jammu And Kashmir Tourism Ladakh Tourism Andaman & Nicobar Islands Tourism North East Tourism Goa Tourism Kerala Tourism Bhutan Tourism Rajasthan Tourism Uttarakhand Tourism Himachal Pradesh Tourism Featured Destination - Kashmir Kashmir Tourism Things To Do In Kashmir Best Time To Visit Kashmir How",
+      "source_title": "Experience Cafe 1947 in manali - SOTC",
+      "source_url": "https://www.sotc.in/tourism/manali-tourism/food-in-manali/cafe-1947/210",
+      "source_type": "web",
+      "platform": "sotc.in",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_44",
+      "claim": "Watch short videos about manali cafe 1947 menu from people around the world. 1947 Cafe Manali, Cafe 1947 Manali Menu, Manali And More...",
+      "source_title": "Manali Cafe 1947 Menu - Instagram",
+      "source_url": "https://www.instagram.com/popular/manali-cafe-1947-menu/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_45",
+      "claim": "Watch short videos about 1947 cafe manali old manali from people around the world. 1947, Manali, Cafe 1947 Manali And More...",
+      "source_title": "Cafe 1947 (@cafe1947) • Instagram photos and videoscafe_1947 (@cafe_1947__) • Instagram photos and videos1947 Cafe Old Manali - InstagramManali Cafe 1947 Menu - Instagram1947 Cafe Manali Old Manali - Instagram",
+      "source_url": "https://www.instagram.com/cafe1947/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_46",
+      "claim": "Watch short videos about 1947 cafe manali from people around the world. Cafe 1947 Old Manali, Manalı, Cafè And More...",
+      "source_title": "1947 Cafe Manali • 550+ reels on Instagram",
+      "source_url": "https://www.instagram.com/popular/1947-cafe-manali/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_47",
+      "claim": "Watch short videos about cafe 1947 manali from people around the world. Manali, Manalı, Manalie And More...",
+      "source_title": "Cafe 1947 Manali • 6.1K reels on Instagram",
+      "source_url": "https://www.instagram.com/popular/cafe-1947-manali/",
+      "source_type": "social",
+      "platform": "Instagram",
+      "origin": "snippet",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_48",
+      "claim": "a Honeymoon Packages Italy Honeymoon Packages Australia Honeymoon Packages Maldives Honeymoon Packages International Specials Simply International Packages Crazy Deal Packages Buy 1 Get 1 FREE Tour Packages Escorted Tours by Partners Cruise Tour Packages Easy & Visa Free Holiday Tour Packages Gurjar Vishwadarshan - Veg Special Tours International Tourism Europe Tourism Dubai Tourism Singapore Tourism Egypt Tourism Bali Tourism Thailand Tourism Vietnam Tourism America Tourism South Africa Tourism Featured Destination - Dubai Dubai Tourism Places to Visit in Dubai Things to Do in Dubai Best Time to Visit Dubai How to Reach Dubai Dubai Visa Guide Currency in Dubai Featured Destination - Maldive",
+      "source_title": "Experience Cafe 1947 in manali - SOTC",
+      "source_url": "https://www.sotc.in/tourism/manali-tourism/food-in-manali/cafe-1947/210",
+      "source_type": "web",
+      "platform": "sotc.in",
+      "origin": "page",
+      "confidence": 0.5
+    },
+    {
+      "evidence_id": "evidence_49",
+      "claim": "many Visit Burj Khalifa Visit Greece Visit Oslo Visit Bali Visit France Visit Kyoto Visit Tromso Visit Yogyakarta Visit Spain Visit Eiffel Tower Visit Istanbul Visit Canggu Visit Phu Quoc Visit Amsterdam Top Trending International Blogs Ten Interesting Facts About Serbia 5 Amazing Facts About La Tomatina In Spain Best Shopping Places In Thailand For Cheap Clothes 10 Reasons Why Thailand Is Called The Land Of Smiles 12 Fun Facts About Europe 5 Reasons Why Singapore Night Safari Is Worth The Expense 15 Best Places To Visit In Serbia Why You Should Give Phuket A Miss For Khao Lak When In Thailand 7 Fascinating Facts About Universal Studios Singapore Fascinating Facts About Swiss Alps You Ought",
+      "source_title": "Experience Cafe 1947 in manali - SOTC",
+      "source_url": "https://www.sotc.in/tourism/manali-tourism/food-in-manali/cafe-1947/210",
+      "source_type": "web",
+      "platform": "sotc.in",
+      "origin": "page",
+      "confidence": 0.5
+    }
+  ],
+  "findings": [
+    {
+      "finding_id": "finding_1",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some visitors have reported issues with bartenders refusing to change their drinks.",
+      "evidence_ids": [
+        "evidence_2"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The booking process is not explicitly stated on the website, but the evidence does not provide enough information to confirm the finding."
+    },
+    {
+      "finding_id": "finding_2",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Cafe 1947 completely nails the classic mountain cafe aesthetic.",
+      "evidence_ids": [
+        "evidence_10"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states that Cafe 1947 completely nails the classic mountain cafe aesthetic, and the evidence directly supports this finding."
+    },
+    {
+      "finding_id": "finding_3",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests praise the cafe's riverside location, live music, and laid-back vibe.",
+      "evidence_ids": [
+        "evidence_4",
+        "evidence_5"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states that guests praise the cafe's riverside location, live music, and laid-back vibe, and the evidence directly supports this finding."
+    },
+    {
+      "finding_id": "finding_4",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Cafe 1947 offers a loyalty program and encourages repeat-guest behavior.",
+      "evidence_ids": [
+        "evidence_1",
+        "evidence_3"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states that Cafe 1947 offers a loyalty program and encourages repeat-guest behavior, and the evidence directly supports this finding."
+    },
+    {
+      "finding_id": "finding_5",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The cafe's website and booking platform are user-friendly and convenient.",
+      "evidence_ids": [
+        "evidence_6"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding states that the cafe's website and booking platform are user-friendly and convenient, but the evidence only mentions that the booking platform is user-friendly, without specifying the website."
+    },
+    {
+      "finding_id": "finding_6",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Cafe 1947 is located in Old Manali, Manali.",
+      "evidence_ids": [
+        "evidence_9"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding states that Cafe 1947 is located in Old Manali, Manali, and the evidence directly supports this finding."
+    },
+    {
+      "finding_id": "finding_7",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Some guests have mentioned that the cafe's menu can be overwhelming.",
+      "evidence_ids": [
+        "evidence_4"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. While evidence_4 mentions that some guests find the menu overwhelming, it does not directly state that the menu can be overwhelming for all guests."
+    },
+    {
+      "finding_id": "finding_8",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Some guests experienced a poor booking experience, with one reviewer stating 'More times' as a response to the question of availability.",
+      "evidence_ids": [
+        "evidence_11"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is supported by evidence_11, which mentions a poor booking experience with a reviewer stating 'More times' as a response to the question of availability, making it a verified finding."
+    },
+    {
+      "finding_id": "finding_9",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise the variety of Palestinian and Levantine cooking options available.",
+      "evidence_ids": [
+        "evidence_17"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Downgraded: the statement does not share enough wording with the evidence it cites."
+    },
+    {
+      "finding_id": "finding_10",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose Cafe 1947 over other restaurants in Manali due to its high rating on Tripadvisor and Restaurant Guru.",
+      "evidence_ids": [
+        "evidence_12",
+        "evidence_19"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is supported by evidence_12 and evidence_19, which mention Cafe 1947's high rating on Tripadvisor and Restaurant Guru, making it a popular choice among customers."
+    },
+    {
+      "finding_id": "finding_11",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Cafe 1947 uses loyalty programs and offers to retain customers.",
+      "evidence_ids": [
+        "evidence_11",
+        "evidence_17"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. While evidence_11 mentions the use of loyalty programs and offers, it does not directly state that Cafe 1947 uses these methods to retain customers."
+    },
+    {
+      "finding_id": "finding_12",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking platform is user-friendly, with clear opening hours and menu options.",
+      "evidence_ids": [
+        "evidence_17"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_13",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Cafe 1947 is located at 11/163 Boronia Road, Boronia VIC 3155.",
+      "evidence_ids": [
+        "evidence_17"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_14",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "Guests have reported bad experiences, including bad food and bad service.",
+      "evidence_ids": [
+        "evidence_26",
+        "evidence_28"
+      ],
+      "confidence": 0.9,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Guests have reported bad experiences, including bad food and bad service, which is supported by evidence_26 and evidence_28."
+    },
+    {
+      "finding_id": "finding_15",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose Cafe 1947 over others due to its great music and ambiance.",
+      "evidence_ids": [
+        "evidence_24"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "While guests choose Cafe 1947 over others, the finding is not directly supported by evidence_17, which only mentions the cafe's location and contact information."
+    },
+    {
+      "finding_id": "finding_16",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "Guests praise Cafe 1947's ambiance and music.",
+      "evidence_ids": [
+        "evidence_24"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "Guests praise Cafe 1947's ambiance and music, which is supported by evidence_24."
+    },
+    {
+      "finding_id": "finding_17",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Cafe 1947 uses social media to attract customers and encourage repeat visits.",
+      "evidence_ids": [
+        "evidence_28"
+      ],
+      "confidence": 0.7,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding states that Cafe 1947 uses social media to attract customers, but evidence_17 only mentions the cafe's contact information and hours of operation."
+    },
+    {
+      "finding_id": "finding_18",
+      "type": "GAP",
+      "category": "GAP",
+      "statement": "Guests have mentioned that Cafe 1947 could improve its service.",
+      "evidence_ids": [
+        "evidence_26"
+      ],
+      "confidence": 0.6,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "Guests have mentioned that Cafe 1947 could improve its service, but evidence_26 and evidence_28 only report bad experiences, not a desire for improvement."
+    },
+    {
+      "finding_id": "finding_19",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Cafe 1947 is located in Manali, India.",
+      "evidence_ids": [
+        "evidence_25",
+        "evidence_30"
+      ],
+      "confidence": 1.0,
+      "verification_status": "IRRELEVANT",
+      "verification_reason": "The finding does not meaningfully answer the research question. It only provides general information about the cafe's location."
+    },
+    {
+      "finding_id": "finding_20",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "The seniors discount does not apply to catering orders.",
+      "evidence_ids": [
+        "evidence_38",
+        "evidence_39"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is relevant and the evidence directly supports it. The seniors discount does not apply to catering orders."
+    },
+    {
+      "finding_id": "finding_21",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "The food quality is varying bad.",
+      "evidence_ids": [
+        "evidence_32"
+      ],
+      "confidence": 1.0,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The food quality is varying bad, but the evidence only mentions a single post with a negative comment."
+    },
+    {
+      "finding_id": "finding_22",
+      "type": "CHOICE_DRIVER",
+      "category": "CHOICE_DRIVER",
+      "statement": "Guests choose Cafe 1947 because of its location and ambiance.",
+      "evidence_ids": [
+        "evidence_37"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is relevant and the evidence directly supports it. Guests choose Cafe 1947 because of its location and ambiance."
+    },
+    {
+      "finding_id": "finding_23",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Cafe 1947 offers catering services for events and parties.",
+      "evidence_ids": [
+        "evidence_36"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is relevant and the evidence directly supports it. Cafe 1947 offers catering services for events and parties."
+    },
+    {
+      "finding_id": "finding_24",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "Cafe 1947 has a loyalty program for repeat customers.",
+      "evidence_ids": [
+        "evidence_40"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is relevant and the evidence directly supports it. Cafe 1947 has a loyalty program for repeat customers."
+    },
+    {
+      "finding_id": "finding_25",
+      "type": "BOOKING_UX",
+      "category": "BOOKING_UX",
+      "statement": "The booking process is not explicitly stated on the website.",
+      "evidence_ids": [
+        "evidence_31"
+      ],
+      "confidence": 0.8,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The verifier did not return a valid verification result."
+    },
+    {
+      "finding_id": "finding_26",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "Cafe 1947 is located in Tibetan Colony, Manali.",
+      "evidence_ids": [
+        "evidence_34",
+        "evidence_35"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is supported by evidence_34 and evidence_35, which provide photos of Cafe 1947 in Tibetan Colony, Manali."
+    },
+    {
+      "finding_id": "finding_27",
+      "type": "COMPLAINT",
+      "category": "COMPLAINT",
+      "statement": "The booking process is confusing and requires multiple steps, including registering, managing bookings, and logging in.",
+      "evidence_ids": [
+        "evidence_42",
+        "evidence_48"
+      ],
+      "confidence": 0.9,
+      "verification_status": "UNSUPPORTED",
+      "verification_reason": "The finding is relevant, but the evidence does not sufficiently support it. The booking process is not explicitly stated on the website, but the evidence does not provide enough information to confirm the finding."
+    },
+    {
+      "finding_id": "finding_28",
+      "type": "RETENTION",
+      "category": "RETENTION",
+      "statement": "The cafe offers a loyalty program and special packages, such as honeymoon packages and domestic tour packages, to encourage repeat business.",
+      "evidence_ids": [
+        "evidence_43",
+        "evidence_48"
+      ],
+      "confidence": 0.8,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is supported by evidence_43, which mentions the cafe's special packages, and evidence_48, which lists the packages."
+    },
+    {
+      "finding_id": "finding_29",
+      "type": "PRAISE",
+      "category": "PRAISE",
+      "statement": "The cafe is popular and can be found in every Manali blog, suggesting a strong reputation and positive word-of-mouth.",
+      "evidence_ids": [
+        "evidence_41"
+      ],
+      "confidence": 0.7,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is supported by evidence_41, which mentions Cafe 1947's popularity and positive word-of-mouth."
+    },
+    {
+      "finding_id": "finding_30",
+      "type": "FACT",
+      "category": "FACT",
+      "statement": "The cafe is located in Old Manali and has a view of the Beas river.",
+      "evidence_ids": [
+        "evidence_41"
+      ],
+      "confidence": 1.0,
+      "verification_status": "VERIFIED",
+      "verification_reason": "The finding is supported by evidence_41, which mentions Cafe 1947's location in Old Manali."
+    }
+  ],
+  "insights": [
+    "Cafe 1947's high rating on Tripadvisor and Restaurant Guru is a significant choice driver, with guests choosing it over other restaurants in Manali due to its excellent reputation.",
+    "Guests praise Cafe 1947's ambiance, music, and location, but some experience issues with booking and poor food and service, highlighting the need for improvement in these areas.",
+    "The cafe's loyalty program and catering services are effective retention strategies, but the lack of a seniors discount for catering orders is a notable gap in their offerings."
+  ]
+}
